@@ -1,14 +1,9 @@
 from pathlib import Path
 from uuid import uuid4
+
 from fastapi import UploadFile
 
-
-# 프로젝트 루트 기준 data/input 경로
-BASE_DIR = Path(__file__).resolve().parents[3]
-INPUT_DIR = BASE_DIR / "data" / "input"
-
-# 허용할 영상 확장자
-ALLOWED_EXTENSIONS = {".mp4", ".mov", ".avi", ".mkv"}
+from backend.app.config import ALLOWED_EXTENSIONS, INPUT_DIR
 
 
 def ensure_directory(path: Path) -> None:
@@ -49,6 +44,6 @@ async def save_upload_file(upload_file: UploadFile) -> dict:
     return {
         "original_filename": original_filename,
         "saved_filename": saved_filename,
-        "saved_path": str(saved_path),
+        "saved_path": str(saved_path.resolve()),
         "size_bytes": len(content),
     }

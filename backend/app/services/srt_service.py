@@ -1,9 +1,7 @@
 from pathlib import Path
 from uuid import uuid4
 
-
-BASE_DIR = Path(__file__).resolve().parents[3]
-SUBTITLE_DIR = BASE_DIR / "data" / "subtitles"
+from backend.app.config import SRT_ENCODING, SUBTITLE_DIR
 
 
 def ensure_directory(path: Path) -> None:
@@ -58,11 +56,11 @@ def save_srt_file(segments: list[dict], base_name: str | None = None) -> dict:
     file_name = f"{base_name}.srt"
     file_path = SUBTITLE_DIR / file_name
 
-    file_path.write_text(srt_content, encoding="utf-8-sig")
+    file_path.write_text(srt_content, encoding=SRT_ENCODING)
 
     return {
         "subtitle_filename": file_name,
-        "subtitle_path": str(file_path),
+        "subtitle_path": str(file_path.resolve()),
         "content": srt_content,
         "segment_count": len(segments),
     }

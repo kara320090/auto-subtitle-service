@@ -1,10 +1,8 @@
 from pathlib import Path
 from uuid import uuid4
-import subprocess
 
-
-BASE_DIR = Path(__file__).resolve().parents[3]
-AUDIO_DIR = BASE_DIR / "data" / "audio"
+from backend.app.config import AUDIO_CHANNELS, AUDIO_DIR, AUDIO_FORMAT, AUDIO_SAMPLE_RATE
+from backend.app.utils.ffmpeg_utils import run_ffmpeg_command
 
 
 def ensure_directory(path: Path) -> None:
@@ -12,9 +10,6 @@ def ensure_directory(path: Path) -> None:
 
 
 def extract_audio_from_video(video_path: str) -> dict:
-    """
-    영상 파일에서 WAV 오디오를 추출한다.
-    """
     ensure_directory(AUDIO_DIR)
 
     input_path = Path(video_path)
@@ -22,7 +17,7 @@ def extract_audio_from_video(video_path: str) -> dict:
     if not input_path.exists():
         raise FileNotFoundError(f"입력 영상 파일이 존재하지 않습니다: {video_path}")
 
-    output_filename = f"{uuid4().hex}.wav"
+    output_filename = f"{uuid4().hex}.{AUDIO_FORMAT}"
     output_path = AUDIO_DIR / output_filename
 
     command = [
@@ -31,31 +26,21 @@ def extract_audio_from_video(video_path: str) -> dict:
         "-i", str(input_path),
         "-vn",
         "-acodec", "pcm_s16le",
-        "-ar", "16000",
-        "-ac", "1",
+        "-ar", str(AUDIO_SAMPLE_RATE),
+        "-ac", str(AUDIO_CHANNELS),
         str(output_path),
     ]
 
     try:
-        result = subprocess.run(
-            command,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-            text=True,
-            check=True,
-        )
-    except FileNotFoundError:
-        raise RuntimeError("FFmpeg가 설치되어 있지 않거나 PATH에 등록되지 않았습니다.")
-    except subprocess.CalledProcessError as e:
-        raise RuntimeError(
-            f"오디오 추출 실패: {e.stderr.strip() if e.stderr else '알 수 없는 오류'}"
-        )
+        run_ffmpeg_command(command)
+    except RuntimeError as e:
+        raise RuntimeError(f"오디오 추출 실패: {str(e)}")
 
     return {
-        "video_path": str(input_path),
+        "video_path": str(input_path.resolve()),
         "audio_filename": output_filename,
-        "audio_path": str(output_path),
-        "sample_rate": 16000,
-        "channels": 1,
-        "format": "wav",
+        "audio_path": str(output_path.resolve()),
+        "sample_rate": AUDIO_SAMPLE_RATE,
+        "channels": AUDIO_CHANNELS,
+        "format": AUDIO_FORMAT,
     }

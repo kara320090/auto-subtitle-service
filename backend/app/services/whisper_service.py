@@ -1,15 +1,17 @@
 from pathlib import Path
+
 import whisper
+
+from backend.app.config import WHISPER_LANGUAGE, WHISPER_MODEL_NAME
 
 
 _MODEL = None
-_MODEL_NAME = "base"
 
 
 def get_whisper_model():
     global _MODEL
     if _MODEL is None:
-        _MODEL = whisper.load_model(_MODEL_NAME)
+        _MODEL = whisper.load_model(WHISPER_MODEL_NAME)
     return _MODEL
 
 
@@ -23,7 +25,7 @@ def transcribe_audio(audio_path: str) -> dict:
 
     result = model.transcribe(
         str(input_path),
-        language="ko",
+        language=WHISPER_LANGUAGE,
         task="transcribe",
         verbose=False,
     )
@@ -44,10 +46,10 @@ def transcribe_audio(audio_path: str) -> dict:
         )
 
     return {
-        "audio_path": str(input_path),
-        "language": result.get("language", "ko"),
+        "audio_path": str(input_path.resolve()),
+        "language": result.get("language", WHISPER_LANGUAGE),
         "full_text": result.get("text", "").strip(),
         "segments": segments,
         "segment_count": len(segments),
-        "model_name": _MODEL_NAME,
+        "model_name": WHISPER_MODEL_NAME,
     }

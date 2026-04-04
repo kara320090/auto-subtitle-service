@@ -5,6 +5,9 @@ from backend.app.routes.download import router as download_router
 from backend.app.routes.health import router as health_router
 from backend.app.routes.upload import router as upload_router
 from backend.app.routes.subtitle import router as subtitle_router
+from backend.app.utils.logger import get_logger
+
+logger = get_logger("main")
 
 app = FastAPI(
     title="Auto Subtitle Service API",
@@ -24,6 +27,11 @@ app.include_router(health_router, prefix="/health", tags=["Health"])
 app.include_router(upload_router, prefix="/upload", tags=["Upload"])
 app.include_router(subtitle_router, prefix="/subtitle", tags=["Subtitle"])
 app.include_router(download_router, prefix="/download", tags=["Download"])
+
+
+@app.on_event("startup")
+def on_startup():
+    logger.info("Auto Subtitle Service API started")
 
 
 @app.get("/")
