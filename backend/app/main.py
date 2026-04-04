@@ -1,8 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from backend.app.routes.download import router as download_router
 from backend.app.routes.health import router as health_router
 from backend.app.routes.upload import router as upload_router
+from backend.app.routes.subtitle import router as subtitle_router
 
 app = FastAPI(
     title="Auto Subtitle Service API",
@@ -20,6 +22,8 @@ app.add_middleware(
 
 app.include_router(health_router, prefix="/health", tags=["Health"])
 app.include_router(upload_router, prefix="/upload", tags=["Upload"])
+app.include_router(subtitle_router, prefix="/subtitle", tags=["Subtitle"])
+app.include_router(download_router, prefix="/download", tags=["Download"])
 
 
 @app.get("/")
@@ -29,4 +33,8 @@ def read_root():
         "docs_url": "/docs",
         "health_check": "/health/",
         "upload_endpoint": "/upload/",
+        "upload_process_endpoint": "/upload/process",
+        "audio_extract_endpoint": "/subtitle/extract-audio",
+        "download_subtitle_example": "/download/subtitle/example.srt",
+        "download_video_example": "/download/video/example.mp4",
     }
