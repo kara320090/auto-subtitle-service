@@ -27,6 +27,6 @@ def read_root():
     return {
         "message": "Auto Subtitle Service API is running",
         "docs_url": "/docs",
-        "health_check": "/health",
-        "upload_endpoint": "/upload",
+        "health_check": "/health/",
+        "upload_endpoint": "/upload/",
     }
