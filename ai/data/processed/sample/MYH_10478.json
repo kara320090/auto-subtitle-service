@@ -1,0 +1,54 @@
+﻿{
+  "filename": "MYH_10478",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\MYH_10478.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\MYH_10478.json"
+  },
+  "metadata": {
+    "filename": "MYH_10478",
+    "category": "교육",
+    "sub_category": 1,
+    "sound": [
+      2,
+      3
+    ],
+    "quality": "HD",
+    "length": 22.384,
+    "format": "MP4",
+    "date": "2022-03-06",
+    "license": "개인 방송",
+    "agreement_score": 2
+  },
+  "summary": "구성비는 클레인 유형이 합계 중에서 몇 퍼센트를 차지하는지 데이터로 만들어야 하고 등호 표시를 하고 C4 셀을 지정 후 나누기 합계가 들어있는 C10 셀을 선택한다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "50대 이상",
+      "gender": "남성"
+    }
+  ],
+  "ground_truth_text": "누적 구성비를 추가하도록 하겠습니다. 구성비는 각각의 클레임 유형이 합계 중에서 몇 퍼센트를 차지하는지를 데이터로 만들면 되겠습니다. 등호 표시를 하고 C4 셀을 지정합니다. 나누기 합계가 들어있는 C10 셀을 선택하면 됩니다. 그런데 C10이라는 이 셀은",
+  "whisper_text": "누적 구성비를 추가하도록 하겠습니다 구성비는 각각의 클레임 유형이 합계 중에서 몇 퍼센트를 차지하는지를 데이터로 만들면 되겠습니다 등호 표시를 하고 C4셀을 지정합니다 나누기 합계가 들어있는 C10셀을 선택하면 됩니다 그런데 C10이라는 이 셀은",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        9.12
+      ],
+      "text": "누적 구성비를 추가하도록 하겠습니다 구성비는 각각의 클레임 유형이 합계 중에서 몇 퍼센트를 차지하는지를"
+    },
+    {
+      "timestamp": [
+        9.12,
+        22.36
+      ],
+      "text": "데이터로 만들면 되겠습니다 등호 표시를 하고 C4셀을 지정합니다 나누기 합계가 들어있는 C10셀을 선택하면 됩니다 그런데 C10이라는 이 셀은"
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}

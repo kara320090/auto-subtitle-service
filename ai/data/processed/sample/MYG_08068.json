@@ -1,0 +1,96 @@
+﻿{
+  "filename": "MYG_08068",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\MYG_08068.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\MYG_08068.json"
+  },
+  "metadata": {
+    "filename": "MYG_08068",
+    "category": "뷰티/패션",
+    "sub_category": 2,
+    "sound": [
+      2,
+      3
+    ],
+    "quality": "HD",
+    "length": 17.117,
+    "format": "MP4",
+    "date": "2022-04-06",
+    "license": "개인 방송",
+    "agreement_score": 3
+  },
+  "summary": "밝은 옷만 입다가 검은 원피스를 입어 느낌이 색다르다고 한다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "30대",
+      "gender": "여성"
+    }
+  ],
+  "ground_truth_text": "깔별로 쟁이는 거 국룰이죠 진짜 요즘 밝은색만 입다가 검은 원피스 오랜만에 입었는데 어우 느낌이 색다르더라고요. 소재가 가벼워서 색감이 어두워도 답답해 보이지 않아요. 그리고 이 체크 크롭은 여기에 원래 입을 생각은 없었는데 옷 갈아입다 보니까.",
+  "whisper_text": "깔별로 쟁이는 거 국룰이죠? 진짜 요즘 밝은 색만 입다가 검은 원피스 오랜만에 입었는데 느낌 색다르더라고요 소재가 가벼워서 색감이 어두워도 답답해 보이지 않아요 그리고 이 체크 크롭은 여기에 원래 입을 생각은 없었는데 옷 갈아입다 보니까",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        1.96
+      ],
+      "text": "깔별로 쟁이는 거 국룰이죠?"
+    },
+    {
+      "timestamp": [
+        1.96,
+        4.04
+      ],
+      "text": "진짜 요즘 밝은 색만 입다가"
+    },
+    {
+      "timestamp": [
+        4.04,
+        5.88
+      ],
+      "text": "검은 원피스 오랜만에 입었는데"
+    },
+    {
+      "timestamp": [
+        5.88,
+        7.46
+      ],
+      "text": "느낌 색다르더라고요"
+    },
+    {
+      "timestamp": [
+        7.46,
+        11.14
+      ],
+      "text": "소재가 가벼워서 색감이 어두워도 답답해 보이지 않아요"
+    },
+    {
+      "timestamp": [
+        11.14,
+        12.68
+      ],
+      "text": "그리고 이 체크 크롭은"
+    },
+    {
+      "timestamp": [
+        12.68,
+        15.3
+      ],
+      "text": "여기에 원래 입을 생각은 없었는데"
+    },
+    {
+      "timestamp": [
+        15.3,
+        17.1
+      ],
+      "text": "옷 갈아입다 보니까"
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}

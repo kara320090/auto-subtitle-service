@@ -1,0 +1,95 @@
+﻿{
+  "filename": "MYS_08967",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\MYS_08967.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\MYS_08967.json"
+  },
+  "metadata": {
+    "filename": "MYS_08967",
+    "category": "동기부여",
+    "sub_category": 4,
+    "sound": [
+      2
+    ],
+    "quality": "HD",
+    "length": 26.033,
+    "format": "MP4",
+    "date": "2023-02-05",
+    "license": "개인 방송",
+    "agreement_score": 3
+  },
+  "summary": "화자는 말을 하니까 더 친해진 기분이 들며 카메라를 통해 당신들과 이야기하는 것에도 어느 정도 익숙해 졌다고 생각하고 고쳐야 될 점을 발견했다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "20대",
+      "gender": "여성"
+    }
+  ],
+  "ground_truth_text": "말을 안 해서 그랬나 봐요.. 말을 하니까 좀 더 친해진 기분? 아무튼 그래서 이젠 좀 익숙해졌어요. 이 카메라와 얘기하는 것. 당신들과 이야기를 나누는 것. 그리고 저의 고쳐될 점을 발견했기 때문에.",
+  "whisper_text": "말을 안 해서 그랬나봐요 말을 하니까 좀 더 친해진 기분? 아무튼 그래서 이젠 좀 익숙해졌어요 이 카메라와 얘기하는 것 당신들과 이야기를 나누는 것 그리고 저의 고쳐야 될 점을 발견했기 때문에 진짜 어릴 때부터 남들 눈치 많이 보고",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        1.88
+      ],
+      "text": "말을 안 해서 그랬나봐요"
+    },
+    {
+      "timestamp": [
+        1.88,
+        5.26
+      ],
+      "text": "말을 하니까 좀 더 친해진 기분?"
+    },
+    {
+      "timestamp": [
+        7.58,
+        9.34
+      ],
+      "text": "아무튼 그래서"
+    },
+    {
+      "timestamp": [
+        9.34,
+        12.26
+      ],
+      "text": "이젠 좀 익숙해졌어요"
+    },
+    {
+      "timestamp": [
+        12.26,
+        14.44
+      ],
+      "text": "이 카메라와 얘기하는 것"
+    },
+    {
+      "timestamp": [
+        14.44,
+        17.36
+      ],
+      "text": "당신들과 이야기를 나누는 것"
+    },
+    {
+      "timestamp": [
+        17.36,
+        22.64
+      ],
+      "text": "그리고 저의 고쳐야 될 점을 발견했기 때문에"
+    },
+    {
+      "timestamp": [
+        22.64,
+        26.0
+      ],
+      "text": "진짜 어릴 때부터 남들 눈치 많이 보고"
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}

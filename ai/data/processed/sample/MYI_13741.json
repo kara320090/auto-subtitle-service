@@ -1,0 +1,77 @@
+﻿{
+  "filename": "MYI_13741",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\MYI_13741.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\MYI_13741.json"
+  },
+  "metadata": {
+    "filename": "MYI_13741",
+    "category": "과학기술",
+    "sub_category": 1,
+    "sound": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "quality": "HD",
+    "length": 24.366,
+    "format": "MP4",
+    "date": "2023-08-31",
+    "license": "개인 방송",
+    "agreement_score": 3
+  },
+  "summary": "미니 전기차는 전혀 기대하지 않았던 분들도 타 본다면 이런 즐거움에 대해서 공감할 것 같다고 이야기합니다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "40대",
+      "gender": "남성"
+    }
+  ],
+  "ground_truth_text": "지금 급격한 코너링인데요. 아 어떤 점에서는 내가 후륜차를 타고 있나 이런 느낌까지 자아낸 다는 점에서 전혀 기대하지 않았던 즐거움이라고 할까요? 아마 여러분들도 타 보신다면 이러한 즐거움에 대해서 공감하실 것 같아요. 그럼 이 차량은 어떤 분들이 구입하시면 좋을까요? 아무래도",
+  "whisper_text": "급격한 코너링 인데요 와 어떤 점에서는 내가 후륜차를 타고 인다 이런 느낌까지 잘 안한다는 점에서 전혀 기대하지 않았던 즐거움 이라고 할까요 아마 여러분들도 타보신다면 이러한 즐거움에 대해서 공감하실 것 같아요 그럼 이 차량은 어떤 분들이 구입하시면 좋을까요 아무래도",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        5.64
+      ],
+      "text": "급격한 코너링 인데요 와 어떤 점에서는 내가 후륜차를 타고"
+    },
+    {
+      "timestamp": [
+        5.64,
+        10.74
+      ],
+      "text": "인다 이런 느낌까지 잘 안한다는 점에서 전혀 기대하지 않았던"
+    },
+    {
+      "timestamp": [
+        10.74,
+        15.9
+      ],
+      "text": "즐거움 이라고 할까요 아마 여러분들도 타보신다면 이러한 즐거움에 대해서"
+    },
+    {
+      "timestamp": [
+        15.9,
+        19.5
+      ],
+      "text": "공감하실 것 같아요"
+    },
+    {
+      "timestamp": [
+        19.5,
+        24.32
+      ],
+      "text": "그럼 이 차량은 어떤 분들이 구입하시면 좋을까요 아무래도"
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}

@@ -1,0 +1,72 @@
+﻿{
+  "filename": "KNJ_03518",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\KNJ_03518.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\KNJ_03518.json"
+  },
+  "metadata": {
+    "filename": "KNJ_03518",
+    "category": "날씨기후관련뉴스",
+    "sub_category": 3,
+    "sound": [
+      2
+    ],
+    "quality": "HD",
+    "length": 26.126,
+    "format": "MP4",
+    "date": "2023-04-11",
+    "license": "KBS",
+    "agreement_score": 3
+  },
+  "summary": "오늘 오후 4시 기준 북강릉 지역 쪽에 비가 기록됐고 이 비는 비구름 따라 계속 남쪽으로 내려가면서 그칠 전망인데 산불 완진까지 비가 더 많이 내려서 이런 산불 위험이 없었으면 좋겠다고 한다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "30대",
+      "gender": "여성"
+    },
+    {
+      "speaker_id": "2",
+      "age": "50대 이상",
+      "gender": "남성"
+    }
+  ],
+  "ground_truth_text": "오늘 오후 4시 기준에 산불 인근 인근에 그 북강릉 지역 쪽에 4밀리미터 안팎의 비가 기록됐습니다. 이 비는 비구름 따라 계속해서 남쪽으로 내려가면서 점차 그칠 전망입니다. 네 지금 이제 이 이후에 이제 산불 완진까지 좀 비가 더 많이 내려서 이제 이런 산불 위험이 없도록 했으면 하는 게 가장 뭐 큰 바람이겠죠. 이후에 기상 전망은 어떻게 예보가 되고 있습니까.",
+  "whisper_text": "오늘 오후 4시 기준에 산불 인근의 북강릉 지역 쪽에 4mm 안팎의 비가 기록됐습니다. 이 비는 비구름대가 계속해서 남쪽으로 내려가면서 점차 그칠 전망입니다. 지금 이후에 산불 완진까지 비가 더 많이 내려서 이런 산불 위험이 없도록 했으면 하는 게 가장 큰 바람이겠죠. 이후에 기상 전망은 어떻게 예보가 되고 있습니까?",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        6.26
+      ],
+      "text": "오늘 오후 4시 기준에 산불 인근의 북강릉 지역 쪽에 4mm 안팎의 비가 기록됐습니다."
+    },
+    {
+      "timestamp": [
+        6.82,
+        11.02
+      ],
+      "text": "이 비는 비구름대가 계속해서 남쪽으로 내려가면서 점차 그칠 전망입니다."
+    },
+    {
+      "timestamp": [
+        13.22,
+        22.46
+      ],
+      "text": "지금 이후에 산불 완진까지 비가 더 많이 내려서 이런 산불 위험이 없도록 했으면 하는 게 가장 큰 바람이겠죠."
+    },
+    {
+      "timestamp": [
+        22.46,
+        25.6
+      ],
+      "text": "이후에 기상 전망은 어떻게 예보가 되고 있습니까?"
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}
