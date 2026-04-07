@@ -3,14 +3,14 @@ from pathlib import Path
 import shutil
 import sys
 
-input_dir = Path(r"C:\auto-subtitle-service\ai\data\raw\Sample\mp4")
-output_dir = input_dir / "sample"
-output_dir.mkdir(exist_ok=True)
+input_dir = Path("/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/test")
+output_dir = input_dir
+output_dir.mkdir(parents=True, exist_ok=True)
 
 ffmpeg_path = shutil.which("ffmpeg")
 if ffmpeg_path is None:
     print("ffmpeg를 찾을 수 없습니다.")
-    print("ffmpeg 설치 후 PATH 등록을 하거나, ffmpeg.exe 절대경로를 직접 넣으세요.")
+    print("ffmpeg 설치 후 PATH 등록을 하거나, ffmpeg 절대경로를 직접 넣으세요.")
     sys.exit(1)
 
 mp4_files = list(input_dir.glob("*.mp4"))
