@@ -1,0 +1,61 @@
+﻿{
+  "filename": "MYJ_02320",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\MYJ_02320.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\MYJ_02320.json"
+  },
+  "metadata": {
+    "filename": "MYJ_02320",
+    "category": "여행",
+    "sub_category": 1,
+    "sound": [
+      1,
+      2
+    ],
+    "quality": "HD",
+    "length": 24.706,
+    "format": "MP4",
+    "date": "2022-07-26",
+    "license": "개인 방송",
+    "agreement_score": 3
+  },
+  "summary": "발화자는 거치식 샤워기를 사용하는 방법과 실생활에서 활용할 수 있는 예를 이야기하고 있습니다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "40대",
+      "gender": "남성"
+    }
+  ],
+  "ground_truth_text": "대개 이 샤워기가 아까 얘기했던 반대로 수그리야지 그 샤워가 됩니다. 물이 나옵니다. 물 세기는 굉장히 좋죠. 이러면 어 뭐든지 편리하게 씻을 수가 있어요. 야채부터 시작해서 어 모든 게 편리하게 쓸 수 있으니까 이렇게 이제 요거를 이렇게 닫으시면 물이 안 나옵니다. 이렇게 항상 열어 주셔야 돼요 샤워를 할 때는",
+  "whisper_text": "샤워기가 아까 얘기했던 반대로 수그리 해야지 샤워가 됩니다. 물이 나옵니다. 물세기는 굉장히 좋죠. 이러면 뭐든지 편리하게 씻을 수가 있어요. 야채부터 시작해서 모든게 편리하게 쓸 수 있으니까 이렇게 이제 요거를 이렇게 닫으시면 물이 안 나옵니다. 이렇게 항상 열어주셔야 되요. 샤워를 할때는",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        6.48
+      ],
+      "text": "샤워기가 아까 얘기했던 반대로 수그리 해야지 샤워가 됩니다. 물이 나옵니다."
+    },
+    {
+      "timestamp": [
+        6.48,
+        13.72
+      ],
+      "text": "물세기는 굉장히 좋죠. 이러면 뭐든지 편리하게 씻을 수가 있어요. 야채부터 시작해서"
+    },
+    {
+      "timestamp": [
+        13.72,
+        24.68
+      ],
+      "text": "모든게 편리하게 쓸 수 있으니까 이렇게 이제 요거를 이렇게 닫으시면 물이 안 나옵니다. 이렇게 항상 열어주셔야 되요. 샤워를 할때는"
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}

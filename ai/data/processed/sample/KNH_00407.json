@@ -1,0 +1,70 @@
+﻿{
+  "filename": "KNH_00407",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\KNH_00407.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\KNH_00407.json"
+  },
+  "metadata": {
+    "filename": "KNH_00407",
+    "category": "과학기술뉴스",
+    "sub_category": 35,
+    "sound": [
+      2
+    ],
+    "quality": "HD",
+    "length": 18.151,
+    "format": "MP4",
+    "date": "2022-02-24",
+    "license": "KBS",
+    "agreement_score": 3
+  },
+  "summary": "방역 당국은 오미크론 변이의 확산세를 볼 때 백신 접종 여부를 확인하는 방역 패스가 필요한 상황이라며 난색을 표했고 이에 따라 대구시는 즉시 항고를 검토 중이라고 밝혔습니다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "50대 이상",
+      "gender": "남성"
+    },
+    {
+      "speaker_id": "2",
+      "age": "30대",
+      "gender": "남성"
+    },
+    {
+      "speaker_id": "3",
+      "age": "50대 이상",
+      "gender": "남성"
+    }
+  ],
+  "ground_truth_text": "이걸 빨리 해소를 시키는. 하지만 방역 당국은 오미크론 변이의 확산세를 볼 때 백신 접종 여부를 확인하는 방역 패스가 필요한 상황이라며 법원 결정에 난색을 표했습니다. 이에 따라 대구시는 즉시 항고를 검토 중이라고 밝혔습니다. 현 방역 상황과",
+  "whisper_text": "하지만 방역 당국은 오미크론 변이의 확산세를 볼 때 백신 접종 여부를 확인하는 방역 패스가 필요한 상황이라며 법원 결정에 난색을 표했습니다. 이에 따라 대구시는 즉시 항고를 검토 중이라고 밝혔습니다.",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        7.22
+      ],
+      "text": "하지만 방역 당국은 오미크론 변이의 확산세를 볼 때 백신 접종 여부를"
+    },
+    {
+      "timestamp": [
+        7.22,
+        11.7
+      ],
+      "text": "확인하는 방역 패스가 필요한 상황이라며 법원 결정에 난색을 표했습니다."
+    },
+    {
+      "timestamp": [
+        12.78,
+        15.88
+      ],
+      "text": "이에 따라 대구시는 즉시 항고를 검토 중이라고 밝혔습니다."
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}

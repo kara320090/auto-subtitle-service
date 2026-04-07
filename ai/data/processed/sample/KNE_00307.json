@@ -1,0 +1,94 @@
+﻿{
+  "filename": "KNE_00307",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\KNE_00307.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\KNE_00307.json"
+  },
+  "metadata": {
+    "filename": "KNE_00307",
+    "category": "문화뉴스",
+    "sub_category": 32,
+    "sound": [
+      2,
+      3
+    ],
+    "quality": "HD",
+    "length": 17.017,
+    "format": "MP4",
+    "date": "2022-06-17",
+    "license": "KBS",
+    "agreement_score": 3
+  },
+  "summary": "전북 전주에 자연과 어우러진 시집으로 채워진 도서관이 있다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "20대",
+      "gender": "여성"
+    },
+    {
+      "speaker_id": "2",
+      "age": "20대",
+      "gender": "남성"
+    }
+  ],
+  "ground_truth_text": "전북 전주에서 운영되고 있습니다. 진유민 기자가 소개합니다. 호수 옆 숲 속의 아담한 건물 자연과 어우러진 이곳은 시집으로 채워진 도서관입니다. 주제에 따라 나뉜 책장에서 자유롭게 시집을 꺼내 읽고",
+  "whisper_text": "전북 전주에서 운영되고 있습니다. 진유민 기자가 소개합니다. 호수 옆 숲 속의 아담한 건물. 자연과 어우러진 이곳은 시집으로 채워진 도서관입니다. 주제에 따라 나눈 책장에서 자유롭게 시집을 꺼내 읽고,",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        2.44
+      ],
+      "text": "전북 전주에서 운영되고 있습니다."
+    },
+    {
+      "timestamp": [
+        2.44,
+        6.32
+      ],
+      "text": "진유민 기자가 소개합니다."
+    },
+    {
+      "timestamp": [
+        6.32,
+        9.18
+      ],
+      "text": "호수 옆 숲 속의 아담한 건물."
+    },
+    {
+      "timestamp": [
+        9.18,
+        11.92
+      ],
+      "text": "자연과 어우러진 이곳은 시집으로 채워진"
+    },
+    {
+      "timestamp": [
+        11.92,
+        13.64
+      ],
+      "text": "도서관입니다."
+    },
+    {
+      "timestamp": [
+        13.64,
+        16.56
+      ],
+      "text": "주제에 따라 나눈 책장에서 자유롭게 시집을 꺼내"
+    },
+    {
+      "timestamp": [
+        16.56,
+        17.0
+      ],
+      "text": "읽고,"
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}

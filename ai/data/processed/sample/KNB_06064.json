@@ -1,0 +1,95 @@
+﻿{
+  "filename": "KNB_06064",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\KNB_06064.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\KNB_06064.json"
+  },
+  "metadata": {
+    "filename": "KNB_06064",
+    "category": "기업/금융뉴스",
+    "sub_category": 15,
+    "sound": [
+      2
+    ],
+    "quality": "HD",
+    "length": 21.824,
+    "format": "MP4",
+    "date": "2023-05-31",
+    "license": "KBS",
+    "agreement_score": 3
+  },
+  "summary": "외국인 투자자의 코스피 순매수 규모는 13조 원이 넘으며 최대 매수 종목이 삼성전자인데 10조 원 이상 사들이며 외국인 매수에 78퍼센트를 차지했습니다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "30대",
+      "gender": "여성"
+    }
+  ],
+  "ground_truth_text": "반도체주 강세에 코스피도 2590선에 바짝 다가섰습니다. 주가를 끌어올린 건 외국인 올해 들어 외국인 투자자의 코스피 순매수 규모는 13조 원이 넘습니다. 최대 매수 종목이 삼성전자인데 10조 원 이상 사들이며 외국인 매수에 78퍼센트를 차지했습니다. 두 번째는 하이닉스였습니다.",
+  "whisper_text": "반도체 주강세에 코스피도 2,590선에 바짝 다가섰습니다. 주가를 끌어올린 건 외국인. 올해 들어 외국인 투자자의 코스피 순매수 규모는 13조 원이 넘습니다. 최대 매수 종목이 삼성전자인데, 10조 원 이상 사들이며 외국인 매수의 78%를 차지했습니다. 두 번째는 하이닉스였습니다.",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        3.52
+      ],
+      "text": "반도체 주강세에 코스피도 2,590선에 바짝"
+    },
+    {
+      "timestamp": [
+        3.52,
+        5.24
+      ],
+      "text": "다가섰습니다."
+    },
+    {
+      "timestamp": [
+        5.24,
+        7.62
+      ],
+      "text": "주가를 끌어올린 건 외국인."
+    },
+    {
+      "timestamp": [
+        7.62,
+        10.6
+      ],
+      "text": "올해 들어 외국인 투자자의 코스피 순매수 규모는"
+    },
+    {
+      "timestamp": [
+        10.6,
+        12.68
+      ],
+      "text": "13조 원이 넘습니다."
+    },
+    {
+      "timestamp": [
+        12.68,
+        15.74
+      ],
+      "text": "최대 매수 종목이 삼성전자인데, 10조 원 이상"
+    },
+    {
+      "timestamp": [
+        15.74,
+        20.14
+      ],
+      "text": "사들이며 외국인 매수의 78%를 차지했습니다."
+    },
+    {
+      "timestamp": [
+        20.14,
+        21.82
+      ],
+      "text": "두 번째는 하이닉스였습니다."
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}

@@ -1,0 +1,29 @@
+# Hugging Face / Whisper
+transformers
+datasets
+accelerate
+huggingface_hub
+peft
+sentencepiece
+safetensors
+
+# Audio processing
+librosa
+soundfile
+
+# Utilities
+tqdm
+numpy
+
+# 활성화
+#cd C:\auto-subtitle-service\ai
+#.\.venv\Scripts\Activate
+
+# pip 업데이트
+#python -m pip install --upgrade pip
+
+#pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+#pip install -r requirements.txt
+
+#확인
+#python -c "import sys; print(sys.executable)"
