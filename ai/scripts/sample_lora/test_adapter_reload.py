@@ -1,3 +1,29 @@
+# ============================================
+# 파일명: test_adapter_reload_with_timestamps.py
+#
+# 역할:
+# - 저장된 LoRA adapter를 다시 불러온다.
+# - whisper-large-v3 base 모델에 adapter를 붙인다.
+# - test.jsonl 안의 샘플 1개를 읽어 실제로 추론을 수행한다.
+# - 전사 결과(text)와 함께 segment 단위 타임스탬프(start, end, text)를 저장한다.
+#
+# 입력:
+# - C:\auto-subtitle-service\ai\data\processed\sample_lora\test.jsonl
+# - C:\auto-subtitle-service\ai\data\results\sample_lora_test\adapter
+#
+# 출력:
+# - C:\auto-subtitle-service\ai\data\results\sample_lora_test\predictions\sample_prediction_with_timestamps.json
+#
+# 목적:
+# - 방금 만든 adapter가 실제로 다시 로드되는지 확인
+# - base 모델 + adapter 조합으로 추론이 가능한지 확인
+# - 타임스탬프 포함 결과 구조를 확인
+#
+# 참고:
+# - 이 단계가 성공하면
+#   "adapter 생성 → 저장 → 재로딩 → 추론" 전체 흐름이 정상이라는 뜻
+# ============================================
+
 import json
 from pathlib import Path
 

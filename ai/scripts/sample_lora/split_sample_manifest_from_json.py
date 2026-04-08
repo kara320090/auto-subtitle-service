@@ -1,3 +1,27 @@
+# ============================================
+# 파일명: split_sample_manifest_from_json.py
+#
+# 역할:
+# - Sample wav 파일과 같은 이름의 json 라벨 파일을 매칭한다.
+# - json 안의 video.term[].transcription을 순서대로 이어 붙여
+#   Whisper 학습용 정답 문장(text)을 만든다.
+# - 전체 데이터를 train / val / test 로 나눈다.
+# - 최종적으로 train.jsonl, val.jsonl, test.jsonl 파일을 생성한다.
+#
+# 입력:
+# - C:\auto-subtitle-service\ai\data\raw\Sample\wav
+# - C:\auto-subtitle-service\ai\data\raw\Sample\json
+#
+# 출력:
+# - C:\auto-subtitle-service\ai\data\processed\sample_lora\train.jsonl
+# - C:\auto-subtitle-service\ai\data\processed\sample_lora\val.jsonl
+# - C:\auto-subtitle-service\ai\data\processed\sample_lora\test.jsonl
+#
+# 목적:
+# - LoRA 학습 전에 Whisper가 읽을 수 있는 jsonl 형식의
+#   학습/검증/테스트 데이터셋을 만드는 전처리 단계
+# ============================================
+
 import json
 import random
 from pathlib import Path

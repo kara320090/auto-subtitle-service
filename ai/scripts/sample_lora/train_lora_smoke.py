@@ -1,3 +1,30 @@
+# ============================================
+# 파일명: train_lora_smoke.py
+#
+# 역할:
+# - Hugging Face에서 whisper-large-v3 base 모델을 불러온다.
+# - LoRA adapter를 모델에 붙인다.
+# - train.jsonl / val.jsonl 데이터를 읽어
+#   sample 데이터 기준으로 아주 짧게 smoke test 학습을 수행한다.
+# - 학습이 끝나면 adapter 파일을 저장한다.
+#
+# 입력:
+# - C:\auto-subtitle-service\ai\data\processed\sample_lora\train.jsonl
+# - C:\auto-subtitle-service\ai\data\processed\sample_lora\val.jsonl
+#
+# 출력:
+# - C:\auto-subtitle-service\ai\data\results\sample_lora_test\adapter\adapter_config.json
+# - C:\auto-subtitle-service\ai\data\results\sample_lora_test\adapter\adapter_model.safetensors
+#
+# 목적:
+# - 성능 검증이 아니라
+#   "LoRA adapter가 정상적으로 생성되는지" 확인하는 테스트용 학습 코드
+#
+# 참고:
+# - sample 데이터로 1 step 정도만 학습해서
+#   전체 파이프라인이 도는지 확인하는 용도
+# ============================================
+
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List
