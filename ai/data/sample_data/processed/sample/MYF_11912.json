@@ -1,0 +1,60 @@
+﻿{
+  "filename": "MYF_11912",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\MYF_11912.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\MYF_11912.json"
+  },
+  "metadata": {
+    "filename": "MYF_11912",
+    "category": "엔터테인먼트",
+    "sub_category": 4,
+    "sound": [
+      2
+    ],
+    "quality": "HD",
+    "length": 22.4,
+    "format": "MP4",
+    "date": "2022-04-11",
+    "license": "개인 방송",
+    "agreement_score": 3
+  },
+  "summary": "40대 여성이 의뢰자가 좋아하는 향수와 싫어하는 향수에 대해서 분석해 주고 있다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "40대",
+      "gender": "여성"
+    }
+  ],
+  "ground_truth_text": "불가리 옵니야 아메시스트 버버리 브리포홀 산타마리아 노벨라에 어 이런 그 프리지아 요런 것도 또 입으셨고 조말론의 블랙 베리 엔 베이 어 이런 상큼 상큼한 과일 요런 거 네. 싫어하는 향수가 딥디크 도손입니다.",
+  "whisper_text": "불가리 옴니아 아메시스트, 버버리 브리 포 헐, 산타 마리아 노벨라의 프리지아 이런 것도 입으셨고 조말론의 블랙베리 앤 베이 이런 상큼한 과일 이런거 싫어하는 향수가 딥티크 도손입니다",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        10.92
+      ],
+      "text": "불가리 옴니아 아메시스트, 버버리 브리 포 헐, 산타 마리아 노벨라의 프리지아 이런 것도 입으셨고"
+    },
+    {
+      "timestamp": [
+        10.92,
+        18.96
+      ],
+      "text": "조말론의 블랙베리 앤 베이 이런 상큼한 과일 이런거"
+    },
+    {
+      "timestamp": [
+        18.96,
+        22.36
+      ],
+      "text": "싫어하는 향수가 딥티크 도손입니다"
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}

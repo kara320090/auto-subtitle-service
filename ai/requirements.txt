@@ -6,6 +6,7 @@ huggingface_hub
 peft
 sentencepiece
 safetensors
+torchcodec
 
 # Audio processing
 librosa
@@ -16,8 +17,9 @@ tqdm
 numpy
 
 # 활성화
-#cd C:\auto-subtitle-service\ai
+#cd /home/user/SWPJ3/auto-subtitle-service/ai
 #.\.venv\Scripts\Activate
+# source .venv/bin/activate (ubuntu)
 
 # pip 업데이트
 #python -m pip install --upgrade pip
