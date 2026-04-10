@@ -1,0 +1,61 @@
+﻿{
+  "filename": "MYB_01567",
+  "paths": {
+    "wav": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\wav\\MYB_01567.wav",
+    "reference_json": "C:\\auto-subtitle-service\\ai\\data\\raw\\Sample\\json\\MYB_01567.json"
+  },
+  "metadata": {
+    "filename": "MYB_01567",
+    "category": "게임",
+    "sub_category": 3,
+    "sound": [
+      2,
+      3
+    ],
+    "quality": "HD",
+    "length": 25.1,
+    "format": "MP4",
+    "date": "2023-06-29",
+    "license": "개인 방송",
+    "agreement_score": 3
+  },
+  "summary": "남성이 이길 수 있는 방법을 설명하고 있다.",
+  "speakers_info": [
+    {
+      "speaker_id": "1",
+      "age": "30대",
+      "gender": "남성"
+    }
+  ],
+  "ground_truth_text": "자 일단 이렇게 들어가서 보면은 어 소르베가 올 풀이라고 하더라도 호루라기가 있기 때문에 피해 감소 20퍼센트가 더 붙거든요. 그래서 기본적으로 어 예 죽고 나서 부활까지 이렇게 해서 이길 수가 있다.",
+  "whisper_text": "자 일단 이렇게 들어가서 보면은 소르베가 올콜이라고 하더라도 호루라기가 있기 때문에 피해 감소 20%가 더 붙거든요 그래서 기본적으로 죽고 나서 부활까지 이렇게 해서 이길 수가 있다",
+  "whisper_chunks": [
+    {
+      "timestamp": [
+        0.0,
+        5.78
+      ],
+      "text": "자 일단 이렇게 들어가서 보면은"
+    },
+    {
+      "timestamp": [
+        5.78,
+        13.56
+      ],
+      "text": "소르베가 올콜이라고 하더라도 호루라기가 있기 때문에 피해 감소 20%가 더 붙거든요"
+    },
+    {
+      "timestamp": [
+        13.56,
+        23.2
+      ],
+      "text": "그래서 기본적으로 죽고 나서 부활까지 이렇게 해서 이길 수가 있다"
+    }
+  ],
+  "model_info": {
+    "model_name": "openai/whisper-large-v3",
+    "language": "ko",
+    "task": "transcribe",
+    "sampling_rate": 16000
+  }
+}
