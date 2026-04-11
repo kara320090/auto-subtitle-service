@@ -1,0 +1,39 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_02079.wav",
+  "prediction": "전을 부쳐서 한번 해 먹어보도록 하겠습니다. 이 살 봐요. 통통한 게 그냥 와 해감이 해감이 된 건데 해감이 약간 덜 됐나 보네 이거는 먹어보도록 하겠습니다. 와우",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.72,
+      "text": "전을 부쳐서 한번 해 먹어보도록 하겠습니다."
+    },
+    {
+      "start": 6.72,
+      "end": 9.72,
+      "text": "이 살 봐요."
+    },
+    {
+      "start": 9.72,
+      "end": 17.66,
+      "text": "통통한 게 그냥 와"
+    },
+    {
+      "start": 17.66,
+      "end": 23.32,
+      "text": "해감이 해감이 된 건데 해감이 약간 덜 됐나 보네 이거는"
+    },
+    {
+      "start": 23.32,
+      "end": 29.64,
+      "text": "먹어보도록 하겠습니다."
+    },
+    {
+      "start": 29.64,
+      "end": 30.0,
+      "text": "와우"
+    }
+  ]
+}

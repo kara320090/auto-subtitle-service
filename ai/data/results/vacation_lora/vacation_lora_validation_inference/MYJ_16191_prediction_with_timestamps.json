@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_16191.wav",
+  "prediction": "오늘은 동쇼를 놓치지 않고 보러 왔습니다. LED 천정 동쇼를 하는데 오늘은 시티인스라는 제목인데 베니스가 나오네요. 아 감사합니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.96,
+      "text": "오늘은 동쇼를 놓치지 않고 보러 왔습니다."
+    },
+    {
+      "start": 9.96,
+      "end": 23.04,
+      "text": "LED 천정 동쇼를 하는데 오늘은 시티인스라는 제목인데 베니스가 나오네요."
+    },
+    {
+      "start": 23.04,
+      "end": 24.04,
+      "text": "아"
+    },
+    {
+      "start": 24.04,
+      "end": 29.98,
+      "text": "감사합니다."
+    }
+  ]
+}

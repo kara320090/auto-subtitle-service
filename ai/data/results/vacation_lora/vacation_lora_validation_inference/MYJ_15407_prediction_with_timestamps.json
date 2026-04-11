@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_15407.wav",
+  "prediction": "3교를 네 가교를 건너 왔습니다. 건너 왔죠. 이제 크루즈에서 내렸어요. 네 이제 또 언제 또 크루즈를 탈까요? 올해 11월 6개월 정도 기다리면은 또 크루즈를 타게 될 거니까 네 6개월만 꾹 참고 기다리겠습니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.44,
+      "text": "3교를 네 가교를 건너 왔습니다. 건너 왔죠. 이제 크루즈에서 내렸어요."
+    },
+    {
+      "start": 8.44,
+      "end": 17.46,
+      "text": "네 이제 또 언제 또 크루즈를 탈까요? 올해 11월 6개월 정도 기다리면은"
+    },
+    {
+      "start": 17.46,
+      "end": 25.54,
+      "text": "또 크루즈를 타게 될 거니까 네 6개월만 꾹 참고 기다리겠습니다."
+    }
+  ]
+}

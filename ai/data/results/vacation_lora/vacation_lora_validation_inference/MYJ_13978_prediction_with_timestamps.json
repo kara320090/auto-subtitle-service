@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_13978.wav",
+  "prediction": "멀리 네 길어 이곳가 보입니다. 오늘 여행은 1시 반까지 끝냅니다. 그래서",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.76,
+      "text": "멀리 네 길어 이곳가 보입니다."
+    },
+    {
+      "start": 16.76,
+      "end": 26.56,
+      "text": "오늘 여행은 1시 반까지 끝냅니다."
+    },
+    {
+      "start": 26.56,
+      "end": 30.0,
+      "text": "그래서"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_13891.wav",
+  "prediction": "여기 좀 더 걷고 메트로폴리탄 근처에서 커피도 한잔하고 예 여유 있게 할 겁니다. 오늘 뭐 비 예보가 있었는데 하늘 보니까 구름 한 점 없어요. 그래서 비는 없을 것 같아요. 그리고 어제 살짝 날씨가 추워서",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.96,
+      "text": "여기 좀 더 걷고 메트로폴리탄 근처에서 커피도 한잔하고 예 여유 있게 할 겁니다."
+    },
+    {
+      "start": 16.96,
+      "end": 24.44,
+      "text": "오늘 뭐 비 예보가 있었는데 하늘 보니까 구름 한 점 없어요. 그래서 비는 없을 것 같아요."
+    },
+    {
+      "start": 24.44,
+      "end": 30.0,
+      "text": "그리고 어제 살짝 날씨가 추워서"
+    }
+  ]
+}

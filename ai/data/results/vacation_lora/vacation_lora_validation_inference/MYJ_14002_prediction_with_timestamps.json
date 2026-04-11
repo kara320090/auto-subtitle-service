@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_14002.wav",
+  "prediction": "들어가도록 하겠습니다. 네 힘들게 짐을 줄이고 짐을 붙였습니다. 핸들 어기지가 2개입니다. 자 여기도 올랜도 공항도 메리 크리스마스죠. 네 이제 게이트로 갑니다. 아직 시간은 많은데 미리카 2점",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "들어가도록 하겠습니다."
+    },
+    {
+      "start": 3.0,
+      "end": 10.18,
+      "text": "네 힘들게 짐을 줄이고 짐을 붙였습니다. 핸들 어기지가 2개입니다."
+    },
+    {
+      "start": 10.18,
+      "end": 14.44,
+      "text": "자 여기도 올랜도 공항도 메리 크리스마스죠."
+    },
+    {
+      "start": 14.44,
+      "end": 21.86,
+      "text": "네 이제 게이트로 갑니다. 아직 시간은 많은데 미리카 2점"
+    }
+  ]
+}

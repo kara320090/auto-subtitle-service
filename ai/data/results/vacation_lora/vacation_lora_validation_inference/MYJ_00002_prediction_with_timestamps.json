@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_00002.wav",
+  "prediction": "오늘은 저와 함께 아홉산 숲 같이 둘러보시죠. 어 입구에 이렇게 대나무 화분도 파네요. 아홉산 숲은 사유지라서 입장료가 1인 5천원입니다. 입장을 하면 화장실을 꼭 갔다가 트레킹을 시작하시길 추천합니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.42,
+      "text": "오늘은 저와 함께 아홉산 숲 같이 둘러보시죠."
+    },
+    {
+      "start": 7.16,
+      "end": 9.86,
+      "text": "어 입구에 이렇게 대나무 화분도 파네요."
+    },
+    {
+      "start": 12.56,
+      "end": 17.26,
+      "text": "아홉산 숲은 사유지라서 입장료가 1인 5천원입니다."
+    },
+    {
+      "start": 17.26,
+      "end": 24.02,
+      "text": "입장을 하면 화장실을 꼭 갔다가 트레킹을 시작하시길 추천합니다."
+    }
+  ]
+}

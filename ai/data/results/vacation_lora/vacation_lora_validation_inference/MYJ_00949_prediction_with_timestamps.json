@@ -1,0 +1,34 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_00949.wav",
+  "prediction": "세마까지 추출되는 유브리카 모카푸드 아침을 먹고 바로 철수합니다. 점심으로 근처 맛집에서 청국장과 손두부를 먹고 청양 천장호 출렁다리로 향했습니다. 엄청 길죠? 길이는 200미터라고 합니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "세마까지 추출되는 유브리카 모카푸드"
+    },
+    {
+      "start": 4.9,
+      "end": 8.06,
+      "text": "아침을 먹고 바로 철수합니다."
+    },
+    {
+      "start": 8.06,
+      "end": 12.68,
+      "text": "점심으로 근처 맛집에서 청국장과 손두부를 먹고"
+    },
+    {
+      "start": 12.68,
+      "end": 15.98,
+      "text": "청양 천장호 출렁다리로 향했습니다."
+    },
+    {
+      "start": 15.98,
+      "end": 20.18,
+      "text": "엄청 길죠? 길이는 200미터라고 합니다."
+    }
+  ]
+}

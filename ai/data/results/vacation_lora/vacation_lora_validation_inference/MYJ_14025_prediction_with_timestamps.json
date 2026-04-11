@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_14025.wav",
+  "prediction": "또 바다를 이렇게 어찌게 조망할 수가 있습니다. 이 매연만 아니면 딱 좋은데 말이죠. 자 저는 다시 내려갑니다. 자 아까 여기 달이 있었는데 달이 안 보여요. 네 지금 보시는 것은 카리브해입니다. 네",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.36,
+      "text": "또 바다를 이렇게 어찌게 조망할 수가 있습니다. 이 매연만 아니면 딱 좋은데 말이죠."
+    },
+    {
+      "start": 7.36,
+      "end": 10.72,
+      "text": "자 저는 다시 내려갑니다."
+    },
+    {
+      "start": 12.0,
+      "end": 16.16,
+      "text": "자 아까 여기 달이 있었는데 달이 안 보여요."
+    },
+    {
+      "start": 16.16,
+      "end": 22.08,
+      "text": "네 지금 보시는 것은 카리브해입니다. 네"
+    }
+  ]
+}

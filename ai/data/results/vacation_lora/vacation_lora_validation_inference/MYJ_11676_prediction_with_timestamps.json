@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_11676.wav",
+  "prediction": "5배로 확대했기 때문에 카메라가 흔들리는 거는 이해해 주시기 바랍니다. 10배로 한번 볼까요? 10배? 10배로 한번 보겠습니다. 태꽁 굿모닝 선 카메라가 약간 비치는 게 있어서",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "5배로 확대했기 때문에 카메라가 흔들리는 거는 이해해 주시기 바랍니다."
+    },
+    {
+      "start": 5.2,
+      "end": 10.0,
+      "text": "10배로 한번 볼까요? 10배? 10배로 한번 보겠습니다."
+    },
+    {
+      "start": 16.0,
+      "end": 21.0,
+      "text": "태꽁 굿모닝 선"
+    },
+    {
+      "start": 25.0,
+      "end": 29.0,
+      "text": "카메라가 약간 비치는 게 있어서"
+    }
+  ]
+}

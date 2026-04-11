@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_14036.wav",
+  "prediction": "그리고 다리를 건너갑니다. 어 프리 페리다. 프리 페리 나중에 올 때. 여기 써있어 프리. 여기 써있어 프리",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "그리고 다리를 건너갑니다."
+    },
+    {
+      "start": 7.0,
+      "end": 19.0,
+      "text": "어 프리 페리다. 프리 페리 나중에 올 때."
+    },
+    {
+      "start": 19.0,
+      "end": 26.0,
+      "text": "여기 써있어 프리."
+    },
+    {
+      "start": 26.0,
+      "end": 30.0,
+      "text": "여기 써있어 프리"
+    }
+  ]
+}

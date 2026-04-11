@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_13134.wav",
+  "prediction": "아이고 아진 지나부터 먹어야겠다. 칠레. 먼저 가신 거는 칠레. 말백은 제가 방에도 있죠 하나. 말 빼곤 제가 방에도 있죠 하나는.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.0,
+      "text": "아이고 아진 지나부터 먹어야겠다. 칠레."
+    },
+    {
+      "start": 15.0,
+      "end": 27.0,
+      "text": "먼저 가신 거는 칠레. 말백은 제가 방에도 있죠 하나."
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": "말 빼곤 제가 방에도 있죠 하나는."
+    }
+  ]
+}

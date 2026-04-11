@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_00806.wav",
+  "prediction": "들어오는 길에 있던 주차장과 화장실로도 가볼게요. 화장실이 꽤 멀어서 자주 가기는 힘들 것 같아요. 작은 볼일은 예전에 소개 드린 접이식 캠핑병기를 이용하고 큰 볼일만 화장실을 이용해도 좋을 것 같습니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "들어오는 길에 있던 주차장과 화장실로도 가볼게요."
+    },
+    {
+      "start": 3.84,
+      "end": 7.54,
+      "text": "화장실이 꽤 멀어서 자주 가기는 힘들 것 같아요."
+    },
+    {
+      "start": 7.54,
+      "end": 12.86,
+      "text": "작은 볼일은 예전에 소개 드린 접이식 캠핑병기를 이용하고"
+    },
+    {
+      "start": 12.86,
+      "end": 17.0,
+      "text": "큰 볼일만 화장실을 이용해도 좋을 것 같습니다."
+    }
+  ]
+}

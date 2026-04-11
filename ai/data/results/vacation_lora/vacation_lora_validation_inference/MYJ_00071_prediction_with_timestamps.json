@@ -1,0 +1,44 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_00071.wav",
+  "prediction": "네 여기 바닥에 노란산 따라서 나가주시면 되세요. 네 감사합니다. 빨라서 좋긴 한데 하 너무 빠르다. 아 이게 어떻게 3 40킬로지? 와 하 하 하 감사합니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "네 여기 바닥에 노란산 따라서 나가주시면 되세요."
+    },
+    {
+      "start": 3.76,
+      "end": 10.5,
+      "text": "네 감사합니다."
+    },
+    {
+      "start": 10.5,
+      "end": 14.9,
+      "text": "빨라서 좋긴 한데"
+    },
+    {
+      "start": 14.9,
+      "end": 18.68,
+      "text": "하 너무 빠르다."
+    },
+    {
+      "start": 18.68,
+      "end": 22.72,
+      "text": "아 이게 어떻게 3 40킬로지?"
+    },
+    {
+      "start": 22.72,
+      "end": 29.98,
+      "text": "와 하 하 하"
+    },
+    {
+      "start": 29.98,
+      "end": 31.98,
+      "text": "감사합니다."
+    }
+  ]
+}
