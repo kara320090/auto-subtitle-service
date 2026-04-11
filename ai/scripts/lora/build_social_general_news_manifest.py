@@ -1,7 +1,3 @@
-# ============================================
-# 파일명: build_social_general_news_manifest.py
-# ============================================
-
 import json
 from pathlib import Path
 from typing import Dict, List
@@ -9,7 +5,7 @@ from typing import Dict, List
 # =========================
 # 1. 경로 설정
 # =========================
-DATA_ROOT = Path(r"D:\data")
+DATA_ROOT = Path(r"D:\data\social_general_news_data")
 
 TRAIN_WAV_DIR = DATA_ROOT / "train" / "wav"
 TRAIN_JSON_DIR = DATA_ROOT / "train" / "json"
@@ -20,7 +16,7 @@ VAL_JSON_DIR = DATA_ROOT / "validation" / "json"
 TEST_WAV_DIR = DATA_ROOT / "test" / "wav"
 TEST_JSON_DIR = DATA_ROOT / "test" / "json"
 
-# 출력 경로
+# 프로젝트 폴더 안 jsonl 저장 위치
 MANIFEST_DIR = Path(r"C:\auto-subtitle-service\ai\data\social_general_news_data")
 
 DOMAIN_NAME = "사회일반뉴스"
@@ -52,7 +48,6 @@ def load_text_from_json(json_path: Path) -> Dict[str, str]:
 
 def write_jsonl(path: Path, rows: List[dict]):
     path.parent.mkdir(parents=True, exist_ok=True)
-
     with path.open("w", encoding="utf-8") as f:
         for row in rows:
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
