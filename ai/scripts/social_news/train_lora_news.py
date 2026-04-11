@@ -16,7 +16,7 @@
 # - C:\auto-subtitle-service\ai\data\results\social_news_lora\logs\*
 #
 # 목적:
-# -train 세트 학습
+# -train 세트로 학습
 # ============================================
 
 from dataclasses import dataclass
@@ -273,3 +273,7 @@ def main():
     print("[INFO] expected files:")
     print(ADAPTER_DIR / "adapter_config.json")
     print(ADAPTER_DIR / "adapter_model.safetensors")
+
+if __name__ == "__main__":
+    torch.multiprocessing.freeze_support()
+    main()
