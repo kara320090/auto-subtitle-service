@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_11665.wav",
+  "prediction": "300 300 300 300 하하하하 마이클 잭스 저는",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.68,
+      "text": "300 300 300 300"
+    },
+    {
+      "start": 9.68,
+      "end": 14.52,
+      "text": "하하하하"
+    },
+    {
+      "start": 14.52,
+      "end": 17.26,
+      "text": "마이클 잭스"
+    },
+    {
+      "start": 17.26,
+      "end": 23.14,
+      "text": "저는"
+    }
+  ]
+}

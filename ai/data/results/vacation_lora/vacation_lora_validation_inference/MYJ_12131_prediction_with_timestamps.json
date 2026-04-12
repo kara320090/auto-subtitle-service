@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_12131.wav",
+  "prediction": "예약을 했고요. 오늘 제가 가는 하는 어 익스커션은 르트럭 네. 세크릿 아일랜드 바이 르트럭이라는 곳입니다. 1711 네 먼저 따른 익스커션을 불렀고",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.6,
+      "text": "예약을 했고요. 오늘 제가 가는 하는 어 익스커션은 르트럭 네."
+    },
+    {
+      "start": 7.6,
+      "end": 15.44,
+      "text": "세크릿 아일랜드 바이 르트럭이라는 곳입니다."
+    },
+    {
+      "start": 15.44,
+      "end": 23.04,
+      "text": "1711"
+    },
+    {
+      "start": 23.04,
+      "end": 26.92,
+      "text": "네 먼저 따른 익스커션을 불렀고"
+    }
+  ]
+}

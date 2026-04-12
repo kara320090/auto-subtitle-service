@@ -1,16 +1,15 @@
 # ============================================
-# 파일명: train_lora_vacation.py
+# 파일명: train_lora_vacation_train_only.py
 #
 # 역할:
 # - Hugging Face에서 whisper-large-v3 base 모델을 불러온다.
 # - vacation 도메인용 LoRA adapter를 모델에 붙인다.
-# - train.jsonl / validation.jsonl 데이터를 읽어
+# - train.jsonl 데이터만 읽어
 #   여행 도메인 음성 데이터로 LoRA 학습을 수행한다.
 # - 학습이 끝나면 adapter 파일을 저장한다.
 #
 # 입력:
 # - /home/user/SWPJ3/auto-subtitle-service/ai/data/processed/vacation/train.jsonl
-# - /home/user/SWPJ3/auto-subtitle-service/ai/data/processed/vacation/validation.jsonl
 #
 # 출력:
 # - /home/user/SWPJ3/auto-subtitle-service/ai/data/results/vacation_lora/adapter/adapter_config.json
@@ -18,19 +17,8 @@
 # - /home/user/SWPJ3/auto-subtitle-service/ai/data/results/vacation_lora/logs/*
 #
 # 목적:
-# - 여행(vacation) 도메인에 맞는 Whisper LoRA adapter를 학습한다.
-# - 구어체, 자연스러운 화자 말투, 여행 브이로그/설명체 표현에 더 잘 맞도록
-#   도메인 적응(domain adaptation)을 수행한다.
-#
-# 참고:
-# - 이 코드는 "base 모델 전체 재학습"이 아니라
-#   "LoRA adapter만 학습"하는 코드다.
-# - 따라서 full fine-tuning보다 VRAM 사용량과 학습 비용이 낮다.
-# - text는 manifest 안에 있는 전사문을 그대로 사용하며,
-#   구어체/화자 말투를 유지하는 방향으로 학습한다.
-# - RTX 4090 24GB 기준의 1차 설정값으로 작성했다.
-# - Whisper는 label 최대 길이 제한이 있으므로,
-#   너무 긴 샘플은 학습 전에 필터링해서 제외한다.
+# - 여행(vacation) 도메인에 맞는 Whisper LoRA adapter를 train 데이터만으로 재학습한다.
+# - 학습 중 validation 평가 없이, train만 사용하여 adapter를 다시 생성한다.
 # ============================================
 
 from dataclasses import dataclass
@@ -57,7 +45,6 @@ MANIFEST_DIR = PROJECT_ROOT / "ai/data/processed/vacation"
 RESULT_DIR = PROJECT_ROOT / "ai/data/results/vacation_lora"
 
 TRAIN_JSONL = str(MANIFEST_DIR / "train.jsonl")
-VAL_JSONL = str(MANIFEST_DIR / "validation.jsonl")
 
 ADAPTER_DIR = RESULT_DIR / "adapter"
 LOG_DIR = RESULT_DIR / "logs"
@@ -74,7 +61,9 @@ device = "cuda:0" if torch.cuda.is_available() else "cpu"
 use_bf16 = torch.cuda.is_available() and torch.cuda.is_bf16_supported()
 
 # 4090에서는 bf16 우선, 안 되면 fp16, CPU면 fp32
-load_dtype = torch.bfloat16 if use_bf16 else (torch.float16 if torch.cuda.is_available() else torch.float32)
+load_dtype = torch.bfloat16 if use_bf16 else (
+    torch.float16 if torch.cuda.is_available() else torch.float32
+)
 
 print(f"[INFO] device = {device}")
 print(f"[INFO] use_bf16 = {use_bf16}")
@@ -109,7 +98,6 @@ print(f"[INFO] max_label_length = {max_label_length}")
 # =========================
 # LoRA 설정
 # =========================
-# 4090 24GB 기준 1차안
 lora_config = LoraConfig(
     task_type=TaskType.SEQ_2_SEQ_LM,
     inference_mode=False,
@@ -152,9 +140,10 @@ dataset = load_dataset(
     "json",
     data_files={
         "train": TRAIN_JSONL,
-        "validation": VAL_JSONL,
     },
 )
+
+print(f"[INFO] raw train rows = {len(dataset['train'])}")
 
 def get_label_length(batch: Dict[str, Any]) -> Dict[str, Any]:
     """
@@ -167,21 +156,23 @@ def get_label_length(batch: Dict[str, Any]) -> Dict[str, Any]:
     return batch
 
 print("[INFO] calculating label lengths...")
-dataset = dataset.map(get_label_length)
+dataset = dataset.map(
+    get_label_length,
+    desc="Calculating label lengths",
+)
 
 train_before = len(dataset["train"])
-val_before = len(dataset["validation"])
 
 print("[INFO] filtering long-label samples...")
-dataset = dataset.filter(lambda x: x["label_length"] <= max_label_length)
+dataset = dataset.filter(
+    lambda x: x["label_length"] <= max_label_length,
+    desc="Filtering long-label samples",
+)
 
 train_after = len(dataset["train"])
-val_after = len(dataset["validation"])
 
 print(f"[INFO] train kept: {train_after}/{train_before}")
-print(f"[INFO] validation kept: {val_after}/{val_before}")
 print(f"[INFO] train removed: {train_before - train_after}")
-print(f"[INFO] validation removed: {val_before - val_after}")
 
 def prepare_batch(batch: Dict[str, Any]) -> Dict[str, Any]:
     """
@@ -215,11 +206,14 @@ def prepare_batch(batch: Dict[str, Any]) -> Dict[str, Any]:
     batch["labels"] = processor.tokenizer(batch["text"]).input_ids
     return batch
 
-print("[INFO] preprocessing dataset...")
-dataset = dataset.map(
+print("[INFO] preprocessing train dataset...")
+dataset["train"] = dataset["train"].map(
     prepare_batch,
     remove_columns=dataset["train"].column_names,
+    desc="Preprocessing train dataset",
 )
+
+print(f"[INFO] processed train rows = {len(dataset['train'])}")
 
 # =========================
 # Data collator
@@ -259,14 +253,13 @@ class DataCollatorSpeechSeq2SeqWithPadding:
 data_collator = DataCollatorSpeechSeq2SeqWithPadding(processor=processor)
 
 # =========================
-# 학습 설정 (RTX 4090 24GB 기준 1차안)
+# 학습 설정
 # =========================
 training_args = Seq2SeqTrainingArguments(
     output_dir=str(LOG_DIR),
 
     # 4090 기준 1차 설정
     per_device_train_batch_size=2,
-    per_device_eval_batch_size=2,
     gradient_accumulation_steps=4,
 
     # 학습률
@@ -276,9 +269,8 @@ training_args = Seq2SeqTrainingArguments(
     # 실제 학습용
     num_train_epochs=3,
 
-    # 평가 / 저장 / 로그
-    eval_strategy="steps",
-    eval_steps=250,
+    # 평가 없음 / 저장 / 로그
+    eval_strategy="no",
     save_strategy="steps",
     save_steps=250,
     logging_strategy="steps",
@@ -300,13 +292,13 @@ training_args = Seq2SeqTrainingArguments(
     predict_with_generate=False,
     save_total_limit=2,
     load_best_model_at_end=False,
+    disable_tqdm=False,
 )
 
 trainer = Seq2SeqTrainer(
     model=model,
     args=training_args,
     train_dataset=dataset["train"],
-    eval_dataset=dataset["validation"],
     data_collator=data_collator,
     processing_class=processor,
 )
@@ -315,6 +307,7 @@ trainer = Seq2SeqTrainer(
 # 학습 실행
 # =========================
 print("[INFO] training start...")
+print(f"[INFO] final train rows = {len(dataset['train'])}")
 trainer.train()
 
 # =========================

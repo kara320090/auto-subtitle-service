@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_02799.wav",
+  "prediction": "아 공원 안에서는 취사 야영 금지예요. 공원에 온 김에 한 바퀴 둘러보려고요. 공원 안에 예쁜 카페도 있는 게 신기했어요.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "아 공원 안에서는 취사 야영 금지예요."
+    },
+    {
+      "start": 5.16,
+      "end": 7.56,
+      "text": "공원에 온 김에 한 바퀴 둘러보려고요."
+    },
+    {
+      "start": 9.24,
+      "end": 11.8,
+      "text": "공원 안에 예쁜 카페도 있는 게 신기했어요."
+    }
+  ]
+}

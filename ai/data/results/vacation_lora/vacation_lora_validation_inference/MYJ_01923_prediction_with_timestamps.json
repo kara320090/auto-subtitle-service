@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_01923.wav",
+  "prediction": "뜨뜻한 물인데 이게 이제 15리터 짜리입니다. 15 15리터 짜리. 음 15리터면 어 샤워하고도 남죠. 어 거의 물 머리 감는 데는 한 8리터 정도면 충분하고 음 샤워하는 데는 15리터면 어 하고도 남습니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": "뜨뜻한 물인데 이게 이제 15리터 짜리입니다. 15 15리터 짜리."
+    },
+    {
+      "start": 4.76,
+      "end": 9.0,
+      "text": "음 15리터면 어 샤워하고도 남죠."
+    },
+    {
+      "start": 9.0,
+      "end": 14.46,
+      "text": "어 거의 물 머리 감는 데는 한 8리터 정도면 충분하고"
+    },
+    {
+      "start": 14.46,
+      "end": 19.66,
+      "text": "음 샤워하는 데는 15리터면 어 하고도 남습니다."
+    }
+  ]
+}

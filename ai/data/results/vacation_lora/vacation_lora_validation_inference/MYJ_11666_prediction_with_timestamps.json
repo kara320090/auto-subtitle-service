@@ -1,0 +1,39 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_11666.wav",
+  "prediction": "저는 마이클 제스 밖에 몰라요. 리몰 마다가스칼 저 리몰스가 마다 여우 원숭이래요. 예 여우 원숭이인데요. 스크래블이 뭔지 모르겠지만 엑스랩입니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "저는 마이클 제스 밖에 몰라요."
+    },
+    {
+      "start": 4.0,
+      "end": 5.84,
+      "text": "리몰"
+    },
+    {
+      "start": 5.84,
+      "end": 8.72,
+      "text": "마다가스칼"
+    },
+    {
+      "start": 8.72,
+      "end": 13.88,
+      "text": "저 리몰스가 마다 여우 원숭이래요."
+    },
+    {
+      "start": 13.88,
+      "end": 21.72,
+      "text": "예 여우 원숭이인데요."
+    },
+    {
+      "start": 21.72,
+      "end": 26.72,
+      "text": "스크래블이 뭔지 모르겠지만 엑스랩입니다."
+    }
+  ]
+}

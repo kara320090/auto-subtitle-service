@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_13602.wav",
+  "prediction": "주어로가 그렇고 도나카이 안 가봤습니다. 도나카이 가보고 싶긴 해요. 그렇지 바스켓 펼치 유명하지 필리핀. 필리핀 농구가 우리나라보다 잘합니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.5,
+      "text": "주어로가 그렇고 도나카이 안 가봤습니다."
+    },
+    {
+      "start": 11.5,
+      "end": 15.82,
+      "text": "도나카이 가보고 싶긴 해요."
+    },
+    {
+      "start": 15.82,
+      "end": 22.44,
+      "text": "그렇지 바스켓 펼치 유명하지 필리핀."
+    },
+    {
+      "start": 22.44,
+      "end": 27.36,
+      "text": "필리핀 농구가 우리나라보다 잘합니다."
+    }
+  ]
+}

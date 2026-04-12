@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_13896.wav",
+  "prediction": "나왔어요. 조금 배고프면 햄버거를 먹든 뭐든 먹을 거고요. 좋습니다. 그리고 발이 아주 그냥 다 난리가 났어요 지금. 예 너무 고생을 했죠. 발이 너무 피곤합니다 지금. 물집도 잡히고",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.44,
+      "text": "나왔어요. 조금 배고프면 햄버거를 먹든 뭐든 먹을 거고요."
+    },
+    {
+      "start": 10.44,
+      "end": 14.0,
+      "text": "좋습니다."
+    },
+    {
+      "start": 14.0,
+      "end": 17.68,
+      "text": "그리고 발이 아주 그냥 다 난리가 났어요 지금."
+    },
+    {
+      "start": 17.68,
+      "end": 25.68,
+      "text": "예 너무 고생을 했죠. 발이 너무 피곤합니다 지금. 물집도 잡히고"
+    }
+  ]
+}

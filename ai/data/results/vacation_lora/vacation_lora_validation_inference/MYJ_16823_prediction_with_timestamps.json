@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_16823.wav",
+  "prediction": "이런 우와 뭐야 이거 침대도 있어? 이런 데 얼마나 비쌀까 비행기. 우와. 그리고 이렇게 키친도 있고 야 여기서 뭐 샴페인도 있고 장난 아니죠? 샤워실도 있습니다 이렇게. 시청해주셔서 감사합니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.52,
+      "text": "이런 우와 뭐야 이거 침대도 있어? 이런 데 얼마나 비쌀까 비행기. 우와."
+    },
+    {
+      "start": 15.52,
+      "end": 29.96,
+      "text": "그리고 이렇게 키친도 있고 야 여기서 뭐 샴페인도 있고 장난 아니죠? 샤워실도 있습니다 이렇게."
+    },
+    {
+      "start": 29.96,
+      "end": 59.94,
+      "text": "시청해주셔서 감사합니다."
+    }
+  ]
+}

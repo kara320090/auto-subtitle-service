@@ -1,0 +1,34 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_02857.wav",
+  "prediction": "여기 경치가 엄청 좋아요. 드디어 정상에 도착을 했습니다. 정상까지는 15분밖에 안 걸려요. 정상에서 보이는 뷰 함께 보실까요? 여기는 수목원이 있어 사계절이 기대가 되는 캠핑장입니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": "여기 경치가 엄청 좋아요."
+    },
+    {
+      "start": 5.24,
+      "end": 8.06,
+      "text": "드디어 정상에 도착을 했습니다."
+    },
+    {
+      "start": 8.06,
+      "end": 12.56,
+      "text": "정상까지는 15분밖에 안 걸려요."
+    },
+    {
+      "start": 12.56,
+      "end": 22.36,
+      "text": "정상에서 보이는 뷰 함께 보실까요?"
+    },
+    {
+      "start": 22.36,
+      "end": 28.08,
+      "text": "여기는 수목원이 있어 사계절이 기대가 되는 캠핑장입니다."
+    }
+  ]
+}

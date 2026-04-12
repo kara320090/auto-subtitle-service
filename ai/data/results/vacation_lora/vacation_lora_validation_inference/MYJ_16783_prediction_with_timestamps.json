@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_16783.wav",
+  "prediction": "안 됩니다. 거꾸로는. 거꾸로는 못 들어옵니다. 자 이렇게 오시면 이제 성당 볼 수 있고요. 극장 안 보이죠? 네 극장 안 보입니다. 여기 못 올라갑니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.16,
+      "text": "안 됩니다. 거꾸로는. 거꾸로는 못 들어옵니다."
+    },
+    {
+      "start": 8.16,
+      "end": 14.76,
+      "text": "자 이렇게 오시면 이제 성당 볼 수 있고요."
+    },
+    {
+      "start": 14.76,
+      "end": 22.16,
+      "text": "극장 안 보이죠? 네 극장 안 보입니다. 여기 못 올라갑니다."
+    }
+  ]
+}

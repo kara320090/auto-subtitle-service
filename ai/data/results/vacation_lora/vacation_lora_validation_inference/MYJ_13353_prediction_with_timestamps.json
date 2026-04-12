@@ -1,0 +1,39 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_13353.wav",
+  "prediction": "잉글랜드 썼는데 저르메니 예 저르메니 맞았고 아이젠티나 아이젠티나 저거 남극인데 남극 안타우치카",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "잉글랜드 썼는데"
+    },
+    {
+      "start": 1.72,
+      "end": 3.28,
+      "text": "저르메니"
+    },
+    {
+      "start": 3.28,
+      "end": 7.8,
+      "text": "예 저르메니 맞았고"
+    },
+    {
+      "start": 7.8,
+      "end": 10.0,
+      "text": "아이젠티나"
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "아이젠티나"
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "저거 남극인데 남극 안타우치카"
+    }
+  ]
+}

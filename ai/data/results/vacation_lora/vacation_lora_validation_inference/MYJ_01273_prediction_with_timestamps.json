@@ -1,0 +1,19 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_01273.wav",
+  "prediction": "시간이 좀 걸렸습니다. 이해해 주시기 바랍니다. 네 그래도 사람이 없죠? 예 어제 어 막 밤 늦게까지 파티 같은 거 하고 막 그래 갖고 사람들 예 시끄럽더라고요 조금 방에서도",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "시간이 좀 걸렸습니다. 이해해 주시기 바랍니다."
+    },
+    {
+      "start": 5.44,
+      "end": 20.28,
+      "text": "네 그래도 사람이 없죠? 예 어제 어 막 밤 늦게까지 파티 같은 거 하고 막 그래 갖고 사람들 예 시끄럽더라고요 조금 방에서도"
+    }
+  ]
+}

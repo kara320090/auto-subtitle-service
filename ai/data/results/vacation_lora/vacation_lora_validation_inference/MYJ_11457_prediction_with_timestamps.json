@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_11457.wav",
+  "prediction": "제가 좋아하는 에그 베네딕트. 슝슝슝. 네 여기서 이렇게 조리된 음식을 가지고 네 가지고 가겠습니다. 어",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "제가 좋아하는 에그 베네딕트."
+    },
+    {
+      "start": 4.04,
+      "end": 5.04,
+      "text": "슝슝슝."
+    },
+    {
+      "start": 5.04,
+      "end": 27.76,
+      "text": "네 여기서 이렇게 조리된 음식을 가지고 네 가지고 가겠습니다."
+    },
+    {
+      "start": 27.76,
+      "end": 29.98,
+      "text": "어"
+    }
+  ]
+}

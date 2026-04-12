@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_16214.wav",
+  "prediction": "계속 이 배에 머물고 있습니다 얘는 여기서 야 너 밥은 먹었냐? 아이고 아이고 날개 걸렸어 아이고 아이고 아이고",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.32,
+      "text": "계속 이 배에 머물고 있습니다 얘는 여기서 야 너 밥은 먹었냐?"
+    },
+    {
+      "start": 6.32,
+      "end": 23.34,
+      "text": "아이고 아이고 날개 걸렸어 아이고 아이고"
+    },
+    {
+      "start": 23.34,
+      "end": 29.98,
+      "text": "아이고"
+    }
+  ]
+}

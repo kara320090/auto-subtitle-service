@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_13116.wav",
+  "prediction": "모르죠. 바트만과 루비는 봤지만. 마트만. 어 180도 예 180도. 예.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.76,
+      "text": "모르죠. 바트만과 루비는 봤지만."
+    },
+    {
+      "start": 6.76,
+      "end": 9.76,
+      "text": "마트만."
+    },
+    {
+      "start": 17.56,
+      "end": 22.36,
+      "text": "어 180도 예 180도."
+    },
+    {
+      "start": 22.36,
+      "end": 24.36,
+      "text": "예."
+    }
+  ]
+}

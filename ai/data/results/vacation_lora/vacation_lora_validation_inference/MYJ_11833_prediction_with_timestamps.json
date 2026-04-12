@@ -1,0 +1,19 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_11833.wav",
+  "prediction": "약간 냄새는 달콤한 냄새가 납니다. 음 파인애플 향이 나면서도 쎄요.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.64,
+      "text": "약간 냄새는 달콤한 냄새가 납니다."
+    },
+    {
+      "start": 5.64,
+      "end": 18.2,
+      "text": "음 파인애플 향이 나면서도 쎄요."
+    }
+  ]
+}

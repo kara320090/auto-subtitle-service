@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_16170.wav",
+  "prediction": "조금 먹어볼까요? 김치 치킨 소스 그리고 모짜렐라 얹어야죠? 그리고 각종 샐러드들 샐러드를 잘 먹지 않습니다. 그리고 여기도 샐러드 시저 샐러드가 중에 있네요. 여기 이제 오늘의 특선 요리가 되겠죠?",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.68,
+      "text": "조금 먹어볼까요? 김치 치킨 소스 그리고 모짜렐라 얹어야죠?"
+    },
+    {
+      "start": 14.68,
+      "end": 21.82,
+      "text": "그리고 각종 샐러드들 샐러드를 잘 먹지 않습니다."
+    },
+    {
+      "start": 21.82,
+      "end": 26.1,
+      "text": "그리고 여기도 샐러드 시저 샐러드가 중에 있네요."
+    },
+    {
+      "start": 26.1,
+      "end": 30.0,
+      "text": "여기 이제 오늘의 특선 요리가 되겠죠?"
+    }
+  ]
+}
