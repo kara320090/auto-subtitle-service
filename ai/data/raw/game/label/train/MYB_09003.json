@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_09003",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.133,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋아요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누나한테 보고해 달래요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.483,
+                "end": 13.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.791,
+                "end": 16.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 근데 저 폭포 진짜 개 죽인다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.478,
+                "end": 19.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 멋있어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.920,
+                "end": 24.854
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나이아가라 폭포를 보면 이런 기분일까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.864,
+                "end": 29.133
+            }
+        ]
+    },
+    "summary": "화자는 폭포가 너무 멋있다며 나이아가라 폭포를 보면 이런 기분일지 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

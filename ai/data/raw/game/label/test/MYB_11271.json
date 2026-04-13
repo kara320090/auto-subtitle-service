@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYB_11271",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.207,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇군 그렇군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 19.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.910,
+                "end": 25.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 손에 뭘 들고 있는 거봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.816,
+                "end": 28.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.546,
+                "end": 31.200
+            }
+        ]
+    },
+    "summary": "아바타가 손에 뭔가 들고 있는 거를 보며 놀라워하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11271_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

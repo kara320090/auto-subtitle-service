@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYB_03671",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.333,
+        "format": "MP4",
+        "date": "2023-01-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 해주고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그다음에 자 마카롱 예약하고 마카롱 스킬 쓰자마자 블베 연타",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.481,
+                "end": 8.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그다음에 벚꽃 눌러주고 오징어 먹물 써 주자마자 마카롱 예약",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.327,
+                "end": 14.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 오먹 쓰기 전에 확인해야 할 건 앞에 비석이 깨지는 체크",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.423,
+                "end": 19.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 그다음에 요 비석이 거의 깨진다 싶을 때 호밀",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.506,
+                "end": 25.333
+            }
+        ]
+    },
+    "summary": "화자가 예약 스킬이 지나면 블베를 연타하고 오징어 먹물을 쓰기 전에 비석 깨졌는지 확인하고 오먹을 사용 이후 비석이 거의 깨질 때 호밀을 쓴다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03671_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

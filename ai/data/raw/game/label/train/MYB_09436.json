@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_09436",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.333,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘 근데 약간 @이름1랑 @이름1랑 또 닮았죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.864,
+                "end": 12.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "닮았지 부하인 척하고 옆에서 뭔가 조작을 하고 있는 느낌일 수도 있고 어 @이름1도 그랬었는데 비슷한 느낌인가 봐요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.893,
+                "end": 23.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "테마 음악 @이름2 변신하고 개 멋있던데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.733,
+                "end": 38.333
+            }
+        ]
+    },
+    "summary": "부하인 척하고 옆에서 조작을 하는 게 비슷한 느낌이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09436_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

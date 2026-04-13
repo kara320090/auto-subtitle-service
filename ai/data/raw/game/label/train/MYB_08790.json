@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "filename": "MYB_08790",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 61.166,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "될 거예요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.645
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.655,
+                "end": 3.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하 잇어 이야 어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.543,
+                "end": 12.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옳지 옳지 배를 내밀고 누워있네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.849,
+                "end": 17.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옳지 옳지 예뻐라 누구네 집 멍멍이가 이렇게 예쁜지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.881,
+                "end": 22.879
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고양이인가",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.889,
+                "end": 25.498
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으다 으어 이 으아 으 이야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.508,
+                "end": 51.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 되지 안 돼 얌전히 굴렴.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 51.920,
+                "end": 56.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리미트 브레이크가 뭐죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 56.103,
+                "end": 59.065
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "플라시는 어디 있니 멍멍.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 59.075,
+                "end": 61.166
+            }
+        ]
+    },
+    "summary": "영상에서는 상대가 배를 내밀고 누워있는데 누구 집 멍멍이가 이리 이쁘냐면서 얌전히 굴라고 언급했고 리미트 브레이크가 뭐냐고 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08790_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08790_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

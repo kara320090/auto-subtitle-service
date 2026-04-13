@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_08123",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.3,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 서로 되게 장인이라고 생각하나 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.711,
+                "end": 11.865
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.875,
+                "end": 13.816
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이거 이 게임 시작하면은 이 게임에 걸려 있어서 걸리는 걸걸요 음",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.826,
+                "end": 20.237
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.247,
+                "end": 23.300
+            }
+        ]
+    },
+    "summary": "채팅창에서 왜 19금 방송이 걸려 있냐고 하자 여자는 게임에 19금이 걸려 있어서 그렇다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

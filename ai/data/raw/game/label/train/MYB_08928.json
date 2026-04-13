@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYB_08928",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 46.233,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.562
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.572,
+                "end": 18.477
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "조종 당했나 어떻게 이럴 수가 있지?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 18.487,
+                "end": 21.579
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "능동적이고 다재다능한 놈보다 뭣도 모르고 없는 애를 앞에 세워야 자기는 안전한 곳에서 책임 없는 군림을 할 수 있다구요. 흥선군처럼",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 21.589,
+                "end": 29.377
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 근데 그 욕심을 봐서는 이렇게 쉽게 섣불리 넘겨줄만한 인재는 아닌 거 같은데?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 29.387,
+                "end": 36.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 36.417,
+                "end": 42.967
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1 너무 불쌍하다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 42.977,
+                "end": 46.233
+            }
+        ]
+    },
+    "summary": "욕심을 봐서는 이렇게 쉽게 섣불리 넘겨줄만한 인재는 아닌 거 같다고 @이름1 너무 불쌍하다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08928_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

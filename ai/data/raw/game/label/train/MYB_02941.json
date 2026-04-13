@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYB_02941",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.533,
+        "format": "MP4",
+        "date": "2023-02-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 자동 키고 따라와 주시면 돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5번 누르면 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.782,
+                "end": 4.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 첫 번째 마카롱 한번 누릅니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.257,
+                "end": 6.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째 자 목화 두 번째 오징어먹물 누르면 세 번째 자 그러고 이제 여기서 이 빨간색 근처에서 웨어울프 스킬 쓰고 바로 홀리베리 눌러 주시면 끝입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.245,
+                "end": 19.533
+            }
+        ]
+    },
+    "summary": "남성이 자동 키고 따라오는 데 5번 누르면 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02941_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

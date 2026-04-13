@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_04389",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.4,
+        "format": "MP4",
+        "date": "2022-11-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 자 아몬드 좋아 그래 쓸모 있는 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몇 개 1개 그래서 몇 배가 나올까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.355,
+                "end": 9.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 오 야 이러면 나름 성공이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.250,
+                "end": 13.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이야 완전 도박이구만.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.464,
+                "end": 15.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 5개씩 소모하네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.750,
+                "end": 17.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이 찬란한 빛 조각도 있고 아 아 찬란한 빛 조각을 이제 준다는 건가?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.399,
+                "end": 23.400
+            }
+        ]
+    },
+    "summary": "영상 속 화자는 티켓을 긁고 있는데 아몬드 1개 나오면서 나름 성공적이라고 생각하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04389_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYB_09118",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 59.066,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "돌아가는 게 느리냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 이거 와장창이네 이거 자식들아 어 안돼.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.532,
+                "end": 24.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빨리 가야 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.842,
+                "end": 37.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동생이 다칠 수도 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.498,
+                "end": 39.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼마 만에 만난 건데 동생을 죽은 줄 알았는 던 동생 그 그때도 긴가민가 그때 @이름1이 있었는지 없었는지 아오 진짜 그 그랬었는데 실제로 지금 눈앞에서 본 거야 나 같아도 이성을 잃어버리지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 40.475,
+                "end": 59.066
+            }
+        ]
+    },
+    "summary": "죽은 줄 알았던 동생을 지금 눈앞에서 봤는데 동생이 다칠 수도 있어서 빨리 가야 하는 상황이면 여성도 이성을 잃어버린다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09118_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYB_08705",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.366,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조슈아는 조슈아는 아 조슈아도 있네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다행이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.793,
+                "end": 8.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "둘이 같이 타지 않을까라고 생각했는데 1인 1조커보구만.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.472,
+                "end": 16.941
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 오 오 이렇게 연결되는구나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.951,
+                "end": 24.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.436,
+                "end": 26.347
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.357,
+                "end": 29.366
+            }
+        ]
+    },
+    "summary": "여자는 조슈아를 찾아서 다행이고 같이 탈 줄 알았으나 아니었다면서 이렇게 연결되는 거라고 언급한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08705_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

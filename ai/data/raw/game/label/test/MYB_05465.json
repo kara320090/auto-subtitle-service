@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_05465",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.366,
+        "format": "MP4",
+        "date": "2022-08-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 요것도 야 딜 봐 그리고 쿠키가 불타는 거 보이시나요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화상 디버프 때문에 쿠키가 불타는 이펙트가 눈에 띄게 보이스 보이고 있어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.321,
+                "end": 16.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 요렇게 주 스킬 쓰고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.701,
+                "end": 19.158
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "목마르다고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.168,
+                "end": 21.366
+            }
+        ]
+    },
+    "summary": "화상 디버프 때문에 쿠키가 불타는 이펙트가 보이고 화자는 주 스킬을 쓴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

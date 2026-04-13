@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_06302",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.546,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역시 복잡한 곳이군.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "골목이 좁아서 더 그럴지도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.270,
+                "end": 4.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기도 저기도 역시 수상한 것들 뿐이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.547,
+                "end": 9.342
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아기 쿠키 선물용으로 딱 좋은 소리 나는 강아지 장난감 보고 가세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.352,
+                "end": 15.355
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 역시 아직도 여기 있었군.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.365,
+                "end": 18.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강아지 장난감 대체 어떻게 움직이는 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.464,
+                "end": 22.533
+            }
+        ]
+    },
+    "summary": "남자는 시장에서 강아지 장난감을 파는 것을 보며 신기해하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06302_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

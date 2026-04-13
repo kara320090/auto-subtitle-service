@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_10818",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.333,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 그림 인쇄비가 또 관련이 있어요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특이하다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.648,
+                "end": 5.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 재미있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.971,
+                "end": 12.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 보통 파판이 아니어도 무슨 게임이든 간에 약간 캐릭터들이 남캐들이 아이돌도 그렇고 드라마에 나오는 남자 배우도 그렇고 상당히 마른 체형에.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.908,
+                "end": 29.333
+            }
+        ]
+    },
+    "summary": "특이하게 그린 인쇄비가 관련이 있고 파판이 아니어도 남자 캐릭터나 아이돌이나 드라마에 나오는 남자 배우들이 상당히 마른 체형이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10818_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

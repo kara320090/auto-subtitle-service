@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYB_10992",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.766,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭐야 황금초코보의 잠자리 아 여기 이름이 황금초코보의 잠자리인가봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 아 또 잘못 눌렀어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.348,
+                "end": 12.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 해결을 했고 여기가 로스트윙 왔어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.714,
+                "end": 29.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캬 오랜만이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.587,
+                "end": 31.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "썸 타고 앉았누.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.936,
+                "end": 34.766
+            }
+        ]
+    },
+    "summary": "한 여성이 게임 지도를 보며 황금초코보의 잠자리라는 이름이 있구나하고 이야기를 한 후 로스트윙으로 이동을 했는데 오랜만이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10992_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

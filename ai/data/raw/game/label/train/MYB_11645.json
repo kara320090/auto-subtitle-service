@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_11645",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.213,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "각성한다 각성했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아버지 죽는 거 아니야 근데 아버지 부활 좀 시켜주지 아빠 바로 화장해 드리네 이러고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.796,
+                "end": 12.426
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.436,
+                "end": 23.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.321,
+                "end": 27.200
+            }
+        ]
+    },
+    "summary": "한 여성은 자신의 시청자들과 함께 게임을 하며 소통하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11645_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_01737",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.333,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 타르트타탕맛 쿠키가 마음에 든 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쿠키들을 불태워버리겠다잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.637,
+                "end": 9.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나름대로 공격하려는 걸지도 모른다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.575,
+                "end": 12.934
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "떠 떨어져라 쿠키를 사냥하는 드래곤 주제에 네놈의 날개가 아직 손바닥만할 때 끝장을 내주겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.944,
+                "end": 23.374
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어 어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.384,
+                "end": 25.333
+            }
+        ]
+    },
+    "summary": "게임 인물들이 게임 속에서 일어나는 일에 대해 대화하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01737_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

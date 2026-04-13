@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYB_02979",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.0,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 쿨 뜨면 대박인데 처음부터 스타트 아주 상큼하게 나름 나쁘지 않고 바로 나아갑니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피, 콜 붙으면 성공인데 아 제발 피.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.354,
+                "end": 21.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래도 뭐 아 근데 피감이 너무 낮아서 네 안 쓰일 가능성이 좀 클 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.572,
+                "end": 27.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피, 쿨이 중요해요 다른 거 다 필요 없어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.486,
+                "end": 32.000
+            }
+        ]
+    },
+    "summary": "영상에서는 스타트부터 나쁘지는 않지만 피와 쿨이 붙으면 성공이고 다른 거는 다 필요 없다면서 무언가 나왔는데 피감이 낮아서 쓰지 않을 가능성 크다고 언급한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02979_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_02979_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

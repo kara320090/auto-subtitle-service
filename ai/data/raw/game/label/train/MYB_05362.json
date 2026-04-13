@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_05362",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.702,
+        "format": "MP4",
+        "date": "2022-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야아 홀베도 뽑았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야아 진짜 레전드다 이 사람.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.347,
+                "end": 7.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에스프레소 야 퓨바까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.067,
+                "end": 11.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 또 나왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.646,
+                "end": 14.282
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이어서 출발",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.292,
+                "end": 17.702
+            }
+        ]
+    },
+    "summary": "남성은 이 사람이 진짜 레전드라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05362_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 43,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

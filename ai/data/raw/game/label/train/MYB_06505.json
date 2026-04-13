@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_06505",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.1,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조심해 여기 뭔가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밟으면 안 되는 게 있나? 뭐야 위에 사람 보여요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.450,
+                "end": 13.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭘 밟으면 안 됐었나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.616,
+                "end": 18.006
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이방에서 잘한다는 얘기를 하면 높은 확률로 실수를 하게 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.016,
+                "end": 21.792
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 맞아요 왜 그런지 모르겠어. 그게 무슨 약간 뭐 실전에 관한 뭐 그런 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.802,
+                "end": 29.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그럴까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.521,
+                "end": 33.100
+            }
+        ]
+    },
+    "summary": "게임을 하면서 채팅 창과 소통을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

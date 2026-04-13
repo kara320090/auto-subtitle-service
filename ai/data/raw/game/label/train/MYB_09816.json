@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_09816",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.133,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하이하이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.388,
+                "end": 6.902
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.912,
+                "end": 14.773
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 뒷모습도 멋있어 간지나 난 지금 클라이브 그 자체잖아 와 너무 예쁘다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.783,
+                "end": 28.577
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바이런 로즈필드의 저택 그 숙부의 저택",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.587,
+                "end": 33.133
+            }
+        ]
+    },
+    "summary": "바이런 로즈필드의 저택은 숙부의 저택이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09816_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_10802",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.6,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "프레임이 다 깨져 가지고. 그쵸 그쵸. 저 4K로 해놨거든요 그거. 신청을 해주셔 가지고. 헤이. 아유.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.536
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.546,
+                "end": 19.248
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 말을 다 받아주네? 그 신뢰의 증표 때문인가 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.258,
+                "end": 23.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.423,
+                "end": 25.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "습지에 렌턴? 허 스레쉬?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.982,
+                "end": 29.600
+            }
+        ]
+    },
+    "summary": "한 여자가 프레임이 다 깨져서 그걸 4K로 해놨다고 말하면서 신청을 해주셔서 그랬다고 말한다. 신뢰의 증표 때문에 말을 다 받아준다고 말하면서 습지의 렌턴이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10802_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_01654",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.666,
+        "format": "MP4",
+        "date": "2023-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예전에 아레나에서 썼던 덱들이 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 썼었는데 기존에 한 번 들어가 봅시다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.072,
+                "end": 14.197
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 실론 나이트 이거는 뭐 스펙 때문에 이긴 거 같고 좀 높은 사람한테 들어가 볼게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.207,
+                "end": 24.984
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이건 스펙 차 때문에 이긴 거 같아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.994,
+                "end": 28.666
+            }
+        ]
+    },
+    "summary": "남성이 예전에 아레나에서 썼던 덱을 사용하며 실론 나이트 때문이 아니라 스펙 때문에 이긴 거 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01654_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

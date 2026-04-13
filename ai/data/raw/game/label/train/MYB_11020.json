@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_11020",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.433,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 아니 그게 무슨 15층에 창 밖에서 짝짓기를 하고 있냐고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이름이 각다귀에요 그냥 러브벌레라는데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.805,
+                "end": 17.398
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 이래 이거 한 번 러브벌레를 찾아 봐야겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.408,
+                "end": 23.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사진 찍었는데 초점이 안 맞아 가지고 사진이 안 나오더라구요 뭐 하는 거지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.489,
+                "end": 33.433
+            }
+        ]
+    },
+    "summary": "한 여자가 게임을 플레이 하면서 시청자가 알려준 러브벌레를 찾아 보겠다가 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11020_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

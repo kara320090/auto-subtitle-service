@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_05761",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.666,
+        "format": "MP4",
+        "date": "2022-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 버텨진다고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.383
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "적 진영으로 달려가서 침묵을 건다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.393,
+                "end": 4.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크림 유니콘이 지나간 자리에 춤추는 나비 젤리가 생성되고 생성된 나비 젤리는 아군 쪽으로 날아와서 모든 아군을 치유한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.083,
+                "end": 12.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회복 대상이 잃은 체력에 비례해서 치유량이 증가한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.380,
+                "end": 17.666
+            }
+        ]
+    },
+    "summary": "화자가 나비 젤리는 아군 쪽으로 날아와서 모든 아군을 치유한다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05761_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

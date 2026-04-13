@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_01186",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.366,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "눈을 감으면 내가",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 박하사탕맛 쿠키 출시",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.037,
+                "end": 4.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파도소리 같이 들을래?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.973,
+                "end": 9.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 크게 고둥을 불게.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.118,
+                "end": 12.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고둥소리가 울릴거야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.818,
+                "end": 16.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너희들도 듣고 싶다고?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.126,
+                "end": 22.366
+            }
+        ]
+    },
+    "summary": "화자가 영상을 보며 박하사탕 맛 쿠키가 출시되었다고 첨언하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01186_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

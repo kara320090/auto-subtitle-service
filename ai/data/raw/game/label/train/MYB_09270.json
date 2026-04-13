@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09270",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 46.207,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나이트닝 로드?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안쓰는 거네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.973,
+                "end": 29.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주민에게 이야기를 듣는다 얘는 또 왜 웃통을 다 벗고 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.873,
+                "end": 37.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 광부구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.590,
+                "end": 46.200
+            }
+        ]
+    },
+    "summary": "발화자가 주민에게 이야기를 듣는 부분을 설명하며 직접 게임을 하고 보여주는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09270_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

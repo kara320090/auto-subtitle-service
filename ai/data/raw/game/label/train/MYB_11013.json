@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYB_11013",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.166,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 여러분 혹시 그 와일드 하츠에서 그 공주 기억나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 26.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 공주 어떻게 됐는지 혹시 아시는 분 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.009,
+                "end": 29.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 죽은 거 맞아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.256,
+                "end": 36.166
+            }
+        ]
+    },
+    "summary": "한 여자가 다른 게임의 공주 캐릭터가 어떻게 됐는지 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11013_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 75
+                }
+            ]
+        }
+    ]
+}

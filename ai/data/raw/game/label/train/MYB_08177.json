@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_08177",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.333,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.417
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.427,
+                "end": 7.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.117,
+                "end": 15.709
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔가 할 말이 있어 보여 말을 안 걸 수가 없네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.719,
+                "end": 18.699
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.709,
+                "end": 22.333
+            }
+        ]
+    },
+    "summary": "마을에서 만난 남자는 너희 덕분에 우리가 대장일을 다시 시작할 수 있을 것 같다며 고맙다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08177_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

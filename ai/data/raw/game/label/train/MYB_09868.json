@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_09868",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.9,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모두 공감하는 이야기 저기 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저거인 것 같은데 저게 아닐 수가 없는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.893,
+                "end": 12.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아닌데 뭐야 이거 아니잖아 이게 왜 여기 있어 이거 이거 원래 가루다가 불러내는 거 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.101,
+                "end": 23.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "술 마시면서 잊고 있던 사실이 드러났어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.835,
+                "end": 26.900
+            }
+        ]
+    },
+    "summary": "여자가 이거 원래 가루다가 불러 내는 거 아니냐고 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09868_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

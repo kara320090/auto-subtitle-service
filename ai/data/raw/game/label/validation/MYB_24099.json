@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_24099",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.5,
+        "format": "MP4",
+        "date": "2023-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다음으로 두 번째 게임 체인저 억까가 사라진다?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이게 무슨 말이냐면요 우리 이런 적 많잖아요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.063,
+                "end": 6.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 분명히 눌렀는데 총이 안 나갔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.263,
+                "end": 9.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 분명히 맞췄는데 안 맞는다 버그다 등등 나는 분명히 마우스를 눌렀는데 미묘한 차이로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.041,
+                "end": 16.500
+            }
+        ]
+    },
+    "summary": "분명히 마우스를 눌렀는데 총알이 안 나가고 미묘한 차이로 맞췄는데 안 맞는다거나 이런 적 많지 않냐며 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_24099_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

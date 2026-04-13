@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYB_10815",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.867,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 일본 특유의 게임이라서 그런지 주인공들이 약간 되게 말랐잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 취향이 아니었는데 듬직하니 보기 좋누.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.328,
+                "end": 13.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한때는 친구였던 자.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.638,
+                "end": 16.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서브 퀘 다했으니까 이제 마음 놓고 떠나갈 수 있게 됐는데 그렇다면 화장실도 갔다 올 수 있겠겠죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.887,
+                "end": 25.866
+            }
+        ]
+    },
+    "summary": "일본 게임의 특성상 주인공들이 말라서 취향이 아니었는데 듬직하니 보기 좋고 서브 퀘를 다했으니 화장실도 갔다 올 수 있겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10815_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10815_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

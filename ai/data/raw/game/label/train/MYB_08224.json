@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_08224",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 32.866,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올리 무서운 말인데 음 약파리 소녀구나.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞네.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 8.874,
+                "end": 9.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약파리였구나.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.949,
+                "end": 11.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 저기서 숙부님 노젓고 가는 거예요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 11.310,
+                "end": 14.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼길 가시네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.899,
+                "end": 16.444
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.454,
+                "end": 32.866
+            }
+        ]
+    },
+    "summary": "20대 여성이 영상을 보면서 캐릭터 올리 무서운 말인데 약파리 소녀고 캐릭터 숙부님이 배 노 젓고 가시고 먼길 가신다고 말을 하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08224_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 8,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

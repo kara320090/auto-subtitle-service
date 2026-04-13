@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_03811",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.583,
+        "format": "MP4",
+        "date": "2022-12-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요 덱한테 한번 야 이거 여러분 잘 됐다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거 보여드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.173,
+                "end": 7.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 덱하고 요 덱인데 근데 이거는 스펙으로 제가 이길 수도 있긴 한데 이 덱한테 웬만큼 웬만해서 지긴 하거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.208,
+                "end": 16.583
+            }
+        ]
+    },
+    "summary": "스펙으로 이길 수도 있는데 이 덱한테 웬만해서 진다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03811_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

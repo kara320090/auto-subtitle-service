@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_10988",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.1,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 안 부서질 줄 알았는데 가게 다 부서졌어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.887,
+                "end": 4.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 님 어서 오세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.747,
+                "end": 11.645
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.655,
+                "end": 15.198
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.208,
+                "end": 29.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이 여유로움 멋지다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.117,
+                "end": 33.100
+            }
+        ]
+    },
+    "summary": "한 여성이 게임에서 결투를 한 이후에 안 부서질 줄 알았는데 가게가 다 부서졌다고 이야기를 한 후 다음에 나오는 영상에서 캐릭터의 행동을 보고 멋지고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10988_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

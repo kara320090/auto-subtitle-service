@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYB_05615",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.733,
+        "format": "MP4",
+        "date": "2022-08-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 막혔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여긴 그냥 될 거 같은데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.180,
+                "end": 5.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공속덱으로 바꿔줘요 앞에 좀 못 버틸 거 같으면.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.141,
+                "end": 20.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 왜 여긴 덱 하나가 빵꾸 났구나 잠시만 아이.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.614,
+                "end": 25.733
+            }
+        ]
+    },
+    "summary": "한 남자가 게임에서 퀘스트를 진행하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05615_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

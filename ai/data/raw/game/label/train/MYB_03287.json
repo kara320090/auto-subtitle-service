@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYB_03287",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.416,
+        "format": "MP4",
+        "date": "2023-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 잠시 의심 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "죄송합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.280,
+                "end": 2.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 질 줄 알고 솔직히 좀 의심했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.286,
+                "end": 5.770
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 의심은 절대 하면 안 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.770,
+                "end": 8.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들 이 덱을 믿으세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.120,
+                "end": 11.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 덱으로 전승 그랜드마스터1을 올라왔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.800,
+                "end": 18.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 참고해서 따라 하실 분은 따라 하시면 될 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.720,
+                "end": 25.416
+            }
+        ]
+    },
+    "summary": "이 덱이 질 줄 알고 잠시 의심했지만 전승으로 그랜드마스터1에 올라왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03287_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_03287_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

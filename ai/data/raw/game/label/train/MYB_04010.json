@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_04010",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미로의 숲에 갈 때마다 길을 잃어버렸는 걸요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.755
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만물의 생명을 관장하는 대지 그 자체인 정령 쿠키 그분이라면 도움이 될 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.765,
+                "end": 12.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇군요 이번에는 제대로 찾아가야 할 텐데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.757,
+                "end": 18.144
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당신이 바라는 그 곳에 닿을 수 있기를",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.154,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "소르베 맛 쿠키가 미로의 숲에 갈 때마다 길을 잃어버렸다고 하자 바다 요정 쿠키는 당신이 바라는 곳에 닿을 수 있기를 바란다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04010_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

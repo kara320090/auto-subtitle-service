@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_04688",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.333,
+        "format": "MP4",
+        "date": "2022-10-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 아 이거는 용구덱은 막는데 찰구덱은 못 막는다고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용구덱은 막고 찰구덱은 못 막는다고 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.816,
+                "end": 12.352
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "들어가 들어가 들어가 들어가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.362,
+                "end": 19.333
+            }
+        ]
+    },
+    "summary": "남성이 설명과 함께 게임을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04688_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 11,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

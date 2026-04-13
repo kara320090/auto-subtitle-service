@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_07957",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 50.366,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "순박한 아저씨들 오 저기요 아래 집인데요 물 샌다구요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.207
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기요 아저씨.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 15.207,
+                "end": 22.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄마 쌈마 애니멀 호도임 언제 또 여기까지 겨 올라와서 여기 앉아 있는거야.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 22.048,
+                "end": 46.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 서 있는거야.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 46.417,
+                "end": 50.366
+            }
+        ]
+    },
+    "summary": "주인공이 언제 또 여기까지 올라와서 앉아 있는지 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07957_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

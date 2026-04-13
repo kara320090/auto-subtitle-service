@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_09083",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.4,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 가부가 뭐하러 갔더라?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.332,
+                "end": 41.470
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그 올빼미구나.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 41.480,
+                "end": 45.400
+            }
+        ]
+    },
+    "summary": "뭐 하러 간 건지 정확히 모르지만 가부를 부르기 위해 올빼미를 부릅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09083_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

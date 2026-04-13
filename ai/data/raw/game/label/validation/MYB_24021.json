@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_24021",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.366,
+        "format": "MP4",
+        "date": "2023-03-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서로 사이가 좋지가 않습니다. 에 얘네들끼리 썩 친하지가 않아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 자기가 싫어하는 여자애가 올린 게시글에 내가 만약 좋아요를 누른다?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.690,
+                "end": 12.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 호감도가 팍 떨어지기도 하고 반대로 어 그 애 욕하는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.010,
+                "end": 16.366
+            }
+        ]
+    },
+    "summary": "히로인 네 명이 서로 사이가 좋지가 않아서 자기가 싫어하는 여자애의 게시글에 좋아요를 누르면 호감도가 떨어진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_24021_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

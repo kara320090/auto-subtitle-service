@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_03315",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.625,
+        "format": "MP4",
+        "date": "2023-01-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 모두 다 스킵으로 진행할 거예요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 아직 달빛술사 못 뽑았어요 손 들어보세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.620,
+                "end": 5.025
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 무과금으로 키우는 계정 하나 있거든요 소과금 계정으로 키우는 것도 달빛술사 하나도 안 나왔어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.450,
+                "end": 10.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꿈이 흐르고 별빛이 춤을 춰요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.995,
+                "end": 15.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 야 크탈로 나왔어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.265,
+                "end": 26.625
+            }
+        ]
+    },
+    "summary": "남성이 부과금으로 키우는 계정이 있는데 달빛술사가 하나도 안 나왔다고 하며 모두 다 스킵으로 진행하겠다고 하는데 크탈로 달빛술사가 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03315_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

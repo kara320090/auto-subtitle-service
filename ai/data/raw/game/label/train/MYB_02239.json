@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_02239",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.8,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "OK 와 아까보다 조금 높아지냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 타수 보호막이 진하게 많네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.445,
+                "end": 17.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 타수 보호막이 왜 이렇게 많아 여기?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.322,
+                "end": 24.800
+            }
+        ]
+    },
+    "summary": "여기는 타수 보호막이 많다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02239_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

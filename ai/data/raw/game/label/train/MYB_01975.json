@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYB_01975",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.681,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "싫어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.907
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 열 밤만 자고 오자 응?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.917,
+                "end": 5.441
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일은 꼭 출발해야 하니까 내일부터 열 밤.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.451,
+                "end": 11.403
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘 저녁에 드래곤 토벌 회담이 있다던데 자네는 토벌대에 함께할 텐가?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.413,
+                "end": 18.367
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "당연하지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.377,
+                "end": 20.231
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "드래곤 시티를 위협하는 드래곤이라면 가만둘 수 없다네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.241,
+                "end": 25.666
+            }
+        ]
+    },
+    "summary": "모험가가 드래곤 시티를 위협하는 드래곤을 토벌하기 위해 드래곤 토벌 회담에 참여하려한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01975_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

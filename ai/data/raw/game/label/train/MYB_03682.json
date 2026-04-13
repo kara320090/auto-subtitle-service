@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYB_03682",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.125,
+        "format": "MP4",
+        "date": "2022-12-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 출발",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 250층이 머지않았어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.891,
+                "end": 7.634
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 만 더 올라가면은 250층이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.644,
+                "end": 16.865
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 @계정1 님 내일 졸업해요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.875,
+                "end": 18.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중학생 졸업인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.945,
+                "end": 22.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "졸업하고 이제 고등학교 올라가나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.461,
+                "end": 28.125
+            }
+        ]
+    },
+    "summary": "화자가 이제 조금만 올라가면 250층이라고 하면서 시청자와 대화한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03682_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

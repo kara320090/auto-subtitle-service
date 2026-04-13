@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "MYB_06515",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.566,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이거는 왜 있는 걸까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 이거 맨 처음에 있는 바닥에 있는 거",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.710,
+                "end": 7.366
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평소 같았으면 얘기해줘도 이해 못 하고 오옹? 오옹? 하고 있었을 텐데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.376,
+                "end": 15.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 그 정돈 이해해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.617,
+                "end": 17.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 정도는 이해한다고 아하 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.564,
+                "end": 21.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "날리는 거라고 하면 이해할 수 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.421,
+                "end": 24.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 정도는 할 수 있어 이해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.801,
+                "end": 28.566
+            }
+        ]
+    },
+    "summary": "맨 처음 바닥에 있는 물질이 왜 있는지 알 수는 없고 평소와는 다르게 이해가 빠른 편 인 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

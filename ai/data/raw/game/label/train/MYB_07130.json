@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "MYB_07130",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.533,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 진짜 나는 정말 행복한 사람이다. 이걸 방송 키고 사람들이랑 같이 출시한 날에 이걸 보면서 할 수 있다는 거",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 말한 거 기억나요? 스포라서 말 못 한다고 한 거요 클라이브가 피닉스의 선택을 못 받은 이유는 이프리터에게 선택을 받아서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.950,
+                "end": 21.533
+            }
+        ]
+    },
+    "summary": "여성은 출시한 날에 할 수 있다는 거에 행복한 사람이라고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07130_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

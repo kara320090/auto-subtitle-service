@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYB_10307",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.0,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.407
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "총커보인지 강아지인지 고양이인지 알 수가 없잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.410,
+                "end": 6.330
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 오보예요? 아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.341,
+                "end": 8.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.892,
+                "end": 11.875
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.885,
+                "end": 15.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 귀여워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.030,
+                "end": 16.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마트료시카 같이 생겼네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.339,
+                "end": 20.000
+            }
+        ]
+    },
+    "summary": "여자 게임 유튜버는 게임 속 대화를 보고 강아지인지 고양이인지 알 수가 없다고 하고 무언가를 보고 마트료시카 같이 귀엽다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10307_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

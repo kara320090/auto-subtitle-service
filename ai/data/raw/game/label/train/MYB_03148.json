@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYB_03148",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.0,
+        "format": "MP4",
+        "date": "2023-02-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이야 여러분들 이거 화관 들고 왔으면은 더 잘 나올 수도 있었겠다?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.970
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "12억 4000 나와요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.970,
+                "end": 10.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보셨죠? 에클레어를 넣어서 와도 12억 4000까지 나온다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.030,
+                "end": 14.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 암튼 이것도 굳이 나는 그 @계정1 님 저는 독버섯 안 키웠습니다 하시는 분들 에클레어 쓰면은",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.690,
+                "end": 24.000
+            }
+        ]
+    },
+    "summary": "아이템 에클레어를 넣어도 12억 4000까지 점수가 나오지만 화관을 가지고 왔었으면 점수가 더 잘 나왔을 것이라고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03148_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

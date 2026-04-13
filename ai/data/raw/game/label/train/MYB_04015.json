@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_04015",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.221,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미로의 숲에 불이 났다고?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 들어 초록의 힘이 조금 마르기는 했지만 생명의 나무들에 불이 붙을 리는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.677,
+                "end": 7.126
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "눈의 정령님 말이 맞아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.136,
+                "end": 10.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마른 가지와 나뭇잎 쪽에서 불이 났어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.130,
+                "end": 13.044
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "눈을 뿌려주지 않았으면 우리 모두 타버릴 뻔 했다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.054,
+                "end": 19.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럴 수가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.013,
+                "end": 21.221
+            }
+        ]
+    },
+    "summary": "눈의 정령이 미로의 숲에 불이 나서 불을 끄려 했고 눈을 뿌리지 않았으면 모두 타버릴 뻔 했다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04015_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

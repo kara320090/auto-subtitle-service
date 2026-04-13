@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_10288",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.833,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기있네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미친 개사기 아니야 이거 아니 오늘 무슨 튀김하는 날인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.597,
+                "end": 21.296
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저 기술 너무 웃기잖아 저 기술 완전 최애 기술되겠어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.306,
+                "end": 27.396
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 기술이 너무 웃겨요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.406,
+                "end": 32.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캬 멋있는 뒷 모습",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.709,
+                "end": 35.833
+            }
+        ]
+    },
+    "summary": "화자가 기술을 쓰고는 너무 사기 기술이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10288_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

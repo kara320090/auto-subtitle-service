@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_03404",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2023-01-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런데 이제 야 진짜 달빛수사 없으면 아레나 못할 급이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.569
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 이게 아마 정석덱으로 될 가능성이 좀 커 보이네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.579,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "발화자가 게임 진행을 보면서 아레나에 캐릭터 달빛수사가 없으면 할 수 없을 정도라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

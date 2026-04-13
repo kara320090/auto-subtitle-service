@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "filename": "MYB_11110",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.633,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.756
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.766,
+                "end": 6.324
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.334,
+                "end": 9.906
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "누구지? 헐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.916,
+                "end": 17.936
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 사람들 구출해 오나 보다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.946,
+                "end": 20.811
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "내 친동생 죽은 거 같은데요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.821,
+                "end": 27.133
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.143,
+                "end": 34.971
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "얘네들도 베어러인가 보다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.981,
+                "end": 38.633
+            }
+        ]
+    },
+    "summary": "게임 캐릭터가 다친 베어러를 구출해서 돌아왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11110_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "MYB_10619",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.433,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 명성을 얻으면 지원품을 받을 수 있대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.394,
+                "end": 8.097
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 오 오 내 활동 때문에 주는 거야 용병단도 @이름1를 구해줘서 고맙다고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.107,
+                "end": 23.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.126,
+                "end": 25.433
+            }
+        ]
+    },
+    "summary": "명성을 얻으면 지원품을 받을 수 있고 용병단도 마사를 구해줘서 고맙다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10619_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

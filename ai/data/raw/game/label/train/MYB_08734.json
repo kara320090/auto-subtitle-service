@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "filename": "MYB_08734",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.0,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.146,
+                "end": 6.480
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.550,
+                "end": 14.179
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 소리 잘 만들었다 그죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.189,
+                "end": 23.223
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "요태가 진짜 예쁜 거 같애.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.233,
+                "end": 28.781
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 그 그림이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.791,
+                "end": 30.510
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.515,
+                "end": 31.320
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 31.420,
+                "end": 37.000
+            }
+        ]
+    },
+    "summary": "영상 속 여자는 요태가 진짜 이쁘다고 한 후 게임 소리를 잘 만들었다면서 그림을 언급한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08734_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08734_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

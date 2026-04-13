@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYB_08713",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.433,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여한.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐지 레벨업 좋고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.235,
+                "end": 8.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 뭔가 줬어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.982,
+                "end": 11.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.083,
+                "end": 12.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너 얼굴을 어디서 본 것 같은데 착각일 것이다 기분 탓이겠지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.492,
+                "end": 18.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멋진 뒷모습",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.274,
+                "end": 19.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.999,
+                "end": 21.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디서 봤는데 너 시도구나.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.126,
+                "end": 23.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.593,
+                "end": 26.433
+            }
+        ]
+    },
+    "summary": "여자는 레벨업해서 좋다면서 무언가를 받았고 상대가 어디서 본 것 같다고 했더니 기분 탓이라면서 착각이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08713_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08713_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

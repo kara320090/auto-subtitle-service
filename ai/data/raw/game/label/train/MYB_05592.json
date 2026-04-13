@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYB_05592",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.466,
+        "format": "MP4",
+        "date": "2022-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 뭐야 야 이거 버그 아니야 퓨바만 3개 나오네 아니 장난하나.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 3개 나왔어 퓨바가 자 15만 8천 개 다 갑니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.562,
+                "end": 12.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이 정도로 나오면 퓨바를 써야 되는데 문제는 퓨바덱이 지금 아레나에서 딱히 없어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.250,
+                "end": 21.466
+            }
+        ]
+    },
+    "summary": "한 남자가 게임에서 똑같은 아이템이 3개 째 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05592_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYB_11056",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.7,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 질을 두들겨 팬 거예요 지금.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 20.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 전투에 아직 익숙하지 않은데 이거 봐 또 이상하게 싸운다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.447,
+                "end": 41.700
+            }
+        ]
+    },
+    "summary": "한 여자가 게임 속 전투를 하며 익숙치 않다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11056_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

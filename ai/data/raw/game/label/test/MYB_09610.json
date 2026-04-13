@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_09610",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.41,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.591
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.601,
+                "end": 3.740
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "먼 바다 넘어를 조사하기 위해서 만든 건데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.750,
+                "end": 6.634
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.644,
+                "end": 11.777
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "신대로를 발견하고 싶나봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.787,
+                "end": 13.345
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.355,
+                "end": 17.240
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "음 시뜨랑",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.250,
+                "end": 20.400
+            }
+        ]
+    },
+    "summary": "여자가 게임을 하면서 게임 영상을 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09610_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

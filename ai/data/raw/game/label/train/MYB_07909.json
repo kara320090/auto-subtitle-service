@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_07909",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 55.8,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.601
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "불 붙여.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.611,
+                "end": 16.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 재미없는 놈들 좀비라서 그런 가 아무 소리도 안 나네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.297,
+                "end": 23.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.083,
+                "end": 29.490
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헐 이런 소리를 기대했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.500,
+                "end": 35.087
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "존멋탱",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.097,
+                "end": 55.800
+            }
+        ]
+    },
+    "summary": "한 여성은 게임 방송을 시청자들과 함께 하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07909_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

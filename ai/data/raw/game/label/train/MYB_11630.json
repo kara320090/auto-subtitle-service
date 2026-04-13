@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_11630",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.233,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우와 아 전령 보내는 거구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.994
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 멋있다 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.004,
+                "end": 9.704
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.714,
+                "end": 21.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가다가 죽을 것 같아 매복 있을 것 같은데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.591,
+                "end": 24.982
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.992,
+                "end": 30.233
+            }
+        ]
+    },
+    "summary": "한 여성은 자신의 시청자들과 함께 게임을 하며 소통하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11630_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

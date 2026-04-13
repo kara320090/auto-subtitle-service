@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_11220",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.3,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "액션 좋고요 액션 좋고요 훌륭하고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 같이 게임 못하는 사람 대변해 주는 갓겜.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.673,
+                "end": 7.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쩐지 아저씨들이 합판을 못 놓는다고 하더라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.678,
+                "end": 19.300
+            }
+        ]
+    },
+    "summary": "액션이 좋고 훌륭하다고 하며 게임 못하는 사람도 대변해주는 게임이라고 하며 그리고 아저씨들이 합판을 못 놓는다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11220_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

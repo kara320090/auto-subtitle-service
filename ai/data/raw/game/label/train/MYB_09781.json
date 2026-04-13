@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_09781",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.484,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이따가 초코볼 있지 괜히 걸어왔네 아 나 초코볼 있는 거 자꾸 까먹는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실크 스트랜드",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.685,
+                "end": 19.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.563,
+                "end": 22.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저택이 어딨어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.785,
+                "end": 24.151
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.161,
+                "end": 32.466
+            }
+        ]
+    },
+    "summary": "초코볼 있는 걸 까먹고 걸어왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09781_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

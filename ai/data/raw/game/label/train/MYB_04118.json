@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "MYB_04118",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.233,
+        "format": "MP4",
+        "date": "2022-11-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1님 슈퍼채팅 5000원 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 세계 2등분 이렇게 쓸거면 쿨 아예 제로 만들어야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.518,
+                "end": 22.233
+            }
+        ]
+    },
+    "summary": "세계 2등분 되고 쿨을 제로로 만들 계획이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04118_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

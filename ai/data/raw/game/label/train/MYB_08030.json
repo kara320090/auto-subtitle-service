@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_08030",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 60.0,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 멋있을 수 있는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 실화냐 말레니아 좀 어렵죠 처음에 어떻게 뭘 어떻게 해야 되는지 아는 데까지 오래 걸렸어 10시간 동안 게임만 했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.102,
+                "end": 33.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개 때문에 몇 시간 했더라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.203,
+                "end": 60.000
+            }
+        ]
+    },
+    "summary": "여성이 게임을 하는데 처음에는 뭘 어떻게 하는지 몰라서 시간이 오래 걸렸다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08030_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 48,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

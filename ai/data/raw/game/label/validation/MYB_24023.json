@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_24023",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.333,
+        "format": "MP4",
+        "date": "2023-03-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 알바도 한 번씩 해야 되거든요? 근데 알바 컨텐츠가 그냥 돈 벌고 하루 지나가고 땡인 명목뿐인 컨텐츠더라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 알바를 하면서 진행되는 이야기가 후반에는 있는지 모르겠는데 리뷰로 허용된 범위 내에서는 별 의미가 없는 예 굳이 없어도 되는 컨텐츠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.910,
+                "end": 15.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개발 중간에 알바컨텐츠가 삭제된 게 아니라면은 뭐 없어도 될법한 컨텐츠가 아니었나라는 생각이 드네요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.641,
+                "end": 22.333
+            }
+        ]
+    },
+    "summary": "알바도 한 번씩 해야 하는데 돈 벌고 하루가 지나가는 거라 리뷰로 허용된 범위에서는 별 의미 없는 콘텐츠가 아닌가 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_24023_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": 38,
+                    "act": 44
+                }
+            ]
+        }
+    ]
+}

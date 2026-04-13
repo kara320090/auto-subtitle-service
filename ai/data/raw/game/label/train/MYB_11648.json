@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_11648",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 48.483,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비명 들리고 막 이랬잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.366
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.376,
+                "end": 6.085
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떡해 성우 연기 진짜 잘한다 그렇죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.095,
+                "end": 9.662
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.672,
+                "end": 23.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누가 과학실에서 인체 구도 갖다 놨냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.400,
+                "end": 27.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 아까 전에 그 피닉스랑 싸우고 있던 거잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.775,
+                "end": 43.994
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 불 타서 죽는다 다 죽었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.004,
+                "end": 48.466
+            }
+        ]
+    },
+    "summary": "한 여성은 자신의 시청자들과 함께 게임을 하며 소통하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11648_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

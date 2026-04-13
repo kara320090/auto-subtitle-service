@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_05734",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.6,
+        "format": "MP4",
+        "date": "2022-07-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어젯밤이라면 새 친구들이랑 파자마 파티를 열어서 밤새 신 나게 수다 떨었어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마음이 정말 잘 맞는 친구들을 찾은 것 같아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.550,
+                "end": 9.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일도 마법의 양탄자 놀이기구를 타러 가기로 했어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.751,
+                "end": 13.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 난 스티치쿠키랑 놀러 나갈래 스티치쿠키도 날 금방 좋아하게 될 거야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.287,
+                "end": 20.600
+            }
+        ]
+    },
+    "summary": "화자1이 화자2에게 어젯밤에 새 친구들과 파자마파티를 했다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05734_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

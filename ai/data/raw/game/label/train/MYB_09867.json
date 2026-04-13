@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_09867",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.233,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래봤자 다리 다치면 달리지 못하니 치킨이나 되겠죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.009
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 진짜 실제로 저거를 타고 다니기도 하고 먹기도 하더라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.019,
+                "end": 6.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼬꼬 꼬꼬 초코보 통구이 막 이렇게 레시피 써있었어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.560,
+                "end": 11.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼬꼬 초코보 통구이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.820,
+                "end": 13.751
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.761,
+                "end": 17.488
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 이래서 아까 전에 노르방으로 가야 되는데 노르방이 어디냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.498,
+                "end": 23.233
+            }
+        ]
+    },
+    "summary": "여자가 노르방이 어디 있는지 찾고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09867_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

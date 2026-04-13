@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_02305",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.7,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빛의 가호",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "분노를 느껴봐라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.835,
+                "end": 1.978
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내 활이 되어주렴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.988,
+                "end": 3.943
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "와 씨 무슨 시작하자마자 아 얘는 야 홀리베리 없으니까 그냥 버티질 못하네 앞에?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.953,
+                "end": 10.336
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "닉네임은 제가 이거 내기 져서 그렇습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.346,
+                "end": 12.877
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "야 진짜 홀리베리 있고 없고 차이가 이렇게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.887,
+                "end": 30.700
+            }
+        ]
+    },
+    "summary": "화자가 내기에 져서 닉네임이 이렇다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02305_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

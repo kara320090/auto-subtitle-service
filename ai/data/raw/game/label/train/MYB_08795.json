@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_08795",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.833,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이고 죽을 거 같은데?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.721,
+                "end": 6.583
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.593,
+                "end": 8.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "킷사마 아 잠깐만 아이고 잠깐만 나 마법부는 찍을라고 했었는데 아니 무슨 놈의 기사 이름이 이렇게 멋있어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.825,
+                "end": 30.316
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이카식 블랙 실드라니 내 이름보다 훨씬 멋있구만 얘들이 뭔데 이름이 멋있니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.326,
+                "end": 36.617
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어딨어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.627,
+                "end": 38.833
+            }
+        ]
+    },
+    "summary": "여성은 게임을 하며 기사 이름이 자신의 이름보다 멋있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

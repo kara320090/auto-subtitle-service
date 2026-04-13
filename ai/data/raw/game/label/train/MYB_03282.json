@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYB_03282",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.291,
+        "format": "MP4",
+        "date": "2023-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 좋은데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.352
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 아니 스킬 연계가 너무 마음에 들어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.362,
+                "end": 11.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지는 법을 모르는 덱 영상 찍는 동안 단 1번도 안 진 덱 자 그다음",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.539,
+                "end": 19.291
+            }
+        ]
+    },
+    "summary": "스킬 연계가 너무 마음에 들고 영상 찍는 동안 단 1번도 지지 않은 지는 법을 모르는 덱이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03282_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_03282_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

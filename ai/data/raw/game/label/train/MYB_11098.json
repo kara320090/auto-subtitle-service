@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_11098",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.533,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대강장에 가야 되는데 이쪽을 아직 못 봤거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "함 구경을 해 볼게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.714,
+                "end": 4.222
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.232,
+                "end": 7.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스포 당하면 다들 기분이 얹짢으니까 아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.781,
+                "end": 12.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 음유 시인",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.227,
+                "end": 14.080
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.090,
+                "end": 28.533
+            }
+        ]
+    },
+    "summary": "화자는 대강장에 가기 전 다른 쪽을 보러 가고 그곳에서 음유 시인을 만났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11098_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

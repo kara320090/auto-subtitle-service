@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_10426",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.306,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부서진거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 너무 갓겜이에요. 너무 재밌어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.264,
+                "end": 4.397
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 부서졌구나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.407,
+                "end": 27.300
+            }
+        ]
+    },
+    "summary": "여성이 게임 영상을 보며 혼잣말을 하고 하는 게임이 재미 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10426_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 11,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

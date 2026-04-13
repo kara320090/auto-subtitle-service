@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYB_10141",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.2,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.752
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얼굴에 난 거 얼굴에 문신",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.762,
+                "end": 3.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.379,
+                "end": 4.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 없애다가 죽을 확률이 높대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.955,
+                "end": 6.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.768,
+                "end": 9.299
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.309,
+                "end": 15.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 이제 이런 흉터가 가진 사람이 많으면 의심할 만도 하겠다 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.079,
+                "end": 19.073
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.083,
+                "end": 22.200
+            }
+        ]
+    },
+    "summary": "화자2가 얼굴에 흉터를 가진 사람이 많으면 의심할만하겠다고 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10141_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 69,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

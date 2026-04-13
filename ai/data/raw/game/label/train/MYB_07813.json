@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_07813",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 53.466,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 이런 거 알아야 돼. 이게 게이머들은 딱 이거에 대한 엔딩크레딧 보면서 이제 나오나보다. 이제 나오나봐.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 25.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우 꽃도 피고",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 25.940,
+                "end": 30.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으헤헤헤헤헤하하",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.492,
+                "end": 32.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.995,
+                "end": 45.984
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 45.994,
+                "end": 47.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여자 얼굴을 봐야 되는데?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 47.982,
+                "end": 53.466
+            }
+        ]
+    },
+    "summary": "20대 여성이 브금을 중간에 스킵 없이 다 듣고 나서 엔딩크레딧을 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07813_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

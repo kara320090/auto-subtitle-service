@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "filename": "MYB_10864",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.033,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네네.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.421
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 1.431,
+                "end": 5.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 정신이 안 좋으시구나.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 5.675,
+                "end": 8.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 8.080,
+                "end": 9.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네네네. 네.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 9.711,
+                "end": 12.403
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 12.413,
+                "end": 14.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나가볼게요. 나가서 찾아볼게요.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 14.113,
+                "end": 17.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.619,
+                "end": 20.033
+            }
+        ]
+    },
+    "summary": "화자1이 게임 스토리를 보며 약간 정신이 안 좋으시다는 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10864_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

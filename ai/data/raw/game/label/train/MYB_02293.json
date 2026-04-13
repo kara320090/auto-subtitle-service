@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_02293",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.4,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 야 아까 그 레전드 스킨 뽑는데 다 쓴 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 야 이거 뭔 마술도 아니고 야 이런 식으로 뜨네 자 신규 스킨 푸룬주스맛 쿠키 스킨 떴고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.009,
+                "end": 23.724
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모션 왜 저래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.734,
+                "end": 27.400
+            }
+        ]
+    },
+    "summary": "화자가 푸룬주스맛 쿠키의 스킨을 뽑았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02293_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": 43,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

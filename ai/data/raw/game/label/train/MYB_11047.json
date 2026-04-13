@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_11047",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.766,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "난이도 스토리 일걸요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저 사람은 아주 그냥 노예처럼 쓰고 있네 그쵸.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.020,
+                "end": 17.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막 대우 해주고 그게 아닌가 봐 막 노예처럼 부리나 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.128,
+                "end": 28.766
+            }
+        ]
+    },
+    "summary": "한 여자가 게임 속 스토리를 보며 이야기를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11047_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

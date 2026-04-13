@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYB_08016",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 94.866,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.315
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.325,
+                "end": 19.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.002,
+                "end": 29.253
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "동생 거기 아픈데 때리면 어떡해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.263,
+                "end": 31.981
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "마도로 가는 길 아 오딘 와 개쩐다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.991,
+                "end": 56.231
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 오딘 개 좋아보인다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 56.241,
+                "end": 68.598
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와 와 와 와",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 68.608,
+                "end": 94.866
+            }
+        ]
+    },
+    "summary": "여성이 게임 캐릭터에게 동생 아픈데 때리면 어떻게 하냐고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08016_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

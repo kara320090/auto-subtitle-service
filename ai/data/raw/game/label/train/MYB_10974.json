@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYB_10974",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.166,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 강화가 안 되고.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "말 안 통하죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.012,
+                "end": 8.325
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 마을에 이렇게 있는 앤가 봐 따라오진 않나 봐요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 8.335,
+                "end": 11.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나는 모넌할 때 저게 아이루처럼 따라다니고 이랬던 그 이미지가 있어 가지고 따라올 줄 알았는데 안 따라오대.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 12.000,
+                "end": 20.008
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 마을에 있어 마스코트 같은 건가 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 20.018,
+                "end": 25.166
+            }
+        ]
+    },
+    "summary": "20대 여성이 게임 속 캐릭터에 대해 자신이 생각했던 이미지와 다름을 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10974_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "filename": "MYB_08745",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.0,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "호라호라",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.860,
+                "end": 5.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남북동",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.653,
+                "end": 6.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.613,
+                "end": 8.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 비문을 확인해 달래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.100,
+                "end": 10.040
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.053,
+                "end": 10.399
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.409,
+                "end": 11.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오게이.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.213,
+                "end": 15.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할아버지 앙다문 입이 귀엽게 생기셨누.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.647,
+                "end": 19.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 퀘스트가 있나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.403,
+                "end": 21.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "없는 듯",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.492,
+                "end": 24.000
+            }
+        ]
+    },
+    "summary": "영상에서는 남북동에 있는 비문을 확인해 달라는 미션을 받았고 할아버지 앙다문 입이 귀엽다면서 또 퀘스트가 있는지 확인한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08745_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08745_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

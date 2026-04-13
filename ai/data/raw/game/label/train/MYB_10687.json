@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "MYB_10687",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.6,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "식사를 갖다 주래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "입구 거주 구역 지하 감옥",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.331,
+                "end": 9.396
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.406,
+                "end": 10.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하이 입구 지하 감옥 여기는 어디야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.968,
+                "end": 25.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 군데는 어디 있지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.673,
+                "end": 26.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거주 구역",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.707,
+                "end": 28.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.711,
+                "end": 39.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.854,
+                "end": 41.600
+            }
+        ]
+    },
+    "summary": "식사를 갖다 주라고 하고 입구 지하 감독 거주 구역으로 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10687_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10687_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

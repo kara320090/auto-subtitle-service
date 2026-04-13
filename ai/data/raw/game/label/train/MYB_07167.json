@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYB_07167",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.133,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한마디씩 나눠 볼까?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.325
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.335,
+                "end": 6.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 귀여워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.208,
+                "end": 9.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토르갈이 언제나 함께야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.397,
+                "end": 11.754
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.764,
+                "end": 18.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나야 줄리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.357,
+                "end": 20.133
+            }
+        ]
+    },
+    "summary": "한마디씩 나눠 보기로 하고 말을 걸었고 언제나 함께 하는 토르갈이 귀엽다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07167_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

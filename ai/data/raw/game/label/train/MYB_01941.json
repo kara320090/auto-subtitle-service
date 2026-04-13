@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_01941",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.066,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 맞습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.618
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 그런 거 라면 어쩔 수 없지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.628,
+                "end": 6.877
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "말동무가 있으면 나도 좋고 네 말이 맞아 우린 용의 협곡에 돌아왔다는 전설의 붉은 용을 찾으러 간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.887,
+                "end": 15.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 녀석 그 정도로 날뛰고 있는 거라면 가만히 둘 수는 없다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.942,
+                "end": 23.066
+            }
+        ]
+    },
+    "summary": "홀리베리 쿠키가 용의 협곡에 돌아왔다는 전설의 붉은 용을 찾으러 간다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01941_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

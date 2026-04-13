@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_01374",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.433,
+        "format": "MP4",
+        "date": "2023-07-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 슈크림 죽으면 안 되는데 야 그래도 살았다 아니야 슈크림 죽어서 아까 깼지? 잘 보세요. 여러분들",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 14.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왔습니다. 그게 왔다. 눈 뜨고 잘 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.260,
+                "end": 19.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 저 보호막이 다 깨질 때 이제 실론나이트",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.411,
+                "end": 27.433
+            }
+        ]
+    },
+    "summary": "슈크림이 살았는데 아까는 슈크림이 죽어서 게임을 깼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01374_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

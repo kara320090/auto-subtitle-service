@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_10763",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.166,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.924,
+                "end": 3.863
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 베어러라는 생명 어 사실 마법을 쓸 수 있고 이러면은 참 천대받기가 쉽지 않을 텐데 좀 희한한 세계관이네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.873,
+                "end": 14.640
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여기서 아 일로 내려가는 건가 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.650,
+                "end": 31.166
+            }
+        ]
+    },
+    "summary": "화자1은 이 게임에서 베어러가 마법을 쓸 수 있으면 천대받기가 쉽지 않을 텐데 희한한 세계관인 것 같다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10763_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

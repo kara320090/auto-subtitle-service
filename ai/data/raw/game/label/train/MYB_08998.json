@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_08998",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.133,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마법사?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 말 조심할걸. 우리방에 마법사들 많은데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.923,
+                "end": 5.724
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 내가 말실수 해버렸네. 우리방에 마법사가 이렇게 많은데 내가.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.734,
+                "end": 10.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 속도 모르고 죄송합니다. 올해는 하세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.522,
+                "end": 15.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 된김에 한 9클래스 마법사 정도 돼보자고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.050,
+                "end": 21.133
+            }
+        ]
+    },
+    "summary": "화자는 말실수를 했다고 죄송하다며 사과한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08998_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

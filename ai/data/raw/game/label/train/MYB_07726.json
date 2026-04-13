@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_07726",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.882,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직도 싸울 힘이 남았나 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.120,
+                "end": 26.630
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 사기꾼 6명이랑 싸우냐 그럼 나는?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.630,
+                "end": 30.866
+            }
+        ]
+    },
+    "summary": "게임의 마지막 보스인 알테마가 자신의 패배를 인정하지 못하고 분신 6명을 보내자 여자가 자기는 사기꾼 6명이랑 싸우냐며 짜증 내고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07726_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYB_09485",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 83.466,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 뭐냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헤 엄청 세네 이게 진짜 사기 스킬이야 너무 굿굿 너무 좋아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.540,
+                "end": 44.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 이제 리아넌 산길 사부만 찾으면 된다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 44.100,
+                "end": 56.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헤헤 리아넌 산길 어디가 산길이지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 56.746,
+                "end": 78.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리아논 산길이 어디일까요 여러분?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 78.589,
+                "end": 81.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바위산",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 81.515,
+                "end": 83.466
+            }
+        ]
+    },
+    "summary": "리아넌 산길 사부만 찾으면 되는데 어디냐고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

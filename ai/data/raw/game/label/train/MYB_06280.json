@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_06280",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.2,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집주인맛 쿠키는 잘 처리했어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.213
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게 말하니까 이상하게 들리는데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.223,
+                "end": 5.054
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 네 어쩔 수 없죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.064,
+                "end": 8.715
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "집주인맛 쿠키가 원하는 대로 코인을 낼 수밖에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.725,
+                "end": 12.950
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무튼 오늘은 감사했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.960,
+                "end": 15.922
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "초코 머드 타운에서 새로 얻은 재료와 연구 자료들을 가지고 연구에 속도를 낼 수 있을 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.932,
+                "end": 23.200
+            }
+        ]
+    },
+    "summary": "남자는 집주인이 원하는 대로 코인을 내겠다며 어쩔 수 없다는 듯이 이야기하며 연구에 속도를 내려고 하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06280_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

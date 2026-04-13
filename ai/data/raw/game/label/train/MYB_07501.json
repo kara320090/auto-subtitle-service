@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "filename": "MYB_07501",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 62.5,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.886
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.896,
+                "end": 3.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.507,
+                "end": 21.377
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돌은 돌은 왜 던지냐 그러면.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.387,
+                "end": 28.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.813,
+                "end": 30.267
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꺼져 꺼져 아니 돌 던져서 사람 머리에 피가 나고 있는데 싸우는 방법 알려달라고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.277,
+                "end": 38.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.660,
+                "end": 41.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사과가 먼저 아니에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.348,
+                "end": 43.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.547,
+                "end": 62.500
+            }
+        ]
+    },
+    "summary": "돌 던져서 사람 머리에 피가 나고 있는데 싸우는 방법 보다 사과가 먼저인 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07501_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

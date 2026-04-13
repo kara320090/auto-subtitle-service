@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_11135",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.833,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.394
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 공부는 암만 해도 시험 봐 가지고 점수가 잘 나올까 말까에다가 한 만큼 뭔가 이렇게 바로바로 성과가 안 나오는데 게임은 이제 뭐 하나 잘했으면은 뭐 미션 컴플리트 이러면서 대문짝만하게 무슨 효과 같은 거 나오고 이러니 안하고 배김?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.404,
+                "end": 23.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.423,
+                "end": 32.833
+            }
+        ]
+    },
+    "summary": "화자는 공부는 많이 해도 성과가 바로바로 안 나오지만 게임은 뭐 하나 잘하면 잘한다고 화면에 대문짝만하게 효과가 나와서 게임을 할 수 밖에 없다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

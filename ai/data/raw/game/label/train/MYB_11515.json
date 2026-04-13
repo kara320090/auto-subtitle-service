@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_11515",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.0,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.462
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 사람이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.472,
+                "end": 13.563
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.573,
+                "end": 26.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 좋은 성격을 가졌어 그치?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.017,
+                "end": 28.218
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어이없어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.228,
+                "end": 29.817
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.827,
+                "end": 33.000
+            }
+        ]
+    },
+    "summary": "한 여성이 좋은 사람이라며 좋은 성격 가졌다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

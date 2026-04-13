@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYB_03648",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2023-01-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "BTS 뽑기도 2번 여러분들 1주년 때 쿠키 뭐 나올 거 같아요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞추기 한번 예상해 보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.826,
+                "end": 7.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 일단 예시가 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.977,
+                "end": 10.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첫 번째 고대 쿠키가 나올 것이다 해서 골드 치즈 얘기가 많고 그다음에 달빛 술사가 나올 것이다 그런 얘기도 있고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.710,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "화자가 1주년 쿠키 예상으로 뭐가 나올 것 같냐고 물어보면서 골드 치즈와 달빛 술사 얘기를 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03648_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

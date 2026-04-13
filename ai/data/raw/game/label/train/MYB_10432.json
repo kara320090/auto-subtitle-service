@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_10432",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 64.266,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 이거.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헐 징그럽고 무서워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.890,
+                "end": 5.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 하체운동 하기 싫어서 잘라낸 듯이네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.528,
+                "end": 18.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 극단적이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.868,
+                "end": 22.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 나 싸우라고 지금?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.485,
+                "end": 26.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래 나 그거랑 싸우기 싫은데? 리퍼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.858,
+                "end": 61.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리퍼 나올 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 61.488,
+                "end": 64.266
+            }
+        ]
+    },
+    "summary": "여성이 혼잣말을 하며 게임을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10432_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

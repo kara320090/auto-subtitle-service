@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYB_11223",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.433,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쟤는 그 뭐라고 해야 되나 손짓 발짓 모션 모두가 간지가 나 얘가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멋있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.336,
+                "end": 9.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시트에 동료가 어디 있을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.660,
+                "end": 13.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 시드한테 미안하지만 시드 졸면 죽기 전에 화장실 가고 싶은 사람 어떻게 해요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.472,
+                "end": 27.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시드 졸기 전에 화장실 갔다올 사람 저.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.219,
+                "end": 35.433
+            }
+        ]
+    },
+    "summary": "쟤는 손짓 발짓 모션 모두가 간지가 나고 멋있다고 하며 시드 졸기 전에 화장실 갔다올 사람 본인이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11223_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_02651",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.866,
+        "format": "MP4",
+        "date": "2023-03-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "트리플 콘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.135
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리의 대표자 푸룬주스 맛 쿠키는 어디에 있죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.145,
+                "end": 5.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 뭐야? 방금 오이스터 목소리인데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.235,
+                "end": 6.909
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "최고의 마법 약 제조사를 찾으셨나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.919,
+                "end": 11.589
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "제 마법 약 효과는 확실하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.599,
+                "end": 16.422
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "특제 마법 약 나갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.432,
+                "end": 23.866
+            }
+        ]
+    },
+    "summary": "남성은 화자 2의 목소리를 듣고 오이스터 목소리라고 했고 화자 4는 자신의 마법 약 효과는 확실하다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02651_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "MYB_10050",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.4,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오골계",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 갑자기 삼계탕 먹고 싶다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.271,
+                "end": 4.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼계탕에 있는 죽",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.511,
+                "end": 6.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 2회차 세요? 아 저는 지금 아껴서 아껴서 하고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.715,
+                "end": 11.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 십육올 입문작으로 해서 너무 행복해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.666,
+                "end": 14.144
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.154,
+                "end": 18.170
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.180,
+                "end": 22.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.549,
+                "end": 23.128
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.138,
+                "end": 25.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 좋아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.673,
+                "end": 28.400
+            }
+        ]
+    },
+    "summary": "여성은 갑자기 삼계탕에 있는 죽이 먹고 싶다고 했고 2회차냐고 하면서 자기는 아껴서 아껴서 하고 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10050_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

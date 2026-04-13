@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_08455",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.766,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무기력",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.702,
+                "end": 18.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 상처 많이 받았나 보다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.390,
+                "end": 20.930
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.930,
+                "end": 24.766
+            }
+        ]
+    },
+    "summary": "게임 속 캐릭터 얘기를 듣고 진짜 상처 많이 받은 것 같다고 얘기하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08455_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

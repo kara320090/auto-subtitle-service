@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_04005",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.324,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무서울 만큼 고요해 달 빛이 눈부시게 밝네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바다요정 쿠키님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.993,
+                "end": 11.531
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바다요정 쿠키님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.541,
+                "end": 14.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당신은 눈과 함께 여행하는 정령쿠키",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.440,
+                "end": 20.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요 소르베 맛 쿠키에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.452,
+                "end": 24.324
+            }
+        ]
+    },
+    "summary": "소르베 맛 쿠키가 바다로 가 바다요정 쿠키와 만난다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

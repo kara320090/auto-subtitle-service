@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYB_08704",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.7,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 먹기 시작하면 끝도 한도 없겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 뭐가 왔는데 나중에 확인하고 휴스트하러 갑니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.080,
+                "end": 7.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크로지트 에코스.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.348,
+                "end": 10.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "출발.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.810,
+                "end": 18.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 타고 가야겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.253,
+                "end": 20.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나랑 질은 안브로시아가 있는데 과연 어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.893,
+                "end": 27.700
+            }
+        ]
+    },
+    "summary": "여자는 먹기 시작하면 끝도 없으니 나중에 확인하고 휴스트를 하겠다면서 출발이라고 언급했고 무언가를 타고 가겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08704_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08704_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYB_06278",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.733,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기를 계속 쓰고 싶으면 추가로 코인을 더 내줘야겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.248
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그런 법이 어디 있습니까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.258,
+                "end": 7.785
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "임대료는 저번에 이미 한꺼번에 드리고 떠났을 텐데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.795,
+                "end": 11.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 그 임대료 자체가 올랐다는 뜻 아니겠나?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.580,
+                "end": 16.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자네가 워낙 이름 있고 능력 좋은 마법사여서 지금껏 재촉도 하지 않고 기다렸다네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.461,
+                "end": 23.733
+            }
+        ]
+    },
+    "summary": "남자는 임대료를 한꺼번에 드렸는데 임대료가 올라서 더 주어야 한다는 말에 황당해하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06278_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

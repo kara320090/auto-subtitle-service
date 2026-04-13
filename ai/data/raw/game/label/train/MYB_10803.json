@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_10803",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.237,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까. 근데 한국에 계신 분들도 킥으로 많이 넘어갔나? 한국 스트리머들도? 미국 쪽만 많이 넘어갔겠죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.779
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.789,
+                "end": 19.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여긴가? 어디지? 저거 생선 장수고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.020,
+                "end": 27.233
+            }
+        ]
+    },
+    "summary": "한 여자가 한국 스트리머들도 킥으로 많이 넘어갔는지 궁금해하며 미국 쪽만 많이 넘어갔지 않겠냐고 말하며 어디로 가야 할지 찾으면서 저건 생선 장수라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10803_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

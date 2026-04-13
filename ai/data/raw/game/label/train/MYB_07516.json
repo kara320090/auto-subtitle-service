@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYB_07516",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.433,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 싸우는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.525,
+                "end": 9.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 딱 보니까 싸워도 되게 생겼네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.760,
+                "end": 13.811
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 니 유언이냐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.821,
+                "end": 19.139
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "날아오르라 주작이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.149,
+                "end": 22.643
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "환상의 날개 날아오르라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.653,
+                "end": 34.185
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이스 아메리카노입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 34.195,
+                "end": 37.433
+            }
+        ]
+    },
+    "summary": "게임 캐릭터를 딱 보니까 싸워도 되게 생겼고 날아오르라 주작이여라는 노래를 부른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07516_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_04006",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.617,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 뭔가 방해했나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.884
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지 않아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.894,
+                "end": 4.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그저 기다리던 밤을 기쁘게 맞이하고 있었을 뿐 한적한 이곳에는 어떤 일로?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.540,
+                "end": 13.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서리여왕 쿠키님의 부탁을 받고 왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.349,
+                "end": 17.617
+            }
+        ]
+    },
+    "summary": "소르베 맛 쿠키가 바다 요정 쿠키를 만나 서리 여왕 쿠키의 부탁을 받고 왔다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04006_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

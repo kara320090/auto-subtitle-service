@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "MYB_08237",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.666,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주시아는 안 죽었을 것 하긴 하는데.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.532
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 2.542,
+                "end": 3.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헤헤.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 3.677,
+                "end": 4.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 4.650,
+                "end": 12.428
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 12.438,
+                "end": 22.666
+            }
+        ]
+    },
+    "summary": "20대 여성이 영상을 보면서 캐릭터 주시아는 안 죽었을 것이라고 하긴 한다고 걱정하면서 말을 하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08237_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 30,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

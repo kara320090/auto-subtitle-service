@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_09107",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.3,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안되는 데 @이름1 죽으면 아 너는 뭐야?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.827,
+                "end": 8.875
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 귀여워.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.537,
+                "end": 10.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 이 이런 대화를 하려고 지금 이런 대화칸을 만들어 놓은 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.380,
+                "end": 16.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아 척추 수술 2400만 원 똑바로 앉아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.732,
+                "end": 22.984
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 어이없네?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.994,
+                "end": 24.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만반의 준비를 한다 이거지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.013,
+                "end": 28.300
+            }
+        ]
+    },
+    "summary": "여성이 이름1이 죽으면 안 된다고 하며 이런 대화를 하려고 대화칸을 만든 거냐고 하다가 척추 수술이 2400만 원이라고 하면서 똑바로 앉으라고 하고 만반의 준비를 한다고 하며 어이가 없다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09107_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

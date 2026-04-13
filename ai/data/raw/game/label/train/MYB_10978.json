@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYB_10978",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.9,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 맞아 맞아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.997,
+                "end": 18.985
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 말이 딱 맞는 거 같아 조금 뭔가 감정 연기보다는 그냥 자막에 의존해서 내가 받아들여야 하는?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.995,
+                "end": 31.977
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 약간 그 어순이 다르잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.987,
+                "end": 36.900
+            }
+        ]
+    },
+    "summary": "20대 여성이 어순이 다르기 때문에 자막에 의존해서 스스로 감정을 받아들여야 하는 것 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10978_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

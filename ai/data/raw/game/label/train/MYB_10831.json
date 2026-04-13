@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "filename": "MYB_10831",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 59.3,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.918
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.928,
+                "end": 11.580
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이게 다 패츠 때문이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.576,
+                "end": 15.892
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.902,
+                "end": 19.410
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "집에 가서 독 먹이려는 거 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.410,
+                "end": 21.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.196,
+                "end": 28.048
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "집에 가면은 밥 먹고 있으면은 한국 그 군인들이 쳐들어오는 거 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.048,
+                "end": 37.530
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "의심.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 37.530,
+                "end": 41.180
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 너무 좋다 이거 배경 화면으로 해 놓고 싶다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 41.180,
+                "end": 44.635
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.645,
+                "end": 59.300
+            }
+        ]
+    },
+    "summary": "게임 속 캐릭터가 집에 가면 독을 먹이거나 군인들이 쳐들어오는 거 아닌지 화자3은 의심스럽다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10831_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10831_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

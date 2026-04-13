@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_01772",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.3,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계약을 되돌린다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용언의 대가로 받은 쿠키 영웅 이야기들은 각자 영웅의 빛므로 빛어진 소울잼에 그 진실이 담겨있지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.233,
+                "end": 12.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "각 영웅의 이야기의 진실이 유효하지 않으면 그 이야기의 대가로 내어준 용언을 빼앗아올 수 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.800,
+                "end": 23.300
+            }
+        ]
+    },
+    "summary": "게임 속 인물들이 서로 대화하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01772_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

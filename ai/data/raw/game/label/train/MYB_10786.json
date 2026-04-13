@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYB_10786",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.368,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아. 누군지 알고 있었구나? 대박.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.731,
+                "end": 6.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.733,
+                "end": 10.208
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떡해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.218,
+                "end": 12.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.080,
+                "end": 15.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 어떡해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.917,
+                "end": 17.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.892,
+                "end": 26.555
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이거 진짜 이거 한 판 할 때마다 하루에 한 번씩 눈물 터지네?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.565,
+                "end": 32.366
+            }
+        ]
+    },
+    "summary": "한 여자가 누군지 알고 있었다며 대박이라고 하고 한 판 할 때마다 하루에 한 번씩 눈물 터진다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10786_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

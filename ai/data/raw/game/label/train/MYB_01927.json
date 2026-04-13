@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYB_01927",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.842,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아주 뜨거운 불길과 용암으로 뒤 덮힌 험난한 협곡이 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전설의 붉은 용이 잠들어있다는 소문이 도는 이곳을 쿠키들은 용의 협곡이라고 불렀습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.948,
+                "end": 19.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수많은 모험가 몬스터 사냥꾼들이 용을 찾아 탐험을 떠났지만",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.767,
+                "end": 26.833
+            }
+        ]
+    },
+    "summary": "전설의 붉은 용이 잠들어있다는 용의 협곡을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01927_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

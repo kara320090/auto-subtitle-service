@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_03700",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.427,
+        "format": "MP4",
+        "date": "2022-12-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단 찰스같은 경우에는 피감이 엄청나게 높을 필요가 없어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "40퍼센트대 이걸로 해도 이기는데 문제 없었고 쿨 타임은 5퍼센트 가까이 그냥 맞춰졌고 공속도 4에서 5퍼센트 맞춰주면 될 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.305,
+                "end": 11.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크로티드 같은 경우에는 올 쿨 뭐 25퍼센트로 맞췄는데 힘들다 하시는 분들은 20, 20퍼센트까지 뭐 맞춰 보시면 될 것 같고 쿨 타임은 22퍼센트 뭐 후반 정도",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.742,
+                "end": 24.416
+            }
+        ]
+    },
+    "summary": "한 남성이 게임을 하면서 게임상의 캐릭터인 찰스는 피해감소가 40퍼센트대였고 이걸로도 이기는 데 문제없었다고 한다. 쿨 타임은 5퍼센트대, 공격 속도는 4에서 5퍼센트 맞춰주면 될 것 같다고 한다. 크로티드라는 캐릭터는 피해감소는 25퍼센트로 맞췄는데 20퍼센트도 괜찮다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03700_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

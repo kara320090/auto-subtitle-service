@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_11600",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.866,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왕이 되면 의심 때문에 다 쳐내구 혼자서 잡일까 다해. 밥도 직접 차려먹음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 스콜라 때문이야 다. 다 스콜라 때문임. 암튼 그럼. 학습되었다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.554,
+                "end": 13.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 화면에서 늘 님들이 했던 말. 또 속니 @이름1야? 아이구 @이름1야 또 속냐. 음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.523,
+                "end": 23.866
+            }
+        ]
+    },
+    "summary": "의심은 스콜라 때문에 학습되어서 그렇다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11600_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

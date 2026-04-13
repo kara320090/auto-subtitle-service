@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_05443",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.833,
+        "format": "MP4",
+        "date": "2022-08-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 젤리베리가 좀 많긴 하네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이 정도 가지고는 뭐 사연으로 보내 주실 분은 아니고 자 이겁니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.137,
+                "end": 8.065
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문제의 재고 자 우유가 9999로 표기되어 있는데 한번 볼게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.075,
+                "end": 13.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도대체 얼마나 많길래 우유가 저 정도까지 되었나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.684,
+                "end": 18.833
+            }
+        ]
+    },
+    "summary": "문제의 재고는 우유로 현재 9999로 표기되는데 얼마나 많은 우유를 보유하고 있는지 한번 보도록 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05443_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 24,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

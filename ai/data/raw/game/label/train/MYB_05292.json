@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "MYB_05292",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.366,
+        "format": "MP4",
+        "date": "2022-09-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 9월 6일 업데이트 영상과 그다음 업데이트 공지가 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 영상 함께 같이 보고 공지도 같이 보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.721,
+                "end": 24.366
+            }
+        ]
+    },
+    "summary": "화자가 9월 6일 업데이트 공지와 영상이 나왔다며 같이 보자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05292_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

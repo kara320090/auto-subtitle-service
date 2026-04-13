@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_02003",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.2,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모집된 병력을 토벌에 쓸지 도시 방비나 대피에 이용할지 의견이 분분합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.778
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약 토벌대가 토벌에 성공하지 못한다면 드래곤시티는 무방비 상태가 될지도 모르니까요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.788,
+                "end": 15.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.972,
+                "end": 17.200
+            }
+        ]
+    },
+    "summary": "드래곤 토벌에 실패할 경우 도시가 무방비 상태가 될 수도 있어 병력을 토벌에 쓸 지 방비나 대피에 쓸지 의견이 다르다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

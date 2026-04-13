@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_10032",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.466,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "옆에서 마물 죽이고 바로 옆에 있는 꽃 꺾고 앉아있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.525
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.535,
+                "end": 19.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멋있다. 클라이브",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.467,
+                "end": 21.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.414,
+                "end": 25.847
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.857,
+                "end": 27.466
+            }
+        ]
+    },
+    "summary": "여성은 남성의 행동을 보고 옆에서 마물 죽이고 꽃을 꺾고 있다고 했고 클라이브가 멋있고 좋다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10032_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

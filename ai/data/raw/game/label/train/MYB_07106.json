@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_07106",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.3,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 몇 번 죽고 갈수 있겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 그래도 컴퓨터 새로 샀잖아요. 그런 느낌이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.138,
+                "end": 8.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 사도 된다는 거 플스가 다 해결이 된다는 거 확실히 그런 거 타협해서 하다가 플스 보면 눈이 약간 개안돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.240,
+                "end": 19.300
+            }
+        ]
+    },
+    "summary": "여성은 컴퓨터 새로 안 사도 되고 플스가 다 해결이 된다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07106_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

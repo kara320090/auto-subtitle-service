@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_09434",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.6,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러게 @이름1가 먹혔나?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 @이름1가 사념이 움직이기 시작했다 막 이런 말 했거든요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.921,
+                "end": 17.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 뭐야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.508,
+                "end": 20.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아버지잖아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.706,
+                "end": 22.600
+            }
+        ]
+    },
+    "summary": "사념이 움직이기 시작했다 이런 말을 했는데 아버지라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

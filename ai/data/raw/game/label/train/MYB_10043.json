@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_10043",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.8,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘도 정말 정의롭게 살았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주님 정의로운 도적이 되는 걸 허락해주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.484,
+                "end": 8.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "악당 @이름1",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.395,
+                "end": 11.695
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.705,
+                "end": 20.488
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.498,
+                "end": 23.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.689,
+                "end": 26.800
+            }
+        ]
+    },
+    "summary": "여성은 오늘도 정의롭게 살았다고 했고 주님께 정의로운 도둑이 되는 걸 허락해 달라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10043_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

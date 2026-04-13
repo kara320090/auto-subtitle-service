@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYB_07831",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.6,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 이 그 하늘이 이상한 색깔 되고 나서 땅이랑 다 너무 핑크핑크해져 가지고 눈이 좀 아파요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.302,
+                "end": 16.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.813,
+                "end": 18.821
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.831,
+                "end": 20.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대가 안 좋았다. 포기할 수 밖에 없었네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.468,
+                "end": 24.600
+            }
+        ]
+    },
+    "summary": "20대 여성이 게임 속 하늘이 이상해진 이후로 화면이 핑크색이 되어서 눈이 좀 아프다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07831_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

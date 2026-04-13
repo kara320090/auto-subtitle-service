@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_05942",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.266,
+        "format": "MP4",
+        "date": "2022-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 요렇게 이기는 그림",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 에스프레소 이번에 마법 사탕이 새롭게 출시 되어서 정말 티어가 떡상했습니다. 원래 티어는 거의 쓰이지 않는 급이었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.455,
+                "end": 16.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모든 유저한테 버림받은 쿠키인데 여유가 있는 분들은 강화해서 쓰면 아레나나 스토리나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.231,
+                "end": 24.266
+            }
+        ]
+    },
+    "summary": "에스프레소는 모든 유저에게 버림받은 쿠키인데 마법 사탕이 새롭게 출시되면서 떡상했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05942_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_03459",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.333,
+        "format": "MP4",
+        "date": "2023-01-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "낫 보물도 나쁘지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모노클 레벨이 너무 낮거나 아니면 좀 공격적으로 세팅하실 분들은 낫으로 가보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.022,
+                "end": 9.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자주 가요 낫으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.785,
+                "end": 13.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대가 서리 있으면은 가급적이면은 그냥 모노클 들고 가는 게 좋을 거 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.935,
+                "end": 26.333
+            }
+        ]
+    },
+    "summary": "발화자가 낫 보물로 자주 가긴 하지만 상대가 서리가 있으면 모노클을 들고 가는 게 좋다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03459_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

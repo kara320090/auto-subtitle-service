@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_03443",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.191,
+        "format": "MP4",
+        "date": "2023-01-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 3만 원 채우자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3만 원 채우자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.872,
+                "end": 4.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 깔끔하게 3만 원 채워 볼게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.641,
+                "end": 10.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 이거를 진짜 이거",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.302,
+                "end": 25.191
+            }
+        ]
+    },
+    "summary": "발화자가 깔끔하게 3만 원 채우겠다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03443_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

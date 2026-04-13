@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_01582",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.833,
+        "format": "MP4",
+        "date": "2023-06-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘는 완전 그냥 이벤트 보스용으로 나온 쿠키죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 타르트는 그냥 이벤트 보스용이다 그렇게 보시면 돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.417,
+                "end": 14.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 토벌에서나 다른 데에서는 쓰이지 않고 있으니까 급하게 지금 당장 쓰이진 않고 있어서 스타더스트가 왜 전 안 나올까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.092,
+                "end": 24.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 나오는 게 정상이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.245,
+                "end": 27.833
+            }
+        ]
+    },
+    "summary": "타르트는 토벌에서나 다른 데에서는 쓰이지 않고 이벤트 보스용으로 나온 쿠키이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01582_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

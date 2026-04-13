@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYB_09306",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.7,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 하고 계신 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.858,
+                "end": 8.600
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.610,
+                "end": 17.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 컷 신 자연스럽게 이어지는 거 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.560,
+                "end": 26.529
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보통은 여기서 다른 게임 같으면 여기서 숙부님은 뭘 하고 한 다음에 바로 딱 요렇게 넘어와서 저 NPC가 지나가는 장면 같은 거 생략할 텐데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.539,
+                "end": 37.700
+            }
+        ]
+    },
+    "summary": "타 게임을 보면 숙부님의 얘기가 끝난 후에 캐릭터가 넘어오고 NPC가 지나가는 장면이 없는데 이 게임은 컷 신이 자연스럽게 이어진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09306_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 10,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

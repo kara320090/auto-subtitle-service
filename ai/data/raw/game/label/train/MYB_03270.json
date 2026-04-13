@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_03270",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.327,
+        "format": "MP4",
+        "date": "2023-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 뭐 정리를 한 바퀴 쭉 했어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스토리, 쿠키, 토핑, 보물 어떤 거 쓰면 좋은지 추천까지 조금 팁을 나열해 봤습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.660,
+                "end": 27.327
+            }
+        ]
+    },
+    "summary": "스토리, 쿠키, 토핑, 보물 어떤 거 쓰면 좋은지 추천까지 팁을 나열했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03270_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_03270_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

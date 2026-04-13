@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_02292",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.833,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 빨리 나와줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.861
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "0.1퍼센트였어 아까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.871,
+                "end": 4.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 0.1을 내가 뽑은 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.642,
+                "end": 6.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어마무시한 확률인데 아니 야 이거 확률 빡센데 역시나 뽑기 힘들어 야 너무 안 나온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.465,
+                "end": 26.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 하나 뽑고 갈게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.360,
+                "end": 28.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 야 나만 이렇게 안 나와?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.883,
+                "end": 32.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 안 나오네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.218,
+                "end": 34.833
+            }
+        ]
+    },
+    "summary": "화자가 확률이 낮고 너무 안 나온다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02292_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": 43,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

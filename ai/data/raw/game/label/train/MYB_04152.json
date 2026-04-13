@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_04152",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.8,
+        "format": "MP4",
+        "date": "2022-11-28",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쿠키들의 웃음 소리",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.950
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번에 나오는 또 이벤트로 나오는 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.950,
+                "end": 10.559
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 음식을 만드는 그런 미니 게임 같은 컨텐츠가 나오는 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.570,
+                "end": 17.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행복은 어디에나 존재하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.000,
+                "end": 21.800
+            }
+        ]
+    },
+    "summary": "한 여성이 노래를 부르고 한 남성이 쿠키런 영상을 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04152_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

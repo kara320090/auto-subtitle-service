@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYB_11280",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.333,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강아지도 밤에 잠잔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.023
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람와 함께 살아간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.033,
+                "end": 4.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "귀엽겠죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.449,
+                "end": 5.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 그래서 한번에 큰 돈 쓰고 나면은 꼭 엄마한테 전화해서 돈 썼다고 말해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.878,
+                "end": 11.901
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 돈 큰 거 쓰고 나면은 막 죄 지은 것 같고 왜 그런지 모르겠어요 왜 그럴까요 그 심리가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.911,
+                "end": 25.333
+            }
+        ]
+    },
+    "summary": "강아지도 귀엽게 밤에 잠잔다고 하며 그리고 본인은 한번에 큰 돈 쓰고 나면 엄마한테 전화 한다며 꼭 죄 짓는 기분이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11280_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_11675",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.7,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 이걸로 전환한다고?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.071,
+                "end": 9.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타이탄 블록 피니스 시프트 가루다 인브레이스 세 개네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.465,
+                "end": 13.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 봐 얘 왜 피하는 데 나를 다 컸네 강아지 아니 기억이 안 나서 아 티읕이 들어갔던데 하고 막 그러고 있다가 입에 나온 게 그 말이었는데 죄송해요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.947,
+                "end": 31.700
+            }
+        ]
+    },
+    "summary": "한 여성은 자신의 시청자들과 함께 게임을 하며 소통하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11675_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

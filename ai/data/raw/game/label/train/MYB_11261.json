@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYB_11261",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.3,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋아요 근데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.180,
+                "end": 18.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.403,
+                "end": 22.300
+            }
+        ]
+    },
+    "summary": "게임속 아바타 둘이 대화를 하는 것을 보고 좋다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

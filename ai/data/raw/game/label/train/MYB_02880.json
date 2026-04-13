@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "MYB_02880",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.4,
+        "format": "MP4",
+        "date": "2023-02-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "은색 갑옷의 맹세를 잊지 마라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 뭐야 더블 나왔어. 자 이제 밀키 3성으로 갈게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.363,
+                "end": 9.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 뭐야 이 분. 몰아서 나오네. 다음 신쿠 업데이트언제 예상 하시나요? 여기 보이죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.678,
+                "end": 16.236
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "12일 이제 얼마 안남았어 사실.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.246,
+                "end": 20.400
+            }
+        ]
+    },
+    "summary": "화자는 업데이트 예상 날짜를 물어보자 얼마 남지 않았다고 답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02880_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

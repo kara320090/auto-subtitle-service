@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_08656",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.7,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남자들이 들으면은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.289,
+                "end": 10.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.666,
+                "end": 12.028
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "개빡치는 말 찌질하다 얌 얌체같다?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.038,
+                "end": 16.531
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.541,
+                "end": 19.661
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쪼잔하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.671,
+                "end": 20.711
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.721,
+                "end": 22.700
+            }
+        ]
+    },
+    "summary": "화자가 남자들이 열받는 말에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08656_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

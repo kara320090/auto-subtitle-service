@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYB_02035",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.4,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "홀리베리 쿠키님 오랜만에 내기 하시겠습니까?",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누가 더 많은 몬스터를 잡는지",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 5.203,
+                "end": 9.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하하하 좋아 진짜 옛날 생각나네.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 9.350,
+                "end": 14.928
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와일드베리맛 쿠키 너는 다른 토벌대원들과 함께 드래곤 시티에 남도록 해.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 14.938,
+                "end": 22.400
+            }
+        ]
+    },
+    "summary": "홀리베리 쿠키가 타르트타탕맛 쿠키와 몬스터를 누가 많이 잡는지 내기를 하고 와일드베리 쿠키에게 드래곤시티에 남으라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02035_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

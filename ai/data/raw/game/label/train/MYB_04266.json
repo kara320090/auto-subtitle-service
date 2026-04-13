@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_04266",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.933,
+        "format": "MP4",
+        "date": "2022-11-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 요것도 하나 더 구매할게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고기 젤리는 딱 정확히 2번까지 사시면 됩니다 사고 싶으신 분들은 세 번째는 효율이 정말 떨어져요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.866,
+                "end": 22.933
+            }
+        ]
+    },
+    "summary": "고기 젤리는 세 번째 가면 효율이 떨어져서 2번까지 사면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04266_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

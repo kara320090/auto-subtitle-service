@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_05003",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.9,
+        "format": "MP4",
+        "date": "2022-09-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 또 서리야 야 어제부터 내가 서리 지금 다섯 번째인가 여섯 번째야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 무슨 서리 저주 걸렸나 이거?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.282,
+                "end": 11.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 어제부터 나 서리가 지금 네 번째인가 다섯 번째예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.751,
+                "end": 15.396
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "레전더리 쿠키 나왔는데 아니 진짜 이게 웬일이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.406,
+                "end": 20.900
+            }
+        ]
+    },
+    "summary": "남자는 레전더리 쿠키가 나왔는데 어제부터 계속 서리만 다섯 번째 나왔다며 저주 걸린 거 아니냐고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

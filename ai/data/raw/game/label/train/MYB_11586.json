@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_11586",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.034,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공중에서 공격하는 거. 점프하고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지상에서 네 번 공격하기.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.901,
+                "end": 5.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회피.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.346,
+                "end": 6.797
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지상에서 공중으로 뛰어오르기.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.807,
+                "end": 11.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공격이 닫기 전에 회피하기. 이런 식인가 봐. 152포인트.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.112,
+                "end": 15.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 지상에서 엑스 아 단숨에 다가가 공격한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.711,
+                "end": 23.033
+            }
+        ]
+    },
+    "summary": "점프해서 공중에서 공격하기, 지상에서 4회 공격하기, 회피, 지상에서 공중으로 점프하기, 공격이 닫기 전에 회피, 지상에서 단숨에 다가가 공격하기가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11586_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_10800",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.933,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거기도 진짜 애집니다. 지금은 트위치 생방송은 좀 이게 해상도가 떨어지잖아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 위에 어떻게 올라가지? 다시 올라가서 가야 되겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.550,
+                "end": 23.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 다시 보기 영상만 봐도 눈이 약간 개안되는 느낌이에요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.219,
+                "end": 29.933
+            }
+        ]
+    },
+    "summary": "한 여자가 트위치 생방송은 좀 이게 해상도가 떨어진다고 하고 어떻게 올라가야 하나하고 말하고 다시 보기 영상만 봐도 눈이 개안되는 느낌이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10800_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

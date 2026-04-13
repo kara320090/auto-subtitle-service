@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_01942",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.433,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "홀리베리 쿠키님 저 쪽에서 더 옵니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.588
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "베리 숲의 몬스터라면 내 손바닥 안이라고 와일드맛 쿠키 네 실력도 보여주겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.598,
+                "end": 11.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맡겨주십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.284,
+                "end": 13.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "생각보다 쉬운 상대들은 아니군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.013,
+                "end": 16.791
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐야 와일드베리맛 쿠키 벌써 지친 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.801,
+                "end": 21.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 게 아닙니다 단지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.246,
+                "end": 24.433
+            }
+        ]
+    },
+    "summary": "와일드베리맛 쿠키와 홀리베리맛 쿠키가 베리숲의 악당들을 물리치고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01942_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

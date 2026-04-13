@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_04202",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.9,
+        "format": "MP4",
+        "date": "2022-11-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에클레어는 뽑아야 되겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.155
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "언제나 박물관의 문은 활짝 열려있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.165,
+                "end": 7.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1님 곰젤리 왕국 패키지 생겼는데 가성비요 이름만 들어도 가성비 안 좋을걸요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.047,
+                "end": 12.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아유 이거 효율 나빠요 사지 마세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.800,
+                "end": 15.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사지마 사지마",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.928,
+                "end": 18.900
+            }
+        ]
+    },
+    "summary": "곰젤리 왕국 패키지는 효율이 나빠서 사지 말라고 권한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04202_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_00841",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.666,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정답은 일단 써 봐야 된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋았어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.118,
+                "end": 6.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크림 옆자리 용과 아닌가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.169,
+                "end": 7.924
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "글쎄 용과 쓰기보다는 뒤쪽에 차라리 이제 생존이 높아진 바다요정을 쓰는 게 더 좋지 않을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.934,
+                "end": 16.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바다요정도 안 죽을 것 같은데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.011,
+                "end": 18.666
+            }
+        ]
+    },
+    "summary": "한 남성이 크림의 옆자리는 바다요정이 좋을 것 같다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_00841_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

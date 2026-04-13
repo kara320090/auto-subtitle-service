@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_07901",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 55.2,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동굴이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 우와 근데 왜 오크족은 아카시아 병사로 안 만들지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.738,
+                "end": 35.579
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.589,
+                "end": 39.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 국민이랄 게 없다 국민이고 뭐고 없어 그냥 다 몬스터야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.672,
+                "end": 45.893
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.903,
+                "end": 55.200
+            }
+        ]
+    },
+    "summary": "한 여성은 게임 방송을 시청자들과 함께 하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07901_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

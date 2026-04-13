@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_09662",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.766,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.033
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.043,
+                "end": 2.882
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "봄도 아 진짜 계속 듣고 그러면 영어도 귀가 트이고 일본어도 귀가 트인다는데 내가 너무 씹덕 영도를 많이 봤나봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.892,
+                "end": 18.231
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대충 알아들음.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.241,
+                "end": 20.046
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.056,
+                "end": 25.766
+            }
+        ]
+    },
+    "summary": "여자가 게임을 하면서 영어나 일본어를 많이 들으면 귀가 트인다고 하는데 대충 알아듣는다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09662_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

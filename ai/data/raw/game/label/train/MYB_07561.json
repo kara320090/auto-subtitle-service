@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYB_07561",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.333,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.732
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.742,
+                "end": 11.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.219,
+                "end": 30.286
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 이거 보고서다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.296,
+                "end": 35.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.436,
+                "end": 38.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "삼석은 죽었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.827,
+                "end": 40.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유물의 습격으로 잘 묻어주고 왔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.989,
+                "end": 44.333
+            }
+        ]
+    },
+    "summary": "이건 보고서고 삼석은 유물의 습격으로 죽었고 잘 묻어주고 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07561_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_09240",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 61.033,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "드디어 새로운 지역으로 가는고만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사막이래요 이제.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.019,
+                "end": 10.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.592,
+                "end": 61.033
+            }
+        ]
+    },
+    "summary": "발화자가 드디어 새로운 곳으로 이동한다면 설명하며 직접 게임을 하고 보여주는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09240_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

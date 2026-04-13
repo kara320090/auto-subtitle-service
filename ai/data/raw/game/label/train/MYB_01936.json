@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01936",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.766,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋았어 준비 완료다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베리숲 여관 주인장 말로는 용의 협곡에 전설의 용이 돌아왔다고 했지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.390,
+                "end": 9.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용의 협곡의 붉은 용이라면 분명 그치만 그 녀석은 힘없는 쿠키들을 아무렇게나 불태우는 건 취향이 아닐 텐데 말이지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.371,
+                "end": 22.766
+            }
+        ]
+    },
+    "summary": "홀리베리맛 쿠키가 용의 협곡에 전설의 용이 돌아왔다는 소식을 듣고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01936_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

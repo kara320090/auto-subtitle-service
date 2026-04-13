@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_04505",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.466,
+        "format": "MP4",
+        "date": "2022-11-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이 어디까지 다 따라하는 거야 아 세상에나 진짜 자 8번 제가 갔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이렇게 망치 한 마리 뽑았잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.887,
+                "end": 13.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 고급으로 가시면 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.628,
+                "end": 15.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "굳이 추가로 하실 필요 없어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.022,
+                "end": 19.466
+            }
+        ]
+    },
+    "summary": "화자가 8번으로 갔다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

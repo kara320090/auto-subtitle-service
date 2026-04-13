@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_09755",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.2,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.295
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.305,
+                "end": 8.302
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "흑기사가 멋있다고 생각을 하나 보다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.312,
+                "end": 12.904
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.914,
+                "end": 15.083
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 그러니까요 어 맞어 맞어 그러네 아 다 죽은 줄 알았는데 진짜 그러고 보니까 아빠 빼고 다 살았네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.093,
+                "end": 24.200
+            }
+        ]
+    },
+    "summary": "죽은 줄 알았는데 아빠 빼고 다 살았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09755_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

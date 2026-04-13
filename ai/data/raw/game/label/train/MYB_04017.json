@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_04017",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.465,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "숲에 불이 난 것도 어쩌면 따라오거라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "천년나무 쿠키에게 안내해주지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.638,
+                "end": 6.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 난 바람궁수 쿠키라고 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.431,
+                "end": 10.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우와 미로의 숲에 이렇게 깊숙히 들어온 건 처음이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.686,
+                "end": 16.759
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 커다란 나무가 바다요정 쿠키님이 말해준 신성한 고목인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.769,
+                "end": 22.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "큰 나무를 끼고 돌다 보면 천년나무 쿠키를 만날 수 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.672,
+                "end": 27.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니 아 엄",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.396,
+                "end": 32.465
+            }
+        ]
+    },
+    "summary": "바람궁수 쿠키가 본인을 소개하고 큰 나무를 끼고 돌다보면 천년나무 쿠키를 만날 수 있다고 알려주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04017_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

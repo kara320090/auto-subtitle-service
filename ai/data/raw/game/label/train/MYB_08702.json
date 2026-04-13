@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "filename": "MYB_08702",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.966,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.701
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.711,
+                "end": 2.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "든든하누",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.166,
+                "end": 3.150
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.200,
+                "end": 5.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스버 휴먼 진치 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.430,
+                "end": 10.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "슈퍼 휴먼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.137,
+                "end": 11.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 목소리를 왜 이렇게 웃기냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.873,
+                "end": 13.370
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.440,
+                "end": 14.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로도 자기 마음대로 살 거래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.760,
+                "end": 16.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마음대로 여기서 지내고 살 거래요",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.906,
+                "end": 21.966
+            }
+        ]
+    },
+    "summary": "여자는 영상 속 목소리가 웃기다면서 앞으로도 이곳에서 마음대로 살겠다는 얘기를 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08702_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08702_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

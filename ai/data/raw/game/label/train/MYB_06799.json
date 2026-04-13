@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_06799",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.1,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고맙다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니 그러니 그만 내 삶에서 사라져다오 괴물들아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.545,
+                "end": 6.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크리스티나 님 만두 먹다 입을 데어가지고 발음이 안 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.512,
+                "end": 12.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "죽었군 통쾌할 줄 알았는데 마냥 그렇진 않아서 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.645,
+                "end": 20.100
+            }
+        ]
+    },
+    "summary": "여성이 입을 다쳐서 발음이 잘 안 된다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06799_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

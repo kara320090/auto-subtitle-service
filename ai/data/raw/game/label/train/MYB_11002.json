@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYB_11002",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.966,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "포도밭에 있는 마물 좀 죽여줘라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오키 고탕 농장임.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.060,
+                "end": 6.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가는 길인데 잘 됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.273,
+                "end": 8.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 근데 이런 데가 있는 지는 몰랐네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.434,
+                "end": 19.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와인 만드는 방법같은 게 써 있고 여기는 이제 어 안 가지네 나가는 길은 없나 부네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.088,
+                "end": 39.966
+            }
+        ]
+    },
+    "summary": "게임 플레이어가 포도밭 마물을 죽이기 위해 고탕 농장으로 가고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

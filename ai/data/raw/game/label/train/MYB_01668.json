@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_01668",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.233,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 활이 되어주련.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 채팅 연동이요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.065,
+                "end": 4.669
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 저거 이제 다시 해볼까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.679,
+                "end": 8.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 채팅 연동 그것도 다시 해볼게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.300,
+                "end": 11.074
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 이제 고쳐졌나 보네?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.084,
+                "end": 17.233
+            }
+        ]
+    },
+    "summary": "남성이 채팅 연동이 고쳐졌냐며 다시 해본다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01668_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 70,
+                    "act": 91
+                }
+            ]
+        }
+    ]
+}

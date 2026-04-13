@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_11422",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.933,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "댕댕이 발바닥 귀여워.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 재밌어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.452,
+                "end": 16.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보통 파판은 시리즈가 몇 년에 한 번 나오나요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.516,
+                "end": 21.933
+            }
+        ]
+    },
+    "summary": "파판은 보통 시리즈가 몇 년에 한 번 나오는지 물어봅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11422_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_08080",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.266,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엘리시아 약을 쓰면",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고통을 덜어주려고 엘리시아 약을 쓰려고 했나봐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.892,
+                "end": 18.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새로 만들어야 해.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.376,
+                "end": 19.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "클라나도 봤을 때 예전에 예전 직장 40대 과장님이 폐암 말기로 돌아가셔서 장례식장 갔다 왔을 때 바리무당령전 했을 때 말고는 물어보지 않아서요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.780,
+                "end": 32.266
+            }
+        ]
+    },
+    "summary": "한 여성의 게임 방송 구독자가 클라 나도 봤을 때 예전 직장 과장님이 폐암 말기로 돌아가셔서 장례식장 갔다 왔을 때 바리무당령전 했을 때 말고는 물어보지 않았다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

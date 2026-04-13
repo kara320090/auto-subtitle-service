@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_03284",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.958,
+        "format": "MP4",
+        "date": "2023-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 너무 사기 아닙니까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 끝판 보스랑 한번 가보겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.076,
+                "end": 6.382
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보스와의 대결 과연 여기에서도 과연 빛을 발할지 과",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.392,
+                "end": 27.958
+            }
+        ]
+    },
+    "summary": "끝판 보스와의 대결에서도 과연 빛을 발할지 지켜본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03284_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_03284_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

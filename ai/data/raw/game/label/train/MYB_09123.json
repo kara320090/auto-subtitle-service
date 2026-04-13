@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYB_09123",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.102,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기서 기운을 많이 빼면 안 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.734
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.744,
+                "end": 5.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러게 점점 강해지고 있네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.169,
+                "end": 7.128
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.138,
+                "end": 12.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하이 하이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.404,
+                "end": 12.978
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.988,
+                "end": 14.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 방금 뭐 먹었는지 확인하고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.791,
+                "end": 24.100
+            }
+        ]
+    },
+    "summary": "여성이 적이 점점 강해지고 있어서 여기서 기운을 많이 빼면 안 된다고 하면서 방금 뭐 먹었는지 확인하겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

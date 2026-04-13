@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_05742",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.333,
+        "format": "MP4",
+        "date": "2022-07-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원래는 쿨타임 정지가 되지 않았습니다 침묵 자체는.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 스킬 발동 자체가 안 되는 거였는데 이번에 개선이 돼서 쿨타임 정지까지 된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.132,
+                "end": 10.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스킬 끊김을 포함한 스킬 시전 방해 효과에 강해진 대상에게도 침묵 디버프가 적용되도록 변경됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.160,
+                "end": 17.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 침묵 침묵디버프에 걸리면 스킬 카드 이미지에 침묵 표시가 따로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.245,
+                "end": 21.333
+            }
+        ]
+    },
+    "summary": "화자가 스킬 시전 방해 효과에 강해진 대상에게도 적용되도록 변경됐다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05742_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "MYB_11134",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.166,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.722,
+                "end": 5.238
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너무 좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.248,
+                "end": 7.153
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와우 할아버지 코 짱 크다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.163,
+                "end": 11.431
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.441,
+                "end": 14.330
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이거 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.340,
+                "end": 15.749
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다들 나를 칭찬하고 막 좋아해 주잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.759,
+                "end": 18.562
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.572,
+                "end": 25.166
+            }
+        ]
+    },
+    "summary": "화자는 할아버지 캐릭터의 코가 크다고 말하고 할아버지 캐릭터가 주인공 캐릭터를 좋아하고 칭찬해 준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11134_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

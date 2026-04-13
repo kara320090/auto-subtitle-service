@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_09400",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.233,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 열어욧.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 뭔 일이?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.670,
+                "end": 4.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.780,
+                "end": 6.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금의 뼛속 깊숙히 박혀 있는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.950,
+                "end": 9.162
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.172,
+                "end": 12.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다크 소울 상",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.211,
+                "end": 25.233
+            }
+        ]
+    },
+    "summary": "발화자는 게임의 서사를 보면서 이야기하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

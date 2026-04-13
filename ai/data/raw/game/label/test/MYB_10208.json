@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_10208",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.366,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 이 아저씨 멋쟁이네 근데 이 아저씨 여태까지 못 본 외모에 쌈 멋쟁이인데 수염봐 봐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 강릉 여행가서 만났던 이직션 바텐더 같은 수염이야 멋있는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.779,
+                "end": 23.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이국적이야 아 뭐야 음 즐길게 보통이겠지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.230,
+                "end": 33.366
+            }
+        ]
+    },
+    "summary": "화자가 화면속 캐릭터에 대해서 이국적이게 생겼다고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10208_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

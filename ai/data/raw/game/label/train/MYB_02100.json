@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_02100",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.833,
+        "format": "MP4",
+        "date": "2023-05-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 뭐야 이거?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타이밍",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.376,
+                "end": 7.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이렇게 하니까 그냥 순삭이네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.326,
+                "end": 9.865
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이거 스킬 타이밍이 되게 중요하다 극과 극의 결과네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.875,
+                "end": 14.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 캡사이신덱과 한번 미러 가보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.241,
+                "end": 19.833
+            }
+        ]
+    },
+    "summary": "스킬 타이밍이 되게 중요하다고 극과 극의 결과라고 하면서 캡사이신덱과 한번 미러 가보겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02100_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

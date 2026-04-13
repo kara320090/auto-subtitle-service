@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_04002",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.086,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서리여왕 쿠키도 불쌍하네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힘이 약해져서 움직이지도 못하고 꼬마 정령이나 대신 보내는 신세가 된 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.546,
+                "end": 8.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 불꽃은 멀쩡해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.438,
+                "end": 10.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무런 문제도 없다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.858,
+                "end": 13.252
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그치만 혹시 아주 작은 기미라도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.262,
+                "end": 17.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이봐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.520,
+                "end": 19.085
+            }
+        ]
+    },
+    "summary": "불꽃정령 쿠키가 본인의 불꽃은 멀쩡하고 아무런 문제가 없다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

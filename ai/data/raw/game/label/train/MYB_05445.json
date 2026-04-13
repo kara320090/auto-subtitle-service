@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_05445",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.166,
+        "format": "MP4",
+        "date": "2022-08-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보통 몇백 개, 몇천 개까지는 봤는데 만 1000개 이상을 가지신 분은 못 본 거 같아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이분은 재고가 375칸 중의 370칸인데 우유가 아마 대부분을 많이 차지하지 않나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.219,
+                "end": 15.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 우유를 전부 다 팔았을 때 코인이 137만 5000코인",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.198,
+                "end": 22.166
+            }
+        ]
+    },
+    "summary": "우유를 만 개 이상 가진 사람은 처음 보는데 이걸 다 팔았을 때의 코인은 137만 5000코인이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05445_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 24,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

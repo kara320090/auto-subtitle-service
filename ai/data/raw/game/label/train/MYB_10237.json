@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_10237",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.17,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네르기한테 네르기한테 서브캐 생겼다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.023
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서브캐 2개 생겼다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.033,
+                "end": 12.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 하하하 아까 돈 없다 그랬는데 오늘 밤은 꼭 우리 가게 오기야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.598,
+                "end": 21.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 적극적인데 음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.726,
+                "end": 25.166
+            }
+        ]
+    },
+    "summary": "화자가 게임 대화를 보면서 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10237_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

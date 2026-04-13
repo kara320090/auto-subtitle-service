@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_11102",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.033,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 이 데모 이후에요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저장이 되더라구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.482,
+                "end": 4.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 내 동생",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.518,
+                "end": 6.897
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.907,
+                "end": 11.444
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.454,
+                "end": 17.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.817,
+                "end": 23.033
+            }
+        ]
+    },
+    "summary": "화자가 하고 있는 게임은 데모 이후고 주인공 캐릭터가 고츠에게 밖에 나기 위해 준비할 곳을 물어보고 고츠는 할머니 가게와 대장간을 추천한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11102_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

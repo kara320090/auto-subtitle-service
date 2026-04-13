@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_09869",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.566,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "괜찮아요 또 주 주말은 또 오니까 나는 항상",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.141
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시간이 너무 빨리 가네요 어째서 낼 월요일인 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.151,
+                "end": 9.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 넘 씁쓸하죠 너무 속상하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.089,
+                "end": 13.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 휴강 때 시간 진짜 빨리 가요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.439,
+                "end": 15.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 심지어 이제 일주일에 하루 쉬는데 시간이 너무 빨리 가가지고 이게 어떻게 된 건가 나만 지금 사기 당한 게 아닌가 그런 생각이 들기도 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.421,
+                "end": 25.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 공감합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.000,
+                "end": 27.566
+            }
+        ]
+    },
+    "summary": "여자가 시간이 진짜 너무 간다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09869_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

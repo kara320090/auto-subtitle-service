@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_10940",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 112.233,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 지금 넉 다운이구나.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뚱뚱이 옆에 서 있는 줄 알았는데.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.494,
+                "end": 10.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이씨",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.277,
+                "end": 51.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이씨 왜 이렇게 안 눌러지냐.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 52.000,
+                "end": 81.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 왜 뚱땡 왜 이렇게 힘이 좋죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 81.922,
+                "end": 91.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아유 다 맞네 한 번씩.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 91.996,
+                "end": 112.233
+            }
+        ]
+    },
+    "summary": "20대 여성이 게임 조작이 잘 안 되는 점에 대해 짜증을 내며 게임을 진행한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10940_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

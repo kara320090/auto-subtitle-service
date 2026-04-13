@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09876",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.666,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 진짜 방송 베어러지 방송 베어러 죽을 때까지 방송만 하다가 돌 돼서 죽으라는 거지 그냥.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 그래도 돌머리인데 지금 요즘 머리가 안 돌아간단 말이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.339,
+                "end": 12.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기억도 잘 안 나고 내가 싫은 거랑 @계정1 가 싫은 건 엄연히 다릅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.927,
+                "end": 20.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 사람은 휴식을 취해야 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.628,
+                "end": 26.666
+            }
+        ]
+    },
+    "summary": "여자가 사람은 휴식을 취해야 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09876_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

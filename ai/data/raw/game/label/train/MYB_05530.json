@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "MYB_05530",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.366,
+        "format": "MP4",
+        "date": "2022-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "항상 똑같은 스토리야.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제발 이번에는 잘 유지됐으면 좋겠네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.294,
+                "end": 21.366
+            }
+        ]
+    },
+    "summary": "20대 남성이 게임 도중 항상 똑같은 스토리라고 말하며 이번에는 자신의 등수가 유지가 되길 바란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01156",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.533,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와씨 딜 보셨어요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "확실히 오 아 저 타이밍 맞게 잘 쓰면 좋겠네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.248,
+                "end": 20.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바요가 쿨이 빠르면 좋을 것 같네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.056,
+                "end": 24.533
+            }
+        ]
+    },
+    "summary": "화자가 딜을 보고 감탄하며 타이밍 맞게 잘 쓰면 좋겠다며 쿨이 빠르면 좋겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01156_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

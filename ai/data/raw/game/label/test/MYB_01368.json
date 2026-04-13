@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_01368",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 96.833,
+        "format": "MP4",
+        "date": "2023-07-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "칙스던데 요거 요거 아 제발 하 퓨바를 지금 써버릴까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 39.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 씨 아 일단 퓨바 살았어 아 슈크림도 살면 좋은데 너 죽어 그래 너 죽고 야 잠깐만 어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.137,
+                "end": 86.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 깼어 야 깼어 깼어 여러분들 우와 어둠 모드 여러분들 깼습니다. 와 이렇게 깨지네 감격의 순간",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 86.181,
+                "end": 96.833
+            }
+        ]
+    },
+    "summary": "남성이 퓨바랑 슈크림 살면 좋겠다고 하면서 게임을 하다가 어둠모드를 깨고 이겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01368_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

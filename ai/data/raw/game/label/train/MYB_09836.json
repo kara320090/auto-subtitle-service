@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_09836",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.766,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 드디어 손 잡았다 둘이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드디어 잡았어요 처음으로 잡은 거야 지금 손.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.195,
+                "end": 8.268
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이 모쏠들이 드디어 손 잡았다고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.278,
+                "end": 14.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빨리 뽀뽀해 입술 비벼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.533,
+                "end": 31.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어머멋 남사시러워라 벌써 손 잡았어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.722,
+                "end": 34.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손을 잡았다고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.960,
+                "end": 38.766
+            }
+        ]
+    },
+    "summary": "여자가 영상을 보면서 둘이 처음으로 손을 잡았다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09836_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

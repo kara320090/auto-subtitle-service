@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_09010",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.833,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋은 남매다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.715
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 정체를 밝히래요.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 3.725,
+                "end": 7.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 그런 이명으로 살고있긴 했죠.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 7.974,
+                "end": 17.833
+            }
+        ]
+    },
+    "summary": "화자는 캐릭터들을 보며 좋은 남매라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09010_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

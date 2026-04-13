@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYB_01805",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.033,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 스냅드래곤 5초월 도전 갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 거의 풀과금 해서 패키지를 다 샀습니다 하나 빼고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.678,
+                "end": 8.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3만 5000원 짜리를 첫 번째 주에 9번 다 사고 두 번째 주에 지금 하나 빼고 다 샀습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.535,
+                "end": 15.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시나 5초월 초과될 수 있을 것 같아서 하나 빼고 다 샀고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.706,
+                "end": 19.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 5초월 될 때까지 네 혹시나 모자라면 더 가보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.947,
+                "end": 24.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자 일단 일반 부하부터 바로 출발.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.702,
+                "end": 28.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 제발 인간적으로 잘 가 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.172,
+                "end": 34.033
+            }
+        ]
+    },
+    "summary": "5초월이 초과될 수 있을 것 같아서 3만 5000원 짜리 패키지를 하나 빼고 두 번째 주에 9번 다 샀고 스냅드래곤 5초월에 도전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01805_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_01805_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

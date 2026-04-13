@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYB_07291",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.766,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번엔 이 꼬마가 누구랑 놀고 있을까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.540
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.540,
+                "end": 5.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 아무하고도 같이 안 있네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.859,
+                "end": 7.160
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.160,
+                "end": 12.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동물 친구를 많이 사귀어서 어른이 되면 여행을 간대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.360,
+                "end": 16.430
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.430,
+                "end": 20.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드루이드 꿈나무.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.440,
+                "end": 23.766
+            }
+        ]
+    },
+    "summary": "여성은 꼬마가 동물 친구를 많이 사귀어서 어른이 되면 여행을 간다고 했다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07291_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

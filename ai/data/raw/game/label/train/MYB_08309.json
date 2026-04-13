@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_08309",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.833,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도리스 어디있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할 얘기가 있는데 임무중이래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.240,
+                "end": 9.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 따라 나가야겠고만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.610,
+                "end": 13.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노예상 조사 으응 밀매 단속을 하고 있대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.591,
+                "end": 22.833
+            }
+        ]
+    },
+    "summary": "게임속에서 도리스는 찾는데 노예상 밀매 단속을 하러 나갔다고 하니 할 얘기가 있어서 따라 나가야 할 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

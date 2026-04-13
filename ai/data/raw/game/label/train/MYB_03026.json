@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "MYB_03026",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.2,
+        "format": "MP4",
+        "date": "2023-02-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 1초 낮춰서 가 볼게요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "성능이 안 좋은 쿠키인지 일단 봐야 돼요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.621,
+                "end": 7.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니야 아니야 이거 여러분들 얘가 들어가는 딜이 중요 한 게 아닙니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.955,
+                "end": 12.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘가 디버프 쌓여서 들어가는 게 중요해서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.723,
+                "end": 16.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잭의 봉인이 풀려버렸어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.796,
+                "end": 18.767
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "더 이상의 자비는 없습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.777,
+                "end": 24.200
+            }
+        ]
+    },
+    "summary": "쿠키에 딜이 중요한 게 아니라 성능이 안 좋은 쿠키인지 일단 봐야 돼서 디버프 쌓여서 들어가는 게 중요합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03026_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

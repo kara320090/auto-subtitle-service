@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYB_08747",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.78,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.846
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아 크리스탈.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.913,
+                "end": 3.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마을 내에 있다는데 남쪽이니까 북쪽은 요 건너편에 있어야 되는 거 아님.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.965,
+                "end": 23.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 여기가 어디예요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.533,
+                "end": 28.841
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남쪽 그럼 이쪽에 있어야 되는 거야 아니야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.851,
+                "end": 33.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 아 저기 있다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 33.593,
+                "end": 36.766
+            }
+        ]
+    },
+    "summary": "영상에서는 해당 위치가 남쪽이니까 북쪽은 건너편에 있어야 되는 거 아니냐면서 저기 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08747_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08747_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

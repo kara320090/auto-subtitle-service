@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_00790",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.235,
+        "format": "MP4",
+        "date": "2023-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 이렇게 이렇게 앉을 수 있다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 이렇게 앉힐 수 있다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.560,
+                "end": 9.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 3명 다 동시에 어후 한 샷 하나의 그림에 넣었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.259,
+                "end": 13.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요걸 원했어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.279,
+                "end": 13.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 인어 뽑기는 이렇게 마무리.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.997,
+                "end": 28.233
+            }
+        ]
+    },
+    "summary": "남자는 3명 동시에 한 샷의 그림에 넣었고 이걸 원했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_00790_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

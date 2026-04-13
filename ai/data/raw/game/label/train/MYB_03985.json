@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_03985",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.423,
+        "format": "MP4",
+        "date": "2022-12-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "셋 날아간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "멀리 날아가 그 애한테까지 닿아주길",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.319,
+                "end": 8.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엣취 어머 갑자기 너무 추워요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.808,
+                "end": 16.172
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어휴 감기 들겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.182,
+                "end": 18.517
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이제 그만 내려가자 목화 맛 쿠키도 같이 가실까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.527,
+                "end": 23.423
+            }
+        ]
+    },
+    "summary": "쿠키들이 이야기를 나누고 있으며 소원을 날리고 갑자기 추워 같이 내려가자고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03985_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

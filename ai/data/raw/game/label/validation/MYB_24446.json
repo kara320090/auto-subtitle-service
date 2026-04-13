@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_24446",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.736,
+        "format": "MP4",
+        "date": "2023-02-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맵은 너무나 크다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "숲을 잘 만들어 놓은 건 알겠는데 어디 이동하려면요 하루 종일 걸어가야지 목적지에 도착합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.167,
+                "end": 7.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 맵이 너무 커서 실제 섬에 고립된 듯한 느낌은 좋지만 이동에 걸리는 시간이 무지막지한 점은 단점이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.365,
+                "end": 14.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막으로 장점인지 단점인지 아직은 결정 내리기 애매한 부분도 존재 하는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.399,
+                "end": 19.733
+            }
+        ]
+    },
+    "summary": "20대 남성이 더 포레스트는 맵이 너무나 크고 이동해서 목적지까지 갈 때 시간이 너무 오래 걸리는 것이 단점이라고 설명해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_24446_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

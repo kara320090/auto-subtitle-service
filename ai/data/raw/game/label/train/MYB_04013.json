@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_04013",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.022,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "급한 마음에 힘을 너무 많이 썼나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나무들이 눈에 뒤덮여 버렸네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.703,
+                "end": 6.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "멈추거라 신성한 숲을 해치는 어둠의 존재여",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.813,
+                "end": 14.033
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누 누구세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.043,
+                "end": 15.678
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 아니 잠깐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.688,
+                "end": 22.022
+            }
+        ]
+    },
+    "summary": "소르베 맛 쿠키가 힘을 많이 써 나무들이 눈 에 뒤덮히자 누군가 나타나 멈추라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04013_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

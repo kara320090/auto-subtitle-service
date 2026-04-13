@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_07594",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.506,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기가 가르닉",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 비비안이 부탁했던 책을 찾아오는 건데 히포크라테스의 옛날의 알던 지인이 책들을 많이 모았대요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.587,
+                "end": 12.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그 책을 갖고 있는지 물어보러 왔어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.086,
+                "end": 18.500
+            }
+        ]
+    },
+    "summary": "가르닉에서 히포크라테스의 옛날의 알던 지인이 책들을 많이 모았다고 해서 비비안이 찾고 있는 책을 갖고 있는지 물어보러 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07594_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

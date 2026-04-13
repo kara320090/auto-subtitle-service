@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_06518",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 54.9,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사다린 옮길 순 없네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물이 낮아지면 넘어갈 순 있는데 문이 닫혀있고 이러면 문은 열리는데 사다리를 옮길 수 없어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.224,
+                "end": 36.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 해야 할까요?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 36.013,
+                "end": 45.296
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 바깥에서 사람들이 무슨 모니터 같은 거 보고 있다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 45.306,
+                "end": 51.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카메라 있고 응",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 51.012,
+                "end": 54.900
+            }
+        ]
+    },
+    "summary": "사다리는 옮길 수 없고 물이 낮아 지면 문은 닫히게 되고 물이 높아지면 건너갈 수가 없어서 해결 방법을 찾아야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06518_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

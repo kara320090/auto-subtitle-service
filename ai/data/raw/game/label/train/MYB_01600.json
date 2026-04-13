@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYB_01600",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.733,
+        "format": "MP4",
+        "date": "2023-06-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 아 마지막에 주네 아 진짜 장난꾸러기 이거 진짜 데브.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 참 자 이렇게 마지막에 이렇게 딱 마지막에 줘 버립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.356,
+                "end": 23.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세상에나",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.116,
+                "end": 25.733
+            }
+        ]
+    },
+    "summary": "남성은 마지막에 원하는 쿠키를 얻게 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01600_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

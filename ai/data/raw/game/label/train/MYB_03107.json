@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_03107",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.541,
+        "format": "MP4",
+        "date": "2023-02-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뽑겠습니다. 아니 진짜 요새 잘 뽑긴 해요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 요기서 아 야 3개 뽑았다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.201,
+                "end": 10.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 3개 현재까지 3개 자 4개 노중복으로 오",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.284,
+                "end": 17.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요 2개 빼고는 다 뽑았죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.093,
+                "end": 19.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 마지막 아 마지막은",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.228,
+                "end": 25.541
+            }
+        ]
+    },
+    "summary": "남성이 요즘 잘 뽑는다며 중복되지 않게 4개를 뽑고 2개 남긴 채 마지막 뽑기를 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03107_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 65,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

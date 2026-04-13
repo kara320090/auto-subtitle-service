@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "filename": "MYB_10039",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.366,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.294
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.304,
+                "end": 3.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.015,
+                "end": 4.371
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.381,
+                "end": 5.299
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.309,
+                "end": 9.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.943,
+                "end": 13.728
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.738,
+                "end": 16.616
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "이게 도전이고먼 어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.626,
+                "end": 18.028
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.038,
+                "end": 20.360
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "빠바바라라라",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.370,
+                "end": 24.366
+            }
+        ]
+    },
+    "summary": "화자1은 화자4가 자기에게 생트립을 잡는 다고 도와달라고 했고 여성은 도전이냐면서 말을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10039_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 2
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10039_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

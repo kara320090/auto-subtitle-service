@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_01534",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.033,
+        "format": "MP4",
+        "date": "2023-07-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뚝딱뚝딱 스테이지가 아 스킬 많이 빠졌어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 리겜을 해봐야 되겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.315,
+                "end": 19.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 리겜 해서 스킬 좀 빠지는 구간 손실을 없애야 되구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.670,
+                "end": 26.403
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이게 1분 30초도나 나와요 리사님?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.413,
+                "end": 31.033
+            }
+        ]
+    },
+    "summary": "스킬이 많이 빠진 상태이기 때문에 리겜을 해서 스킬 좀 빠지는 구간 손실을 없애야 될 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01534_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

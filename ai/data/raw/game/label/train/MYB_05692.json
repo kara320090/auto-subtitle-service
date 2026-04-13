@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYB_05692",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.375,
+        "format": "MP4",
+        "date": "2022-08-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배틀을 시작할게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.291
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모조리 날려주마.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.301,
+                "end": 3.562
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 이거 맞아?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.572,
+                "end": 7.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "퍼레이드를 시작할게.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.499,
+                "end": 9.592
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모조리 날려주마.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.602,
+                "end": 16.923
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모조리 날려주마.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.933,
+                "end": 18.829
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.839,
+                "end": 24.375
+            }
+        ]
+    },
+    "summary": "화자3이 배틀에서 진행 상황에 매우 놀라워하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05692_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_05692_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_11132",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.5,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집에서는 말이야 어? 엄마가 밥 먹어라 알아서 챙겨 먹어라 근데 이제 나오면 한 모넌에서는 할머니 고양이가 밥도 해 주고 얼마나 좋아 그죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.630
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.640,
+                "end": 12.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더빙도 하네 나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.265,
+                "end": 19.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.909,
+                "end": 21.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "배고팠나 봐 표정 봐봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.304,
+                "end": 23.500
+            }
+        ]
+    },
+    "summary": "화자는 집에선 엄마가 밥을 알아서 챙겨 먹으라고 하지만 게임 모넌에서 할머니 고양이가 밥도 해 줘서 좋다고 비교한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11132_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01505",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.933,
+        "format": "MP4",
+        "date": "2023-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 용과가 아 확실히 조금 승급이 낮으니까 죽어버렸네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 승급이 높으면은 아 생존해서 살았을텐데 조금 저 부분은 아쉽네 그렇죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.130,
+                "end": 16.683
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연결 부분이 좀 아쉽다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.693,
+                "end": 21.933
+            }
+        ]
+    },
+    "summary": "화자가 승급이 높으면 생존했을 텐데 승급이 낮으니까 죽어버렸다며 아쉬워한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

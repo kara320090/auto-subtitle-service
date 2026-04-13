@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_00939",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.371,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영토 확장이다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 약간 연령대 낮은 사람들을 연령대 낮은 층을 겨냥한 거 같긴 하다 그렇죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.137,
+                "end": 12.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 미션 다 끝내면 복원 아 복원하는 데 시간이 걸리네 도로가 없다 해지모드 아 도로 도로는 여기다 이렇게 해서 완료",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.664,
+                "end": 30.366
+            }
+        ]
+    },
+    "summary": "이 게임은 연령대가 낮은 층을 겨냥한 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_00939_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

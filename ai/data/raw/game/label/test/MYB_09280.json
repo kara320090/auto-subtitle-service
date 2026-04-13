@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "filename": "MYB_09280",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.308,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.590,
+                "end": 4.700
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1한테 물어봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.700,
+                "end": 5.810
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.810,
+                "end": 7.140
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "목욕탕 근처에 있을 거임.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.150,
+                "end": 9.720
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "목욕탕이 어딨지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.720,
+                "end": 11.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.930,
+                "end": 14.540
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그러네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.550,
+                "end": 16.160
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.149,
+                "end": 18.160
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "근데 꼭 이렇게 잘 풀린다고 얘기하면은 일이 어그러지던데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.160,
+                "end": 23.640
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 여기가 목욕탕이었어?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.640,
+                "end": 26.300
+            }
+        ]
+    },
+    "summary": "목욕탕 근처에 있는 페르다한테 물어보라고 알려 주었고 그곳으로 가 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09280_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

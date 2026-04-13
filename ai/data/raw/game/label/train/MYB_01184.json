@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_01184",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.266,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대월식이 오기도 전에 이런 귀한 걸 잡다니",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.561
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새로운 모습의 쿠키들이 많이 보이죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.571,
+                "end": 4.257
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파티를 열자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.267,
+                "end": 5.882
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "당신이 나의 달입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.892,
+                "end": 10.615
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "니가 원하는 걸 이루고 나면 이걸 가지고 나를 만나러 돌아와 줘.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.625,
+                "end": 18.266
+            }
+        ]
+    },
+    "summary": "화자가 업데이트 영상을 보며 새로운 모습의 쿠키들이 많이 보인다고 첨언하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01184_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

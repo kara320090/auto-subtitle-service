@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_11046",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.866,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 나같은 사람은 데모부터 다시 했었어야 되지 않나 싶어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조작법 다 까먹었음.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.325,
+                "end": 5.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노는 게 제일 좋아 어 어디 간다 엔딩에 저렇게 가잖아 거인 끌고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.473,
+                "end": 23.866
+            }
+        ]
+    },
+    "summary": "한 여자가 게임을 플레이 하면서 조작법을 다 까먹었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11046_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

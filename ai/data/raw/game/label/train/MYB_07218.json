@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_07218",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.8,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.548
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.558,
+                "end": 16.251
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.261,
+                "end": 17.525
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저런 능력 있으면 내가 게임방 차린다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.535,
+                "end": 20.222
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 진짜 맞아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.232,
+                "end": 22.009
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "부자 될 듯 전국 방방곡곡에서 찾아 올 듯 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.019,
+                "end": 28.800
+            }
+        ]
+    },
+    "summary": "누군가가 저런 능력이 있으면 게임방을 차릴 거라고 했고 나는 전국 방방곡곡에서 사람들이 찾아가서 부자가 될 것 같다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07218_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

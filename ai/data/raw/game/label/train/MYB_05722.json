@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_05722",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 49.266,
+        "format": "MP4",
+        "date": "2022-07-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 요거 한번 보겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대분도 클로티드 저는 방덱으로도 되게 좋다고 봐서 자 이거 보면은 지금 보면은 아시겠지만 저게 저는 휘낭시에가 죽었죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.751,
+                "end": 29.112
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "클로티드가 쿨이 제가 느려가지고 좀 안 좋은 것 같아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.122,
+                "end": 49.266
+            }
+        ]
+    },
+    "summary": "화자가 본인의 휘낭시에가 죽었다고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05722_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "MYB_11076",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.633,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.589
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 배고프다고 그런 거 먹는 거 아니야.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 8.599,
+                "end": 10.816
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내려 놓으세요 옳지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.826,
+                "end": 13.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘생긴 게 말도 잘 듣누.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.962,
+                "end": 18.423
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.433,
+                "end": 20.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여보? 말이 다른데요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.630,
+                "end": 24.324
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여보 이런 데 산다고 안 하셨잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.334,
+                "end": 26.784
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여보?",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.794,
+                "end": 28.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 아무리 털털하고 물질적인 것에 욕심이 없다고 해도 동굴에서 살 순 없는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.374,
+                "end": 36.633
+            }
+        ]
+    },
+    "summary": "게임 캐릭터는 동굴이 집이라고 하고 화자는 캐릭터를 여보라고 부르며 동굴에서는 살 수 없다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11076_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

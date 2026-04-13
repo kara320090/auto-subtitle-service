@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_06679",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.707,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "표적 측정 R153 G150 B169 색깔 코드 #9996A9 근삿값 63퍼센트.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "표적 측정 어쩌구 색깔 코드 저쩌구 근삿값 97퍼센트 우선 목표 선정 사냥 개시.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.396,
+                "end": 21.434
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검푸른 머리 사냥꾼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.444,
+                "end": 23.700
+            }
+        ]
+    },
+    "summary": "검푸른 머리 사냥꾼이 표적의 측정, 색깔 코드, 근삿값을 말하며 우선 목표를 선정하여 사냥 개시한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06679_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

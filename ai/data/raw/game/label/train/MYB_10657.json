@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_10657",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.04,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 하는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강아지 구경하나 봐 어 귀여워 애들이랑 놀아주고 있네 이것도 마을 와야만 볼 수 있는 풍경인 거야 이런 걸 보면 참 진짜 신경 써서 잘 만들었다 싶어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.828,
+                "end": 25.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "팔찐데 이거 애기 때부터 있었던 것 같은데 음 그렇지 그렇지 진짜 크다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.953,
+                "end": 34.033
+            }
+        ]
+    },
+    "summary": "강아지 구경하고 있고 마을에 와야만 볼 수 있는 풍경이고 팔찌는 애기 때부터 있던 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10657_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 15,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

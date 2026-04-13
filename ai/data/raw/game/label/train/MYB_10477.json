@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYB_10477",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 46.633,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.981
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 5.991,
+                "end": 19.497
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와 배 같은 거를 어 여기 있던 거는 후고가 벽을 부셔 가지고 산을 부셔 가지고 다 사라지게 만들어 가지고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.507,
+                "end": 46.633
+            }
+        ]
+    },
+    "summary": "여기에 있던 배는 후고가 벽을 부셔서 사라지게 만들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10477_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

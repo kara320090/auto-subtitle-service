@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYB_10878",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.633,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청년 정도쯤이면 그 옛날 로자리아 사람은 아니라고 할 수 있는 것 같애요. 응.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 이제 피닉스 게이트로 가 볼게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.783,
+                "end": 17.959
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 바로 이렇게 흑의 일대가 되어 버렸네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.969,
+                "end": 22.204
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.214,
+                "end": 24.454
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.464,
+                "end": 26.633
+            }
+        ]
+    },
+    "summary": "청년들은 옛날 로자리아 사람은 아닌 것 같으며 피닉스 게이트는 흑의 일대가 되어 버렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10878_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYB_03987",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.902,
+        "format": "MP4",
+        "date": "2022-12-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내 소원이 벌써 이루어졌네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에는 어떤 이야기를 들려줄거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.360,
+                "end": 6.083
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다녀왔어 목화 맛 쿠키",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.093,
+                "end": 16.127
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 스토리를 모두 다 봤습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.137,
+                "end": 20.363
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아무래도 다음 신규 쿠키는 솔방울 맛 쿠키가 될 가능성이 높을 거 같네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.373,
+                "end": 25.737
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 일단 여기서 마무리 짓도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.747,
+                "end": 35.902
+            }
+        ]
+    },
+    "summary": "남성이 쿠키들의 이야기를 다 들었고 다음 신규 쿠키는 솔방울 맛 쿠키가 될 가능성이 높다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03987_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

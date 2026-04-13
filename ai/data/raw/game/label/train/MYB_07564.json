@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_07564",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.433,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.161
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 교단의 신앙이 아니라 마을 사람들을 위해 죽었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.171,
+                "end": 16.762
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용서받을 수 있는 일인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.772,
+                "end": 19.731
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 자신의 마음을 위해 목숨을 버렸습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.741,
+                "end": 22.185
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 신앙의 일면이겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.195,
+                "end": 24.433
+            }
+        ]
+    },
+    "summary": "교단의 신앙이 아니라 마을 사람들을 위해 죽었고 자신의 마음을 위해 목숨을 버렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07564_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

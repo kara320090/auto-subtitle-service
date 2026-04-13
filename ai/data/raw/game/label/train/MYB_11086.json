@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_11086",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.9,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "때부터 노예래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좀 너무한 듯?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.072,
+                "end": 2.075
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그런 힘이 있으면 노예가 되지 않고 반란 같은 거 해서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.085,
+                "end": 8.707
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.717,
+                "end": 12.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자기들의 좋은 삶을 만들어 낼 수도 있지 않았을까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.423,
+                "end": 16.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 어렸을 때부터 그 가스라이팅 같은 거 당했나?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.157,
+                "end": 22.900
+            }
+        ]
+    },
+    "summary": "화자는 마법을 쓸 수 있는 노예가 반란을 하지 않은 이유를 궁금해 하고 가스라이팅을 당했을 수도 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11086_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

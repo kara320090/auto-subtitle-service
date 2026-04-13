@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_06878",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.7,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 나 뭐야 원래 이렇게 잘 해요. 아까 웃기려고 그런 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.043
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 참 진짜 웃기려고 한 거지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.053,
+                "end": 19.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하 안 가시면 먼저 가겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.707,
+                "end": 22.984
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "천천히 오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.994,
+                "end": 24.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐래 나 지금 벌써 왔는데 제가 먼저 왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.830,
+                "end": 30.655
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우와 여기까지 왔구나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.665,
+                "end": 33.700
+            }
+        ]
+    },
+    "summary": "여성이 게임의 다음 단계까지 오는 것에 성공한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06878_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

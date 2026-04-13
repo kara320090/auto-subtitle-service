@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09185",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.966,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "콧물",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 의식이 없어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.330,
+                "end": 9.755
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "포카를 막는 약 같은 건 없나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.765,
+                "end": 31.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 어서오세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.101,
+                "end": 34.966
+            }
+        ]
+    },
+    "summary": "발화자는 게임을 보면서 계속 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09185_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

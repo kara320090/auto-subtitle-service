@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_08303",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.333,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 조용해 할게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하다 보면 나오겠죠 스포가 될 수 있으니.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.778,
+                "end": 5.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 이번엔 초코보다 초코보는 날 수 없단다 뚱땡이 새라서.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.484,
+                "end": 15.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘는 어디서 이렇게 동물들이 찾아오는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.863,
+                "end": 19.333
+            }
+        ]
+    },
+    "summary": "게임 하면서 스포가 될 수 있으니 조용히 하겠고 초코보새는 뚱뚱해서 날 수가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08303_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

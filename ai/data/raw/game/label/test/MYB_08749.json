@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "filename": "MYB_08749",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.333,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무두질.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.486
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.540,
+                "end": 2.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도둑질.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.033,
+                "end": 5.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 수렵 오는 황금에 평원을 건너는 유목민이 이 땅에서 안식을 발견했다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.746,
+                "end": 17.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타보르에 뿌리내린 뒤에도 그 긍지를 잃어서는 안 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.315,
+                "end": 22.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 말일까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.478,
+                "end": 23.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.634,
+                "end": 26.053
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유목민이 여기 와서 수렵을 하고 그랬다고 그런 뜻인가.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.120,
+                "end": 30.300
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 30.340,
+                "end": 32.333
+            }
+        ]
+    },
+    "summary": "영상에서는 황금의 평원을 건너는 유목민이 이 땅에서 안식을 발견했으니 타보르에 뿌리내린 후에도 긍지를 잃어서는 안 된다는 내용을 읽고는 유목민이 이곳에 와서 수렵을 했다는 뜻인지 궁금해한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08749_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08749_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYB_10258",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.9,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도네 고마워 정산 날이 되면 월세를 낼 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 그래 마담의 동료에게 알려주자",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.092,
+                "end": 20.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 묶어 놔 불쌍해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.615,
+                "end": 27.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방송 베어러 어 말 할 수 있는 애다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.649,
+                "end": 40.900
+            }
+        ]
+    },
+    "summary": "화자가 게임 캐릭터 대화를 보면서 불쌍하다 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10258_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

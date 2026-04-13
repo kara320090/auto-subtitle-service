@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_02485",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.966,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "딜러 죽는 거를 꼭 확인을 해주셔야 됩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 요것도 네 요것도 이렇게 이기는 그림.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.490,
+                "end": 16.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상대방분이 워낙 단단하기 때문에 잘 안 죽는 느낌이 강하죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.260,
+                "end": 22.966
+            }
+        ]
+    },
+    "summary": "딜러 죽는 거를 꼭 확인을 해주셔야 되고 상대방이 단단하기 때문에 잘 안 죽는 느낌이 강하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYB_08775",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.766,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돌아왔구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.455,
+                "end": 1.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.420,
+                "end": 3.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이주도 도와줬다면서 정말 고마워.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.586,
+                "end": 6.360
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.413,
+                "end": 7.393
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새로운 마을 이름은 이스트풀 그대로",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.466,
+                "end": 9.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.020,
+                "end": 10.973
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "웨이드가 말하길 그 마을 사랑했던 사람들의 마음을 지우고 싶지 않았대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.033,
+                "end": 16.766
+            }
+        ]
+    },
+    "summary": "영상에서는 이주를 도와줘서 고맙다면서 마을을 사랑했던 사람들의 마음을 지우고 싶지 않아 마을 이름은 그대로 이스트풀로 지었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08775_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08775_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

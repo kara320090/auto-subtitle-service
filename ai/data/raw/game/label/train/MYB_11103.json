@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_11103",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.5,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.125
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.135,
+                "end": 10.928
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 또 이제 다 둘러보라고 오는 순서를 마련해 주긴 했네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.938,
+                "end": 15.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.767,
+                "end": 17.690
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "진짜 내 동생처럼 뭐 막 챙겨 준다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.700,
+                "end": 20.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.746,
+                "end": 23.500
+            }
+        ]
+    },
+    "summary": "게임에서 모든 공간을 둘러보라고 순서를 알려 주고 게임 캐릭터는 화자의 동생처럼 이것저것 챙겨 준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

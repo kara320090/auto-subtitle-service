@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYB_07237",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.966,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에다가 어디있을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.792
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "질이다 질. 질이랑 가브.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.802,
+                "end": 6.847
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에다는 어디있을까요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.857,
+                "end": 9.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.670,
+                "end": 13.379
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "에다는 애답게 놀고 있겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.389,
+                "end": 17.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에다 임산부에요. 어른이라고요. 엄마고. 감사해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.024,
+                "end": 22.966
+            }
+        ]
+    },
+    "summary": "그녀는 에다가 어디있는지 궁금해 하다 질과 가브를 발견했고 에다가 애 답게 놀고 있을 것이란 말에 에다는 어른이고 엄마이며 임산부라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07237_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

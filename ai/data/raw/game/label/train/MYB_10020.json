@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_10020",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.466,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경제 고문이었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.330,
+                "end": 7.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 단순 근육 바보가 아니었다는 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.473,
+                "end": 11.009
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.019,
+                "end": 17.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거의 왕이나 다름이 없는 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.938,
+                "end": 19.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.750,
+                "end": 22.466
+            }
+        ]
+    },
+    "summary": "여성은 화면 속의 대사를 보고 단순 근육 바보가 아니라 경제 고문이었다고 했고 왕이나 다름없다는 거라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10020_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

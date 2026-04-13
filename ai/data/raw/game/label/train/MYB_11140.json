@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_11140",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.6,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.422,
+                "end": 5.572
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.582,
+                "end": 7.705
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니 아니 나 그냥 이제부터 깜찍이 할아버지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.715,
+                "end": 10.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.656,
+                "end": 16.152
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "신구 할아버지 닮았다 그죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.162,
+                "end": 19.600
+            }
+        ]
+    },
+    "summary": "할아버지 이름은 하포크라테스 2세 히메르보레이오스지만 화자는 깜찍이 할아버지라고 부르며 신구 할아버지를 닮았다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11140_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

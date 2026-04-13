@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_08595",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.5,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아유 동생도 몸이 성치 않은데 지금 바깥에선 난리가 났고 어쩜 좋누와 휴휴휴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.486,
+                "end": 18.734
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.744,
+                "end": 20.433
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.443,
+                "end": 27.999
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하이 하이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.009,
+                "end": 29.500
+            }
+        ]
+    },
+    "summary": "화자가 등장인물들의 대화를 보고 걱정하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08595_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

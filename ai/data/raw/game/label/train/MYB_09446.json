@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYB_09446",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.266,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동생 동생이에요 원래 죽은 줄로 알았던.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 살아있었어 살아있는 걸 어떻게 알았지 근데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.493,
+                "end": 27.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "둘다 왕좌죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.053,
+                "end": 27.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘는",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.979,
+                "end": 29.266
+            }
+        ]
+    },
+    "summary": "죽은 줄로 알았던 동생인데 살아있는 걸 어떻게 알았냐고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09446_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

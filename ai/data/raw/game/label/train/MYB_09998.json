@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_09998",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.6,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 이거 해야 되겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공격력 더 높다. 그죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.388,
+                "end": 3.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다고 아무 머리나 갖고 와 가지고 달아 놓을 순 없으니까 아 벨트 아직도 못 만드네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.469,
+                "end": 19.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 이걸 만들고 플래티넘을 만들고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.843,
+                "end": 35.600
+            }
+        ]
+    },
+    "summary": "여성은 공격력이 더 높은 거로 한다고 했고 벨트는 아직 만들지 못한다고 했고 만들고 나서 플래티넘을 만든다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09998_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

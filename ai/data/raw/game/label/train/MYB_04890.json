@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYB_04890",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.133,
+        "format": "MP4",
+        "date": "2022-10-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빛이 인도하실 겁니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.300
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아까 저 그 상대방분은 똑같은 분이에요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.310,
+                "end": 4.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "캡틴케비어는 벨벳 덱은 이길 수 있다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.660,
+                "end": 7.367
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 클로티드 덱은 벨벳 덱한테 약하다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.377,
+                "end": 10.005
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고거 차이가 확실히 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.015,
+                "end": 11.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 이것도 필러 없는 덱과 필러 있는 크림 유니콘 덱의 대결",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.951,
+                "end": 20.133
+            }
+        ]
+    },
+    "summary": "캡틴케비어는 벨벳 덱을 이길 수 있고 클로티드 덱은 벨벳 덱한테 약하다는 차이가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04890_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_04890_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "MYB_08739",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.833,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.239,
+                "end": 5.026
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "플래그 세우고 있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.026,
+                "end": 6.528
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.533,
+                "end": 8.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘생겼다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.474,
+                "end": 11.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형보다 낫네 자식.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.997,
+                "end": 14.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뽀뽀도 할 줄 알고 형보다 훨씬 낫누 아 조슈아 이 자식 마음에 드누 어머머머 오",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.031,
+                "end": 23.833
+            }
+        ]
+    },
+    "summary": "영상에서는 조슈아 캐릭터가 잘생겼고 마음에 든다면서 형보다 낫다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08739_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08739_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

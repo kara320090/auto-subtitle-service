@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_08604",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.433,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.749
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.759,
+                "end": 2.975
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응 애들이 잃어버린 거라면 따끔하게 주의를 줘야겠대.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.985,
+                "end": 5.307
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아트리움에 있을 것 같대 애들.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.317,
+                "end": 8.038
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "애들이 남의 것 먹고 잃어버렸든지 망가트렸구먼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.048,
+                "end": 12.085
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "응 아재 노래 실력이 제법이누 제법 잘 불러제끼누",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.095,
+                "end": 21.433
+            }
+        ]
+    },
+    "summary": "화자가 게임 속에서 캐릭터들이 나누는 대화를 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08604_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

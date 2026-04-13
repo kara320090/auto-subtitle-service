@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_01865",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.333,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘는 공속으로 가야 되구나?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 딱히 얘는 지금 뭐 딜이나 이런 거는 의미가 없고요 저런 이펙트다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.113,
+                "end": 12.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "출발 공속덱 영성이라도 좋아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.660,
+                "end": 24.333
+            }
+        ]
+    },
+    "summary": "타르트타탕맛 쿠키의 스킬을 보여주고 실제 게임을 보여준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01865_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

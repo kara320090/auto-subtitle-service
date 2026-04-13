@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_09657",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.233,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화이트 화이팅.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.847,
+                "end": 4.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기서 폐촌으로 가서 엘더 앤틸로프를 쓰러뜨려서 강아지 멍멍 간식을 구해다 줘야 되겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.612,
+                "end": 19.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 진짜 보는 눈이 있었나 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.386,
+                "end": 24.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오토가 일을 잘 하잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.090,
+                "end": 25.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 냉큼 섭외한 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.873,
+                "end": 32.233
+            }
+        ]
+    },
+    "summary": "여자가 게임을 하면서 다른 캐릭터가 보는 눈이 있다며 오토가 일을 잘 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09657_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

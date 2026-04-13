@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYB_08574",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.8,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.436
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "은신처에 있는 오토와 대화한다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.446,
+                "end": 3.977
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.987,
+                "end": 5.195
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현상금 잡고 갈게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.205,
+                "end": 8.098
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "온 김에 이거 하고 나면 깜짝이야 상브레크 황푸 숲길 안쪽 이거만 하면 된다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.108,
+                "end": 14.701
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.711,
+                "end": 17.800
+            }
+        ]
+    },
+    "summary": "여성은 게임을 하며 은신처에 있는 오토와 대화하기 전에 현상금을 잡고자 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08574_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

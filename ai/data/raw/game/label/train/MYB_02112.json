@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_02112",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.7,
+        "format": "MP4",
+        "date": "2023-05-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아우 씨",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 스킬 너무 밀리긴 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.834,
+                "end": 20.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아 슈크림 쓰면은 딜 너무 밀려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.537,
+                "end": 24.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음유도 괜찮을 거 같긴 한데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.269,
+                "end": 27.700
+            }
+        ]
+    },
+    "summary": "스킬 너무 밀리긴 한다고 슈크림 쓰면은 딜 너무 밀린다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02112_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

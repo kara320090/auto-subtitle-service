@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_10785",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.038,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마사 진짜 좋은 사람인 것 같애 그쵸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.738,
+                "end": 4.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.277,
+                "end": 7.517
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 또 무슨 증표 같은 거 얻었나 봐. 아 신뢰의 증표래. 음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.527,
+                "end": 13.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.493,
+                "end": 16.425
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋은 사람이다. 마사. 그쵸?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.422,
+                "end": 20.033
+            }
+        ]
+    },
+    "summary": "한 여자가 마사 진짜 좋은 사람인 것 같다고 하면서 신뢰의 증표를 얻은 것 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10785_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

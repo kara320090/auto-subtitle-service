@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYB_03067",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.033,
+        "format": "MP4",
+        "date": "2023-02-09",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "굿 굿 굿",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.765
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쓰디쓴 책임이 따르는 법",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.775,
+                "end": 2.959
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 근데 진짜 다양하게 다 잘 뽑고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.969,
+                "end": 7.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 바요까지 갑자기 폭탄으로 나온다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.158,
+                "end": 10.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 좋은데 달빛만 나옵시다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.189,
+                "end": 13.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 호밀이 쌍으로 떴네?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.679,
+                "end": 15.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 확률 이 2개가 동시에 나올 확률이 달빛 술사 나올 확률보다 훨씬 더 좋습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.762,
+                "end": 22.033
+            }
+        ]
+    },
+    "summary": "남성이 캐릭터를 다양하게 뽑고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03067_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

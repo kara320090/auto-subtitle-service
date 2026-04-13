@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_10048",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.7,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "질도 그렇고 얘도 그렇고 지금 5년째 옷을 안 갈아 입어서 지금 음 세탁 좀 해야 되는데 레벨 업",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 머리부터 감자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.013,
+                "end": 15.561
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.571,
+                "end": 17.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 멀다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.925,
+                "end": 22.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약 재료를 주면은 아마 포션 같은 게 드나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.544,
+                "end": 30.700
+            }
+        ]
+    },
+    "summary": "여성은 옷을 5년째 안 갈아 입어서 세탁을 해야 한다고 했고 머리부터 감자고 했고 약을 재료를 주면 포션을 주냐고 물어봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10048_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

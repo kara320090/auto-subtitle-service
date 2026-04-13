@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "filename": "MYB_08753",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.9,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모두 다른 민족 같대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.220,
+                "end": 5.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.680,
+                "end": 8.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다문화 민족이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.100,
+                "end": 9.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.293,
+                "end": 14.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연구한 보람이 있구만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.160,
+                "end": 15.453
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.553,
+                "end": 16.113
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.186,
+                "end": 17.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보수다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.620,
+                "end": 20.518
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좀 더 내 놓도록",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.528,
+                "end": 23.900
+            }
+        ]
+    },
+    "summary": "영상에서는 다문화 민족이라면서 연구한 보람이 있다는 대사를 따라 하고는 보수는 더 내놓으라고 언급한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08753_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08753_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

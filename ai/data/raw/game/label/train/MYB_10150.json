@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_10150",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.133,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.654
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지를 구하려고 하다가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.664,
+                "end": 3.237
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.247,
+                "end": 4.186
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.196,
+                "end": 10.481
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.491,
+                "end": 12.186
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.196,
+                "end": 13.175
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "성공했네 이놈 바로 옆에 여왕님이 계셨네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.185,
+                "end": 19.133
+            }
+        ]
+    },
+    "summary": "화자2가 성공했고 바로 옆에 여왕님이 계셨다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10150_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

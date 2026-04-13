@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_01944",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.633,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "크램 공화국에서 돌아와 말씀하셨던 거처럼 푸른 붉은 용과 손을 잡으실 생각입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.076
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 오늘 따라 질문이 많구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.086,
+                "end": 9.143
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실은 아직 결정하지 못했어 용의 힘이 있다면 어둠 마녀 쿠키와 싸우면서 큰 도움이 되겠지만 이렇게나 쿠키들을 위협하는 존재를 믿어도 되는 건지는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.153,
+                "end": 24.633
+            }
+        ]
+    },
+    "summary": "와일드쿠키가 베리 쿠키에게 푸른 붉은 용과 손을 잡을 생각이냐고 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01944_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

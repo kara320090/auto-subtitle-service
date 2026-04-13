@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "filename": "MYB_07165",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.0,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.485
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "참 진짜 아 너무 좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.495,
+                "end": 12.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "웬일로 왔더니 웬일로 왔나 했더니 물건 팔러 온 거였어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.660,
+                "end": 20.411
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이렇게 귀여울 수가 장사하러 왔어.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 20.421,
+                "end": 30.963
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.973,
+                "end": 36.526
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이러 이것 저것 이로히로 물건을 준비했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.536,
+                "end": 39.304
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꼼꼼히 준비해 이렇게 아 진짜?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.314,
+                "end": 43.618
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 43.628,
+                "end": 46.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 46.555,
+                "end": 48.000
+            }
+        ]
+    },
+    "summary": "한 여성이 웬일로 왔나 했더니 물건을 팔러 온 캐릭터가 귀엽다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYB_04924",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.5,
+        "format": "MP4",
+        "date": "2022-09-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "크탈 뽑기 하지 마세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "블랙펄이 좋은 이유라고요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.372,
+                "end": 3.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 진짜 극혐이다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.230,
+                "end": 4.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.892,
+                "end": 6.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아예 안 뜨면은 칼방종 자 6680개 이건 320개 채울 거 없나 여러분들 아 이거 해볼만 한데 가능할라나",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.673,
+                "end": 21.500
+            }
+        ]
+    },
+    "summary": "크탈 뽑기 하지 말고 아예 안 뜨면 칼방종이고 6680개인데 320개 채울 거 찾고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04924_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_04924_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

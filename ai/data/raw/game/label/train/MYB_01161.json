@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01161",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.6,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "땅바닥에 붙어있는 쿠키들은 역시나 후반전까지 가면은 무조건 질 거 같네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 이렇게 가보겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.707,
+                "end": 7.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박하 힐까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.507,
+                "end": 25.600
+            }
+        ]
+    },
+    "summary": "화자가 땅바닥에 붙어있는 쿠키들은 후반전까지 가면 무조건 질 것 같다며 박하를 추가해서 가보겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01161_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

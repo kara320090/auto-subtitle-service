@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_05529",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.533,
+        "format": "MP4",
+        "date": "2022-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오케이",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저번에도 한 10시부터 11시까지 내가 1등이었어 거의 열어볼 때",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.293,
+                "end": 11.008
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "11시부터 나락을 가가지고 저번에 몇 등 했지 8등인가 9등으로 8등으로 끝났나?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 11.018,
+                "end": 17.533
+            }
+        ]
+    },
+    "summary": "20대 남성이 저번에는 10시부터 11시까지 자신이 1등이었으나 어느 순간 8등인가 9등으로 떨어졌다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05529_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYB_04952",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.0,
+        "format": "MP4",
+        "date": "2022-09-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 야 오이스터 좋아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 오이스터 2성 축하 드립니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.326,
+                "end": 12.289
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커먼 쿠키 하나 들어간 덱 만들기 어때요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.299,
+                "end": 15.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커먼 쿠키 하나 들어간 덱 있잖아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.376,
+                "end": 17.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용쿠한방덱이 커먼 쿠키 들어간 한방 그 덱이잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.201,
+                "end": 22.648
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커먼 쿠키가 아니지 용쿠는 야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.658,
+                "end": 27.000
+            }
+        ]
+    },
+    "summary": "오이스터 2성 축하드리고 커먼 쿠키 들어간 덱은 용쿠한방덱이 들어가다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04952_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_04952_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

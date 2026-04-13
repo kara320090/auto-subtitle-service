@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYB_01971",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.433,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기가 용의협곡으로 가는 길목에 있는 마지막쿠키들의 도시니까 오늘 밤은 이곳에서 묵어가자구.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무기상도 들르고 배도 든든하게 채우고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.512,
+                "end": 13.957
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "베리 주스도 드실 겁니까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.967,
+                "end": 17.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 그럴리가.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.689,
+                "end": 21.433
+            }
+        ]
+    },
+    "summary": "용의 협곡으로 가는 마지막 길목의 도시니까 배도 채우고 무기상도 들르자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01971_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

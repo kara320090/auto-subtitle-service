@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_09768",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.387,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.980
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 말 많이 하면 죽는데 말 많으면 죽을 텐데 아 뭐라고 말 해도 말이 많군",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.990,
+                "end": 16.578
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.588,
+                "end": 17.455
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보내주도록 하겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.465,
+                "end": 20.366
+            }
+        ]
+    },
+    "summary": "말 많이 하면 죽을 거라고 걱정한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09768_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_11436",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.743,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나쁜 생각하는 거 아니야 이놈?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "댕댕이 아 이래서 강아지가 최고야.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.763,
+                "end": 23.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안돼 가브 근데 웬만하면 MPC 이름도 못 외우는데 야 뛰어 빨리.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.472,
+                "end": 45.733
+            }
+        ]
+    },
+    "summary": "나쁜 생각 하는 건 아닌지 걱정하고 강아이가 위로해 주는 장면을 봅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11436_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

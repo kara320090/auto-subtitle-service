@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01680",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.003,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 아 이게 잠깐만 아 이게 빨랐는데 아 끌렸어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 23.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 빠릅니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.942,
+                "end": 26.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 결론",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.929,
+                "end": 28.000
+            }
+        ]
+    },
+    "summary": "남성이 빠르다고 하며 결론을 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01680_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

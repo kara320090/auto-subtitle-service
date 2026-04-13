@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "MYB_09105",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.633,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭘 좀 사줄까나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 좀 사줄까나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.177,
+                "end": 3.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭘 살 수 있으려나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.412,
+                "end": 5.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아유 물약이 다 떨어졌네?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.655,
+                "end": 7.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 좀 사 주고 혹시 모르니까 엘릭서도 하나만 살까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.552,
+                "end": 11.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아유 뭘 또 팔고 있나 악보도 팔고 있네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.260,
+                "end": 15.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "겸사겸사 이것도 사고 플렉스 해 볼까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.315,
+                "end": 19.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름1이 파는 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.092,
+                "end": 22.633
+            }
+        ]
+    },
+    "summary": "여성이 이름1이 파는 물약, 엘릭서, 악보를 사며 플렉스를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09105_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

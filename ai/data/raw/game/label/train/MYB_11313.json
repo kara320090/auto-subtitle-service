@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYB_11313",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.8,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 웃기다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.037
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.047,
+                "end": 30.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바람 너무 사기 아니냐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 30.761,
+                "end": 33.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저 연출 너무 좋다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 33.338,
+                "end": 36.800
+            }
+        ]
+    },
+    "summary": "여성은 게임 속 캐릭터들이 싸우는 장면을 보며 바람이 너무 사기 같고 연출이 좋다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11313_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

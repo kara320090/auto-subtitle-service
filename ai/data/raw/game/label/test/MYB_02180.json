@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_02180",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.333,
+        "format": "MP4",
+        "date": "2023-05-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단은 다 맞춰졌거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 9천만 나왔다 했죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.100,
+                "end": 3.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 최소 2.5는 나올 것 같거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.950,
+                "end": 6.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음에 다 눌러요 그냥",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.410,
+                "end": 8.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 다 누르는 게 동시에 누르기 힘들다 하면은 뭐 순서대로 이렇게 눌러도 되고 그냥 다 누르고 맨 처음에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.312,
+                "end": 18.333
+            }
+        ]
+    },
+    "summary": "다 맞춰져서 최소 2.5는 나올 것 같다고 얘기하고 있고 처음에 다 누르라고 얘기하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02180_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

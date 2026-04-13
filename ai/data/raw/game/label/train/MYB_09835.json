@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09835",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.333,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이고야 아으 계세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 정신 차려요 @계정1 님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.300,
+                "end": 8.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안돼 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.640,
+                "end": 11.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집중해 집중 정신 차려 이게 기메 방송이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.461,
+                "end": 19.333
+            }
+        ]
+    },
+    "summary": "여자가 스스로에게 정신 차리라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09835_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

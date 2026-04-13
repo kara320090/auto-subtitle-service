@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYB_05173",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.2,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "검은 바다 전설이라고 들어 봤나?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.616
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이크 또 시작되겠구만.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 2.626,
+                "end": 6.093
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "검은 바다 전설 뭔데 뭔데?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 6.103,
+                "end": 9.505
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "듣고 싶어.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 9.515,
+                "end": 11.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마침 이런 날씨에 하기 딱 좋은 이야기지.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 11.100,
+                "end": 14.405
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그땐 내가 막 공화국에서 열린 무투 대회에서 우승한 직후였다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 14.415,
+                "end": 22.200
+            }
+        ]
+    },
+    "summary": "검은 바다 전설은 이런 날씨에 하기 딱 좋은 이야기이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05173_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

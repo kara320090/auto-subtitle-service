@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01165",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.133,
+        "format": "MP4",
+        "date": "2023-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 딱히 의미가 없고 근데 요새 상위권에서는 한방 덱이 그렇게 잘 안 먹혀가지고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 한방 덱 야 뭐야 개 좋은데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.891,
+                "end": 15.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 뭐야 이거",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.616,
+                "end": 18.133
+            }
+        ]
+    },
+    "summary": "화자가 상위권에서는 한방 덱이 잘 안 먹힌다고 말하다가 한방 덱이 좋다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

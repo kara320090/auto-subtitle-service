@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYB_06529",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 52.941,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인체 실험 같은 걸 했나 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 제 그림자가 보이네요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.387,
+                "end": 4.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "눌렀는데 뭘까요?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 4.429,
+                "end": 17.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누른게 누르긴 했는 아 문이 열렸다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 17.277,
+                "end": 22.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저렇게 실험당해 가지고 머리도 없고 팔도 없고 이러면서도 도와주는 것 보면은 되게 슬프지 않아?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 22.664,
+                "end": 38.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 떨어졌어.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 38.587,
+                "end": 52.933
+            }
+        ]
+    },
+    "summary": "게임 안에 있는 캐릭터들은 실험을 당해 머리도 없고 팔도 없지만 플레이어의 캐릭터를 도와주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06529_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

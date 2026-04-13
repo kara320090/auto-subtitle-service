@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_08945",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.4,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사람 보는 눈이 이렇게 없어서야 내가 보호해 줘야겠고만 앞으로 누굴 만나든지 나에게 허락을 받으십시오.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 보호해 주도록 하겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.713,
+                "end": 9.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 통장은 나한테 맡기고 감사합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.642,
+                "end": 15.049
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.059,
+                "end": 19.400
+            }
+        ]
+    },
+    "summary": "사람 보는 눈이 이렇게 없어서야 앞으로 누굴 만나든지 허락을 받으라고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08945_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

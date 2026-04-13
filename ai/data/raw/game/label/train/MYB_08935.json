@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_08935",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.7,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "귀여워.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.541
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저놈의 주둥이를 콱 내가 저기 세계관에 있었으면 바로 죽었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.551,
+                "end": 6.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 나 제일 먼저 죽었음.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.525,
+                "end": 8.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세계관 설명할 때 누워있는 시체 1이 나야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.744,
+                "end": 12.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 12.577,
+                "end": 14.934
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.944,
+                "end": 28.700
+            }
+        ]
+    },
+    "summary": "내가 저기 세계관에 있었으면 바로 죽었다고 말하니까 나도라고 세계관 설명할 때 누워있는 시체 1이 나라고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08935_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_09745",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.666,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.836
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 마을에서 이야기를 들어보재요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.846,
+                "end": 4.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.798,
+                "end": 13.459
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 안 싸울 거야 난 평화주의자입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.469,
+                "end": 18.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저기 아이템 먹고 가자 여기 뭐 준다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.414,
+                "end": 25.666
+            }
+        ]
+    },
+    "summary": "평화주의자라 안 싸우고 아이템을 먹고 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09745_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_11604",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.333,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "애가 영혼이 없는데?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연회 분위기에 취했을 뿐입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.409,
+                "end": 9.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.516,
+                "end": 13.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아. 마음이 좀 불편한 게 있나? 질투를 하진 않을 것 같은데 애가. 불안해하나?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.264,
+                "end": 24.333
+            }
+        ]
+    },
+    "summary": "마음이 불편한지 질투를 하는건지 불안해 하는건지 애가 영혼이 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11604_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

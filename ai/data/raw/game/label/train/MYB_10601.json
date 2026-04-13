@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_10601",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 47.043,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뀜뀜",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 24.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 뱃사공 아저씨 화이팅",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.895,
+                "end": 29.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "은신처의 발이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.750,
+                "end": 36.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 재밌다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 36.459,
+                "end": 47.033
+            }
+        ]
+    },
+    "summary": "여자는 뱃사공 아저씨 화이팅 하며 은신처의 발이라고 하고 너무 재밌다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10601_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

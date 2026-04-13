@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_10822",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.633,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나를 아주 개무시하는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.674,
+                "end": 11.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.265,
+                "end": 20.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어우 얍삽해 도와주기 싫게. 그치?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.128,
+                "end": 24.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아. 그게 먹혔다고요 본토에서?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.040,
+                "end": 27.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.785,
+                "end": 31.667
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "옹 진짜 그놈의 머리 스타일이 뭐가 그렇게 중요한 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.677,
+                "end": 37.633
+            }
+        ]
+    },
+    "summary": "화자2의 캐릭터를 무시하고 행동하는 게 얍삽해서 도와주기 싫다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10822_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 11,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

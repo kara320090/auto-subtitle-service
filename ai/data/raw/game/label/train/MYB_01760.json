@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_01760",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.366,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "용언을 받아간 녀석이 이 몸의 생명력을 빼앗아 괴이한 허수아비를 만든 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 지금 들려오는 속삭이는 소리가 용언의 계약자의 목소리",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.842,
+                "end": 14.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 기억하는 녀석의 목소리는 아니지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.020,
+                "end": 18.366
+            }
+        ]
+    },
+    "summary": "남성은 용언의 계약자가 자신의 생명력을 빼앗아 허수아비를 만들었다고 말하고 여성은 들리는 소리가 계약자의 목소리냐고 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01760_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

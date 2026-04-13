@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_03750",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.125,
+        "format": "MP4",
+        "date": "2022-12-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 180층 오 출현하는 적",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 15.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘 어디서 나오는지 기억하시는 분 얘 오디세이에 나오는 그 얘들이잖아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.715,
+                "end": 21.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오랜만에 보네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.898,
+                "end": 24.124
+            }
+        ]
+    },
+    "summary": "한 남성이 게임상에서 180층에 도달했고 나오는 캐릭터를 보며 오랜만에 본다며 오디세이에 나오는 얘들이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03750_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

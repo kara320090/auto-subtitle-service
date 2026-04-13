@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "MYB_08720",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.266,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "닮았어 근데 좀 형이랑 예쁘다 진짜 예쁘게 생겼죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "질도 예쁜데 얘가 진짜 예뻐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.160,
+                "end": 10.642
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.652,
+                "end": 13.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "각하.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.301,
+                "end": 14.975
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.985,
+                "end": 16.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요테.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.501,
+                "end": 17.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.115,
+                "end": 22.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불사조 교단에 일원이래 응.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.046,
+                "end": 27.266
+            }
+        ]
+    },
+    "summary": "영상에서는 형이랑 닮았다면서 질도 예쁘지만 더 이쁘다고 언급하며 상대가 불사조 교단에 일원이라고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08720_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08720_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

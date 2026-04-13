@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYB_02005",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.241,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물어 봤으니까 대답해 드리자면 지금 여기 모이서 이러쿵저러쿵 할 시간에 나 같음 집에 가서 짐이나 싸겠어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.147
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 그치만",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.157,
+                "end": 9.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 용을 너무 쉽게 생각하는 거 아냐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.789,
+                "end": 12.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 용을 본 적이나 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.918,
+                "end": 15.302
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쿠키들은 용의 발톱보다도 작아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.312,
+                "end": 18.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용의 콧김에도 날아가는 게 쿠키라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.590,
+                "end": 21.474
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제대로 알고 있구만.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.484,
+                "end": 24.233
+            }
+        ]
+    },
+    "summary": "쿠키들은 용의 발톱보다 작고 용의 콧김에도 날아간다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

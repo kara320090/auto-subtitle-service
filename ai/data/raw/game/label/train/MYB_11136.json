@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_11136",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.675,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전 못 배겨요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.959
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.969,
+                "end": 6.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 와 와와와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.027,
+                "end": 13.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 옛날에 모넌할 때 모넌 마을 브금을 라잔 등장 브금으로 바꿨더니 금방이라도 마을에 재앙이 내려올 거 같이 진짜 무섭게 됐었는데 이런 거 보면은 꼭 그런 게 생각이 나네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.330,
+                "end": 26.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아포 다 모으고 싶다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.210,
+                "end": 29.666
+            }
+        ]
+    },
+    "summary": "화자는 예전에 모넌을 할 때 브금을 라잔 등장 브금으로 바꿔서 금방이라도 마을에 재앙이 내려올 거 같아 무서웠던 생각이 난다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11136_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

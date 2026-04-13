@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYB_09257",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.366,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응 편식도 하네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.816,
+                "end": 4.237
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 얘기 옛날에 편식하는 거에 관해서 맨 처음에 데모에서 뭔 얘기하지 않았었나? 갑자가 생각이 나는데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.247,
+                "end": 11.372
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔 얘기 했었던 것 같은데 기억이 안 나네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.382,
+                "end": 15.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "댕댕스.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.060,
+                "end": 19.456
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "말 잘 들어 멀리 떨어져 있으라니까 멀리 떨어져 있었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.466,
+                "end": 25.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "발바닥 귀여워요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.220,
+                "end": 28.366
+            }
+        ]
+    },
+    "summary": "발화자가 영상을 보며 강아지를 귀여워 하고 상황에 대해서 이야기하는 모습이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09257_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

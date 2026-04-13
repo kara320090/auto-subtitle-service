@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYB_10617",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.533,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주요 인물이나 메인 스토리와 관련된 세계 정세를 확인할 수 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 거 재밌죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.282,
+                "end": 6.427
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.437,
+                "end": 13.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 내일 시작할 때 한번 쏵 보는 게 낫겠어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.274,
+                "end": 18.264
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.274,
+                "end": 20.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 여기서 세워 놓고 봐야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.692,
+                "end": 22.527
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.537,
+                "end": 27.533
+            }
+        ]
+    },
+    "summary": "주요 인물이나 메인 스토리와 관련된 세계 정세를 확인할 수 있는 건 재밌고 내일 시작할 때 한번 싹 보겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10617_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10617_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

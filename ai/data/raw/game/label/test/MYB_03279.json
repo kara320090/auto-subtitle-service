@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_03279",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.875,
+        "format": "MP4",
+        "date": "2023-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 출발 너무 완벽해.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.495
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 웬만한 랭커 분들한테 지질 않아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.505,
+                "end": 15.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예언자는 야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.854,
+                "end": 22.875
+            }
+        ]
+    },
+    "summary": "예언자는 웬만한 랭커한테 지지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03279_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_03279_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

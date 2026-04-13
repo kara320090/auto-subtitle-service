@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYB_10643",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.466,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인생 겜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.637,
+                "end": 4.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.340,
+                "end": 11.148
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인생 겜 아 진짜요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.158,
+                "end": 14.325
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저도 몰랐는데 사람들이 나왔다고 데모 한번 해보자고 그래가지고 했다가 진짜 그냥 완전 반해버려서 하루에 지금 몇 시간씩 하고 유튜브 맨날 올리고 난리 났어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.335,
+                "end": 26.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 데모가 있고 본편도 나왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.593,
+                "end": 31.681
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오신 김에 대충 이제 그러면 요걸 한번 설명을 할까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.691,
+                "end": 38.466
+            }
+        ]
+    },
+    "summary": "사람들이 데모왔다고 애보자고 해서 했다가완전 반해서 하루에 몇 시간씩 하고 유트브에 맨날 올리고 있고 지금 데모도 나왔고 본편도 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10643_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10643_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

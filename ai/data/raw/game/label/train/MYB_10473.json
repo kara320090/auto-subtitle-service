@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "MYB_10473",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 51.666,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.520
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.530,
+                "end": 18.336
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.346,
+                "end": 23.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.831,
+                "end": 28.835
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "씁쓸 아 이제 일로 넘어와졌나 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.845,
+                "end": 44.842
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그래서 저 위쪽은 못 가는 땅으로 됐어요 여기.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 44.852,
+                "end": 48.947
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "와 여기 크리스탈 없어졌어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.957,
+                "end": 51.666
+            }
+        ]
+    },
+    "summary": "다른 땅으로 넘어와서 위쪽은 못 가는 땅이 되었고 크리스탈도 없어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10473_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_08882",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.766,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그 얘기 어디서 나온 거 같애요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.148,
+                "end": 16.733
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그때 한번 @이름1가 얘기했던 거 같애 나를 위해서 뭐 힘을 모아라 뭐 나중에 어차피 내 그릇이 될 거다 그런 얘기 했었던 거 같은데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.743,
+                "end": 23.765
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1님 내일 싸워요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.775,
+                "end": 30.105
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 30.115,
+                "end": 37.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 씨 넘사벽이네 실력 보소.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 37.122,
+                "end": 40.766
+            }
+        ]
+    },
+    "summary": "@이름1가 나를 위해서 힘을 모아라 나중에 어차피 내 그릇이 될 거다 그런 얘기 했었던 거 같다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08882_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

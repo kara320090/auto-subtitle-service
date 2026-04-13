@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_02975",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.933,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 3번 떨어졌을 때 써 주시고 슈크림 먼저 발동시키고 벚꽃",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.373
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 초대해줄게.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.380,
+                "end": 5.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그다음에 네 요렇게 마카롱 써주고 호밀 써주고 자 얘가 제일 먼저 발동해야 됩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.026,
+                "end": 13.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나머지 벌동보 보다 얘 먼저 발동시키고 나머지 3번 빠르게",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.760,
+                "end": 20.933
+            }
+        ]
+    },
+    "summary": "영상에서는 3번 떨어졌을 때 써주라고 강조했고 슈크림 먼저 발동시킨 후에 벚꽃, 마카롱, 호밀 순으로 써서 발동시켜주라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02975_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_02975_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

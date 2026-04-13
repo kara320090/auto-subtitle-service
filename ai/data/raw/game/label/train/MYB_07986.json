@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_07986",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 25.566,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "캬 캬 이렇게 또 지구를 구해내는 것인가 나 자신.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 또 이렇게 또 세계의 하나를 구해내나 내가 어쩔 수 없군 이 지구인들을 지켜줘야지.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 8.652,
+                "end": 25.566
+            }
+        ]
+    },
+    "summary": "여성이 지구인들을 지켜 준다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07986_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

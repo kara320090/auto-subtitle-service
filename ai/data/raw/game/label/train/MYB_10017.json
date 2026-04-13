@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_10017",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.466,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.053
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오토에게 지금의 상황을 확인하래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.063,
+                "end": 3.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.307,
+                "end": 7.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오토토 아 근데 저 테라스 쪽에서 쇼컷이 있음 진짜 좋았을 것 같은데 너무 이렇게 빙 돌아가 가지고 좀 불편하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.848,
+                "end": 19.466
+            }
+        ]
+    },
+    "summary": "여성은 오토에게 지금의 상황을 확인하라고 했고 빙 돌아가서 불편하다고 테라스 쪽에 쇼컷이 있음 좋았을 거 같다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10017_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

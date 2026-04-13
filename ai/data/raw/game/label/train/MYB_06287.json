@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_06287",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.633,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희 집 전속 요리사가 만든 요리라 아주 맛있을 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우와 한번 먹어볼까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.949,
+                "end": 6.922
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "공화국은 어때요 당연히 재미있게 즐기고 있겠죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.932,
+                "end": 11.717
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실은 어떤 쿠키들이 우리를 공격했는데 말이지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.727,
+                "end": 16.305
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "어머머 공격이라니 그게 무슨 소리예요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.315,
+                "end": 20.633
+            }
+        ]
+    },
+    "summary": "여자들은 공격을 받았다는 남자의 말에 걱정을 하며 물어보고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06287_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

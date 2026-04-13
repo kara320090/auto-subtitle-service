@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_11628",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.666,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 불안해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.613
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.623,
+                "end": 14.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 다행이다 아빠도 무사하겠다 얘가 흑막인 것 같아 아니겠지 설마?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.540,
+                "end": 20.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 지금 이렇게 하고서 죽이려고 하는 줄 알았어 의심이 너무 많아 나 큰일났다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.446,
+                "end": 27.585
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.595,
+                "end": 35.666
+            }
+        ]
+    },
+    "summary": "한 여성은 자신의 시청자들과 함께 게임을 하며 소통하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11628_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

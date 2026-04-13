@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_09200",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.633,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 예 맞아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.854,
+                "end": 1.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문헌에 콜라보해서 나왔던 애예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.908,
+                "end": 4.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이보우 아 아 아이루",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.080,
+                "end": 5.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바하무트의 손에 파괴 될 줄이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.947,
+                "end": 10.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로의 세계를 위해서 이걸 한번 더 봅시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.462,
+                "end": 21.633
+            }
+        ]
+    },
+    "summary": "발화자가 게임을 하면서 시청자의 질문에 대답합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09200_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

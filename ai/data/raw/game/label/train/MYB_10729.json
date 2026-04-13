@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_10729",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.2,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 이 기운 없는 목소리 귀여워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누가 부른 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.055,
+                "end": 4.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파이널 판타지 아이 귀여워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.084,
+                "end": 12.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.024,
+                "end": 13.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고마워요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.349,
+                "end": 15.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요만한 우와 여기 이런저런 도자기를 팔고 있는데 쬐끄만 새 모양 도자기 같은 것도 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.455,
+                "end": 28.200
+            }
+        ]
+    },
+    "summary": "화자1은 파이널 판타지 노래를 부른 걸 듣고 기운 없는 목소리가 귀엽다며 감사하다고 했고 게임에 보면 도자기도 팔고 있는데 새 모양 도자기도 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10729_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": 24,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

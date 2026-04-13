@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_10224",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.633,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강아지 어 뮤트 근데 생각보다 뭔가 성벽이 높아서 그런 건지 아니면 건물이 높아서 그런 건지 약간 어둡다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 16.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전체적으로 그래도 약간 수도 가까운 마을이라는 느낌은 있네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.257,
+                "end": 23.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 여기 목적지 주변이고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.500,
+                "end": 27.633
+            }
+        ]
+    },
+    "summary": "화자가 게임 마을을 돌아다니면서 어둡다고 느낀것을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10224_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

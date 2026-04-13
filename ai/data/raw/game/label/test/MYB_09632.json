@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYB_09632",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.966,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.539
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "브라크손",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.549,
+                "end": 3.469
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.479,
+                "end": 18.885
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 가까운 데부터",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.895,
+                "end": 28.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.285,
+                "end": 29.620
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.630,
+                "end": 30.898
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나 편지 받았는데 너 의욕을 되찾은 다음에도 왜 이렇게 괴로워하니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.908,
+                "end": 35.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고민 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.786,
+                "end": 38.966
+            }
+        ]
+    },
+    "summary": "여자가 게임을 하면서 캐릭터의 대사를 따라 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09632_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

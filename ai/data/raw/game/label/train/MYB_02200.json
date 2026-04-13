@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "MYB_02200",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.366,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "퍼펙트",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아씨 렉 뭐야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.275,
+                "end": 9.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파이널",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.580,
+                "end": 12.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 뒤에는 먹을 게 없네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.482,
+                "end": 14.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 여러분들 이렇게 퍼펙을 한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.915,
+                "end": 19.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물약을 다 먹으면 1350만을 넘을 수가 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.365,
+                "end": 24.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근본 용쿠로 클리어",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.237,
+                "end": 26.366
+            }
+        ]
+    },
+    "summary": "물약을 다 먹으면 1350만을 넘을 수가 있다고 얘기해주고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02200_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -17,7 +17,7 @@
 # - /home/user/SWPJ3/auto-subtitle-service/ai/data/results/vacation_lora/logs/*
 #
 # 목적:
-# - 여행(vacation) 도메인에 맞는 Whisper LoRA adapter를 train 데이터만으로 재학습한다.
+# - 여행(vacation) 도메인에 맞는 Whisper LoRA adapter를 train 데이터만으로 학습한다.
 # - 학습 중 validation 평가 없이, train만 사용하여 adapter를 다시 생성한다.
 # ============================================
 

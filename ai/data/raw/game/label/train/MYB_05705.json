@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_05705",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.4,
+        "format": "MP4",
+        "date": "2022-07-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모조리 날려주마.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.392
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 1등분 자 1등 덱에 1등 덱도 뚫어버리는지 이거 완전 포인트네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.402,
+                "end": 14.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 요거 뚫어버릴까 과연?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.523,
+                "end": 18.400
+            }
+        ]
+    },
+    "summary": "화자가 1등 덱을 뚫는 게 포인트라고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

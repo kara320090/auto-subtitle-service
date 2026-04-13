@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_08930",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 16.37,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.813
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "애도 애도 봐봐.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 3.823,
+                "end": 5.529
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1 진짜 개 고통스럽게 죽었으면 좋겠어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 5.539,
+                "end": 9.897
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나도 진짜.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.907,
+                "end": 12.217
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 12.227,
+                "end": 16.366
+            }
+        ]
+    },
+    "summary": "@이름1 진짜 고통스럽게 죽었으면 좋겠다고 하니까 나도라고 여자가 답하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08930_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

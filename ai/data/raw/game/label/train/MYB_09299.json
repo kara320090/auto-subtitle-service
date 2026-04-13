@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "filename": "MYB_09299",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.4,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.590,
+                "end": 4.730
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "당신도 들었어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.730,
+                "end": 5.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.760,
+                "end": 6.610
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "횡령 얘기 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.610,
+                "end": 8.170
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "요새 갑자기 배급이 줄어들었잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.170,
+                "end": 10.560
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그게 중간에 크리스털을 빼돌려서 그러는 거 아니냐는 소문이 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.560,
+                "end": 14.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.340,
+                "end": 16.170
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "흐름을 추적하기가 어려운 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.170,
+                "end": 17.570
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어디로 흘리는 걸까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.570,
+                "end": 20.400
+            }
+        ]
+    },
+    "summary": "크리스털을 누군가가 빼돌려서 배급이 줄어들었다는 소문이 있고 조사를 해도 흐름을 추적하기 어려운 상황이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09299_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

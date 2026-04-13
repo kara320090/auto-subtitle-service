@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_23756",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.066,
+        "format": "MP4",
+        "date": "2023-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평소에 가방에 아이템을 넣고 다니는데요 이 가방을 메고 전투를 하면은 가방 무게에 영양을 받기도 하고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "적의 공격이 가방에 맞으면 아이템이 뭐 부서졌나 네 이렇게 짐보따리를 메고 전투를 하면 안 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.996,
+                "end": 15.044
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 어떻게 해야 되냐? 전투를 시작하기 전에 항상.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.054,
+                "end": 18.066
+            }
+        ]
+    },
+    "summary": "가방을 메고 전투를 하면은 가방 무게에 영양을 받기도 하고 적의 공격이 가방에 맞으면 아이템이 부서진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_23756_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

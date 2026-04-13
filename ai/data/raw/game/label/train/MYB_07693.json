@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_07693",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 90.533,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 34.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 돼.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 34.730,
+                "end": 47.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 47.400,
+                "end": 83.150
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 디오가 죽었나 봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 83.160,
+                "end": 84.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 84.690,
+                "end": 90.533
+            }
+        ]
+    },
+    "summary": "게임 영상 속에서 디온 게이게이가 적과 대결하다가 추락했는데 죽은 것 같다며 여자가 울고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07693_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

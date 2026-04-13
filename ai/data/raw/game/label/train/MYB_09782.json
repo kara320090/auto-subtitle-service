@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_09782",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.166,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "들어갈 수는 없고 문 잠겨 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.421
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.431,
+                "end": 14.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 문을 꽁꽁 닫아놨다고 했잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.989,
+                "end": 21.163
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서부턴 걸어가야 되나봐 문을 꽁꽁 닫아놨네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.173,
+                "end": 31.166
+            }
+        ]
+    },
+    "summary": "들어갈 수 없게 문이 꽁꽁 잠겨 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09782_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

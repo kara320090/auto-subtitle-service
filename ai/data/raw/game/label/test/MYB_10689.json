@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYB_10689",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.6,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.879
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하이 하이 알겠겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.889,
+                "end": 9.669
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거주 구역 지하 감옥 아 초코보도 먹었나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.679,
+                "end": 21.137
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "먹게 됐었나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.147,
+                "end": 23.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.656,
+                "end": 26.585
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 얘보다 훨씬 더 센 게 나와버렸네 대지의 검",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.595,
+                "end": 33.600
+            }
+        ]
+    },
+    "summary": "초코보도 먹기로 했었나 싶고 얘보다 더 센 대지의 검이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10689_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10689_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

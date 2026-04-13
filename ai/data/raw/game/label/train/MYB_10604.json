@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_10604",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.4,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대화가",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러게 흑막일지도",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.565,
+                "end": 17.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "질도 마실 거 한잔 줘",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.357,
+                "end": 19.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와아",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.248,
+                "end": 22.766
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와아",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.776,
+                "end": 25.400
+            }
+        ]
+    },
+    "summary": "여자는 흑막일지도 모른다고 하고 질도 마실 거 한잔 주라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10604_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

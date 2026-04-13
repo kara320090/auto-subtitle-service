@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_11095",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.8,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.853
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기메 십일십삼을 하고 똥 맛을 느껴 봅시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.863,
+                "end": 7.171
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "십일십삼도 추천하는 사람 처음 들어 봤음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.181,
+                "end": 10.033
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보통 7이랑 7 리메이크랑 15를 추천했었거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.043,
+                "end": 15.857
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 십사십오는 하지 말라 그랬어 14라 그랬나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.867,
+                "end": 18.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 그랬는데 생소하게 들리는 11과 13 똥 냄새",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.670,
+                "end": 25.800
+            }
+        ]
+    },
+    "summary": "시청자는 게임 기메 11과 13을 추천하고 화자는 보통 7 리메이크랑 15를 추천하는데 11과 13을 추천하는 사람은 처음 들어 봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11095_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

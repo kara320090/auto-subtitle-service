@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_11353",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 60.566,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 38.392
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 밑에 노란 게이지는 뭘까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 38.402,
+                "end": 41.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 잘못 눌렀다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 41.260,
+                "end": 51.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 경직에 걸리면 한번 써보자.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 51.854,
+                "end": 60.566
+            }
+        ]
+    },
+    "summary": "여자는 게임을 바라보며 어떤 아이템을 쓸지 분석해 보고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11353_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_11048",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 43.233,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전투 할 건가봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 튜토리얼 다시 해야 하는데 나 전투하는 방법 모르는데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.438,
+                "end": 11.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 불쌍해 애들 안돼 어떡해 아 그렇게 진짜 못 됐어 안 돼 어떡해.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.094,
+                "end": 43.233
+            }
+        ]
+    },
+    "summary": "한 여자가 게임 속 스토리를 보면서 안타까워하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11048_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

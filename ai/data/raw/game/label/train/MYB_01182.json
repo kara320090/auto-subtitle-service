@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_01182",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.666,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 목소리가 들리시나요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.669
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "드디어 이 힘을 당신에게 드릴 때가 되었군요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.679,
+                "end": 7.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바다님 바다님 저도 이제 진정한 보석 인어가 될 수 있는 건가요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.130,
+                "end": 16.662
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 스페셜 에피소드 나오구요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.672,
+                "end": 24.666
+            }
+        ]
+    },
+    "summary": "화자가 업데이트 영상을 보며 스페셜 에피소드도 나온다고 첨언하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01182_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

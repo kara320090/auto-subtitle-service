@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYB_11498",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.4,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.777
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.787,
+                "end": 2.364
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.374,
+                "end": 4.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죽이면 되는 거죠 이제.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.563,
+                "end": 5.939
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.949,
+                "end": 13.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그치.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.348,
+                "end": 16.704
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "외상에는 바르는 게 빠를지도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.714,
+                "end": 18.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "라곤 라곤",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.430,
+                "end": 23.400
+            }
+        ]
+    },
+    "summary": "한 여성이 이제 죽이면 되는 거라고 말하고는 바르는 게 외상에 빠르다고 답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11498_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

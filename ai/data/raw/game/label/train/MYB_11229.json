@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_11229",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.866,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하하하하.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 우리 너무 잔인한 거 많이 했어요 요즘 그렇죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.945,
+                "end": 5.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘 디아블루에서 잔인한 거 많이 봐서 그래.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.657,
+                "end": 9.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 금태양 같이 생겼네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.448,
+                "end": 30.866
+            }
+        ]
+    },
+    "summary": "우리 요즘 디아블루에서 너무 잔인한 거 많이 보고 했다며 다들 금태양 같이 생겼다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11229_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_01943",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.466,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나도 느끼고 있어 몬스터들의 상태가 왠지 겁을 먹고 날뛰고 있는 거 같단 말이지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 녀석이 용의 협곡에서 무슨 짓을 하고 있는 지는 몰라도 여기 베리 숲속까지 그 영향을 받고 있는 거 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.181,
+                "end": 17.147
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "홀리베리 쿠키님 푸른 붉은 용을 찾으면 어떻게 하실 생각입니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.157,
+                "end": 23.466
+            }
+        ]
+    },
+    "summary": "홀리베리 쿠키가 베리 숲속을 걱정하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01943_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

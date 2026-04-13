@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_10770",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.533,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.016
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 씨. 아 나 놀릴라고 보낸 거구나? 아 씨. 내가 과자를 코로 먹는 게 아니고 벌레가.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.026,
+                "end": 11.314
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하 저게 뭐야. 이따 봤으면 재미없을 뻔했다. 진짜 웃기네 저런 건 어떻게 찾았대.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.324,
+                "end": 22.533
+            }
+        ]
+    },
+    "summary": "한 여자가 자신을 놀리려고 보낸 거냐고 묻고 과자를 코로 먹는 게 아니고 벌레가라고 말한다. 그리고 이따 봤으면 재미 없을뻔했다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10770_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

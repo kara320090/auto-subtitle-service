@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_00867",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.969,
+        "format": "MP4",
+        "date": "2023-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "겁도 없이 인어들의 바다에 발을 들였군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왕국을 시키는 나의 군단이여 창을 높이 들어라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.193,
+                "end": 6.458
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 크림슨코랄 쿠키죠 슈퍼 에픽",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.468,
+                "end": 11.342
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 스킬 능력이 엄청나게 화려합니다 전방에 있는 쿠키죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.352,
+                "end": 19.966
+            }
+        ]
+    },
+    "summary": "크림슨코랄 쿠키는 전방에 있는 쿠키이고 스킬 능력이 화려하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_00867_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

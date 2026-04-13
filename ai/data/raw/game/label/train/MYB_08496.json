@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_08496",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.033,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "항구에 의해 어쩌구 숲길 안쪽 좋아요 적어 놨어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이사벨한테 얘기를 들어봅시다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.206,
+                "end": 10.354
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.364,
+                "end": 12.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우 아줌마가 정말 어쩌구 저쩌구",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.449,
+                "end": 15.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이랬는데 그러니까요 지역마다 있나봐요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.808,
+                "end": 22.033
+            }
+        ]
+    },
+    "summary": "퀘스트용 메모를 다 적고 다른 NPC를 찾으러 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08496_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

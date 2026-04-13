@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_08844",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.966,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "팍스련이라니요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 숙부님 숙부님은 왜 뽀뽀 안 해주냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.534,
+                "end": 7.788
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.798,
+                "end": 15.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 또 숙부님 아 내 눈물 버튼 숙부 아 울지마",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.444,
+                "end": 22.966
+            }
+        ]
+    },
+    "summary": "화자는 숙부 캐릭터를 보고 눈물 버튼이라며 울지 말라고 스스로에게 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08844_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

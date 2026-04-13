@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_11303",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.111,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.683,
+                "end": 4.813
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.823,
+                "end": 7.054
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 씨 하필이면 그런 장면 보여주면서 중요한 얘기해서 무슨 얘기한 건지 하나도 모르겠잖아",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.064,
+                "end": 14.752
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "마더 크리스탈 어쩌고 한 것 같긴 한데",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.762,
+                "end": 18.100
+            }
+        ]
+    },
+    "summary": "여성은 게임의 수위가 높은 장면에서 중요한 얘기가 나와서 무슨 얘기를 한 건지 하나도 모르겠다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11303_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

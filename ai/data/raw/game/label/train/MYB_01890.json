@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_01890",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.266,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘 들어라, 홀리베리 쿠키",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 몸이 힘을 되찾으면 네가 그토록 아끼는 쿠키 세계를 어둠마녀 쿠키란 녀석에게서 지켜낼 수 있게 된다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.890,
+                "end": 13.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "넌 이 힘을 위해 무엇이든 바치겠느냐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.286,
+                "end": 17.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나, 난.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.831,
+                "end": 23.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보여주마, 진짜 전설이 누구인지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.897,
+                "end": 31.266
+            }
+        ]
+    },
+    "summary": "홀리베리 쿠키에게 힘을 위해 무엇을 바칠지 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01890_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

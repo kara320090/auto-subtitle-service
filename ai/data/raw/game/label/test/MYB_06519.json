@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYB_06519",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 45.1,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 뭔가가 삭제되었겠겠지요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 공사 여기서 이 물에 있을 때는 사다리를 옮길 수 있지 않을까?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.117,
+                "end": 20.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안되나?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.821,
+                "end": 26.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문이 열릴 정도까지만 문 열기?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.040,
+                "end": 32.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아예 위로 다 올려야지 문이 열리던데 이렇게 돼요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 32.269,
+                "end": 45.100
+            }
+        ]
+    },
+    "summary": "물이 있고 없고 사다리를 다 옮길 수가 없고 물이 완전히 차야지만 물이 열린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06519_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

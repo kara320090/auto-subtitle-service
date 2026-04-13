@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_07536",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.633,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.075
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "참 치마 좀 어떻게 할 수 없나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.085,
+                "end": 3.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.005,
+                "end": 10.224
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아유 노인네 둘이 이렇게 싸우고 있네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.234,
+                "end": 12.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.467,
+                "end": 19.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "달걀이 먼저다 닭이 먼저다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.348,
+                "end": 24.633
+            }
+        ]
+    },
+    "summary": "게임에서 노인네 둘이 비유하자면 달걀이 먼저니 닭이 먼저니 하며 싸우고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07536_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

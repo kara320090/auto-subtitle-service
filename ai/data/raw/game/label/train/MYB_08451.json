@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_08451",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.233,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.437
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "스스로의 힘으로 살아갔으면 좋겠대 베어라들이 그래서 그 씨앗을 써달래.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.447,
+                "end": 9.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보호된 직후에 바로 이주해왔고 아이고 엉덩이야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.152,
+                "end": 14.837
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 노예로 오래 살아가지고 구체적인 지시가 없으면 움직이지 않는대.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.837,
+                "end": 21.233
+            }
+        ]
+    },
+    "summary": "베어라들이 스스로의 힘으로 살아갔으면 좋겠다고 얘기하고 씨앗을 전달하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

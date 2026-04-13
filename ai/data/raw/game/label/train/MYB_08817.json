@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYB_08817",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.3,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "월월월 깨갱깨갱 월월월 어우 뭐야 검으로 돌렸네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앗 아 귀여워 아 귀여워 방금 본 사람 아 귀여워",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.049,
+                "end": 24.796
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.806,
+                "end": 26.086
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.096,
+                "end": 27.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몸을 동글게 말아가지고는 공격을 가했잖아 귀여운데 토르갈 아유 댕댕이 키우고 싶다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.939,
+                "end": 38.300
+            }
+        ]
+    },
+    "summary": "화자는 몬스터로 나온 늑대를 보고 귀엽다며 강아지를 키우고 싶다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08817_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_08997",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.9,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 멋있어. 잘못 했다 이거.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장난감 기차 탈 사람? 장난감 기차가 이거부터 죽여야 돼. 마법사.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.311,
+                "end": 28.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끝났네?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.464,
+                "end": 37.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모태솔로부터 죽여야 한다니 이거 너무 잔인하네요. 유유.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 37.322,
+                "end": 41.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 제가 방금 모태솔로부터 죽여야 한다고 말했나요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 41.355,
+                "end": 45.900
+            }
+        ]
+    },
+    "summary": "화자2는 모태솔로부터 죽이는 것은 너무 잔인하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08997_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

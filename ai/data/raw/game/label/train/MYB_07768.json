@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYB_07768",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.166,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 화장 뭐 와 다 지워졌어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 큰일 났어요. 이제 어떤 게임을 해도 즐겁지 않게 돼.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.842,
+                "end": 9.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 그래서 저는 무슨 생각 했냐면 잠깐 힐링 게임이랑 추리 게임을 하고 와야겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.185,
+                "end": 15.252
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래야 그 다음 게임을 할 때 몰입을 할 수 있지. 이거 한 다음에 다른 뭐 액션 게임을 한다?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.262,
+                "end": 20.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 그냥",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.689,
+                "end": 23.166
+            }
+        ]
+    },
+    "summary": "20대 여성이 하고 있었던 게임에 너무 몰입한 나머지 다른 힐링 게임이나 추리 게임을 하고 와야겠다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07768_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

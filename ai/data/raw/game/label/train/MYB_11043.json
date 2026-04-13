@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYB_11043",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 47.9,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "파판 지금 처음 해 보는 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.673
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우후 여행의 시작 해후 그러면 패드는 저번에 충전 풀로 해 놨었는데 왜 또 이래 오늘 뭐 날 방해할 셈인가?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.683,
+                "end": 40.224
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해후후님 해후 한방해주세요 해후.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 40.234,
+                "end": 47.900
+            }
+        ]
+    },
+    "summary": "한 여자가 게임 속 인물들의 여행이 시작되어 즐거워 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11043_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

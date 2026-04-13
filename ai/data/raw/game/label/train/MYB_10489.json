@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYB_10489",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.2,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 도저히 그 만 원을 잃을 수 없어서 안 되겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 여기서부터 다시 어 어 노래도 어 노래가 바뀌었네요 여러분.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.755,
+                "end": 14.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우 네 어우 어우 새로운 노래도 있고 꼬꼬 초코보 통구이 헐 어유 잔인",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.109,
+                "end": 29.200
+            }
+        ]
+    },
+    "summary": "화자1은 만 원을 잃을 수 없다고 하며 노래가 바뀌고 코코 초코보 통구이는 잔인하다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10489_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

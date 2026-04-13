@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_06431",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.266,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저걸 끌고 오면 되려나?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 끌고 갈 만한 걸 밑에서 가져와야 되나?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.443,
+                "end": 9.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 위아래로는 안 움직여지고 완전히 그냥 딱 일직선으로밖에 안 되거든요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.115,
+                "end": 17.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 이렇게 깊은 지하가 있다는 거는 지하로 들어가든지",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.600,
+                "end": 27.266
+            }
+        ]
+    },
+    "summary": "한 여성이 일직선으로밖에 안 되고 밑에서 끌고 갈 만한 걸 가져와야 하는지 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06431_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

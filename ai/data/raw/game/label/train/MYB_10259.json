@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_10259",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.566,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "알겠 겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 이거 완료하고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.047,
+                "end": 18.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오는 길에 마담 만났는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.557,
+                "end": 24.566
+            }
+        ]
+    },
+    "summary": "화자가 게임 퀘스트를 하면서 말을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10259_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

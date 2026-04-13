@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_09877",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.2,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "약간 방종이란 단어에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 5년 동안 휴가 4일 썼습니다 본 받으십시오 4분의 1 안드로이드 #계정1",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.220,
+                "end": 6.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5년 동안 휴가 4일 5년 동안 휴가 4일 연차 수당이라도 돌려주면 진짜 괜찮은데 내가 뭐라고 말할 수 없지 아휴 아쉽습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.060,
+                "end": 17.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 뭐라고 할 수 없는 말이 너무 빡세잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.133,
+                "end": 23.200
+            }
+        ]
+    },
+    "summary": "5년 동안 휴가 4일 썼다는 말에 여자가 아쉽다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09877_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYB_09476",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 63.6,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비룡종인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니구만 손이 있겠네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.255,
+                "end": 12.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혀 낼름 낼림 요거부터 해주고 바닥 한번 찍어주고 그다음에 가서 돌진 한번 해주고 우와 얘 벽 친 거 아니야 방금.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.773,
+                "end": 25.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "벽도 치네 아유 이게 이팩트가 개 지리는 거 같아 이거 봐봐 이게 멋있어 너무 멋있어 겁나 쩔어 제대로 피하면은 아 피하고 했는데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.701,
+                "end": 63.600
+            }
+        ]
+    },
+    "summary": "바닥 찍어주고 돌진 해주고 이팩트가 지리는 거 같아서 멋있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09476_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

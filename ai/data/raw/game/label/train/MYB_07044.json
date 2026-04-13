@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_07044",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 47.3,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1아 @이름1아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2님 @이름2님 @이름2님 어디예요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.461,
+                "end": 16.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2님 @이름2님 @이름2님 우리를.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.908,
+                "end": 29.085
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 실드 왜 이렇게 쿨이 길어 안되겠어 이거.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.095,
+                "end": 47.300
+            }
+        ]
+    },
+    "summary": "결국 지고 장착했던 실드의 쿨타임이 너무 길어 다른 아이템으로 교체한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07044_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

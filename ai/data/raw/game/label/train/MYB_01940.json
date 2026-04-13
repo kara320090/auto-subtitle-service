@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_01940",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.766,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그게 무슨 말씀이십니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.642
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거참 질문도 많다 네가 알아서 뭘 하려고 그래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.652,
+                "end": 6.924
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혼자 가실 수는 없습니다 저도 동행하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.934,
+                "end": 11.629
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설마 내가 걱정이라도 되는 건 아니겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.639,
+                "end": 16.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 홀리베리 쿠키님께 쓸모가 있을 거라고 생각되어서 그렇습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.379,
+                "end": 21.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보나 마나 또 정글베리맛 쿠키가 당부했겠지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.300,
+                "end": 25.766
+            }
+        ]
+    },
+    "summary": "와일드베리맛 쿠키가 홀리베리맛 쿠키와 동행하겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01940_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

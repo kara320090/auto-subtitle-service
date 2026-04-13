@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYB_08806",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.933,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.434
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "끝까지 신세 지는군",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.444,
+                "end": 3.265
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 감사 인사는 맛있는 와인으로 충분해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.275,
+                "end": 6.470
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최고의 와인을 만들 테니까 그때가 오면 얼마든지 가져가라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.480,
+                "end": 12.355
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "굿굿 퀘스트 컴플리트 기다림의 끝에 후편",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.365,
+                "end": 19.933
+            }
+        ]
+    },
+    "summary": "화자는 최고의 와인을 만들 테니 나중에 가져가라는 캐릭터의 대화를 읽고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08806_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

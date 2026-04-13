@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYB_08025",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.052,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.388,
+                "end": 3.720
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "땅 어?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.730,
+                "end": 13.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이렇게 가다가 중단에 여기 가버리면 메인 퀘스트가 진행되는데 그러면 나 방중은 어떻게 하냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.671,
+                "end": 26.033
+            }
+        ]
+    },
+    "summary": "여성이 게임 캐릭터가 이렇게 가다가는 메인 캐스트가 진행이 된다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08025_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

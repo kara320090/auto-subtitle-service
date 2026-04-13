@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYB_11097",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.274,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1님한테 다시 매니저를 오늘 하루 잠깐 부과를 하고 가차 없이 스포하시면은 그냥 채팅 좀 잘라 주실래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스포하면은 그냥 채팅 좀 잘라 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.301,
+                "end": 10.673
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 그냥 임시 차단 박아 주세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.683,
+                "end": 14.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 평가에 그거에 대한 책임은 제가 지겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.895,
+                "end": 18.266
+            }
+        ]
+    },
+    "summary": "화자는 @이름1에게 하루 매니저 권한을 부여하고 스포를 하는 사람을 차단해 달라고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11097_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

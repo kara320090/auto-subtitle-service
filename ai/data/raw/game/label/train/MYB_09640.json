@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_09640",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.633,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강아지 심부름도 하네 이제.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 토르가흘이니까 해 줘야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.701,
+                "end": 4.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고양이가 먹는 거였으면 안 해줬을 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.690,
+                "end": 11.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 고양이가 귀엽고 사랑스럽긴 하지만 어 귀여운 거 말고는",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.372,
+                "end": 19.947
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.957,
+                "end": 23.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타공치인 경우가 더 많은 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.286,
+                "end": 26.633
+            }
+        ]
+    },
+    "summary": "여자가 게임을 하면서 강아지라서 심부름을 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09640_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

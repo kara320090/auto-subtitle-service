@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_09473",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.0,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 덩달아 이런 것도 있네 이거 플스 5도 있어야 되고 게임값도 드는 게임이라 역시 어린이들이 없어서 그런지도?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "클린하구만 파판 달달하누 아 생방 주소는 달아놨는데 몇 번 오시긴 오시는 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.425,
+                "end": 27.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "늘 저기 오셔 가지고 안녕하세요 채팅 쳐주시는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.746,
+                "end": 32.000
+            }
+        ]
+    },
+    "summary": "플스 5도 있어야 되고 게임값도 드는 게임이라 어린이들이 없어서 그런거라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09473_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

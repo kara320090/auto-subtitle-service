@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_10011",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.3,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 어디가 19금 게임이냐? 이",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.797,
+                "end": 10.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 질 죽으면 너무 슬플 것 같은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.038,
+                "end": 11.858
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.868,
+                "end": 18.238
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.248,
+                "end": 21.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쥬브니",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.757,
+                "end": 22.659
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.669,
+                "end": 30.300
+            }
+        ]
+    },
+    "summary": "여성은 게임 영상을 보면서 이게 어디 가 19금 게임이냐고 했고 영상 속의 여성인 질이 죽으면 너무 슬플 것 같다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10011_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

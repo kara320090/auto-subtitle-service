@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_24323",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.0,
+        "format": "MP4",
+        "date": "2023-03-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 주간의 흥미로운 게임 소식을 알아보는 게임 라디오 시간입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 무료 배포 소식부터 보죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.704,
+                "end": 6.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오랜만에 스팀에서 무료 배포를 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.055,
+                "end": 8.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3월 10일 03시까지 스팀에서 피그먼트를 무료 배포 중입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.711,
+                "end": 13.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 피그먼트는요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.638,
+                "end": 14.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 편의 뮤지컬을 보는 것 같은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.642,
+                "end": 17.000
+            }
+        ]
+    },
+    "summary": "이번 시간은 한 주간의 흥미로운 게임 소식을 알아보는 시간인데 오랜만에 스팀에서 3월 10일 03시까지 무료 배포를 한다고 했는데 그것은 바로 피그먼트이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_24323_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

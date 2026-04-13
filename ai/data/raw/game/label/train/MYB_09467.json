@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYB_09467",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.9,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1를 처지했다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.666
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "긴 세월이었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.666,
+                "end": 14.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 한이 풀린 것 같다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.031,
+                "end": 19.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 또 잘 부탁해 나 아직 할 얘기가 남았는데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.133,
+                "end": 25.900
+            }
+        ]
+    },
+    "summary": "긴 세월이었는데 이제 한이 풀린 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09467_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

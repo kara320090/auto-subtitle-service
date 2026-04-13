@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_11142",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.633,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.706
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "니들이 게 맛을 알아 그러니까 수염 너무 귀엽지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.716,
+                "end": 5.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.992,
+                "end": 8.142
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잡아뜯으면 도레미파솔",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.152,
+                "end": 12.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.769,
+                "end": 14.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 키워드 아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.320,
+                "end": 19.633
+            }
+        ]
+    },
+    "summary": "화자2가 화자1의 수염이 귀엽다며 니들이 게 맛을 알아라고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11142_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

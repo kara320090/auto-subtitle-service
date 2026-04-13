@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_24122",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.333,
+        "format": "MP4",
+        "date": "2023-03-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "25퍼센트 할인해서 44920원에 판매 중이기 때문에 어 지금 당장 할인구매하셔도 좋지만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가격이 조금 부담스러운 분들은 게임 패스로 플레이해봐도 좋지 않을까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.767,
+                "end": 11.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 스팀에 한국어 지원이 안 된다고 나와있지만 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.025,
+                "end": 14.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상점 페이지에는 아직 적용이 안 됐나 봐요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.547,
+                "end": 17.333
+            }
+        ]
+    },
+    "summary": "스팀에서 25퍼센트 할인해서 판매 중인데 가격이 부담스럽다 하시면 게임 패스로 플레이해봐도 좋지 않을까 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_24122_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 4,
+                    "act": 44
+                }
+            ]
+        }
+    ]
+}

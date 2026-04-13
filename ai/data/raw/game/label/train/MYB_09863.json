@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09863",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.566,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쓰리 리즈 습지에서 이거 잡으러 갔다가 길 좀 보자 여기로 내려 가라고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기메 그리폰을 알아요 지금까지 기메가 해온 게임에서 그리폰은 본 기억이 없는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.622,
+                "end": 16.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어딘가 애니메이션이었나 어디서 보지 않았을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.736,
+                "end": 19.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 저도 그걸 왜 아는지 모르겠는데 어떻게 하다 보니 알고 있네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.260,
+                "end": 25.566
+            }
+        ]
+    },
+    "summary": "여자가 기메폰을 왜 아는지 모르겠는데 어떻게 하다 보니 알고 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09863_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

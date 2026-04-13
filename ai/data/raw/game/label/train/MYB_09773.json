@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_09773",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.102,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.435
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죽으면서 정보를 알려주는 참 된 엔피씨였고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.445,
+                "end": 9.108
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그치 그치 나도 그 생각하긴 했는데 너무 충성도가 높은데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.118,
+                "end": 15.539
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.549,
+                "end": 16.887
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.897,
+                "end": 18.684
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가보자 가자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.694,
+                "end": 24.100
+            }
+        ]
+    },
+    "summary": "죽으면서도 정보를 알려주는 충성도 높은 캐릭터이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09773_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

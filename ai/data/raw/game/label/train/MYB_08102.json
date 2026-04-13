@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_08102",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.2,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "푸대접 받네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.841
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "들여보내줘.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.851,
+                "end": 19.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 말하면 문제가 꼭 일어나던데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.379,
+                "end": 25.200
+            }
+        ]
+    },
+    "summary": "한 여성은 퀘스트 진행을 위해 게임 스토리를 시청하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08102_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

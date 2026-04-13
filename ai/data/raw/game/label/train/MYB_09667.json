@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_09667",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.233,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 토르갈은 이질적인 능력을 갖고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘는 비담어 얼음의 힘 뿐이 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.868,
+                "end": 6.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아 뭔가 약간 오글",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.749,
+                "end": 10.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모두의 힘 때문에 얘가 영향을 받은 것 같다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.399,
+                "end": 13.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.568,
+                "end": 16.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한때는 시드와도 지냈고 그니까 한 나라에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.398,
+                "end": 21.233
+            }
+        ]
+    },
+    "summary": "여자가 게임을 하면서 게임 속 캐릭터의 대사를 따라 읽고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09667_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

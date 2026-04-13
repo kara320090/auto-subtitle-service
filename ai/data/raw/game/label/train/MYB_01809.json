@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYB_01809",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.133,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 끝까지 갔어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이건 이번엔 망했네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.146,
+                "end": 7.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 저렇게 되면 망합니다 여러분들.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.078,
+                "end": 11.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "온도가 팍 치고 올라오지 못하면 망하는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.453,
+                "end": 15.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 또 이어서 갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.152,
+                "end": 18.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 이거 여러분들 너무 안 나온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.516,
+                "end": 23.336
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번엔 잘 올라간 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.346,
+                "end": 27.133
+            }
+        ]
+    },
+    "summary": "온도가 팍 치고 올라오지 못하면 망하는 건데 너무 잘 안 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01809_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_01809_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

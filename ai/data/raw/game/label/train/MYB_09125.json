@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYB_09125",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.333,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 제가 찔렀나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.044
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.054,
+                "end": 5.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저렇게 자식 아끼는 놈인지 몰랐지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.601,
+                "end": 9.809
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.819,
+                "end": 12.965
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.975,
+                "end": 21.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.780,
+                "end": 22.967
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 미친년 아 욕하면 안 돼 죄송해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.977,
+                "end": 27.333
+            }
+        ]
+    },
+    "summary": "여성이 저렇게 자식을 아끼는 놈인지 몰랐다고 하며 미친년이라고 하다가 욕을 해서 죄송하다고 사과했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09125_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYB_08439",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.333,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 도리토스의 과거를 알아버렸어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대학원생들 PTSD 오는 대사",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.722,
+                "end": 9.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "똑똑하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.237,
+                "end": 10.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.320,
+                "end": 16.447
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.447,
+                "end": 18.792
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도와주셔서 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.795,
+                "end": 22.333
+            }
+        ]
+    },
+    "summary": "게임 속 대화를 듣고 대학원생들 PTSD 오는 대사라며 얘기하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08439_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

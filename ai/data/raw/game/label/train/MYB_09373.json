@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_09373",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.766,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 역시 소재를 찾기 힘들 것 같다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.740,
+                "end": 5.626
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "있기는 있어요 소재가 아다만타이트인데 아 워낙 비싸고 바다 건너에 그런 걸로 약간 조리용 칼을 만드는 것 좀 아깝긴 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.636,
+                "end": 15.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.810,
+                "end": 18.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다리밀이라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.835,
+                "end": 20.766
+            }
+        ]
+    },
+    "summary": "발화자는 게임 속 캐릭터들의 대화를 통역하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09373_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

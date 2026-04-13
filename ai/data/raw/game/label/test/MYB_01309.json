@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_01309",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.333,
+        "format": "MP4",
+        "date": "2023-07-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 요렇게 뭐 딱히 뭐 차이가 있나? 네 웨어울프는 저렇다. 변신이 좀 바뀐 거는 맞죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음 파르페도 갑니다. 오 야 얘는 바꼈다. 진짜 얘는 완전 바뀌게 했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.578,
+                "end": 20.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 아는 그 임팩트랑은 완전 다르다. 야 얘는 완전 화려하네요. 평타도 다르네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.359,
+                "end": 28.333
+            }
+        ]
+    },
+    "summary": "웨어울프는 변신이 좀 바뀌었고 파르페는 완전히 바뀌어서 임팩트가 다르고 화려하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

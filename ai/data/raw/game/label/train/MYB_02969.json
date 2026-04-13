@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYB_02969",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.733,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 빌드로 제가 보여드리도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 빌드는 연습하다 보면은 처음에는 어려워 보일 수 있는데 하다 보면은 쉬워집니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.599,
+                "end": 9.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 첫 번째 첫 번째 1단계 마카롱 예약.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.409,
+                "end": 13.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 이렇게",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.131,
+                "end": 14.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 번째는 이제 벚꽃맛 쿠키를 누르고 자 여기서 미리 말씀드릴게요 보스 출현이 뜨고 보스 출현이 지나면 슈크림 바로 눌러주세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.126,
+                "end": 22.813
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 보스 출현 지나서 이렇게 슈크림 바로 눌러주고 바로 마카롱 예약합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.823,
+                "end": 29.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 마카롱이 스킬 쓰자마자 오먹.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.253,
+                "end": 32.733
+            }
+        ]
+    },
+    "summary": "빌드로 보여주자면 처음에는 어려울 수있으나 하다 보면 쉽다면서 1단계는 마카롱 예약 그리고 벚꽃맛 쿠키를 누르는 건데 우선 보스 출현 지나고 나서 슈크림 바로 눌러주고 마카롱을 예약하라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02969_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_02969_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

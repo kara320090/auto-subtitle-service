@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYB_01934",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 63.233,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 목숨을 걸고 약속합니다 그대신 제게도 약속해주십시오.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.933
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 들려드리는 쿠키 영웅의 이야기가 당신을 만족 시킨다면 당신의 힘이 깃든 용언 한마디를 선사하기로",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.943,
+                "end": 18.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "발칙한 녀석이구나 약속하지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.162,
+                "end": 25.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용언으로 약속해주십시오.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.070,
+                "end": 28.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당신조차도 거역할 수 없는 힘이 담긴 약속을 해주십시오.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.013,
+                "end": 33.924
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미물치곤 똑똑하구나 좋다 약속해 주지 영웅의 이야기 하나에 용언 한마디 날 만족시키지 못한다면 너의 목숨을 가져간다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 33.934,
+                "end": 52.671
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "틸덴트",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 52.681,
+                "end": 63.233
+            }
+        ]
+    },
+    "summary": "여자 쿠키가 영웅의 이야기가 만족한다면 용언 한마디를 선사하기로 용 쿠키와 약속하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01934_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

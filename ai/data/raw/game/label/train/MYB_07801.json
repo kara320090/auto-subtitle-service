@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_07801",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.0,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맞아 맞아. 가부가 진짜 자연성처럼 많았지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 나도 나도 열린 결말 언젠가부터 안 좋아하게 됐어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.691,
+                "end": 8.020
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 다크하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.030,
+                "end": 9.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 근데 근데 다크함에 대한 충격으로는 언제가 제일 다크했냐면 그니까 맨 처음에는 뭘 잘 모르는 상태에서 방송을 어쩌다 시작하다 보니까 모넌으로 방송을 해서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.643,
+                "end": 23.000
+            }
+        ]
+    },
+    "summary": "20대 여성이 채팅으로 사람들의 이야기를 공감하면서 자기도 열린 결말을 좋아하지 않았다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

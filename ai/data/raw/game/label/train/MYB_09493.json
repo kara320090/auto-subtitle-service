@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_09493",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.2,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "괴수입니다 괴수.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 15.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 맞네 이게 사리의 거함인가 보네 검고 커다란 바위에 습격 당했대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.811,
+                "end": 23.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3마리 남은 거는 인제 아직 안 열린 데라서 못하고 그러고 보니 클라이브 모그가 북부를 모험한 이야기 들려준 적이 있던가 쿠뽀?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.606,
+                "end": 45.200
+            }
+        ]
+    },
+    "summary": "사리의 거함이 맞고 검고 커다란 바위에 습격 당했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09493_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYB_08982",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.7,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기가 어디야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.043
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 있다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.053,
+                "end": 11.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "애가 말하는 게 왜 이래?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.343,
+                "end": 13.876
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "애가 무슨 일본 만화 격투씬처럼 말을 해?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.886,
+                "end": 27.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누가 너네한테 이렇게 못된 일을 시켰니?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.291,
+                "end": 31.700
+            }
+        ]
+    },
+    "summary": "화자는 아이가 말하는 것이 일본 만화의 격투장면 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08982_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_03846",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.333,
+        "format": "MP4",
+        "date": "2022-12-16",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대충 가볼게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 뱀파가 못 썼는데 1억 1에 300만 이거는 솔직히 지금 내 제가 즉석에서 그냥 진짜 처음으로 한 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.368,
+                "end": 13.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 지금 시도한 거는 최적화가 된 게 아니라 캡틴캐비어 자리에 감초를 넣어서 제가 써본 거거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.131,
+                "end": 20.333
+            }
+        ]
+    },
+    "summary": "한 남성이 화면을 통해 게임 진행 상황에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03846_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

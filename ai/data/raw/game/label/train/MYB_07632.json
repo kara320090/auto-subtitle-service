@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYB_07632",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.0,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.463
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.473,
+                "end": 2.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.103,
+                "end": 7.763
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.773,
+                "end": 8.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직 못 해 봤대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.796,
+                "end": 10.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기회가 없어서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.638,
+                "end": 11.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.835,
+                "end": 13.284
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 수심에 잠긴 얼굴이라 도저히 말을 걸 수 없었대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.294,
+                "end": 17.000
+            }
+        ]
+    },
+    "summary": "수심에 감진 얼굴이라서 도저히 말을 할 수 없었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07632_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

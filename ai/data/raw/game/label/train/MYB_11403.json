@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYB_11403",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.3,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 처음 주연이라고요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.541
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "퀄리티 미쳤네?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.551,
+                "end": 3.129
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.139,
+                "end": 15.962
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 왜 없어 그런 취향이.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.972,
+                "end": 17.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 생각해 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.750,
+                "end": 20.870
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.880,
+                "end": 26.300
+            }
+        ]
+    },
+    "summary": "여자는 게임 영상 스토리에 몰입하면서 처음 주연인 성우 목소리에 감탄하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11403_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

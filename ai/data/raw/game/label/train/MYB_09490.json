@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYB_09490",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.633,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방금 제가 패링을 누르지 않았는데 날로 된 거 같아요 진짜.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아유 다리에 근육 좀 봐봐 너무 남사스럽다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.540,
+                "end": 16.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.616,
+                "end": 20.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아우 남사스러워 진짜 퍽퍽할 거 같아 부드러운 맛이 아닐 거 같아 아 일단 가서 물약 좀 사고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.812,
+                "end": 33.633
+            }
+        ]
+    },
+    "summary": "다리에 근육이 남사스럽고 물약을 산다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09490_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

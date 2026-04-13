@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_03437",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2023-01-18",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "달달합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이기는 그니까 쿠키가 죽어야 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.023,
+                "end": 4.154
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 완전 승리가 완전 기우는데 죽이지 못하고 애매하면은 제가 져요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.164,
+                "end": 11.755
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.765,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "상대 쿠키가 죽으면 승리로 기울지만 못 죽이고 애매하면 발화자가 진다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03437_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

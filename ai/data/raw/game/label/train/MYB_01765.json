@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYB_01765",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.666,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 저걸 부수면 네 집도 네 힘도 원래대로 되돌아오는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.046
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나의 생명의 깊은 힘이 깃들어 있는 왕좌에 깊숙히 박혀있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.056,
+                "end": 10.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "함부로 건드렸다간 둥지가 완전히 무너질 거다 내 목숨도 어찌될지 알 수 없고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.120,
+                "end": 17.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "머리를 좀 썼을 거라곤 생각했지만",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.997,
+                "end": 22.666
+            }
+        ]
+    },
+    "summary": "남성은 왕좌에 자신의 생명과 힘이 깃들어 있기 때문에 함부로 부수면 둥지가 무너진다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

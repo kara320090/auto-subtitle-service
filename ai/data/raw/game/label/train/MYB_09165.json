@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09165",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.3,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 정신 단단히 나갔네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자기 친아들을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.950,
+                "end": 4.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 머뭇거리고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.109,
+                "end": 9.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다들 생각이 같았던거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.061,
+                "end": 27.300
+            }
+        ]
+    },
+    "summary": "발화자가 게임 캐릭터를 보고 정신이 나갔다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}
