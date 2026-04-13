@@ -1,0 +1,14 @@
+{
+  "domain": "social_news",
+  "split": "validation",
+  "num_samples": 3031,
+  "avg_val_loss": 0.35529523374704797,
+  "wer": 0.27719112279948477,
+  "cer": 0.18336651916792807,
+  "loss_evaluated_count": 3017,
+  "loss_skipped_count": 14,
+  "max_label_length": 448,
+  "adapter_dir": "C:\\auto-subtitle-service\\ai\\data\\results\\social_news_lora\\adapter",
+  "active_adapter_name": "news_adapter",
+  "model_id": "openai/whisper-large-v3"
+}
