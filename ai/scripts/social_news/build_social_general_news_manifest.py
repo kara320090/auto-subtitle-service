@@ -17,33 +17,48 @@ TEST_WAV_DIR = DATA_ROOT / "test" / "wav"
 TEST_JSON_DIR = DATA_ROOT / "test" / "json"
 
 # 프로젝트 폴더 안 jsonl 저장 위치
-MANIFEST_DIR = Path(r"C:\auto-subtitle-service\ai\data\social_general_news_data")
+MANIFEST_DIR = Path(r"C:\auto-subtitle-service\ai\data\processed\social_news")
 
 DOMAIN_NAME = "사회일반뉴스"
 
 
-def load_text_from_json(json_path: Path) -> Dict[str, str]:
+def load_utterances_from_json(json_path: Path) -> List[Dict]:
+    """
+    JSON 파일에서 video.term 단위 세그먼트 정보를 읽어온다.
+
+    반환 형태:
+    [
+        {
+            "speaker_id": "1",
+            "text": "...",
+            "start": 0.0,
+            "end": 3.21
+        },
+        ...
+    ]
+    """
     with json_path.open("r", encoding="utf-8") as f:
         data = json.load(f)
 
+    category = data.get("metadata", {}).get("category", "") or DOMAIN_NAME
     terms = data.get("video", {}).get("term", [])
     terms = sorted(terms, key=lambda x: x.get("start", 0.0))
 
-    transcriptions: List[str] = []
+    utterances = []
     for term in terms:
         text = str(term.get("transcription", "")).strip()
-        if text:
-            transcriptions.append(text)
+        if not text:
+            continue
 
-    full_text = " ".join(transcriptions).strip()
-    category = data.get("metadata", {}).get("category", "")
-    summary = data.get("summary", "")
+        utterances.append({
+            "speaker_id": str(term.get("speaker_id", "")),
+            "text": text,
+            "start": float(term.get("start", 0.0)),
+            "end": float(term.get("end", 0.0)),
+            "category": category,
+        })
 
-    return {
-        "text": full_text,
-        "category": category,
-        "summary": summary,
-    }
+    return utterances
 
 
 def write_jsonl(path: Path, rows: List[dict]):
@@ -54,6 +69,12 @@ def write_jsonl(path: Path, rows: List[dict]):
 
 
 def build_rows(split_name: str, wav_dir: Path, json_dir: Path) -> List[dict]:
+    """
+    split(train / validation / test)별로
+    세그먼트 단위 jsonl row를 생성한다.
+
+    한 줄 = 한 utterance = 한 학습 샘플
+    """
     if not wav_dir.exists():
         raise FileNotFoundError(f"[{split_name}] WAV 폴더 없음: {wav_dir}")
     if not json_dir.exists():
@@ -65,29 +86,41 @@ def build_rows(split_name: str, wav_dir: Path, json_dir: Path) -> List[dict]:
     empty_text_count = 0
 
     for wav_path in wav_files:
-        json_path = json_dir / f"{wav_path.stem}.json"
+        file_id = wav_path.stem
+        json_path = json_dir / f"{file_id}.json"
 
         if not json_path.exists():
             missing_json.append(wav_path.name)
             continue
 
-        label_info = load_text_from_json(json_path)
+        utterances = load_utterances_from_json(json_path)
 
-        if not label_info["text"]:
+        if not utterances:
             empty_text_count += 1
-            print(f"[WARN] [{split_name}] 전사문 비어있음: {json_path.name}")
+            print(f"[WARN] [{split_name}] usable utterance 없음: {json_path.name}")
             continue
 
-        rows.append({
-            "id": wav_path.stem,
-            "audio": str(wav_path),
-            "text": label_info["text"],
-            "domain": DOMAIN_NAME,
-            "category": label_info["category"] or DOMAIN_NAME,
-            "summary": label_info["summary"],
-            "split": split_name,
-            "json_path": str(json_path),
-        })
+        for idx, utt in enumerate(utterances):
+            start = utt["start"]
+            end = utt["end"]
+
+            if end <= start:
+                print(f"[WARN] [{split_name}] 잘못된 구간: {json_path.name} / {idx} / start={start}, end={end}")
+                continue
+
+            rows.append({
+                "audio": str(wav_path),
+                "text": utt["text"],
+                "start": start,
+                "end": end,
+                "speaker_id": utt["speaker_id"],
+                "source_json": str(json_path),
+                "utterance_id": f"{file_id}_{idx:04d}",
+                "file_id": file_id,
+                "split": split_name,
+                "domain": DOMAIN_NAME,
+                "category": utt["category"],
+            })
 
     if missing_json:
         print(f"[WARN] [{split_name}] 대응 json 없는 wav: {len(missing_json)}개")
@@ -97,8 +130,8 @@ def build_rows(split_name: str, wav_dir: Path, json_dir: Path) -> List[dict]:
             print(f" ... 외 {len(missing_json) - 20}개")
 
     print(f"[INFO] [{split_name}] wav 개수: {len(wav_files)}")
-    print(f"[INFO] [{split_name}] usable rows: {len(rows)}")
-    print(f"[INFO] [{split_name}] empty text skipped: {empty_text_count}")
+    print(f"[INFO] [{split_name}] utterance rows: {len(rows)}")
+    print(f"[INFO] [{split_name}] empty text/json skipped: {empty_text_count}")
 
     return rows
 
@@ -115,14 +148,15 @@ def main():
     if not test_rows:
         raise ValueError("test 데이터가 비어 있습니다.")
 
+    # 아래 파일명은 이후 학습/평가 코드와 맞춰서 통일
     write_jsonl(MANIFEST_DIR / "train.jsonl", train_rows)
-    write_jsonl(MANIFEST_DIR / "val.jsonl", val_rows)
+    write_jsonl(MANIFEST_DIR / "validation.jsonl", val_rows)
     write_jsonl(MANIFEST_DIR / "test.jsonl", test_rows)
 
     print("\n[전체 완료]")
-    print(f"[INFO] train: {len(train_rows)}")
-    print(f"[INFO] val:   {len(val_rows)}")
-    print(f"[INFO] test:  {len(test_rows)}")
+    print(f"[INFO] train utterances: {len(train_rows)}")
+    print(f"[INFO] validation utterances: {len(val_rows)}")
+    print(f"[INFO] test utterances: {len(test_rows)}")
     print(f"[INFO] 저장 위치: {MANIFEST_DIR}")
 
 
