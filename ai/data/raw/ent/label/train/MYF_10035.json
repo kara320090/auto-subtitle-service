@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_10035",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.133,
+        "format": "MP4",
+        "date": "2021-07-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "편한지를 이 커피를 통해서 느끼실 수가 있으세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 먹는 쪽의 향이 가지는 매력이 어 인공이 아니라 천연의 향기를 드러내는 그게 너무나 아름답거든요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.246,
+                "end": 19.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그걸 우리가 알면 또 향수의 향을 표현하는 데에 좀 더 더 느끼는 데에 충분히 더 즐겁게 느낄 수 있으니까",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.638,
+                "end": 33.133
+            }
+        ]
+    },
+    "summary": "한 여성이 아침에 먹는 것들을 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10035_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 25,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

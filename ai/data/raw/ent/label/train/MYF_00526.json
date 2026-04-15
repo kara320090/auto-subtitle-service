@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYF_00526",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.44,
+        "format": "MP4",
+        "date": "2021-03-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스스로 판단하게 돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고양이들은 당연히 모래를 좋아하겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.436,
+                "end": 4.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 애기들 이제 모래에서 응가 한 번 하는 연습해 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.527,
+                "end": 11.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예쁜이들 꼬물꼬물꼬물이들 지금 우리 아가들은 4주 차에 접어들었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.745,
+                "end": 20.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 우리 아기들 이제 모래 화장실에 들어가는 거예요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.086,
+                "end": 26.440
+            }
+        ]
+    },
+    "summary": "두 고양이가 응가 연습을 하려고 모레 화장실에 들어간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00526_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 44
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00526_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

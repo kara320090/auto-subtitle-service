@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYF_00238",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.3,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방문 시승 고객 대상으로 랜드 로버 머그 컵 등 다양한 기념품을 준다고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 여러분 요쯤에서 좋아요. 한번 눌러 주시고 전시장에 관심 가져 주시고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.082,
+                "end": 11.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "들어가서 이야기 계속 이어갈게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.726,
+                "end": 13.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 들어가기 싫다 봄 너무 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.718,
+                "end": 16.300
+            }
+        ]
+    },
+    "summary": "방문과 시승하는 고객 대상으로 기념품등을 제공하니 관심 가져달라고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00238_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

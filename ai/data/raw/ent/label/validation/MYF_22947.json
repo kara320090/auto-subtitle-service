@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "MYF_22947",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 55.147,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개인적으로 이렇게.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재밌게 또 놀다 가겠습니다. 첨벙첨벙",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 2.216,
+                "end": 25.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예쁘다 언니 되게 핑크 핑크 하다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 25.542,
+                "end": 29.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사진 좀 찍어줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.962,
+                "end": 31.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영상.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.446,
+                "end": 32.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 웃겨 죽겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.225,
+                "end": 55.133
+            }
+        ]
+    },
+    "summary": "재밌게 놀다 가겠다고 여자가 말하고 있고 언니에게 핑크 핑크 하다고 예쁘다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22947_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 11,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

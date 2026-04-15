@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "MYF_22195",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 74.707,
+        "format": "MP4",
+        "date": "2021-02-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 로그",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 남편이 오전에 일하러 나가서 그래서 오늘 간단하게 그래놀라바랑 바나나 먹었어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.002,
+                "end": 31.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 참 맛있어요. 그리고 커피",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.874,
+                "end": 40.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 여러분 @이름2 스트레칭 아시죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 40.150,
+                "end": 51.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 거의 하체계의 레전드 근데 제가 하체가 붓는 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 51.082,
+                "end": 57.187
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 때 막 벽을 차면서 자는 거 아세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 57.197,
+                "end": 60.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다리를 막 이렇게 올렸다가 이렇게 요즘 좀 그래가지고 근데 이게 되게 너무 부스스하네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 60.014,
+                "end": 68.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방금 머리를 감아가지고 제가 곱슬이거든요. 대충 봤더니",
+                "sound_type": [
+                    2
+                ],
+                "start": 68.125,
+                "end": 74.707
+            }
+        ]
+    },
+    "summary": "여성은 간단하게 아침을 먹었다고 말한 후 요즘 하체가 붓는다며 스트레칭 영상을 아냐고 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22195_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22195_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

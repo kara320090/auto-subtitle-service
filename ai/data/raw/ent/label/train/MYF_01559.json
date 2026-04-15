@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_01559",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.266,
+        "format": "MP4",
+        "date": "2023-05-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 향수 읽어주는 여자 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 오늘은 45번째 네 개인 맞춤 향수 추천드리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.461,
+                "end": 12.916
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커피를 좋아하시고 입생로랑을 좋아하시고 화이트 와인을 즐기신다고 하셨어요. 네 조금",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.926,
+                "end": 22.266
+            }
+        ]
+    },
+    "summary": "@이름1이 45번째 네 개인 맞춤 향수 추천드린다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01559_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

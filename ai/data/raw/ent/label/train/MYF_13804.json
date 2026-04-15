@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYF_13804",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.258,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘 꺼졌어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꺼졌어 @이름1야 엄마가 켜줄까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.555,
+                "end": 4.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 괜찮아 엄마가 켜줄게 @이름1야 엄마가 켜줄게 가만히 있어봐 엄마가 켜줄게.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.291,
+                "end": 10.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "됐다 @이름1 이제 도망간다 우와 @이름1야 @이름1 따라와야지 @이름1야 공이 움직인다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.020,
+                "end": 18.924
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 공이 공이 힘 있게 움직이는데 우리 @이름1도 오구 야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.934,
+                "end": 25.258
+            }
+        ]
+    },
+    "summary": "고양이 장난감 스마트 캣볼이 꺼져서 여자가 다시 켜주니 고양이들이 장난감을 따라다닙니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13804_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

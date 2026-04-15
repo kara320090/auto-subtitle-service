@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "MYF_04298",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.8,
+        "format": "MP4",
+        "date": "2020-12-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이제 에스티 로더 여사님이 파리에 있는 라파예트 백화점 지금도 너무너무 유명한 백화점이잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 라파예트 백화점에 이제 입점을 하기 위해서 가는데 실수로 이제 향수병을 떨어뜨려 가지고 향수가 그냥 공간을 다 채워버리는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.894,
+                "end": 17.800
+            }
+        ]
+    },
+    "summary": "에스티 로더 여사님이 파리에 라파예트 백화점 입점을 하기 위해 가는 도중 실수로 향수병을 떨어뜨려서 그 공간을 다 향으로 채운 일이 있었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04298_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04298_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

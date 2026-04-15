@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_08481",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.224,
+        "format": "MP4",
+        "date": "2019-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.658
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 이렇게 귀여운 우리 유채에 대해서 이야기를 좀 하려고 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.668,
+                "end": 8.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유채는 먹보 유채에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.569,
+                "end": 13.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유채가 먹는 걸 너무 좋아해서 정말 다른 친구가 간식을 새로운 걸 하나 먹어도 어느새 유채는 옆에 와 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.538,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "나래이션이 고양이를 소개하는데 먹보 고양이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08481_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 5
+                }
+            ]
+        }
+    ]
+}

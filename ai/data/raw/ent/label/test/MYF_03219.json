@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYF_03219",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.36,
+        "format": "MP4",
+        "date": "2022-03-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 향수 읽어주는 여자 하니날다입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "설문지를 이렇게 답변해주신 거 보면서 제가 간단하게 말씀을 드릴게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.506,
+                "end": 9.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 오렌지 주스를 좋아하시고 한식 파리 파리라는 도시를 좋아하시는 20대 여성분이신데 조금은 보이시하게 패션 스타일을 이제 입으시는 그런 분이시네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.646,
+                "end": 22.360
+            }
+        ]
+    },
+    "summary": "하니날다는 20대 여성분이시고 파리라는 도시를 좋아하시고 조금 보이시하게 입으시는 분이라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_03219_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_03219_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 45,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

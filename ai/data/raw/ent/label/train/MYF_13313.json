@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYF_13313",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.52,
+        "format": "MP4",
+        "date": "2020-11-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동물 보호센터에서 오늘 바깥에 아픈 친구가 아니라고 내보낸대요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 오늘 @이름1이 오빠 집에 왔어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.279,
+                "end": 12.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 언니 집이 물이 안 나온대요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.038,
+                "end": 15.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "목욕을 하고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.936,
+                "end": 18.520
+            }
+        ]
+    },
+    "summary": "아기 고양이가 @이름1이 오빠 집에 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13313_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYF_13835",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.653,
+        "format": "MP4",
+        "date": "2020-02-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1를 지켜보며 혹시나 @이름1가 위험에 처하지는 않을까 다치지는 않을까 지켜보고 있답니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 언니도 멀리서 @이름1를 지켜봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.078,
+                "end": 13.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 정말 아기 때부터 호기심이 엄청 많은 친구였어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.245,
+                "end": 20.653
+            }
+        ]
+    },
+    "summary": "고양이 @이름3와 @이름2는 @이름1가 위험에 처하지는 않을까 멀리서 지켜봐 주었고 @이름1는 아기 때부터 호기심이 많았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13835_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "filename": "MYF_02028",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.533,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네, 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.390
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아보배쓰 나오셨고, 지금 나오고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.400,
+                "end": 10.754
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 귀엽죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.764,
+                "end": 12.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 귀여워요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.154,
+                "end": 16.498
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 받으신 아보배쓰 같은 경우에는 저쪽에 보시면 배스밤 체험해 보실 수 있는 공간이 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.508,
+                "end": 23.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가서 향도 맡아 보시고 어떻게 풀리는 지도 보실 수 있으니까 챙겨드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.178,
+                "end": 29.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.338,
+                "end": 32.533
+            }
+        ]
+    },
+    "summary": "러쉬의 20주년 쇼케이스의 곳곳을 관람하고 체험하는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_02028_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 29
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_02028_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

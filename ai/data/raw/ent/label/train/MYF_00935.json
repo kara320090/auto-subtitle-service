@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYF_00935",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.373,
+        "format": "MP4",
+        "date": "2022-04-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 이 녀석들은 똑같은 사이즈 삼십이 점 온데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이햐 진짜 죽여줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.256,
+                "end": 13.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멋있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.422,
+                "end": 14.965
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 지금 한 손으로 이렇게 들고 있는데 묵직합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.975,
+                "end": 23.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 자 오늘 여기서 이 송전지에서의 하룻밤 낚시 마무리하도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.302,
+                "end": 35.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어제 비도 오고 그래서 어 좀 힘든 낚시를 했는데 다행히",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.410,
+                "end": 40.373
+            }
+        ]
+    },
+    "summary": "사이즈 삼십이 점 오고 한 손으로 들고 있는데 묵직하고 송전지에서의 하룻밤 낚시 마무리한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00935_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00935_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

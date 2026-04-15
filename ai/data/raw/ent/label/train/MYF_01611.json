@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_01611",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.1,
+        "format": "MP4",
+        "date": "2023-04-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 향수 읽어주는 여자 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음으로 시도를 해보게 되었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.352,
+                "end": 6.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안 눈에 보이지 않는 향수를 조금은 보여지고 만져질 수 있는 그런 향수로 만들어 보고자 콘텐츠를 만들었는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.878,
+                "end": 17.100
+            }
+        ]
+    },
+    "summary": "@이름1이 눈에 보이지 않는 향수를 조금은 보여지고 만져질 수 있는 향수로 만들어 보고자 콘텐츠를 만들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01611_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 71,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_22414",
+        "category": "엔터테인먼트",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.5,
+        "format": "MP4",
+        "date": "2021-07-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 우리 허니도 맛있게 먹어줬으면 좋겠어. 같이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같이 내가 짠 할 때 짠 도 하고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.214,
+                "end": 6.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 재밌겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.554,
+                "end": 8.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혼술하고 싶을 때 나랑 같이 틀어 놓고 얘기하면서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.578,
+                "end": 12.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같이 봐줬으면 너무너무 좋을 것 같애.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.742,
+                "end": 15.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나처럼 자취를 하는 허니 들도 있을 거고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.354,
+                "end": 21.500
+            }
+        ]
+    },
+    "summary": "여자가 실내에서 시청자들에게 유튜뷰 참여를 권하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22414_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 29,
+                    "act": 1
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22414_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 24,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

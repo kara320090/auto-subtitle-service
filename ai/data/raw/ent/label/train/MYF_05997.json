@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "MYF_05997",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.133,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "으흠 으음 이뻐? 지 얼굴에 지가 봐봐 봐봐 어떻게 나오길래 기다려봐. 내가 가서 찍어보겠어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도대체 어떻게 나오길래.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.651,
+                "end": 16.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "봐봐 해봐. 오와 다시 찍어봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.629,
+                "end": 18.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어? 끊겼다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.760,
+                "end": 20.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 진짜 예쁘게 나오네? 완전 사기네?",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.323,
+                "end": 25.133
+            }
+        ]
+    },
+    "summary": "여자가 사진을 찍고 있는 모습을 지켜보며 너무 예쁘게 나와서 사기라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_05997_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 12
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_05997_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "MYF_06383",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 47.766,
+        "format": "MP4",
+        "date": "2022-04-24",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맛있다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 14.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거 좀 그런 거 그런 거 겁나 많이 해.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.350,
+                "end": 39.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 느낌 그러지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 39.780,
+                "end": 41.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 와 예쁘다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 41.560,
+                "end": 47.766
+            }
+        ]
+    },
+    "summary": "햄버거를 시켰는데 맛있었고 바다를 보러 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_06383_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 26,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_06383_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYF_13591",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.421,
+        "format": "MP4",
+        "date": "2020-03-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "누나 방에 꼬미가 늘 누나 방을 좋아하니까 1개를 넣어 주기로 했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 좀전에 보셨다시피 베란다에 2개 그럼 2개는 거실에 놔둬야 되는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.600,
+                "end": 13.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유채야 그래서 화장실이 어떻게 됐지?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 13.656,
+                "end": 17.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄마 화장실이",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 17.404,
+                "end": 21.421
+            }
+        ]
+    },
+    "summary": "화장실은 베란다에 2개를 두었고 꼬미가 누나 방을 좋아해서 1개를 주기로 했으며 나머지 2개를 거실에 놔둬야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13591_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

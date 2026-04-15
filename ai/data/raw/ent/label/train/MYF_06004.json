@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYF_06004",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.066,
+        "format": "MP4",
+        "date": "2020-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 강도다. 너 개껌 온 거 다 내놔. 집에 오늘 개껌 온 거 다 앉아 이놈. 앉아. 개껌 온 거 다 봤다. 저기 개껌 온 거 다 보여. 개껌.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.555
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안돼요. 오늘 샀어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.565,
+                "end": 13.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개껌 안 그러면 이걸로 이걸로 맞는다. 이걸로 맞는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.500,
+                "end": 16.910
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쿠키야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.920,
+                "end": 18.066
+            }
+        ]
+    },
+    "summary": "남자가 오늘 온 개껌을 안주면 개껌으로 맞는다고 하고 여자는 오늘 산 거라 안된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_06004_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 15,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_06004_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

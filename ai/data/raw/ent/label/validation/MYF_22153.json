@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYF_22153",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.698,
+        "format": "MP4",
+        "date": "2022-04-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "옥수수의 물을 다 버리시구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 수상한 물병을 살짝 잠길 정도로 부어줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.142,
+                "end": 7.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고나서 신마약가루하구요. 예감 새우 어분 글루텐을 위에 살짝 덮어주듯이 뿌려주신 다음에 통을 덮고 뚜껑을 덮고 흔들어 주시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.179,
+                "end": 18.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 이제서야 엉덩이 붙이네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.583,
+                "end": 22.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1시간 반 정도 아주 정신이 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.350,
+                "end": 25.698
+            }
+        ]
+    },
+    "summary": "남성은 자신의 미끼를 만드는 법을 설명한 후 겨우 앉는다고 하며 1시간 반 동안 정신이 없었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 50
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22153_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": 38,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

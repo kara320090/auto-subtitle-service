@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_05420",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.2,
+        "format": "MP4",
+        "date": "2022-02-20",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 한식인데 뭐 국 같은 거 죽 같은 거 나눠서 뭐 이렇게 계속 먹을 수 있는 거",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 최대한 그 음식 쓰레기라든가 일회용품도 없는 것들 위주로 시키면 되게 좋을 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.782,
+                "end": 13.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 해서 오래 먹을 수 있는 거 위주로 요리를 했었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.099,
+                "end": 16.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들어서 뭐 김치찌개 같은 경우에도 식어도 계속 데워서 먹을 수도 있고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.673,
+                "end": 21.200
+            }
+        ]
+    },
+    "summary": "음식물 쓰레기나 일회용품이 없는 것들 위주로 시키거나 요리할 때도 한번 해서 오래 먹을 수 있는 거 위주로 요리해 먹었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_05420_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 39,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

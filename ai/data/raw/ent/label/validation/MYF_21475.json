@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "MYF_21475",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.291,
+        "format": "MP4",
+        "date": "2023-02-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이름하여 돌려 막기.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 오늘은 이 텐트 구입을 앞두고 계신 분들께 신기한 캠퍼들의 계산법 한번 알려드릴게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.290,
+                "end": 34.291
+            }
+        ]
+    },
+    "summary": "남성은 오늘 텐트 구입을 앞두고 계신 분들께 신기한 캠퍼들의 계산법을 알려준다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21475_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYF_12909",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.639,
+        "format": "MP4",
+        "date": "2022-05-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 야 왜 니가 나오냐 아이 참.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 17.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2번 적벽 24대에서 찌가 쭉 빨고 들어가는 걸 쳤는데 야 빅 사이즈 누치가 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.231,
+                "end": 32.183
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 물 속에 들어가서 꺼내왔는데 사이즈가 좀 되는 줄 알고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.193,
+                "end": 37.637
+            }
+        ]
+    },
+    "summary": "영상에서는 2번 적벽 24대에서 찌가 쭉 들어가는 걸 낚아챘지만 빅 사이즈 누치가 나왔다며 사이즈가 되는 줄 알고 물 속에 들어가서 꺼내왔다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12909_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12909_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

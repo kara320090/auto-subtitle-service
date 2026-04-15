@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYF_07760",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.091,
+        "format": "MP4",
+        "date": "2020-02-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1야 누가 나가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 형아 나가는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.289,
+                "end": 5.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 형은 헬스 잘하고 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.183,
+                "end": 8.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름3 @이름3가 번개 같이 지금 달려왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.483,
+                "end": 13.792
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어허 이야 @이름3가 @이름1한테 댐벼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.802,
+                "end": 17.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름3 @이름3 너 @이름1 누나 무서운 거 알아야 돼 너.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.539,
+                "end": 25.091
+            }
+        ]
+    },
+    "summary": "@이름3이 달려와서 @이름1에게 덤비고 있다고 여자가 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_07760_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_05328",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.225,
+        "format": "MP4",
+        "date": "2023-03-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원래 메기가 되게 고급 고기예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 제가 저 말고 지금 저 혼자 먹고 있는 거 아니거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.935,
+                "end": 9.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐하면 음식을 남기게 되잖아요 혼자 먹으면.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.500,
+                "end": 11.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저희 팀이랑 같이 먹고 있는데 코를 그냥 때려요 때려.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.833,
+                "end": 25.225
+            }
+        ]
+    },
+    "summary": "한 남성이 음식을 남기지 않기 위해 팀원과 같이 식사하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_05328_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 26,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

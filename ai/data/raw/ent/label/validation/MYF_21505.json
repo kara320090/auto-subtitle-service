@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYF_21505",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.978,
+        "format": "MP4",
+        "date": "2022-03-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 안녕하세요? @이름1예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 저의 첫 Q&A 영상입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.175,
+                "end": 6.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분께서 많은 댓글을 남겨주셨어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.235,
+                "end": 9.338
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 같이 보면서 답변을 해드리도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.348,
+                "end": 12.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제일 많이 있었던 질문이 이거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.673,
+                "end": 15.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 가지랑 토마토인가요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.136,
+                "end": 19.978
+            }
+        ]
+    },
+    "summary": "댓글을 받아서 Q&A 영상을 찍겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

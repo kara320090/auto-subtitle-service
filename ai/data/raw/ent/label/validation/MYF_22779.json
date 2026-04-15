@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_22779",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2020-12-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요? 동네 축구 고수 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 @이름1의 브이로그. 자 오늘은 제가 뭘할거냐면은 제가 항상 축구 경기 영상이나 그런 걸 올릴 때 인트로나 아웃트로를 찍는 이 장소.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.215,
+                "end": 15.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기가 너무 하얗고 휑해가지고 이제 또 좀 있으면 크리스마스잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.337,
+                "end": 19.840
+            }
+        ]
+    },
+    "summary": "한 남자가 브이로그를 찍으며 자신이 항상 영상을 찍을 때 있는 장소가 너무 휑하다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22779_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

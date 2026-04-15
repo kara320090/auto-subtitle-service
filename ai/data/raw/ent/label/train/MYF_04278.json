@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_04278",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.166,
+        "format": "MP4",
+        "date": "2020-12-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "화장품과 함께 향수에 있어서 겔랑은 정말 빠뜨릴 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "향수에 역사에 대해서 프랑스와 미국과 이렇게 배우게 되는 과정 중에 겔랑은 꼭꼭 등장하게 된답니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.681,
+                "end": 12.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1798년에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.560,
+                "end": 14.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프랑스의 부르주아의 일가 중에 하나인 겔랑 집안에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.777,
+                "end": 19.166
+            }
+        ]
+    },
+    "summary": "향수에 프랑스와 미국 역사에 대해서 배우면 겔랑은 빠지지 않고 등장을 하며 1798년 프랑스 부르주아의 일가인 겔랑 집안에서 시작됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04278_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04278_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

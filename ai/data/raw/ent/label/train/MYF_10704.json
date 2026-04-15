@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_10704",
+        "category": "엔터테인먼트",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.402,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "라잇 라이트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.894
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 라이트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.904,
+                "end": 12.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "AB 네거티브 예 AB 네거티브. 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.898,
+                "end": 25.400
+            }
+        ]
+    },
+    "summary": "남성은 정답으로 라이트와 AB 네거티브라는 답변을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10704_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

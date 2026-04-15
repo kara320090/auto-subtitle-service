@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYF_00391",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.833,
+        "format": "MP4",
+        "date": "2022-03-17",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다음 안전표지가 의미하는 것은?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "브라?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.092,
+                "end": 5.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연속 과속방지턱?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.281,
+                "end": 7.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 맞힐 수 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.760,
+                "end": 10.252
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새로운 소식이 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.262,
+                "end": 11.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드디어 무면허의 우리 @이름1가 @이름2 맨날 독박 운전을 시키는 우리 @이름1가 면허를 딴다고 합니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.770,
+                "end": 21.833
+            }
+        ]
+    },
+    "summary": "다음 안전표지가 의미하는 것은 브라가 아닌 연속 과속방지턱인지 여러분은 맞힐 수 있는지, 무면허의 @이름1가 면허를 딴다는 새로운 소식입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00391_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00391_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

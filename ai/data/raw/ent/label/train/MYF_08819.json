@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYF_08819",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.056,
+        "format": "MP4",
+        "date": "2019-01-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "솜을 적시고 솜이 따뜻해지면 아기 고양이 쉬가 나오는 곳에다가 이렇게 두드려 줍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.352
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꼬미 쉬 꼬미 쉬 어유 꼬미 쉬 잘 하네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.362,
+                "end": 19.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아기 고양이가 쉬 하는 게 보이죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.626,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "새끼 고양이가 쉬를 할 수 있도록 솜을 적셔 쉬가 나오는 곳을 이렇게 두드린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08819_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 14,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

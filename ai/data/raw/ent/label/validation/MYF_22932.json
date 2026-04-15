@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYF_22932",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.4,
+        "format": "MP4",
+        "date": "2022-06-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 핑크 돌고래랑 잘 어울리네요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 집에 갑시다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 2.637,
+                "end": 6.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 다 왔고 여기 앞에서 설문조사를 하고 계시더라고요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 6.489,
+                "end": 15.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 도와주시면은 이렇게 핸드워시를 주겠다 해가지고 어 설문조사를 하고 핸드워시까지 받았습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 15.814,
+                "end": 23.400
+            }
+        ]
+    },
+    "summary": "설문조사하고 핸드워시를 받았다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22932_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

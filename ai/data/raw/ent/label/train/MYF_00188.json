@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_00188",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2023-04-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 카터뷰 튜닝 끝판왕의 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.977
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 보여드릴 차량은요 YF 소나타 터보고요 더 브릴리언트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.987,
+                "end": 7.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 차량 튜닝 내역을 소개하기 전에 차주분 아우 바람이 너무 세서 내가 넘어가네 아 추워 차주분을 먼저 소개하도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.894,
+                "end": 16.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어서 오세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.253,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "소개할 차량은 YF 소나타 터보 더 브릴리언트이고 차주를 소개하려한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00188_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

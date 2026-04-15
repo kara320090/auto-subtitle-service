@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYF_12321",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.731,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 가지 특징이 있기 때문입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 제가 보여드렸던 이 두 가지의 제품 스프레이 형태와 물파스 형태의 두 가지 제품을 보시면 여기에는 용법 용량에 이렇게 써 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.378,
+                "end": 12.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만 12세 이상",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.849,
+                "end": 16.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 제품 같은 경우에는 맨살에다가 바르는데 만 12세 이상부터 성인까지 쓰라고 되어 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.028,
+                "end": 22.731
+            }
+        ]
+    },
+    "summary": "40대 남성이 앞서 소개했던 제품 2개의 경우 맨살에다 바를 수 있지만 만 12세 이상부터 사용이 가능하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12321_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYF_13705",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2020-02-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "누굴까 @이름1야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1야 누구야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.696,
+                "end": 4.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 우리 @이름1 호기심쟁이 시루야 @이름1 좀 놔둬.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.637,
+                "end": 9.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 또 들어가면 엄마 속상해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.847,
+                "end": 11.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름1 얼굴 좀 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.892,
+                "end": 14.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어고 @이름1 옆에 누가 있어 지금?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.246,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "여성이 @이름1가 들어가면 속상하다고 말하며 @이름1 옆에 누가 있는지 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

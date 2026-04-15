@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYF_00620",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.28,
+        "format": "MP4",
+        "date": "2020-10-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꿋꿋하게 버티고 오히려 가끔 시루 형아의 입을 톡톡 때려준답니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시루 손 좀 보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.755,
+                "end": 11.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "되게 그거하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.927,
+                "end": 14.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시루 보세요 너 왜 빨리 안 오니 내 꼬리 갖고 놀으란 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.416,
+                "end": 20.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누룽지야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.028,
+                "end": 22.280
+            }
+        ]
+    },
+    "summary": "꿋꿋하게 버티며 때로는 시루를 톡톡 때리기도 하고 시루는 누룽지를 보며 꼬리 잡고 놀자는 상황이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00620_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 97
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00620_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

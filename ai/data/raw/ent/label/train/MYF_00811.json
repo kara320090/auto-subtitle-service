@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_00811",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 16.725,
+        "format": "MP4",
+        "date": "2023-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하하하하하 한 7시 되겠네요. 붕어 아주 예쁜데요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.024
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이곳은 굉장히 유명한 한방터입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 5.034,
+                "end": 9.043
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광주뿐만 아니라 전국에서도 유명한 한방터인데 밤새 기다린 입질에 첫 수가 일곱 치네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.053,
+                "end": 16.725
+            }
+        ]
+    },
+    "summary": "유튜버가 굉장히 유명한 한방터에서 밤새 기다려 붕어를 잡았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00811_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

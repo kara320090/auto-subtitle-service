@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_01513",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.1,
+        "format": "MP4",
+        "date": "2023-06-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "백화점에 인제 직접 가서 구매를 하시는 분이시고 50대 남성 분이시군요 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아무래도 좀 더 경험이 인제 많으신 풍부한 경험을 가지신 분이라는 생각을 제가 가지게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.590,
+                "end": 14.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "50대 남성 분에게",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.208,
+                "end": 17.100
+            }
+        ]
+    },
+    "summary": "영상에서는 백화점 직접 가서 제품을 구매하는 50대 남성 분이라 아무래도 풍부한 경험을 가졌을 거라 생각한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01513_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 26,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

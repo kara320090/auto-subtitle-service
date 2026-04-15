@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_14100",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.882,
+        "format": "MP4",
+        "date": "2020-01-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꼼아 어떡하지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쑥이가 깃털을 다 뺄 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.787,
+                "end": 4.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 뚜리주니 뚜리주니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.165,
+                "end": 10.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 친구들은 방 밖에서 나도 또 갖고 놀고 싶어요 하고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.277,
+                "end": 15.882
+            }
+        ]
+    },
+    "summary": "친구들이 방 밖에서 갖고 놀고 싶어 한다고 얘기하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_14100_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

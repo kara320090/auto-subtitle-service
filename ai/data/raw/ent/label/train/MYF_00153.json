@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYF_00153",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.227,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물론 개별 구입도 가능합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.701
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 세차가 끝났으니 영상 끝이냐구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.711,
+                "end": 6.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 노 오늘은 배가 고파서 아직 영상을 끝낼 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.272,
+                "end": 11.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 열심히 세차했으니까 깨끗한 @이름1 자랑 좀 하구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.376,
+                "end": 16.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 깨끗하죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.583,
+                "end": 18.218
+            }
+        ]
+    },
+    "summary": "개별 구입도 가능하고 세차가 끝났지만 아직 배가 고파서 영상을 끝낼 수가 없다며 차가 깨끗하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00153_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

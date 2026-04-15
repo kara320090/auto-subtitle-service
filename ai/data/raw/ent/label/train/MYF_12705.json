@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "MYF_12705",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.719,
+        "format": "MP4",
+        "date": "2022-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 12시 정도까지 하다가 자고 5시부터 다시 시작을 했는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 엄청난 마릿수의 붕어를 만났습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.818,
+                "end": 9.205
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "8대가 바쁠 정도로 그런 낚시를 했는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.215,
+                "end": 13.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아쉽게도 월척은 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.342,
+                "end": 15.896
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옆에 같이 동출하신 있는 우리 @이름1 형님이",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.906,
+                "end": 19.719
+            }
+        ]
+    },
+    "summary": "영상에서는 12시까지 했다가 잔 후 5시부터 시작했는데 8대가 바쁠 정도로 마릿수가 엄청났다면서 월척은 아쉽게 없었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12705_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

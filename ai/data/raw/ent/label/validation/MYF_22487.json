@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "MYF_22487",
+        "category": "엔터테인먼트",
+        "sub_category": 9,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.082,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조금 더 뭐냐면 니네 조상이 어땠냐면 엄청 부자로 살다가 폭삭 망하고 이걸 반복해왔어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 니가 폭삭 망한 거를 너 봐야 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.528,
+                "end": 8.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그 아픔을 봐야 돼 원래는 부자였을 거야 그러다 망했는데 망한 현실을 너무 아파서 못 받아들이는 아픔을 조금 더 보면",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.229,
+                "end": 16.082
+            }
+        ]
+    },
+    "summary": "상담가가 여자의 얼굴을 하나하나 봐주면서 여자의 조상이 부자였는데 폭삭 망한 아픔을 봐야 된다면서 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22487_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 39,
+                    "act": 25
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22487_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 39,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

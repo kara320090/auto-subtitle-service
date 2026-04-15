@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_01141",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.966,
+        "format": "MP4",
+        "date": "2023-07-07",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "말씀드리려고 카메라를 켰답니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전시 @주소1에 전시 공간에서 지금 전시 중이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.767,
+                "end": 9.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이렇게 입장하셔서 이쪽에서부터 전시를 즐겨주시면 되세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.310,
+                "end": 15.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 어 계속 있을 예정이지만 혹여라도 제가 없거나 하면 이 영상과 함께 전시를 즐겨주시면 되겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.990,
+                "end": 25.966
+            }
+        ]
+    },
+    "summary": "@주소1에서 전시 중이고 제가 없다면 이 영상과 함께 전시를 즐기면 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01141_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 19,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

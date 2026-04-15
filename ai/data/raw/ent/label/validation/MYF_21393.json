@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYF_21393",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 44.818,
+        "format": "MP4",
+        "date": "2022-02-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 그런 마음입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 밤 늦게까지는 아니고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.411,
+                "end": 6.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금이 한 6시 돼 가는데 9시까지 한번 해보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.158,
+                "end": 10.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파이팅 할게요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.424,
+                "end": 23.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 1마리 나 어 입질한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.051,
+                "end": 25.598
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 야 야 뭐냐 아 블루길인가 블루길 있겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.608,
+                "end": 33.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "설마 지금 근데 수 여기가 수심이 워낙 낮아서 에헤이 건들고만 가버렸냐",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.824,
+                "end": 44.818
+            }
+        ]
+    },
+    "summary": "아주 밤 늦게까지는 아니고 9시까지 파이팅 해보겠고 수심이 낮아서 블루길이 있을까 싶다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21393_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_21393_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

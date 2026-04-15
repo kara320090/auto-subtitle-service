@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYF_00942",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 102.502,
+        "format": "MP4",
+        "date": "2021-08-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역시 고기는 빠질 수 없죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이른 저녁을 먹습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 7.822,
+                "end": 31.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아들래미와 물가에 앉아있는 이 시간 더 없이 행복합니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 31.699,
+                "end": 44.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최고의 시간입니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 44.135,
+                "end": 100.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마자 추가요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 100.014,
+                "end": 102.502
+            }
+        ]
+    },
+    "summary": "이른 저녁 고기를 먹고 아들과 물가에 앉아있는 이 시간이 행복하고 최고의 순간이며 마자 추가된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00942_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00942_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": 2,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_04274",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.666,
+        "format": "MP4",
+        "date": "2020-12-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 역사와 이제 이걸 만들어낸 사람들에 대해 굉장히 관심이 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 이제 향수와 향을 우리가 후각적으로 경험하는 이 프로세스 그래서 뇌각, 이런 쪽에 되게 관심이 많고 해서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.529,
+                "end": 12.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 시간이 될 때마다 영상을 꼭 만들어서 자주 올리도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.143,
+                "end": 17.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "목표는 일주일에 2개를 올리는 건데 그게 참 어렵네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.225,
+                "end": 21.666
+            }
+        ]
+    },
+    "summary": "역사와 제품을 만든 사람들, 향을 후각적으로 경험하는 뇌각 쪽에 관심이 많아서 영상을 만들어 자주 올리도록 하겠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04274_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04274_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

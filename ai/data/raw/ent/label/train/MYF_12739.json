@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYF_12739",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.263,
+        "format": "MP4",
+        "date": "2022-08-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그치.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수심은 전반적으로 다들 비슷해서 어 이 대도 입질을 받을 수 있지 않을까 생각 드네요 그렇지 입질.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.483,
+                "end": 18.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 날씨 좋다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.250,
+                "end": 22.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "포인트를 도착했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.720,
+                "end": 24.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 차 대고 바로 내려갈 수 있는 어 짐빵 없는 포인트입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.388,
+                "end": 30.263
+            }
+        ]
+    },
+    "summary": "영상에서 수심은 전반적으로 비슷해서 이 대도 입질을 받을 거 같고 날씨가 좋다며 차 대고 바로 내려갈 수 있는 짐빵 없는 포인트라고 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12739_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12739_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

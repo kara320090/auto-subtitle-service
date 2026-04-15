@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "MYF_22020",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.066,
+        "format": "MP4",
+        "date": "2023-05-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어이구야 올라온다. 갑자기 44칸 입질한다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가져가라 살살살살 가져가라",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 3.973,
+                "end": 9.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.076,
+                "end": 12.025
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잠시 후 왼쪽 도로입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.035,
+                "end": 26.703
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이어서 90미터 앞 유턴입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.713,
+                "end": 29.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 바퀴 둘러보고 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.400,
+                "end": 38.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 가방에다 좀 다 때려 박았어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 38.238,
+                "end": 41.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "낚싯대 8대",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 41.244,
+                "end": 43.066
+            }
+        ]
+    },
+    "summary": "남자가 가방에 낚시대 8대를 챙겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22020_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

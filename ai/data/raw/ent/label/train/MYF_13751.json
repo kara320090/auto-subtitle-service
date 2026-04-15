@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYF_13751",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.589,
+        "format": "MP4",
+        "date": "2020-02-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 앞에 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 빨간불이 뭐지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.865,
+                "end": 3.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오이오잉오잉이 잡히지가 않아요 엄마.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.965,
+                "end": 7.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "불 도대체 얘가 어디로 간거죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.067,
+                "end": 11.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1야 저기 위에 갔다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.654,
+                "end": 14.652
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "위에 가버렸어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.662,
+                "end": 17.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 친구가 내는 건 맞는데 그지 @이름1야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.486,
+                "end": 22.589
+            }
+        ]
+    },
+    "summary": "여성이 앞에 빨간불이 있다고 하며 @이름1에게 위에 가버렸다고 알려준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

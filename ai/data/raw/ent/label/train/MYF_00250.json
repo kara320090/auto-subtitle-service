@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYF_00250",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.033,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 우리 딜러 분을 바라보는 고객 입장에서는 서른 살의 딜러가 좀 경험이 미숙하지 않을까 걱정을 할 수도 있거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.679
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 예 저도 뭐 그런 걱정 많이 하시는 분들 이제 많이 뵀는데 아무래도 제가 2017년도부터 해 가지고 비엠더블유에서 영업을 시작했고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.689,
+                "end": 18.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 다음에 지금까지 벤츠를 거쳐서 랜드 로버로 오게 돼서 그런 걱정은 따로 안 하셔 될 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.140,
+                "end": 24.033
+            }
+        ]
+    },
+    "summary": "고객 입장에서는 어린 딜러가 미숙하지 않을까 우려하는데 딜러는 본인의 오랜 경력을 얘기하며 걱정하지 않아도 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00250_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00250_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_04861",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.2,
+        "format": "MP4",
+        "date": "2020-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "농장 같은 경우에는 차로 한 30분 이상을 달리고 나가야지만 가볼 수가 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그라스를 방문하기 좋은 때는 5월 장미축제와 그다음에 8월에 재스민 축제가 있을 때인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.816,
+                "end": 12.063
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1946년부터 시작된 굉장히 오래된 축제이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.073,
+                "end": 15.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5월에 장미 시즌 때 갔을 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.771,
+                "end": 18.200
+            }
+        ]
+    },
+    "summary": "농장 같은 경우에는 차로 30분 이상을 달리고 나가야지만 가볼 수가 있고 그라스를 방문하기 좋은 때는 5월 장미축제와 8월에 재스민 축제가 있을 때이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04861_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04861_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

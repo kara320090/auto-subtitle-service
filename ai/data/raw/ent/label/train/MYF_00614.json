@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_00614",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 105.48,
+        "format": "MP4",
+        "date": "2020-11-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "병원 가기 전에라도 어떻게 될까 걱정이에요 진짜 우리 아기 이렇게 지하실에서 이불 덮자 우리 톨이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 18.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지하실에서도 도대체 무슨 일이 있었던 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.380,
+                "end": 22.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 우리 애기 음 좀만 진짜",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.510,
+                "end": 44.997
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옆에서 계속 지켜보려구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.007,
+                "end": 48.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "톨이야 어 엄마 엄마 톨이야 엄마 톨이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 48.191,
+                "end": 64.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄마 톨이 조금 자구 일어나자 우리 톨이 지금 힘이 하나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 64.438,
+                "end": 105.480
+            }
+        ]
+    },
+    "summary": "병원에 가기 전에도 어떻게 될지 걱정이 돼서 이불로 톨이를 덮어주고 이름을 계속 부르며 지켜본다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00614_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00614_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

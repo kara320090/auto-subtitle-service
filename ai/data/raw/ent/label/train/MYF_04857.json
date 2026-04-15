@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_04857",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.2,
+        "format": "MP4",
+        "date": "2020-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예전에 한번 읽었던 인터뷰인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그것 때문에 사실 제가 그라스에 가보고 싶다 생각을 했었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.910,
+                "end": 5.695
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그라스에서 조향 공부를 하던 시절에 끝이 없이 펼쳐져 있는 라벤더 그 길을 걸을 때 바람에 날라오던 라벤더의 향이 너무나 좋았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.700,
+                "end": 16.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 글을 제가 읽은 적이 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.642,
+                "end": 19.200
+            }
+        ]
+    },
+    "summary": "그라스에서 조향 공부를 했을 때 끝이 없이 펼쳐진 라벤더 길을 걸을 때 향이 너무나 좋았다는 글을 읽고 그라스에 가보고 싶다고 생각을 했었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04857_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04857_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

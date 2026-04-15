@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYF_23151",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2018-12-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저쪽은 FH 프레데릭 레인스 홀이고 1번 가봤었어요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기도 아마 그 과학 쪽으로 관련된 곳입니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.813,
+                "end": 10.185
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 학교 인제 수업을 들을 때 한국에서는 어떤 학교의 어떤 과는 수 수업 시간표가 다 짜여서 나오는 학과도 있고",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.195,
+                "end": 23.800
+            }
+        ]
+    },
+    "summary": "남성은 학교 건물에 대해 설명하고 여성은 수업 시간표에 대해 한국과 비교하며 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23151_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

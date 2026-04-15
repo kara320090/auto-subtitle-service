@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYF_10584",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.402,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "드시는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.145
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.155,
+                "end": 2.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우와 음 맛있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.230,
+                "end": 12.348
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응 엄청 부드러워.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.358,
+                "end": 15.615
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 식사 영수증 있으면 이렇게 주스를 줘요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.625,
+                "end": 18.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감귤 주스 아니면 아메리카노 요거 하나 영업 당했어. 이거 세 세트",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.831,
+                "end": 27.402
+            }
+        ]
+    },
+    "summary": "화자2는 갈치가 너무 부드럽고 맛있다고 했고 이곳에서는 식사 영수증이 있으면 감귤 주스 아니면 아메리카노를 준다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10584_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 29,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_10584_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 26,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

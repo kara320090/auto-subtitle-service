@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYF_04013",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.167,
+        "format": "MP4",
+        "date": "2021-03-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 눈이 맵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "30초",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.719,
+                "end": 4.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "30초 타이머네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.310,
+                "end": 6.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하 네, 해물을 부을게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.250,
+                "end": 13.770
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 굉장히 뭔가 그 짙은 스모키한 연기의 향이 막 나죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.800,
+                "end": 23.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네, 30초간 다시 한번 30초",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.330,
+                "end": 27.166
+            }
+        ]
+    },
+    "summary": "여자가 요리하면서 나는 냄새 등의 대화를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04013_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 72,
+                    "act": 67
+                }
+            ]
+        }
+    ]
+}

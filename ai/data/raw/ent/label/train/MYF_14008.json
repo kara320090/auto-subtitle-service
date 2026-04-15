@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_14008",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2020-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 하고 싶은 거 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "봄아 어떻게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.974,
+                "end": 3.715
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "봄이 슬퍼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.725,
+                "end": 4.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "봄이 슬퍼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.692,
+                "end": 6.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "봄이도 하고 싶은 데 안 놀아줘?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.450,
+                "end": 9.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시루 나오면 이따 봄이 한 번 해보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.389,
+                "end": 12.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "봄이 있어 봄이 아빠한테 가 봄아 아이 쑥스럽구만",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 12.245,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "여성이 고양이와 대화를 시도 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_14008_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

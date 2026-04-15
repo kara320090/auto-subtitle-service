@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYF_01002",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.633,
+        "format": "MP4",
+        "date": "2023-07-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기존에 저희가 알고 있던 그 음성 AI들보다는 감정을 좀 담아서 읽어주고 말을 하기 때문에 귀에 듣기에 괜찮더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.320
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 아시겠지만 기계음으로 말을 하는 게 우리 인간들이 받아들이기 조금 어려운 이유가 감정이 안 실려 있는 모습이기 때문이라고 하더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.320,
+                "end": 23.633
+            }
+        ]
+    },
+    "summary": "기계음으로 말을 하는 게 우리 인간들이 받아들이기 조금 어려운 이유가 감정이 안 실려 있는 목소리이기 때문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

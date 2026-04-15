@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "filename": "MYF_10577",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 58.099,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "캐롤 쫙 해줬으면 좋겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그지? 캐롤을 쫙",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.400,
+                "end": 6.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "브이로그에 넣어도 되지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.639,
+                "end": 8.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결혼한 소감",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.717,
+                "end": 16.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들 위에 있는 피크 바라는 곳에 갈 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.371,
+                "end": 23.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피크 바 맞나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.606,
+                "end": 24.536
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피크 포인트",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.546,
+                "end": 25.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 마음에 든다. 여기",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.709,
+                "end": 27.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거네 오빠가 시킨 게 있네. 여기",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.263,
+                "end": 49.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 완전 좋은데요? 여러분 완전",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 49.300,
+                "end": 58.099
+            }
+        ]
+    },
+    "summary": "화자1은 호텔 위에 있는 피크 포인트라는 곳에 갈 것이라고 했고 들어가자 너무 마음에 든다며 완전 좋다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10577_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 38,
+                    "act": 24
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_10577_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

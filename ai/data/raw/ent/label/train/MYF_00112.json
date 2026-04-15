@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_00112",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.287,
+        "format": "MP4",
+        "date": "2023-08-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 지금 35도인데 에어컨이 안 나오고 아 정말 살려주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에어컨이 어떻게 고장 났냐 궁금해하실까 봐 보여드리면 어 에어컨을 키잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.224,
+                "end": 13.166
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 어 나오긴 나오는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.176,
+                "end": 16.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뜨거운 바람이 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.181,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "차량의 에어컨을 작동하면 뜨거운 바람이 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00112_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00112_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYF_23081",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.302,
+        "format": "MP4",
+        "date": "2023-07-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미트볼이랑 파스타랑 햄버거",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.428
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋아 좋아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.438,
+                "end": 3.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.623,
+                "end": 10.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 이성의 끝을 놓아버릴 것만 같아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.739,
+                "end": 18.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 멜론 아이스크림 먹으면서 오늘 산 거를 함 정리해 보자고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.603,
+                "end": 29.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "콘센트 정리되는 거 화장실 그 발 챡챡 되는 거 물기",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.162,
+                "end": 36.302
+            }
+        ]
+    },
+    "summary": "남성과 여성은 식사한 후 아이스크림을 먹으면서 오늘 구입한 물품을 확인하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23081_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

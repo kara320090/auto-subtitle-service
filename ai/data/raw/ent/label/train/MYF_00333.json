@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYF_00333",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2022-06-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바로 갈게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.337
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그저 갔 저 저희 촬영할 때도 표현하면 되는 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.347,
+                "end": 4.124
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 알겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.134,
+                "end": 5.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우하 여러분 안녕하세요 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.081,
+                "end": 7.121
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 오늘 오랜만에 우리 또 저랑 친한 유튜버들이죠 어 친한 유튜버들이라고 하면 좀 그런데 운꺼 우리 @이름2님과 그리고 우리 @계정1님과 함께 새로운",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.131,
+                "end": 23.800
+            }
+        ]
+    },
+    "summary": "촬영이 시작되면서 함께 찰영하는 오랜 친한 유튜버들을 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00333_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00333_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

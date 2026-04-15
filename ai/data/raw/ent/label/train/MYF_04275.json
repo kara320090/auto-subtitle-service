@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_04275",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.41,
+        "format": "MP4",
+        "date": "2020-12-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일주일에 하나도 겨우겨우 올리는 듯합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 정말 여러분의 좋아요, 댓글 그리고 구독, 알림 설정 정말 이걸로 지금까지 영상을 만들면서 즐겁게 만들고 네, 또 즐겁게 만들어 나갈 힘을 얻어 나간답니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.631,
+                "end": 16.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "언제나 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.648,
+                "end": 18.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘도 향기로운 하루 되세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.277,
+                "end": 20.400
+            }
+        ]
+    },
+    "summary": "영상을 일주일에 하나도 겨우 올리지만 여러분의 좋아요, 댓글, 구독, 알림 설정으로 영상을 만들 힘을 얻습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04275_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04275_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

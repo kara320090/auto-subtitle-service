@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYF_06001",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.0,
+        "format": "MP4",
+        "date": "2020-03-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가만히 있어. 앉아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주인인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.457,
+                "end": 4.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이 개 주인. 어이 개 주인. 어이 개 주인. 어이 개 주인. 개 주인 일어나라. 개 주인 강도다. 무릎 꿇어 무릎 꿇어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.320,
+                "end": 21.000
+            }
+        ]
+    },
+    "summary": "강아지 간식을 들고 개 주인인 여자를 깨워서 무릎을 꿇으라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_06001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 15,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_06001_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 15,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

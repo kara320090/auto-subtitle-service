@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_01298",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.108,
+        "format": "MP4",
+        "date": "2023-06-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요? @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 53번째 개인 맞춤 향수 추천 드리도록 할게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.984,
+                "end": 8.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "티를 좋아하시고 한식, 바르셀로나, 질샌더를 좋아하시네요. 질샌더는 정말 그 바디 몸이라는",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.323,
+                "end": 20.100
+            }
+        ]
+    },
+    "summary": "40대 여성이 53번째 개인 맞춤 향수 추천을 드린다며 티를 좋아하시고 한식, 바르셀로나, 질샌더를 좋아하신다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01298_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}
