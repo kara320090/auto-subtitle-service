@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYF_04143",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.28,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 그 다음에 뭐 끔찍한 네 끔찍한 짓들을 막 그냥.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리스 시대 때부터 향수 만드는 그 사람들과 이 향수의 이 통을 만드는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.929,
+                "end": 9.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 일반적으로 살았던 그 당시의 사람들한테는 감히 범접할 수 없는 그런 오라, 향으로 완전히 이제 신분이 명확하게 드러나는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.654,
+                "end": 20.280
+            }
+        ]
+    },
+    "summary": "그리스 시대 때부터 그 당시 사람들에게 감히 범접할 수 없는 신분을 향으로 드러냈다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04143_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04143_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

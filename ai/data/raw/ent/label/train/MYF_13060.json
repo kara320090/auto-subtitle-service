@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYF_13060",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.96,
+        "format": "MP4",
+        "date": "2021-05-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "노엘이라는 영화를 보고 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름1 @이름2가 노래 들으면서 자요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.950,
+                "end": 8.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "귀여워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.454,
+                "end": 9.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 우리 @이름1 노래 좋아해?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.741,
+                "end": 15.678
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 제일 좋아하는 곳은 여기예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.688,
+                "end": 20.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름2 너무 포근하게 잔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.088,
+                "end": 24.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2야 아이 예뻐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.830,
+                "end": 30.960
+            }
+        ]
+    },
+    "summary": "주인이 영화를 보고 있는데 고양이들이 노래를 들으며 잔다고 너무 예쁘다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13060_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 48
+                }
+            ]
+        }
+    ]
+}

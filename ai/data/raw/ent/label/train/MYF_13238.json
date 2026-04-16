@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_13238",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.2,
+        "format": "MP4",
+        "date": "2020-11-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 밤톨입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.541
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지하실에서 다섯 어 아기가 태어났는데 네 아기가 그만 추위에 죽은 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.551,
+                "end": 14.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 밤톨이는 살아남아서 오늘 구조 되었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.104,
+                "end": 18.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "톨이 들어가자 어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.395,
+                "end": 22.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이구",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.416,
+                "end": 24.200
+            }
+        ]
+    },
+    "summary": "아기 고양이 밤톨이는 지하실에서 구조되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13238_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

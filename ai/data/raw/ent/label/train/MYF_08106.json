@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYF_08106",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.633,
+        "format": "MP4",
+        "date": "2019-08-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "통 안에 있어 형아가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아구아구 아이구 좋아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.713,
+                "end": 4.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아깽이 맞네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.474,
+                "end": 7.651
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.661,
+                "end": 14.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실 지금 시루가 누워있는 저 스크래쳐는 달래가 가장 좋아하는 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.069,
+                "end": 26.626
+            }
+        ]
+    },
+    "summary": "시루가 누워있는 스크래쳐는 달래가 가장 좋아하는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08106_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

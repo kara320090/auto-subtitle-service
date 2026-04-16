@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/ent/validation/MYF_22798.wav",
+  "prediction": "안녕하세요 동네 축구 보수 동호입니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "안녕하세요 동네 축구 보수 동호입니다."
+    },
+    {
+      "start": 0.0,
+      "end": 5.14,
+      "text": "오늘은 여러분들에게 약간 재미있는 소식을 알려드리려고 이렇게 영상을 찍게 됐습니다."
+    },
+    {
+      "start": 0.0,
+      "end": 6.32,
+      "text": "제가 지금은 뛰고 있지 않지만 스페인에서 뛰었던 축구팀 꿈FC에서 다큐멘터리를 찍은 적이 있어요."
+    },
+    {
+      "start": 6.32,
+      "end": 9.26,
+      "text": "그때는 저도 선수로 뛰고 있었기 때문에"
+    }
+  ]
+}

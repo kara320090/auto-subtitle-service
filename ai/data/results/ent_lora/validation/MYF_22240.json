@@ -1,0 +1,34 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/ent/validation/MYF_22240.wav",
+  "prediction": "벨트, 이게 제 벨트인데요. 벨트를 안 들고 왔어요, 벨트 무거우니까. 그냥 보스냐 가서 사자 하고 한국에서 벨트를 다 버리고 왔는데 벨트가 안 맞는 거예요.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "벨트, 이게 제 벨트인데요."
+    },
+    {
+      "start": 0.0,
+      "end": 5.94,
+      "text": "그러니까 그냥 몸을 다 통과하는 사이즈밖에 없는 거예요. 그래서 하"
+    },
+    {
+      "start": 2.38,
+      "end": 4.68,
+      "text": "벨트를 안 들고 왔어요, 벨트 무거우니까."
+    },
+    {
+      "start": 4.68,
+      "end": 8.34,
+      "text": "그냥 보스냐 가서 사자 하고 한국에서 벨트를 다 버리고 왔는데"
+    },
+    {
+      "start": 8.34,
+      "end": 9.92,
+      "text": "벨트가 안 맞는 거예요."
+    }
+  ]
+}

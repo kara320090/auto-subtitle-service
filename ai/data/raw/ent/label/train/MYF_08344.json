@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_08344",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.69,
+        "format": "MP4",
+        "date": "2019-05-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "싫어 조금 놀라죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 입맛을 다셔요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.195,
+                "end": 8.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 하양이 잘했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.714,
+                "end": 11.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고마워 하양아 어이구 잘했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.834,
+                "end": 16.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에 새로 나온 자이목스에서 새로 나온 오라틴 스프레이입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.832,
+                "end": 23.690
+            }
+        ]
+    },
+    "summary": "여성은 스프레이를 뿌린 고양이를 칭찬하며 새로 나온 제품이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08344_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 14,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

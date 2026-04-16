@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "MYF_00231",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.7,
+        "format": "MP4",
+        "date": "2023-04-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "니가 그랬구나 우리 차주 손에 피가 철철 나게 한 게 너였어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 요 건 많이 보셨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.634,
+                "end": 6.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "RSW 멜빵 지티윙 장착을 했는데 어 쏘렌토에 지티윙 생각보다 되게 잘 어울리고 장착도 안정감 있게 잘 들어가네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.345,
+                "end": 15.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그리고 리어도 더 뉴 제스트리어를 해놨구요 어 야",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.743,
+                "end": 21.700
+            }
+        ]
+    },
+    "summary": "쏘렌토 지티윙을 달았는데 생각보다 어울리고 안정감 있다고 얘기하고 리어도 더 뉴 제스트리어를 해놨다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00231_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYF_22627",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 43.376,
+        "format": "MP4",
+        "date": "2022-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오케이 이제 6시간이 지났습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.828
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 완벽하게 꽁꽁 얼었구만 아주 제대로 꽁꽁 얼었는데 이거 이렇게 얼었어도 작동에는 아무 문제가 없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.838,
+                "end": 24.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이게 또 몇시간이 지났는지 모르겠네.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.629,
+                "end": 26.988
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌든 작동은 또 완벽하게 잘 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.998,
+                "end": 31.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "끓는 물에다가 넣어 볼까?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 31.016,
+                "end": 32.461
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 불을 최상으로 놓은 끓는 물 상태에서도 당연히 이상 없이 잘 작동이 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.471,
+                "end": 38.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허 대단하기 하네 이게 진짜",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 38.628,
+                "end": 43.376
+            }
+        ]
+    },
+    "summary": "한 남성이 6시간 얼려도 멀쩡하고 끓는물에 넣었다 빼도 이상이 없는 시계를 보이고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22627_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 70,
+                    "act": 85
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22627_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 70,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

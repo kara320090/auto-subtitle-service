@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_00996",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.933,
+        "format": "MP4",
+        "date": "2019-07-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번에 15만 이벤트를 진행을 하면서 개봉기도 같이 보여 드리도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 개복을 시작하도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.848,
+                "end": 14.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 이거 어떻게 여는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.646,
+                "end": 20.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 별 다를 건 없습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.507,
+                "end": 22.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 인터넷에서 많이 보셨던 실버 버튼 모양 그대로고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.747,
+                "end": 25.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 반사가 잘 되니까 거울로 좀 쓰면 될 것 같습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.852,
+                "end": 29.933
+            }
+        ]
+    },
+    "summary": "이번에 15만 이벤트를 진행을 하면서 개봉을 했는데 인터넷에서 많이 보던 실버 버튼 모양과 비슷하고 거울로 쓰면 될 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00996_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 58,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00996_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 41,
+                    "act": 67
+                }
+            ]
+        }
+    ]
+}

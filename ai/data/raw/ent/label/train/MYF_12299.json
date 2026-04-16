@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_12299",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.599,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 형님들 @계정1 인사드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 경북 군위의 위천에 나와 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.121,
+                "end": 7.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이곳 위천 같은 경우에는 형님들 잘 아시다시피 의성부터 군위까지 어 굉장히 긴 구간인데요 그래서 흔히들 위천강이라고도",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.060,
+                "end": 16.599
+            }
+        ]
+    },
+    "summary": "40대 남성이 영상 시청자들에게 인사를 하며 자신이 나와 있는 장소에 대해 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12299_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYF_00621",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.68,
+        "format": "MP4",
+        "date": "2020-10-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가서 꼬리 갖고 좀 놀아 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.899
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오빠가 저렇게 애원하잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.909,
+                "end": 3.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.703,
+                "end": 5.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손으로는 호두랑 놀아주고 꼬리로는 누룽지를 놀아주고 이야 우리 시루 엄청 바쁜데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.809,
+                "end": 18.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번씩 저렇게 누룽지한테 음 공격하듯이 해줘야 누룽지가 재미가 나겠죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.720,
+                "end": 25.680
+            }
+        ]
+    },
+    "summary": "손으로는 호두와 놀아주고 꼬리로는 누룽지와 노는데 가끔 누룽지를 공격하듯이 놀아줘야 누룽지가 더 재미를 느낀다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00621_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00621_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

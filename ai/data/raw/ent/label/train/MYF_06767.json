@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "MYF_06767",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.271,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쿠키야 나중에 @이름1 말 잘 듣겠네 형아가 말 잘 들으니까 좋은가봐 막 웃어 형아가 말 잘 들으니까 좋아 아이고 좋아 이번에 또 훈련해봐 @이름1이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 14.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엎드려 기다려 기다려 셋 하면 먹는 거야 하나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.363,
+                "end": 20.266
+            }
+        ]
+    },
+    "summary": "화자는 @이름1이 쿠키가 말을 잘 듣는 거 보고 좋냐면서 이야기 하고 훈련을 한번 더 시키라고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_06767_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

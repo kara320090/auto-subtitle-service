@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_00423",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.233,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거의 누가 이겨요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전기차가 거의 이겨요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.388,
+                "end": 2.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물론 이거를 몇 번을 하느냐에 따라 다르고 어 몇 미터를 가느냐에 따라 다르지만, 아우 전기차가 솔직히 치고 나가는 거는 인제 내연 기관차가 따라올 수가 없거든.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.796,
+                "end": 14.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "까 차주 분이 실제로 타 보고 이걸 느낀 거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.528,
+                "end": 17.233
+            }
+        ]
+    },
+    "summary": "이거를 몇 번을 하느냐 몇 미터를 가느냐에 따라 다르지만 전기차가 거의 이기는데, 내연 기관차는 전기차가 치고 나가는 거를 따라갈 수가 없으며, 차주 분이 실제로 타 보고 이걸 느낀 거다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00423_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 12,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00423_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

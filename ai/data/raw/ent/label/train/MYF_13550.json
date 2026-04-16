@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_13550",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.725,
+        "format": "MP4",
+        "date": "2020-03-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 예쁜 얼굴로 쉬를 테러하다니 이 녀석 으흠 보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 천진하고 이렇게 귀족적인 얼굴로 마치 엄마 난 아무것도 모르는데 왜 나한테 그러세요 하는 그런 눈빛 아니겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.232,
+                "end": 18.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유채야 아빠가 만드시는 거 우리 보자 응.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.908,
+                "end": 25.725
+            }
+        ]
+    },
+    "summary": "유채는 아무것도 모른다는 얼굴로 여성을 쳐다보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13550_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

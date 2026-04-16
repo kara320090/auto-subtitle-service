@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYF_13033",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.123,
+        "format": "MP4",
+        "date": "2021-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그만 놀고 코 한숨 자자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.531
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응? 아기 고양이 처음 예방접종하고 피곤하지 않아요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.541,
+                "end": 8.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힘이 더 넘치는 영양제를 맞고 온 걸까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.566,
+                "end": 15.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 오늘도 이렇게 소란스러운 하루를 보내고 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.024,
+                "end": 23.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.514,
+                "end": 25.120
+            }
+        ]
+    },
+    "summary": "아기 고양이가 영양제를 맞고 왔는지 힘이 더 넘쳐서 소란스러운 하루를 보내고 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13033_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 4
+                }
+            ]
+        }
+    ]
+}

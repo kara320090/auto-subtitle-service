@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYF_07324",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 40.066,
+        "format": "MP4",
+        "date": "2022-12-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거지?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 0.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 잠깐 닭볶음탕일 것 같은데 돼지고기인가?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.972,
+                "end": 5.330
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.340,
+                "end": 28.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "페더스톤 예쁘다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.576,
+                "end": 40.066
+            }
+        ]
+    },
+    "summary": "화자1이 페더스톤이 예쁘다고 감탄하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_07324_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 29,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

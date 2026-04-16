@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "MYF_04871",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.647,
+        "format": "MP4",
+        "date": "2020-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도심 속에 핀 꽃 한 송이인 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결코 길들여지지 않는 이 야생의 꽃 한 송이 향수 소개에서는 뭐 이제는 거의 전 세계적으로 베스트셀러이고 스테디셀러이고 꾸준하게 팔리고 많은 분들의 기억에 자리하고 있는 향수이죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.666,
+                "end": 17.633
+            }
+        ]
+    },
+    "summary": "전 세계적으로 베스트셀러이고 스테디셀러이고 꾸준하게 팔리고 많은 분들의 기억에 자리하고 있는 향수이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04871_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04871_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

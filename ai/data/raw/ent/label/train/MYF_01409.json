@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYF_01409",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.3,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "향수 읽어 주는 여자 @계정1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.881,
+                "end": 3.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 50번째 개인 맞춤 향수 추천드리도록 할게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.222,
+                "end": 7.746
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드디어 반 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.756,
+                "end": 10.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 50번대로 들어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.288,
+                "end": 13.941
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커피 좋아하시고 런던을 좋아하시는 그리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.951,
+                "end": 19.300
+            }
+        ]
+    },
+    "summary": "오늘은 50번째 개인 맞춤 향수 추천을 할 예정이고 커피와 런던을 좋아하는 사람이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01409_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYF_04779",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.966,
+        "format": "MP4",
+        "date": "2020-07-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 메일을 보내거나 직접 매장을 찾아가거나 사무실을 찾아가거나 이렇게 시도를 했던 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다고 해서 이루어지지는 않았고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.613,
+                "end": 10.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 당시에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.435,
+                "end": 11.226
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 그런 시도들 다 쌓이고 쌓이니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.236,
+                "end": 14.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네, 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.479,
+                "end": 16.966
+            }
+        ]
+    },
+    "summary": "매장이나 사무실을 찾아가는 시도를 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04779_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

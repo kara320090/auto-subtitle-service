@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYF_11410",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.202,
+        "format": "MP4",
+        "date": "2023-04-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요. 여러분 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 파라스파라 서울이구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.042,
+                "end": 6.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와서 좀 쉬다가 촬영 하나 하고 헬스장 갔다가 편의점 가서 이거 저거 사 먹었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.908,
+                "end": 12.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공복이 너무 긴 상태라 반숙란이랑 맛살이랑 두유 사 먹었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.229,
+                "end": 17.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 씻",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.388,
+                "end": 19.200
+            }
+        ]
+    },
+    "summary": "파라스파라 서울에 와서 촬영 하고 헬스장 갔다가 편의점 가서 이것 저것 사 먹었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11410_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 40,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

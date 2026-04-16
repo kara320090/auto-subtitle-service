@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_10008",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.2,
+        "format": "MP4",
+        "date": "2021-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 지금 4시간 현재 거의 4시거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 10시 반 11시 반 12시 반 지금 6시간 넘게 7시간 가까이 7시간 가까이 편안하게 그냥 이렇게 딱 남아 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.927,
+                "end": 20.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인제 사람마다 다르겠지만 조금 어쨌든 지속력을 좀 긴 오드퍼핑으로 설계를 해서 물론",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.378,
+                "end": 30.200
+            }
+        ]
+    },
+    "summary": "7시간 가까이 편안하게 남아 있고 사람마다 다르겠지만 지속력을 길게 설계했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10008_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 71,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYF_21469",
+        "category": "엔터테인먼트",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 105.6,
+        "format": "MP4",
+        "date": "2022-02-01",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와사비.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매운거. 눈 초롱초롱하죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.340,
+                "end": 32.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "라면이 굳었어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.128,
+                "end": 105.600
+            }
+        ]
+    },
+    "summary": "여성은 라면이 굳었다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21469_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 29,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

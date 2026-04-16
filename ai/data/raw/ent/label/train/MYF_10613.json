@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_10613",
+        "category": "엔터테인먼트",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.32,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.378
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "데이 얼 해브 엄브렐라 펭귄 엄브렐라가 필요가 있나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.388,
+                "end": 11.572
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 데이 얼 해브 리즈",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.582,
+                "end": 24.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.461,
+                "end": 29.320
+            }
+        ]
+    },
+    "summary": "화자1은 퀴즈를 풀어보면서 펭귄이 엄브렐라가 필요가 있는지 이야기하며 답을 찾고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10613_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

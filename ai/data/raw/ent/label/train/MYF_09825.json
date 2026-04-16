@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYF_09825",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.788,
+        "format": "MP4",
+        "date": "2022-05-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 어제 라이브 때 시향해 보라고 말씀 주신 바이레도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그다음에 약간 라벤더스러운 느낌이 세이지 향이거든요 고객님.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 5.500,
+                "end": 9.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 아로마 향 그건 이제 암브레이트의 머스키 한 느낌이 같이 더해져 있고요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 9.474,
+                "end": 16.766
+            }
+        ]
+    },
+    "summary": "발화자는 향수를 시향하면서 설명을 듣고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_09825_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

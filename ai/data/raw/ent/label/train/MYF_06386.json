@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_06386",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.336,
+        "format": "MP4",
+        "date": "2018-12-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 저쪽에서 연주 곡 뭐 연주 하는 거 같은데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 18.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얘 얘가 많이 나가네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.720,
+                "end": 24.336
+            }
+        ]
+    },
+    "summary": "광장 같은 곳에서 연주하고 있고 베어커리에 가 보니 초코빵이 잘 나가는 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_06386_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_06386_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 41,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

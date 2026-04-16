@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_21228",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 26.0,
+        "format": "MP4",
+        "date": "2022-05-07",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 이거 어떻게 된 게 까딱 떠나냐.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 10시 전에 허리 끝까지 해서 한두 마리는 나올 줄 알았는데 완전 예상 밖인데.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 3.199,
+                "end": 14.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그나저나 바람이 갑자기 없어 졌습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.282,
+                "end": 17.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예보 상으로는 지금도 사 초속 4미터 이상 불어야 되는데 아 진짜.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 17.527,
+                "end": 26.000
+            }
+        ]
+    },
+    "summary": "발화자는 예보와 다르게 바람이 없어졌다는 이야기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21228_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

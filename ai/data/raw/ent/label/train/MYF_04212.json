@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYF_04212",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.5,
+        "format": "MP4",
+        "date": "2020-12-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "향수 읽어주는 여자 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.707,
+                "end": 2.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 MBTI 성격 유형별 향수를 추천하도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.923,
+                "end": 7.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 많은 분들이 잘 알고 계시는 MBTI는 마이어스 브리그 스 유형지표 카를 융의 성격유형 이론을 바탕으로 개발한 성격 유형 지표를 말하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.728,
+                "end": 20.500
+            }
+        ]
+    },
+    "summary": "마이어스 브리그 스 유형지표 카를 융의 성격유형 이론을 바탕으로 개발한 성격 유형 지표인 MBTI로 성격 유형별 향수를 추천하도록 하겠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04212_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04212_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

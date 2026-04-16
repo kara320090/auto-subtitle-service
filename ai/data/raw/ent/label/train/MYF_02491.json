@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYF_02491",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.733,
+        "format": "MP4",
+        "date": "2022-05-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "타밋 런던 리비에 리비에라는 그 향수가 이제 세 번째 @이름1가 좋아하는 향수 중에 하나인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.261,
+                "end": 24.733
+            }
+        ]
+    },
+    "summary": "타밋 런던 리비에라는 향수가 @이름1이 좋아하는 세 번째 향수다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_02491_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_02491_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

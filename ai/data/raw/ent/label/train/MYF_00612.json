@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYF_00612",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.2,
+        "format": "MP4",
+        "date": "2020-11-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "톨이가 밤새 먹는 걸 거부하고 화장실은 또 가서 응가를 좀 했어요 혼자서 근데 지금 상태가 많이 안 좋은 거 같애요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 16.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "짐 숨도 가쁘고 아이가 힘이 없어서 이케 일어나서 걷지를 못해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.939,
+                "end": 25.673
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "눈만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.683,
+                "end": 27.200
+            }
+        ]
+    },
+    "summary": "톨이가 밤새 먹는 것을 거부하고 홀로 화장실에서 응가를 했고 숨도 가빠 현재 상태가 좋지 않다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00612_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 23
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00612_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

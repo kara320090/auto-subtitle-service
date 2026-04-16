@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYF_00001",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.333,
+        "format": "MP4",
+        "date": "2023-07-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 TV입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.135,
+                "end": 2.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 오랜만에 또 영상을 업로드하는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.186,
+                "end": 4.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 어 최근에 육군 소령 진급 발표가 있었죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.952,
+                "end": 9.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어 그거에 맞는 이야기를 준비했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.420,
+                "end": 12.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "육군 소령을 진급을 시키지 않는",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.640,
+                "end": 16.333
+            }
+        ]
+    },
+    "summary": "오랜만에 업로드 한다며 육군 소령 진급 발표에 관해 이야기 준비했다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 59
+                }
+            ]
+        }
+    ]
+}

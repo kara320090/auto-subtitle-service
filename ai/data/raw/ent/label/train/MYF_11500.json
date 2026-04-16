@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_11500",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.5,
+        "format": "MP4",
+        "date": "2022-10-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소리가 약간 안에 진동과 같은 게 있어서 여기에다가 드라이브스루 나왔을 때 들리는 소리로 바뀌다 보니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이들 단순하게 노래 불러주고 할 때도 굉장히 재미있어해서 그런 것으로 사용해도 굉장히 재미있다고 생각이 듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.296,
+                "end": 12.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아아아",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.040,
+                "end": 13.617
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아빠랑 햄버거 만들어요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.627,
+                "end": 17.150
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어어 아빠랑 햄",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.160,
+                "end": 19.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "햄버거 하나 주세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.632,
+                "end": 22.021
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 금방 만들어 드리겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.031,
+                "end": 24.500
+            }
+        ]
+    },
+    "summary": "드라이브스루 나왔을 때 들리는 소리로 바뀌다 보니까 노래 불러줘도 굉장히 재미있어합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

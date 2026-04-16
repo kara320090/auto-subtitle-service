@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_01107",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.966,
+        "format": "MP4",
+        "date": "2023-07-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "향수 읽어주는 여자 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.637,
+                "end": 3.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 56번째 개인 맞춤 향수 추천을 드리도록 할게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.181,
+                "end": 8.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차를 좋아하시고 이탈리안 음식 런던을 좋아하시는 샤넬, 생크림 케이크, 샴페인, 후추",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.738,
+                "end": 19.966
+            }
+        ]
+    },
+    "summary": "오늘은 이탈리안 음식과 런던, 차, 샤넬, 생크림 케이크, 샴페인, 후추를 좋아하시는 분의 개인 맞춤 향수를 추천드리려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01107_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

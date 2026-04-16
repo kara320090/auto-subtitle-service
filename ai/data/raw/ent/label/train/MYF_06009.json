@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYF_06009",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.566,
+        "format": "MP4",
+        "date": "2019-11-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 안녕하세요. 쿠키 TV입니다. 오늘은 나라에서 임산부가 지원받을 수 있는 혜택에 대해서 좀 알려드리려고 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 가지를 알려주는데요. 어 하나는 보건소에서 임산부가 받을 수 있는 혜택이 있고 또 하나는 나라에서 정부 지원금으로 혜택을 받을 수 있는 게 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.142,
+                "end": 17.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 @이름1의 설명을 들어 보시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.475,
+                "end": 21.794
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "카드 줘보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.804,
+                "end": 23.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카드요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.120,
+                "end": 25.566
+            }
+        ]
+    },
+    "summary": "쿠키 TV에서 임산부가 받을 수 있는 보건소와 정부 지원금 혜택 두 가지를 알려준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_06009_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 15,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYF_11237",
+        "category": "엔터테인먼트",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.929,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭔 지 아세요 여러분들?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요새 소금 값 겁나 비싸다며 아우 @이름1님이 어디서 선물 받아 온 거야 갈아 쓰는 소금",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 2.422,
+                "end": 16.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왠지 갈다가 성질 버릴 뿐 가는 게 쉽지 않아",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 16.078,
+                "end": 24.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그지 같은 놈들 가는 게 생각보다 만만치가 않네요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.630,
+                "end": 29.929
+            }
+        ]
+    },
+    "summary": "남성은 선물 받은 소금을 갈아서 기름장에 넣으며 가는 것이 만만치 않다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11237_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 7
+                }
+            ]
+        }
+    ]
+}

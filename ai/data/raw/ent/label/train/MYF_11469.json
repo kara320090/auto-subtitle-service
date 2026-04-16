@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYF_11469",
+        "category": "엔터테인먼트",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.966,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 진짜 이거 운전하는 것만 아니면은 이거 이제 생맥주 하나 딱 들고 먹으면 딱 좋은데 자기라도 한 잔 할래?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋지",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.760,
+                "end": 15.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 이게 먹으면서 계속 느끼는 거지만 뭔가 그 호프집에서 가볍게 술 한잔할 때 먹는 것 같은 그런 마른 안주느낌 그런 느낌 들지 않아?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.066,
+                "end": 27.151
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.161,
+                "end": 27.966
+            }
+        ]
+    },
+    "summary": "먹으면서 계속 느끼는데 호프집에서 가볍게 술 한잔할 때 먹는 마른안주 느낌 들어요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11469_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

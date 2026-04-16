@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYF_13770",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2020-02-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 @이름1 @이름1는 지금 @이름2가 뭘 보고 벌떡벌떡 뛰는지 잘 모르는 걸까요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.847
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름3 엄마 몸에 빨간 불이 반짝반짝하네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.857,
+                "end": 14.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름3 @이름3가 막고 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.444,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "현관 앞에 있는 플로리 볼트 장난감이 자동으로 작동되고 있는데 모르는 고양이도 있고 레이저 포인트를 막고 있는 고양이도 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13770_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 40
+                }
+            ]
+        }
+    ]
+}

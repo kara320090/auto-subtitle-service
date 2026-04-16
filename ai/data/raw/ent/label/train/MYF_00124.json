@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "MYF_00124",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.897,
+        "format": "MP4",
+        "date": "2023-08-25",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우와 살 거 같아 여러분 이 차 10년은 더 탈 수 있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 어우 선풍기 우와 좋아 아하 아 일단 선풍기 됐고",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.525,
+                "end": 9.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그냥 에어컨을 고쳐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.483,
+                "end": 12.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 또 돈들잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.088,
+                "end": 14.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래도 수리하러 조만간 가긴 갈 겁니다 여러분.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.866,
+                "end": 18.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠시 이거 어 시동을 꺼도 선풍기는 돌아가네?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.777,
+                "end": 22.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 뭔가 전원 오류가 있는 것 같은데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.478,
+                "end": 25.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 차에서 내릴 때 선풍기를 꼭 끄고 내려야겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.479,
+                "end": 30.897
+            }
+        ]
+    },
+    "summary": "여성이 차량 내부에 설치한 선풍기를 작동시켜보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00124_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00124_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

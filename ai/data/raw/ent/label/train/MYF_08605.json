@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_08605",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.051,
+        "format": "MP4",
+        "date": "2019-03-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 액체를 고양이들의 이 부분 목과 등으로 연결되는 이 부분에 발라주시는데 털 위에 바르는 게 아니고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 우리 달래 털이 많지만은 한번 요렇게 비집고 들어가 볼까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.562,
+                "end": 14.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비집고 들어가면 살이 드러나죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.677,
+                "end": 18.051
+            }
+        ]
+    },
+    "summary": "고양이에게 액체를 발라줄 때 어느 부분에 바르는지 어떻게 발라줘야 하는지 설명을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08605_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 14,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

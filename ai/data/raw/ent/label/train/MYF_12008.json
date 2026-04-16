@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYF_12008",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.666,
+        "format": "MP4",
+        "date": "2022-04-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 또 그다음 향수들 또 나의 향수들을 한번 찾아가 보시면 좋을 것 같아서 이 향수들을 제가 추천 드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 요렇게 그 애플의 요 사과의 꼭지 부분을 이렇게 하시면 분사가 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.573,
+                "end": 26.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 처음에 만나면 어",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.026,
+                "end": 29.666
+            }
+        ]
+    },
+    "summary": "조향사가 사과처럼 생긴 향수 용기의 꼭지 부분을 눌러서 종이에 향수를 분사하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12008_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 71,
+                    "act": 102
+                }
+            ]
+        }
+    ]
+}

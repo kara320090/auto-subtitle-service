@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYF_23113",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.333,
+        "format": "MP4",
+        "date": "2023-05-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역시 관중이 필요한 거였어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관중이 필요해.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.546,
+                "end": 3.938
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 @이름1 거야. @이름1 엄마랑 @이름1 거랑 @이름1 아빠 거랑",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.948,
+                "end": 17.717
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1 맛있어? @이름1 맛있어? 아유 맛있어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.727,
+                "end": 22.836
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "소세지도 있고 감자도 있고 파인애플도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.846,
+                "end": 29.598
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이거는 고기 짠 짠 @이름1는 잠들어 버렸어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.608,
+                "end": 39.333
+            }
+        ]
+    },
+    "summary": "여성은 아이와 놀아주고 아이에게 고기를 먹인 후 음식을 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23113_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 4
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_23113_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

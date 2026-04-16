@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYF_00939",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 67.567,
+        "format": "MP4",
+        "date": "2021-08-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "형님들 @이름1 인사드립니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.778,
+                "end": 6.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 한탄강으로 캠낚을 갑니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.953,
+                "end": 15.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민통선 가기 전 한탄강 최상류입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.119,
+                "end": 33.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내려가는 길은 웬만한 차량은 진입 가능합니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 33.386,
+                "end": 63.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 자갈밭은 들어오지 마세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 63.747,
+                "end": 67.567
+            }
+        ]
+    },
+    "summary": "오늘은 한탄강으로 캠낚을 갈 거고 민통선 가기 전 한탄강 최상류이며 내려가는 길은 웬만한 차량은 진입 가능하고 자갈밭은 들어가지 말아야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00939_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 12,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00939_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

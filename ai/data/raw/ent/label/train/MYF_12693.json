@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYF_12693",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.453,
+        "format": "MP4",
+        "date": "2022-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 마름 밭에서 나온 녀석이라 야 색깔이 너무 멋있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최고입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.473,
+                "end": 6.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 오늘 낚시 진짜 제대로 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.655,
+                "end": 8.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 재밌는 낚시입니다 우리 사모님하고 아들 래미하고 잠깐 나가서 밥을 먹고 왔거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.797,
+                "end": 14.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 시간이 한 6시 쫌 넘은 것 같은데 입질 시간 제대로 맞춰서 들어왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.338,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "남자는 마름 밭에서 나온 붕어라 색깔이 멋지다며 낚시 제대로 한다고 하더니 잠깐 가족과 식사를 하고 왔는데 6시가 넘었다면서 입질 시간 제대로 맞춰서 들어왔다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12693_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12693_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

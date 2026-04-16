@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYF_10713",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 43.133,
+        "format": "MP4",
+        "date": "2023-02-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 21.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크루즈 여행가 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.887,
+                "end": 24.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아요 오늘 드디어 인제 이번 항차의 마지막 도착지이자 시작점인 탬파에 도착했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.991,
+                "end": 33.901
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 다르죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.911,
+                "end": 36.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 계속 바다만 보다가 며칠 째 건물이 보입니다. 큰 건물들이",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.786,
+                "end": 43.133
+            }
+        ]
+    },
+    "summary": "이곳은 이번 항차의 도착지이자 시작점인 탬파이며 며칠 동안 바다만 보다가 높은 건물을 보게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10713_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

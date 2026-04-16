@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYF_22610",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.924,
+        "format": "MP4",
+        "date": "2022-07-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.801,
+                "end": 5.409
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 총기 실험 영상을 올릴 때마다 댓글에서 자주 보이던 게 슬로우 모션으로 찍어 달라는 거였죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.419,
+                "end": 10.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기서 여러분들이 슬로우 모션에 대해서 잘 모르시는게 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.175,
+                "end": 13.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일반적으로 여러분이 지금 보시는 동영상 같은 경우에 1초에 30장의 사진을 찍어서 빠르게 재생을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.229,
+                "end": 18.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 30fps라고 불러요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.113,
+                "end": 19.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 아이폰 카메라에 슬로우 모션 240fps니까 1초에 240장의 사진을 찍는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.959,
+                "end": 24.924
+            }
+        ]
+    },
+    "summary": "한 남성이 이름을 소개한 뒤 슬로우 모션에 대해서 설명을 하며 1초에 30장의 사진을 찍는 것을 30fps라고 부르며 아이폰 카메라는 240fps라며 1초에 240장을 찍는 것이라 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22610_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22610_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

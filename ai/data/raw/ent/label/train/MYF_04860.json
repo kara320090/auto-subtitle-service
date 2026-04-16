@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYF_04860",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.5,
+        "format": "MP4",
+        "date": "2020-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관광객들을 위한 시설들이 자리를 하고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 제가 그라스에 간 거는 바로 그런 꽃밭이랑 꽃 농장 이런 곳을 상상하면서 갔었는데 구도심과 그 주변을 걷다 보면 매연이 콱콱 있는 네, 그냥 일반 도시랑 큰 차이가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.947,
+                "end": 17.500
+            }
+        ]
+    },
+    "summary": "그라스에 간 건 꽃밭이랑 꽃 농장 등을 상상하며 갔었는데 구도심과 그 주변을 걷다 보면 매연이 있는 일반 도시랑 큰 차이가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04860_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 6,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04860_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

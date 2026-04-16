@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYF_10566",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.73,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 이렇게 먹어서 얼마 얼마였냐면요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.788
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아메리카노 완전",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.798,
+                "end": 7.743
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.753,
+                "end": 8.512
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 맛있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.522,
+                "end": 9.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 초저녁 되니까 좀 분위기가 예쁜 거 같은데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.326,
+                "end": 13.156
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 초저녁에는 좀 예쁘다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.166,
+                "end": 16.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영양제를 일단 오메가 쓰리",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.378,
+                "end": 21.730
+            }
+        ]
+    },
+    "summary": "화자1은 케익과 음료수 값이 비싸지만 진짜 맛있다고 했고 초저녁이 되니까 분위기가 너무 예쁘다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10566_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 27,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_10566_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

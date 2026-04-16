@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "MYF_14060",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.756,
+        "format": "MP4",
+        "date": "2020-02-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "달래야 친구들이 캣휠 타고 있어 누군가요 우리 참참이",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 더 신기한 것은 참참이 옆에 있는 이 친구가 누군지 아세요 바로 바로 지하실에서 구조된 노아에요. 노아야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.140,
+                "end": 22.756
+            }
+        ]
+    },
+    "summary": "여성이 구조된 고양이에 대해 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_14060_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

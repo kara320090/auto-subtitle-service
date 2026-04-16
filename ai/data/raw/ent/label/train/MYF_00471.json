@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYF_00471",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.6,
+        "format": "MP4",
+        "date": "2021-07-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아유 귀여워 조그만 친구가 아이구 예쁘게 잘먹어 거의 남기지않아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아유 많이 먹어요 우리 콩이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.369,
+                "end": 15.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "콩이 콩이 어떻게 된 거야 지금 어떡할 거야 어떻게 올라오지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.606,
+                "end": 26.600
+            }
+        ]
+    },
+    "summary": "몸집은 작은데 밥을 아주 잘 먹고 장난감을 가지고 잘 논다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00471_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00471_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 4
+                }
+            ]
+        }
+    ]
+}

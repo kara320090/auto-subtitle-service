@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYF_22428",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 67.8,
+        "format": "MP4",
+        "date": "2022-11-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 우리 언니들 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 28.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 속눈썹 되게 잘 됐다 그쵸?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 28.283,
+                "end": 30.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 제가 너무 좋아하는 동생하고 같이 합정으로 데이트하기로 해서 오랜만에 또 브이로그로 찍어보려고 카메라를 켰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 30.869,
+                "end": 46.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 @이름2라고 아시나요 @이름2?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 46.897,
+                "end": 49.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 제 구독자랑 @이름2 구독자랑 많이 겹치는 걸로 알고 있는데 되게 옷 스타일이 저랑 비슷하고 좋아하는 게 되게 비슷해요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 49.891,
+                "end": 59.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 @이름2 채널 보시면 아마 진짜 취향 저격당할 거 같은 그런 느낌",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 59.597,
+                "end": 67.800
+            }
+        ]
+    },
+    "summary": "여자가 대중교통을 이용해서 합정으로 @이름2를 만나러 이동하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22428_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYF_10416",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.659,
+        "format": "MP4",
+        "date": "2019-12-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현미의 향이 가장 많이 나는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.532
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가장 높은 온도 나비와 장수를 의미하는 거북이 발을 숨기고 있다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.542,
+                "end": 20.075
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 바로 그 유명한 타마유라 모나카 아이스크림입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.085,
+                "end": 26.659
+            }
+        ]
+    },
+    "summary": "이 과자는 나비와 장수를 의미하는 거북이 모양인데 거북이는 발을 숨기고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10416_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

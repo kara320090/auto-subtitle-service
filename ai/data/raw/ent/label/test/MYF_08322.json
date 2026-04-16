@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYF_08322",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 42.909,
+        "format": "MP4",
+        "date": "2019-05-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "달래 목욕하러 1번 가보실까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노랑아 들어가서 놀고 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.133,
+                "end": 5.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "달래 잠깐만 어우 잘했어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.560,
+                "end": 16.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우 착해 어 잘한다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.880,
+                "end": 19.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그렇지 꼬리 오 옳지 씻자 에구 잘했어요. 어우 그렇지 아야 어우 잘해 어구",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.570,
+                "end": 42.909
+            }
+        ]
+    },
+    "summary": "여성은 고양이를 달래가면서 씻기고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08322_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 14,
+                    "act": 140
+                }
+            ]
+        }
+    ]
+}

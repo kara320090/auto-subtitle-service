@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYF_21369",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.507,
+        "format": "MP4",
+        "date": "2022-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올라오기는 올라온 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 가고 얼른 던지고 캐미를 끼우자 일단 붕어가 여기까지 올라왔다는 건 확인됐으니까요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.448,
+                "end": 22.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 있으면 이제 큰놈들도 나오겠죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.080,
+                "end": 36.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 맞은편 갈대에 한 4 4칸 정도면 붙을 것 같은데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.680,
+                "end": 43.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "위에 전기줄이 있어가지고 어쩔 수가 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 43.274,
+                "end": 45.507
+            }
+        ]
+    },
+    "summary": "붕어가 여기까지 올라왔다는 건 확인됐으니 조금 있으면 큰놈도 나올 거고 저기 맞은편 갈대에 한 4칸 정도면 붙을 것 같은데 전기줄이 있어서 어쩔 수 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21369_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_21369_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

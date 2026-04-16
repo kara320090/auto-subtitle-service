@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYF_21397",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.222,
+        "format": "MP4",
+        "date": "2022-01-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이쿠야 간다 간다 간다 간다 간다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 오 그렇지 아 바람 한번 아주 그냥 개안하게 부네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.179,
+                "end": 22.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바람이 살짝 잦은 틈을 타 얼른 인사 드리자 안녕하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.868,
+                "end": 27.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.523,
+                "end": 28.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나주의 소류지에 나와 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.877,
+                "end": 30.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 지금 바람이 굉장히 많이 불고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.811,
+                "end": 33.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그나마 이 자리는 뒷바람이 불고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.656,
+                "end": 37.222
+            }
+        ]
+    },
+    "summary": "바람이 살짝 잦은 틈을 타 인사를 드리고 나주의 소류지에 나와 있는데 바람이 굉장히 많이 불고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21397_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_21397_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

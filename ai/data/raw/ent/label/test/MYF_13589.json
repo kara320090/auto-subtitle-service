@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_13589",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.918,
+        "format": "MP4",
+        "date": "2020-03-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 띠루 띠루 이리 와 보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "띠루야 물어보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.707,
+                "end": 5.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 띠루야 화장실이 부족했어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.539,
+                "end": 9.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아빠 집사하고 참이 야 이제 잘못한 게 있으니까 캣휠까지 타주시는구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.498,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "여성은 고양이에게 화장실이 부족했는지 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13589_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 36
+                }
+            ]
+        }
+    ]
+}

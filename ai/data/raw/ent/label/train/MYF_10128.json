@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_10128",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.9,
+        "format": "MP4",
+        "date": "2021-07-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 만든 커피를 매일 마셔요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 카라멜나도를 마실래요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.015,
+                "end": 10.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 이제 아침에 이렇게 커피 향으로 일깨우는 걸 되게 좋아해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.253,
+                "end": 30.865
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아침 아침 공기에는 향 분자가 많이 없는데 이제 커피 향 분자로",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.875,
+                "end": 39.900
+            }
+        ]
+    },
+    "summary": "여성이 오늘은 카라멜나도를 마실 거라고 하며 커피 향으로 아침을 일깨우는 걸 좋아한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10128_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 25,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

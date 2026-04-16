@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYF_22502",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.908,
+        "format": "MP4",
+        "date": "2022-12-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "넘친다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고구마 우와 약간 밤인가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.689,
+                "end": 16.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 밤 고구마를 너무 좋아해 가지고 너무 아름답지 않아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.426,
+                "end": 22.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 그래도 약간 밤인 느낌이 나네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.483,
+                "end": 29.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 음",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.522,
+                "end": 33.908
+            }
+        ]
+    },
+    "summary": "커피와 빵과 고구마로 아침 식사를 하는데 밤 고구마를 좋아한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22502_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 27,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

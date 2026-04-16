@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYF_12731",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.799,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대형 떡붕어 하나 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 진짜 크다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.481,
+                "end": 4.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그야말로 떡판입니다 떡판.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.847,
+                "end": 8.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 어마어마하다 어마어마해.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.244,
+                "end": 14.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠깐 보관했다가 내일 밝을 때 한번 더 보여드리겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.578,
+                "end": 19.578
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.588,
+                "end": 32.799
+            }
+        ]
+    },
+    "summary": "남자는 대형 떡붕어가 나왔는데 진짜 어마어마하다면서 떡판이라고 했고 내일 밝을 때 다시 보여주겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12731_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12731_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYF_00332",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 45.866,
+        "format": "MP4",
+        "date": "2022-06-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 이것이 화장실 뷰 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 25.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오예 커피 카페인을 먹으면 힘이나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.887,
+                "end": 32.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 메이크업 오빠 메이크업 안 받고 와요 우리는 메이크업 다 했는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.019,
+                "end": 36.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바 방송 오빠 방송에 임하는 자세 어떻게 할 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.383,
+                "end": 41.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 코딱지 파지 말고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.671,
+                "end": 45.866
+            }
+        ]
+    },
+    "summary": "커피를 들면서 동료 오빠에게 메이크업을 받지 않았다고 얘기를 하지만 동료 오빠는 코를 파며 넘긴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00332_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00332_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

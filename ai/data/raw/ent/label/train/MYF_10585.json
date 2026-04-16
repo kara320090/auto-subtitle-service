@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "filename": "MYF_10585",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 68.902,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "밥 먹고 이만큼 우리가 선택한 거긴 한데 뭔가 금오름 와 좋다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 19.112
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 꽤 가팔라요. 여러분",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.122,
+                "end": 23.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 이쁘네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.661,
+                "end": 27.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 올라와서 볼 만하다 그치?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.468,
+                "end": 29.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 너무 약간 비현실적으로 생긴 곳이다. 좀",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 29.627,
+                "end": 46.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니며 거기서 찍으면 내가 여기 안에 설게.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 46.352,
+                "end": 55.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "느낌이 안 살아.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 55.649,
+                "end": 57.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 느낌 아니야?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 57.469,
+                "end": 58.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 근데 여긴 너무 억새가 없고 여기 가운데쯤으로 와야 돼.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 58.143,
+                "end": 61.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어때?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 61.308,
+                "end": 62.431
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뒤에 쪽에 있는 게 예쁜데 모습은",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 62.441,
+                "end": 65.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "(()) 잘 나오면 돼.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 65.699,
+                "end": 68.902
+            }
+        ]
+    },
+    "summary": "화자1은 금오름 정상에 올라갔는데 비현실적으로 너무 예쁘고 올라와서 볼 만하다고 했는데 사진을 찍으려고 하니 느낌이 안 살아서 화자2는 여기는 억새가 너무 없어서 가운데쯤으로 와야 한다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10585_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": 2,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_10585_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

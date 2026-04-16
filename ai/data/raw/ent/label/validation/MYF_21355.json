@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYF_21355",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.4,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "점점 바람은 세지겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저쪽으로 옮겨서 자 이쪽 방향으로 대 편성을 다시 하느냐 아니면 제 좌측 아 저기가 그래도 수초가 있어서 구미가 당기기는 한데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.399,
+                "end": 14.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붕어가 저기까지 들어왔을지 그보다도 수심이 나올 지가 의문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.590,
+                "end": 23.403
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2.4칸 1대 가지고 수심 체크를 한번 해보겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.413,
+                "end": 27.400
+            }
+        ]
+    },
+    "summary": "바람은 세질 거고 그래서 저쪽으로 옮겨서 이쪽 방향으로 대 편성을 다시 하느냐 아니면 제 좌측 수초가 써서 구미가 당기기는 한데 붕어가 있을지 수심이 나올지가 의문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21355_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_21355_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

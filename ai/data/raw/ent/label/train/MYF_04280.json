@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYF_04280",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.166,
+        "format": "MP4",
+        "date": "2020-12-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정말 고객이 왕이었던 셈인 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1853년에 나폴레옹 3세의 황후인 유제니 황후를 위해서 오 드 코롱 임페리얼 향수를 만들게 되어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.467,
+                "end": 11.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 향수로 인해서 황실 공식 조향사라는 타이틀을 가지게 되어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.052,
+                "end": 15.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리가 지금도 이야기하는 시프레의 오크 나무에 대한 그 향을 이제 말을 하는 시프레 향이라는",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.337,
+                "end": 22.166
+            }
+        ]
+    },
+    "summary": "1853년 나폴레옹 3세의 황후인 유제니 황후를 위해 오 드 코롱 임페리얼 향수를 만들게 되어 황실 공식 조향사가 되고 그 향은 시프레의 오크 나무 향이라고 말합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04280_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04280_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

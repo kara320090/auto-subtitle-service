@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYF_11676",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 89.1,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 베스킨라빈스 스푼이 좀 필요해요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 양념을 좀 퍼야 돼.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.129,
+                "end": 7.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양념을 묻히기에는 너무 흐르니까 이렇게 양념을 퍼서 얹어 그리고 먹어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.427,
+                "end": 19.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 19.460,
+                "end": 77.466
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "닭가슴살 훈제맛으로 한번 시켜 봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 77.476,
+                "end": 80.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원래는 페퍼맛만 먹어 봤었는데 훈제도 궁금해서 하나 시켜 봤고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 80.689,
+                "end": 89.100
+            }
+        ]
+    },
+    "summary": "앙념을 얹어 먹고 닭가슴살 훈제맛으로 처음 시켜봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11676_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_11676_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_13462",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.223,
+        "format": "MP4",
+        "date": "2020-04-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뚜뚝이 왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뚜뚝이는 화장실에 갈 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.181,
+                "end": 4.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참참아 아이고 우리 참참이 거실에 산책 나왔어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.833,
+                "end": 16.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 어 저녁을 먹고 나서 이제 우리 참참이가 거실에 산책 나왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.227,
+                "end": 23.223
+            }
+        ]
+    },
+    "summary": "뚜뚝이는 나와서 화장실에 가고 참참이는 저녁을 먹고 거실에 산책을 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13462_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 4
+                }
+            ]
+        }
+    ]
+}

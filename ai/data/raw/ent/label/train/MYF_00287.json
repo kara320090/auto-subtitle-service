@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYF_00287",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.651,
+        "format": "MP4",
+        "date": "2022-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신발 자랑.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예쁘죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.915,
+                "end": 6.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여러분 지금 한 아홉 시 삼십사 분이고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.489,
+                "end": 11.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드디어 도착 어디가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.014,
+                "end": 12.681
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "화장실 가야 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.691,
+                "end": 14.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쟤 이상해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.989,
+                "end": 16.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 도착했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.336,
+                "end": 18.651
+            }
+        ]
+    },
+    "summary": "9시 34분에 도착했고 산적이는 화장실로 갑니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00287_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00287_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

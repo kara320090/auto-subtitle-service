@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "MYF_22840",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.666,
+        "format": "MP4",
+        "date": "2020-04-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니지 근데 편하지 그렇지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 좀 당황스럽네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.937,
+                "end": 41.666
+            }
+        ]
+    },
+    "summary": "화자가 간단하게 아침으로 팬케이크를 만들고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 31,
+                    "act": 50
+                }
+            ]
+        }
+    ]
+}

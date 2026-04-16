@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYF_13398",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.837,
+        "format": "MP4",
+        "date": "2020-07-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아기 고양이가 있었어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 1.517,
+                "end": 8.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야옹 야옹 몇 시간 전부터 계속 아기 고양이 소리가 나더니 지금 저희 아파트 6동 앞인데 여기 아기가 혼자 있는 것 같아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.659,
+                "end": 23.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야옹 엄마는 어디 가고 아기 혼자 울고 있는데 지금 캔하고 사료를 줬는데 아기가 밥을 먹으러 나오는지 한번 지켜볼게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 23.811,
+                "end": 37.837
+            }
+        ]
+    },
+    "summary": "여성은 몇 시간 전부터 혼자 있는 아기 고양이 소리가 들려서 캔과 사료를 주고 밥을 먹으러 나오는지 지켜보고자 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13398_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 31,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

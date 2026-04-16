@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYF_08955",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 99.683,
+        "format": "MP4",
+        "date": "2022-11-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 찌만이라도 건지자 했는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붕어가 달려 있네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.456,
+                "end": 5.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하하하 뗏장에 감겨 있던 놈입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.962,
+                "end": 11.065
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 헤헤헤헤헤 자 너도 참 운이 없구나.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.075,
+                "end": 22.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "글루텐 깔끔하게 다 썼네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.961,
+                "end": 95.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 바람이 맞바람이 불면서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 95.808,
+                "end": 99.666
+            }
+        ]
+    },
+    "summary": "찌를 건져보니 뗏장에 감겨 있던 붕어가 달려 있었고 글루텐을 다 썼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08955_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_08955_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

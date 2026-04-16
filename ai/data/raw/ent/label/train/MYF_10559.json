@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "filename": "MYF_10559",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 95.386,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 신랑 신부의 앞날에 행복만이 가득하길 바라며 신랑 신부 행진",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 코트야드 메리어트 호텔에서 하루 묵고 제주도로 갑니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 7.730,
+                "end": 47.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 웃기다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 47.188,
+                "end": 61.231
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예쁘다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 61.241,
+                "end": 63.584
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예뻐 방이 이렇게 있고 화장실이 내 스타일이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 63.594,
+                "end": 70.576
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "좋다 되게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 70.586,
+                "end": 71.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기가 좋은 게 이런 이 소파 공간이 되게 넓네요 테이블도 있고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 71.290,
+                "end": 77.059
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 77.069,
+                "end": 95.386
+            }
+        ]
+    },
+    "summary": "화자2는 결혼식을 하고 코트야드 메리어트 호텔에서 하루 묵고 제주도로 간다며 호텔에 들어갔는데 소파 공간이 넓고 테이블도 있어서 좋다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10559_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 38,
+                    "act": 24
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_10559_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": 39,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

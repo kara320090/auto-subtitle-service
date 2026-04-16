@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "filename": "MYF_12911",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 108.174,
+        "format": "MP4",
+        "date": "2022-05-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가서 오지 마.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.012,
+                "end": 48.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 48.000,
+                "end": 50.065
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 그렇지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 50.075,
+                "end": 59.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 그렇지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 59.030,
+                "end": 68.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 으어 으아 우와 으차 우와 으차 그렇지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 68.150,
+                "end": 88.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으아 오 사이즈 좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 88.820,
+                "end": 93.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 으차 와 와 좋은 녀석 나왔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 93.931,
+                "end": 108.174
+            }
+        ]
+    },
+    "summary": "영상에서는 방생하면서 가서 오지말라고 언급했으며 그리고 좋은 녀석이 나왔는데 사이즈 좋다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12911_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12911_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

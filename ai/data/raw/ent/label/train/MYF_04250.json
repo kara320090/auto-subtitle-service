@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYF_04250",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.566,
+        "format": "MP4",
+        "date": "2020-12-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불가능하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이렇게 해서는 개발비가 너무 많이 든다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.643,
+                "end": 2.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 비싼 화장품을 누가 사냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.946,
+                "end": 4.861
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 이렇게 굉장히 반대도 많았는데 이 도르나노 부부 두 사람이 자연을 진짜 많이 좋아하시고 그리고 자연에서 얻는 성분이 야말로 우리 몸에 너무 좋지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.871,
+                "end": 16.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 이런 신념으로 그냥 만드세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.146,
+                "end": 18.566
+            }
+        ]
+    },
+    "summary": "도르나노 부부는 자연에서 얻는 성분이 야말로 우리 몸에 너무 좋을 거란 신념으로 개발비가 너무 많이 들어 반대 의견이 있지만 그래도 화장품을 만듭니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04250_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04250_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

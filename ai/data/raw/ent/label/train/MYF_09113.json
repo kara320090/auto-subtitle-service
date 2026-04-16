@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_09113",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.431,
+        "format": "MP4",
+        "date": "2022-02-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지렁이와 새우를 같이 쓸 거고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "낮에는 어 옥수수 글루텐과 어분 글루텐, 딸기 글루텐 섞어서 같이 써보도록 하겠습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 1.648,
+                "end": 31.431
+            }
+        ]
+    },
+    "summary": "남성이 미끼로 밤에는 지렁이와 새우를 쓰고 낮에는 옥수수 글루텐과 어분 글루텐, 딸기 글루텐을 섞어서 쓴다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_09113_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

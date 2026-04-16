@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_05416",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.533,
+        "format": "MP4",
+        "date": "2022-02-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "만난 사람이 아무도 없었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.947
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몸이 너무 좀 슬슬 안 좋아지다 보니까 계속 집에 있었거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.957,
+                "end": 6.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제 주변 분들은 저로 인해서 확진이 된 분은 안 계셔서 정말 다행이라고 생각했었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.846,
+                "end": 20.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 저는 정말 다행인 게 저희 집 바로 앞에 보건소가 있거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.226,
+                "end": 25.533
+            }
+        ]
+    },
+    "summary": "여자가 코로나에 확진되기 전부터 몸이 안 좋아져서 계속 집에 있어서 주변 분들이 자기로 인해 확진된 분이 없어서 다행이라고 생각한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_05416_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 39,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

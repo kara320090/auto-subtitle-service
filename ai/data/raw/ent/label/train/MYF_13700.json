@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYF_13700",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.024,
+        "format": "MP4",
+        "date": "2020-02-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "옆에 누구 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 형아 오빠가 있네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.956,
+                "end": 3.515
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2가 있고 @이름2 뭐 보고 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.525,
+                "end": 7.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 또 @이름3랑 @이름4가 @이름5하고 @이름4가요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.638,
+                "end": 14.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘 늘 야옹하고 으르렁하는 경우가 많아서 @이름2가 구경나왔나 봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.083,
+                "end": 21.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.812,
+                "end": 24.024
+            }
+        ]
+    },
+    "summary": "@이름2는 요즘 @이름4와 @이름5가 싸우는 경우가 많아서 구경나온 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13700_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

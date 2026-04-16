@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "MYF_22706",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.533,
+        "format": "MP4",
+        "date": "2021-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "몇 살?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.285
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몇 살이세요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.295,
+                "end": 0.750
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "26살.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.760,
+                "end": 1.657
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "허 야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.667,
+                "end": 4.440
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안녕하세요? 건빵입니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 4.450,
+                "end": 10.657
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "사격장에 가고 있는데 사격장에 북한 군인분들이랑 사격 대결을 하러 가거든요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 10.662,
+                "end": 15.732
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어허 사격장에서 뵙겠습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 15.742,
+                "end": 18.353
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "자 팔 올리실게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.363,
+                "end": 20.540
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "네 됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.550,
+                "end": 24.533
+            }
+        ]
+    },
+    "summary": "건빵이라는 남자 유튜버는 26살로 북한 군인들과 사격 대결을 하기 위해 사격장으로 가고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22706_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

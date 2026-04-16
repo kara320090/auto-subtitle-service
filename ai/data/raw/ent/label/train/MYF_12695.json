@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYF_12695",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.704,
+        "format": "MP4",
+        "date": "2022-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 오케이 좋아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.729,
+                "end": 10.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아따 붕어 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.547,
+                "end": 13.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찌가 몸통 찍고 누워버립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.605,
+                "end": 16.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 지금 인제 전자 캐미 끼우려고 준비하고 있는데 눈을 돌릴 수가 없네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.639,
+                "end": 25.692
+            }
+        ]
+    },
+    "summary": "붕어가 좋기 때문에 찌가 몸통 찍고 누워버린다며 전자 캐미를 끼우려고 준비하고 있는데 눈을 돌릴 수가 없다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12695_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12695_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

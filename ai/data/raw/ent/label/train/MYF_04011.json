@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYF_04011",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.233,
+        "format": "MP4",
+        "date": "2021-03-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빵이랑 먹으면 더 맛있겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팬에 고추기름을 두른다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.065,
+                "end": 9.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모든 게 다 체력입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.250,
+                "end": 11.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팬을 팬이 왜 이렇게 무겁나요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.280,
+                "end": 14.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 유명한 아 여성분들도 진짜 체력을 키워야 합니다 우리도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.150,
+                "end": 18.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 유명한 셰프님들이 남성분이 많고 왜 유명한 디자이너가 남자들이 많은지 기초 근육",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.750,
+                "end": 27.233
+            }
+        ]
+    },
+    "summary": "화자가 음식을 먹고 요리를 다시 시작하는데, 팬이 무겁다며 그래서 유명한 쉐프들은 거의 남자들이 많다는 이야기를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04011_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 28,
+                    "act": 1
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04011_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

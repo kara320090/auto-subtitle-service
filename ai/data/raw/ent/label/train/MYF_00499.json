@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYF_00499",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.64,
+        "format": "MP4",
+        "date": "2021-06-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 기쁜 소식이 우리 콩이가 드디어 응가를 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쭈쭈 먹고 배변 유도를 하는데 세상에 응가를 엄청 많이 했어요 이거 보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.222,
+                "end": 16.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 여기도 지금 다 응가예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.118,
+                "end": 21.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금 콩이는 엉덩이를 따뜻하게 씻고 또 엉덩이를 따뜻해하게 말리고요 뭐하고 있냐면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.242,
+                "end": 33.640
+            }
+        ]
+    },
+    "summary": "콩이가 응가를 많이 해서 엉덩이를 씻기고 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00499_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00499_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

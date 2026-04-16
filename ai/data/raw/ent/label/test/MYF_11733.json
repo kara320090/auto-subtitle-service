@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYF_11733",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.163,
+        "format": "MP4",
+        "date": "2022-02-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오케이 구글 청소시작",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.137
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후방 쓸기 시작합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.147,
+                "end": 30.163
+            }
+        ]
+    },
+    "summary": "오케이 구글 청소시작을 외치니 로봇 청소기가 움직이며 청소를 하고 다닌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11733_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 44,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

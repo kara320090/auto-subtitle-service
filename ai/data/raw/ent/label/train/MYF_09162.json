@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYF_09162",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 54.799,
+        "format": "MP4",
+        "date": "2021-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "날씨가 많이 더워졌네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 20.942
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요. 형님들 @계정1 인사드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.952,
+                "end": 30.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 파로호에 좌대를 타러 왔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 30.710,
+                "end": 46.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경치가 너무 좋네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 46.482,
+                "end": 49.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 시작합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 49.543,
+                "end": 54.788
+            }
+        ]
+    },
+    "summary": "남성이 오늘은 파로호에 좌대를 타러 왔다고 하며 경치가 너무 좋다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_09162_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}
