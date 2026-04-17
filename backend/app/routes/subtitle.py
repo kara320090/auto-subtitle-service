@@ -37,7 +37,10 @@ def extract_audio(request: AudioExtractRequest):
 @router.post("/transcribe")
 def transcribe(request: TranscribeRequest):
     try:
-        result = transcribe_audio(request.audio_path)
+        result = transcribe_audio(
+            audio_path=request.audio_path,
+            domain=request.domain,
+        )
         return {
             "status": "success",
             "message": "음성 전사가 완료되었습니다.",

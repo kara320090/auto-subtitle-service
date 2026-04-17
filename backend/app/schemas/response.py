@@ -13,6 +13,7 @@ class AudioExtractResponse(BaseModel):
 
 class TranscribeRequest(BaseModel):
     audio_path: str
+    domain: str | None = None
 
 
 class TranscribeResponse(BaseModel):

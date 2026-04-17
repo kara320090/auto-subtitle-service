@@ -1,7 +1,7 @@
 from pathlib import Path
 from time import perf_counter
 
-from fastapi import APIRouter, File, HTTPException, Request, UploadFile
+from fastapi import APIRouter, File, Form, HTTPException, Request, UploadFile
 
 from backend.app.services.audio_extractor import extract_audio_from_video
 from backend.app.services.metadata_service import save_pipeline_metadata
@@ -49,9 +49,13 @@ async def upload_video(file: UploadFile = File(...)):
 
 
 @router.post("/process")
-async def process_video(request: Request, file: UploadFile = File(...)):
+async def process_video(
+    request: Request,
+    file: UploadFile = File(...),
+    domain: str | None = Form(None),
+):
     total_start = perf_counter()
-    logger.info("pipeline start | filename=%s", file.filename)
+    logger.info("pipeline start | filename=%s | domain=%s", file.filename, domain)
 
     try:
         # 1. 업로드
@@ -78,9 +82,12 @@ async def process_video(request: Request, file: UploadFile = File(...)):
             audio_elapsed,
         )
 
-        # 3. Whisper 전사
+        # 3. 전사
         step_start = perf_counter()
-        transcription_result = transcribe_audio(audio_path)
+        transcription_result = transcribe_audio(
+            audio_path=audio_path,
+            domain=domain,
+        )
         transcription_elapsed = round(perf_counter() - step_start, 3)
         segments = transcription_result.get("segments", [])
 
@@ -88,8 +95,9 @@ async def process_video(request: Request, file: UploadFile = File(...)):
             raise ValueError("전사 결과가 비어 있습니다. 음성이 없거나 인식에 실패했습니다.")
 
         logger.info(
-            "pipeline step success | step=transcription | segments=%s | elapsed=%.3fs",
+            "pipeline step success | step=transcription | segments=%s | applied_domain=%s | elapsed=%.3fs",
             transcription_result["segment_count"],
+            transcription_result["applied_domain"],
             transcription_elapsed,
         )
 
@@ -145,6 +153,11 @@ async def process_video(request: Request, file: UploadFile = File(...)):
                 "segment_count": transcription_result["segment_count"],
                 "model_name": transcription_result["model_name"],
                 "segments": transcription_result["segments"],
+                "requested_domain": transcription_result["requested_domain"],
+                "applied_domain": transcription_result["applied_domain"],
+                "used_adapter": transcription_result["used_adapter"],
+                "fallback_used": transcription_result["fallback_used"],
+                "fallback_reason": transcription_result["fallback_reason"],
             },
             "subtitle": subtitle_result,
             "render": render_result,
@@ -162,7 +175,6 @@ async def process_video(request: Request, file: UploadFile = File(...)):
             },
         }
 
-        # 6. 메타데이터 저장
         metadata_result = save_pipeline_metadata(
             payload=pipeline_payload,
             base_name=base_name,

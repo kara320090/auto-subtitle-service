@@ -12,8 +12,11 @@ METADATA_DIR = OUTPUT_DIR / "metadata"
 
 ALLOWED_EXTENSIONS = {".mp4", ".mov", ".avi", ".mkv"}
 
-WHISPER_MODEL_NAME = "base"
+# 기존 openai-whisper용 이름 대신 HF Whisper 기준으로 사용
+BASE_MODEL_ID = "openai/whisper-large-v3"
 WHISPER_LANGUAGE = "ko"
+WHISPER_TASK = "transcribe"
+DEFAULT_DOMAIN = "general"
 
 AUDIO_SAMPLE_RATE = 16000
 AUDIO_CHANNELS = 1
@@ -21,3 +24,20 @@ AUDIO_FORMAT = "wav"
 
 VIDEO_OUTPUT_FORMAT = "mp4"
 SRT_ENCODING = "utf-8-sig"
+
+# 도메인별 adapter 경로
+LORA_REGISTRY = {
+    "social_news": BASE_DIR / "ai/data/results/social_news_lora/adapter",
+    "ent": BASE_DIR / "ai/data/results/ent_lora/adapter",
+    "vacation": BASE_DIR / "ai/data/results/vacation_lora/adapter",
+    "politics": BASE_DIR / "ai/data/results/politics_lora/adapter",
+}
+
+ENABLED_LORA_DOMAINS = {
+    "social_news",
+    "ent",
+    "vacation",
+    "politics",
+}
+
+FALLBACK_TO_BASE = True
