@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYF_22485",
+        "category": "엔터테인먼트",
+        "sub_category": 9,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.89,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인생을 되게 힘들게 살게 해 사랑 못 받게 어디 가든 니가 사랑 못 받고 미움받게 하거든 근데 인정받은 고렇게 바뀌고 눈도 처음에 왔을 때는 되게 두렵고 불안정하고 막 떨리는 정서 불안이었거든",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 14.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 지금은 차분하고 되게 여성스러운 눈 살기가 많이 빠지고 고렇게 바꼈어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.518,
+                "end": 20.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단 아직도 돈 관념은 청산이 덜 됐어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.661,
+                "end": 23.890
+            }
+        ]
+    },
+    "summary": "상담가가 여자의 얼굴을 보면서 처음에 왔을 때는 눈이 두렵고 불안정하고 떨리는 정서 불안이었다고 말한다. 하지만 지금은 차분하고 여성스러운 눈으로 살기가 많이 빠졌다고 변화한 것에 얘기해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 38,
+                    "act": 25
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22485_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 38,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_00812",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.759,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국회법 절차를 지키지 아니한 채 마치 군사 작전하듯이 검수완박법 4월 임시 국회 처리를 밀어붙이겠다는 심산입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.544
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘은 그러면서 문재인 대통령에게도 민주당을 저지시켜 달라고 거듭 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.554,
+                "end": 17.422
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 이지윤입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.432,
+                "end": 20.100
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "법안 추진에 대한 검찰의 반발도 조직 전체로 거세게 확산하는 모습입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.110,
+                "end": 25.759
+            }
+        ]
+    },
+    "summary": "국회법 절차를 지키지 아니한 채 처리를 밀어붙인다며 대통령에게도 민주당을 저지시켜 달라고 거듭 요구했고 법안 추진에 대한 검찰의 반발도 조직 전체로 확산하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00812_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00812_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

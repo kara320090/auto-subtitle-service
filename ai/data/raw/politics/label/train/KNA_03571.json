@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_03571",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2021-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 정책을 잇따라 내놓고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유치원 무상 급식 10만 원 재난 위로금을 비롯해 스물다섯 개 구 맞춤형 공약을 내놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.750,
+                "end": 9.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당면 과제인 코로나 위기 극복을 위해선 역시 쟁점은 민생이라는 건데 야권이 선거를 정치 쟁점화 한다는 점도 비판할 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.189,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "유치원 무상 급식 10만 원 재난 위로금을 비롯해 스물다섯 개 구 맞춤형 공약을 내놨는데 이는 당면 과제인 코로나 위기 극복을 위한 쟁점은 역시 민생이라는 건데 야권이 선거를 정치 쟁점화 한다는 점도 비판할 것으로 보입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03571_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03571_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

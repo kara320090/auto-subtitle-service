@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_09135",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 72.866,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내려와 새끼야 비겁하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.882
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내려와 자식아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.892,
+                "end": 3.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 야 모스키토 오 아 어떡해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.097,
+                "end": 29.072
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 &외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.142,
+                "end": 41.056
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.066,
+                "end": 45.061
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스팟 플레어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 45.071,
+                "end": 53.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 56.120,
+                "end": 72.866
+            }
+        ]
+    },
+    "summary": "여성이 모스키토에게 비겁하다고 하면서 내려오라고 하고 스팟 플레어를 얻었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

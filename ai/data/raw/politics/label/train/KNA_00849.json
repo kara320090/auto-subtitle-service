@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNA_00849",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.148,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "광역 행정 기능 수행에 필요한 권한이 부여되고 이를 통해 부울경 지역에 다양한 정책 행정 수요에 보다 효과적으로 대응할 수 있을",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.923
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그동안 국토교통부가 맡던 광역 교통과 물류 단지 지정 등",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.933,
+                "end": 15.148
+            }
+        ]
+    },
+    "summary": "광역 행정 기능 수행에 필요한 권한이 부여되고 이를 통해 부울경 지역에 다양한 정책 행정 수요에 보다 효과적으로 대응할 수 있을 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00849_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 5,
+                    "act": 91
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00849_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": null,
+                    "act": 28
+                }
+            ]
+        }
+    ]
+}

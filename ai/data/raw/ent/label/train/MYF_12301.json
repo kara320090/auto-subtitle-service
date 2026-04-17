@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYF_12301",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.864,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 시간이 오후 3시인데요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마도 오늘 중 가장 더운 시간대가 아닐까 싶습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 2.454,
+                "end": 7.211
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 촬영하고 있는 카메라도 너무 더워서 뻗어버리고 저도 뻗을 것 같습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 7.221,
+                "end": 12.193
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 글루텐 오늘은 딸기 그리고 어분 글루텐을 1대 1로 섞어서 써볼 거고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.203,
+                "end": 19.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금씩 글루텐으로 집어 해가면서 계속 낚시 이어가겠습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 19.157,
+                "end": 23.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "포인트 어떠세요?",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 23.361,
+                "end": 24.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄청 예쁘죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.421,
+                "end": 25.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 낚시 이어가겠습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 25.395,
+                "end": 30.864
+            }
+        ]
+    },
+    "summary": "40대 남성이 글루텐을 사용하여 낚시를 이어갈 것이라고 말하며 포인트의 분위기에 대해 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12301_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

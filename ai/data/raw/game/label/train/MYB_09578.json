@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_09578",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.7,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "솔직히 근데 다른 MPC들 중에 유독 고츠 쟤가 정감 많이 가고 좀 바보 같은 이미지잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.596,
+                "end": 13.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래가지고 쟤가 죽거나 다치면 되게 슬플 거 같애.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.190,
+                "end": 17.314
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "애터미면 다 다른 게 아니에요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.324,
+                "end": 22.700
+            }
+        ]
+    },
+    "summary": "한 여성이 영상을 보며 내용을 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09578_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

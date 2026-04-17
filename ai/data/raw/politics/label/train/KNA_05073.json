@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "KNA_05073",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.368,
+        "format": "MP4",
+        "date": "2022-07-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령은 용산 대통령실에서 조코 위도도 인도네시아 대통령을 맞이했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령 취임 이후 아세안 국가 정상과의 공식 회담은 이번이 처음입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.584,
+                "end": 10.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 새 정부 대 아세안 외교의 발판을 마련했다고 이번 정상회담의 의미를 설명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.005,
+                "end": 17.503
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 정부 신남방 정책의 기본적 틀은 계승하면서 외교 안보 분야로 협력을 확장한다는 게 윤석열 정부의 구상입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.513,
+                "end": 25.911
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "양국 실질 협력을 강화하고 국제 현안 해결을 위해 심도 있는 논의를 가질 수 있기 기대합",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.921,
+                "end": 34.367
+            }
+        ]
+    },
+    "summary": "윤석열 대통령이 용산 대통령실에서 조코 위도도 인도네시아 대통령을 맞이하였고 양국 실질 협력을 강화하고 국제 현안 해결을 위해 심도 있는 논의를 가질 수 있기 기대한다고 발언하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05073_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 144
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05073_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

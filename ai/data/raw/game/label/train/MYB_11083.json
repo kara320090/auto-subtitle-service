@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_11083",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.504,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "님들 혹시 화면이 너무 어두우면 말씀을 하세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 방 아니에요. 나쁜 짓들 하는 사람들이 있는 방이라고 했어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.727,
+                "end": 6.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분이나 가는 곳입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.847,
+                "end": 9.761
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.771,
+                "end": 14.183
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.193,
+                "end": 16.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사이들이 좋구만?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.964,
+                "end": 19.500
+            }
+        ]
+    },
+    "summary": "화자는 화면이 어두우면 말하라고 하고 캐릭터가 있는 방은 나쁜 사람들이 있는 방이며 사람들 사이에 사이가 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11083_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

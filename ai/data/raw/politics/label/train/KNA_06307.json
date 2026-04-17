@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_06307",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.961,
+        "format": "MP4",
+        "date": "2022-02-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하나의 대한민국 정책 부울경 메가 시티를 현실로 만드는 것이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "수도권 못지않은 메가 시티를 위해선 이 지역 교통망을 확충하고 수소 산업 벨트를 구축하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.070,
+                "end": 14.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 원전 도시 울산을 탄소중립 거점 도시로 키우겠다며 재생 에너지 산업 전환을 강조했는데 그러면서 TV 토론 때 RE100을 몰랐던 윤석열 후보를 겨냥하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.319,
+                "end": 27.961
+            }
+        ]
+    },
+    "summary": "이재명 후보는 수도권 못지않은 메가 시티를 위해선 이 지역 교통망을 확충하고 수소 산업 벨트를 구축하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06307_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

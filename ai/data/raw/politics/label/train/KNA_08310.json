@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_08310",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.706,
+        "format": "MP4",
+        "date": "2022-09-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뉴스 타파 등은 이를 근거로 김 여사가 도이치모터스 주식을 전화로 주문한 사실이 드러났다고 보도했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 지난해 대선 경선 토론회에서 이 씨에게 위탁 관리를 맡겼는지 손실이 나서 절연을 했다는 윤석열 대통령의 발언이 거짓이라고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.520,
+                "end": 16.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 김 여사에 대한 기소와 처벌이 불가피하다며 공세를 폈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.847,
+                "end": 22.268
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대선 기간 내내 김건희 여사와 주가 조작은 전혀 관련이 없다고 주장해 온 윤 대통령과 국민의 힘도 허위 사실 유포이고 공직선거법 위반입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.268,
+                "end": 33.700
+            }
+        ]
+    },
+    "summary": "김 여사가 도이치모터스 주식을 전화로 주문한 사실이 드러났으며 민주당은 김 여사에 대한 기소와 처벌이 불가피하다는 공세를 폈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08310_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYB_08869",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.533,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.307
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.317,
+                "end": 10.307
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.317,
+                "end": 17.257
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 말을 조금만 더 재수 없게 했으면 내가 제일이 싫어하는 애 중에 하나 있잖아요. 그",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.267,
+                "end": 22.533
+            }
+        ]
+    },
+    "summary": "말을 조금만 더 재수 없게 했으면 제일이 싫어하는 애 중에 하나 있다고 여자가 말을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08869_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 11,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

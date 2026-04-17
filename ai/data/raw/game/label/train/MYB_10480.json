@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYB_10480",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.7,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "옛날에 있던 그 사람들이 아닌가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.812,
+                "end": 8.712
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.722,
+                "end": 12.526
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아유 강아지 자리도 있네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.536,
+                "end": 13.706
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.716,
+                "end": 22.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그치 정실 부인이지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.943,
+                "end": 26.700
+            }
+        ]
+    },
+    "summary": "화자2는 여기 있는 사람들이 옛날에 있던 사람들인지 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10480_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

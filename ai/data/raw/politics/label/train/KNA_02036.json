@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNA_02036",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.458,
+        "format": "MP4",
+        "date": "2022-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 결과 10년 만에 매출이 100배 가까이 늘었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.652
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "순이익도 36배 늘어 호반건설보다 3배나 많을 정도였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.662,
+                "end": 8.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2018년 이 회사는 호반건설에 합병됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.689,
+                "end": 12.522
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실적을 기준으로 한 합병비율은 1대 5.89 이를 통해 김 사장은 호반건설에 최대 주주가 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.532,
+                "end": 20.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "증여세 한 푼 없이 10년 만에 사실상 기업 승계가 이뤄진 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.869,
+                "end": 25.458
+            }
+        ]
+    },
+    "summary": "실적을 기준으로 한 합병비율은 1대 5.89 이를 통해 김 사장은 호반건설에 최대 주주가 됐고 증여세 한 푼 없이 사실상 기업는 승계가 이뤄졌다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02036_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02036_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYF_21481",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.25,
+        "format": "MP4",
+        "date": "2023-02-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 딱 가만히 보니까 예를 들어서 100만 원짜리다 그런 텐트들은 텐트들의 중고 가격이 엄청 떨어져 있는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예를 들면은 거의 한 반값? 그리고 여러분들 노르텐트 아시죠 노르텐트.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.696,
+                "end": 27.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 또 굉장히 좋아하고 저도 갖고 있는 텐트인데",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.130,
+                "end": 30.250
+            }
+        ]
+    },
+    "summary": "남성은 100만 원짜리의 텐트들은 중고 가격이 엄청 떨어져 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21481_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

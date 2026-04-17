@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYF_22468",
+        "category": "엔터테인먼트",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.866,
+        "format": "MP4",
+        "date": "2022-05-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계란찜이 궁금해.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 20.372
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나도.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.382,
+                "end": 24.866
+            }
+        ]
+    },
+    "summary": "화자는 남자친구와 식당에 가서 밥을 먹으며 계란찜도 궁금하다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22468_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": 35,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

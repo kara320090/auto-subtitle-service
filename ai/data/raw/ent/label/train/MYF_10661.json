@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYF_10661",
+        "category": "엔터테인먼트",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.324,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.504
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "버뮤다구나. 어. 버뮤다 안 가봐서 모르겠습니다. 네. 버스 이용해야 된다고 하네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.514,
+                "end": 10.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.421,
+                "end": 13.971
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야. 한 개의 차만 살 수 있어? 그리고 렌트카가 없어요. 버뮤다는. 이야. 버뮤다는 버스였군요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.981,
+                "end": 28.720
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어. 버뮤다 가는 배들도 많죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.720,
+                "end": 33.324
+            }
+        ]
+    },
+    "summary": "한 남자가 버뮤다는 버스 이용해야 된다고 하면서 한 개의 차만 살 수 있고 렌트카가 없다고 말한다. 버뮤다에 가는 배들도 많다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10661_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": 44,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

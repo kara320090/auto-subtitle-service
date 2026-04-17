@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNA_30502",
+        "category": "정치뉴스",
+        "sub_category": 34,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.8,
+        "format": "MP4",
+        "date": "2016-08-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 과학기술 전략 회의에서는 9개의 국가 전략 프로젝트가 확정됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.143
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자율주행차와 경량 소재, 스마트 시티와 인공지능 그리고 가상 증강 현실 등 성장 동력 확보 분야와 미세먼지, 탄소 자원화, 정밀 의료와 바이오 신약 등 삶의 질 분야로 선정됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.153,
+                "end": 20.800
+            }
+        ]
+    },
+    "summary": "오늘 과학기술 전략 회의에서는 자율주행차와 경량 소재 등 9개의 국가 전략 프로젝트가 확정됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30502_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30502_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

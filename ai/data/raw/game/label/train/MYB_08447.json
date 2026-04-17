@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_08447",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.1,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.475
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.475,
+                "end": 6.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.092,
+                "end": 8.243
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가면은 또 웨이드가 뭐 시키려나 보다 그렇죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.253,
+                "end": 11.785
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "힘든 일 있는지 물어보라잖아 그치? 어린이 주말 농장같은",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.787,
+                "end": 17.100
+            }
+        ]
+    },
+    "summary": "가면 어린이 주말농장처럼 웨이드가 뭐 시킬 것 같다고 얘기하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08447_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

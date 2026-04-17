@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "MYB_01866",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.033,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 너무 약한데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쟤 라즈는 안 되겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.333,
+                "end": 18.033
+            }
+        ]
+    },
+    "summary": "실제 게임을 하면서 어떤지 말해주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01866_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

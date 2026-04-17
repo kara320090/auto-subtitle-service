@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_04635",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2021-11-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘은 궁지에 몰린 이재명 후보가 조건부 특검으로 시간을 벌고 있다고 비판했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.387
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특검을 거부하는 자가 범인이라는 국민의 확신에 따라 선거를 질 것이고 그렇게 선거를 지면 새로 탄생한 정부에서 어차피 엄정한 수사를 받을 테니",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.397,
+                "end": 17.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특검을 누구로 할 지도 야당이나 제3의 단체가 추천 권한을 가져야 한다고 주장했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.181,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "국민의 힘은 이재명 후보가 조건부 특검으로 시간을 벌고 있다고 비판했고 특검을 누구로 할 지도 야당이나 제2의 단체가 권한을 가져야 한다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04635_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

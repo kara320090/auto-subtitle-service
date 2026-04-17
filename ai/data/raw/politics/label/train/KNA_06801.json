@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_06801",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.363,
+        "format": "MP4",
+        "date": "2022-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "학업 스트레스가 늘었다는 응답은 전 학년에서 40퍼센트 정도로 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "확실히 나도 잘할 수 있었을 거 같은데 성적이 많이 떨어졌던 건 되게 많이 힘들었던 거 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.164,
+                "end": 10.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 문제가 생겼을 때 주로 가족 친구의 도움을 받았는데 아무 도움도 못 받았다는 경우도 17.6퍼센트나 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.168,
+                "end": 18.918
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "학교에서 교육 과정 내에 이런 회복 지원 프로그램이 필요할 거 같구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.928,
+                "end": 23.903
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "정서적인 문제뿐만 아니라 신체 활동을 좀 촉진하는 이런 활동을 모두 포함해야 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.913,
+                "end": 30.363
+            }
+        ]
+    },
+    "summary": "학업 스트레스가 늘었다는 응답은 전 학년에서 40퍼센트 정도가 나왔고 문제가 생겼을 때 도움을 받지 못했다는 경우도 17.6퍼센트나 됐다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 154
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "KNA_02666",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.829,
+        "format": "MP4",
+        "date": "2022-11-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실의 보고와 지휘 체계에 대한 추궁이 이어졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 대통령 지시 사항을 누가 누구에게 전달 했습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.060,
+                "end": 10.370
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 보고를 받으시고 행안부 장관에게 지시한 걸로 저희는 알고 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.380,
+                "end": 15.521
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "용산 경찰서에 상황 보고서를 보면 대통령의 지시 사항을 유선 지시받은 시간이 00시 55분으로 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.531,
+                "end": 23.248
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "신고 체계를 지금 전면적으로 다시 요번에 감찰하면서 네 조사를 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.258,
+                "end": 29.829
+            }
+        ]
+    },
+    "summary": "대통령실의 보고와 지휘 체계에 대한 추궁이 이어졌으며 신고 체계를 전면적으로 조사하고 있다고 답변했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02666_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02666_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

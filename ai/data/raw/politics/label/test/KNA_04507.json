@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_04507",
+        "category": "정치뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.504,
+        "format": "MP4",
+        "date": "2021-10-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오세훈 서울 시장이 출석한 국회 행안위에 서울시 국정 감사 민주당은 어제 돈다발 논란이 일었던 국민의힘 김용판 의원을 겨눴습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국감장에 조폭과 결탁해서 누가 도대체 김용판 의원에게 이런 자료를 제공했는지 배후를 밝히고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.170,
+                "end": 22.343
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김용판 의원은 손바닥으로 하늘을 가릴 수 없다며 실체는 조만간 밝혀질 거라고 맞섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.353,
+                "end": 29.336
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "사진 그 한 장으로 전체를 덮으려 그러고 국민을 호도시키는 자세는 적절치 않고 그것은 소아적 발상이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.346,
+                "end": 37.504
+            }
+        ]
+    },
+    "summary": "국회 행안위에서 민주당은 논란이 일었던 의원을 향해 누가 자료를 제공했는지 배후를 밝히라고 했고 의원은 실체가 밝혀질 것이라고 맞섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04507_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04507_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

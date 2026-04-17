@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_08272",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 37.0,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 오늘 썸네일 어떡하냐 큰일났다 야단났다 이거 진짜.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 20.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떡하냐?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 20.962,
+                "end": 37.000
+            }
+        ]
+    },
+    "summary": "오늘 영상 썸네일을 어떻게 해야 할지 고민이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

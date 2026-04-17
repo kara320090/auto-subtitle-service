@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_32866",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.321,
+        "format": "MP4",
+        "date": "2023-10-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 앞에는 여러 어려움이 놓여있다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 저는 우리 정부와 국민께서 잘 극복해 나갈 것이라고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.876,
+                "end": 14.552
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령실 관계자들은 이번 만남의 정치적 의미보다는 경제 성장 의지를 밝힌 거라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.562,
+                "end": 21.321
+            }
+        ]
+    },
+    "summary": "대통령실 관계자들은 두 전현직 대통령의 만남에 대해 경제 성장 의지를 밝힌 거라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32866_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

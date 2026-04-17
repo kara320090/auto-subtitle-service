@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_04954",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.154,
+        "format": "MP4",
+        "date": "2022-07-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이준석 대표 징계 이후 최고위와 의총을 잇따라 열어 직무 대행 체제를 확정지은 국민의힘",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.629
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당대표 직무 대행 체제로 당 운영에 최선을 다하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.639,
+                "end": 13.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 의총 하루 전인 지난 10일 윤석열 대통령과 권성동 대표 직무 대행의 면담 사실이 새롭게 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.097,
+                "end": 21.154
+            }
+        ]
+    },
+    "summary": "국민의힘은 이준석 대표 징계 이후 직무 대행 체제를 확정 지었지만 의총 하루 전 윤석열 대통령과 권성동 대표 직무 대행의 면담 사실이 알려졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04954_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04954_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

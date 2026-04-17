@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_09383",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.791,
+        "format": "MP4",
+        "date": "2022-12-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2017년 강원도에서 발견됐던 북한의 무인기입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2014년 2점 5미터에 못 미쳤던 날개 길이가 2점 86미터까지 길어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.561,
+                "end": 9.830
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개량된 성능에 힘입어 우리 측 지역을 490킬로미터나 비행할 수 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.840,
+                "end": 15.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "중량 증가로 날개 폭을 약간 키우고 엔진 출력을 높여 외형은 유사하나 항속 거리는 2배 정도 늘어난 것으로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.518,
+                "end": 24.791
+            }
+        ]
+    },
+    "summary": "북한의 무인기가 외형은 구형 모델과 유사하나 항속 거리는 2배 정도 늘어났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09383_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

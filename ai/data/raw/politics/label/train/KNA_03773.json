@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_03773",
+        "category": "정치뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2021-04-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국회의원은 앞으로 본인과 배우자 등이 임원인 법인 명단과 부동산 보유 현황 등을 등록해야 하고 국회 윤리 심사 자문위원회는 이를 토대로 의원의 이해충돌 여부에 대한 의견을 내놔야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이해충돌 방지법 제정안과 국회법 개정안은 국회 법사위를 거쳐 오는 29 일 본회의에서 통과될 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.984,
+                "end": 20.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.793,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "국회의원은 앞으로 임원인 법인 명단과 부동산 보유 현황 등을 등록해야 하고 이를 토대로 국회 윤리 심사 자문위원회는 이해충돌 여부에 대한 의견을 내야 하며 법안은 국회 법사위를 거쳐 본회의에서 통과될 것으로 보인다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03773_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03773_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

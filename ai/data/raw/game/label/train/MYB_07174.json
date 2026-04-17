@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "MYB_07174",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.666,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "멍멍 일어나요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일어나 밥줘.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.130,
+                "end": 6.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "깨갱깨갱갱깨갱깨갱 앵이요 깽이요 앵앵깽깽이요 깨갱깨갱",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.964,
+                "end": 20.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.761,
+                "end": 28.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 콧날 예술 너무 잘생겼어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.040,
+                "end": 30.064
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.074,
+                "end": 31.666
+            }
+        ]
+    },
+    "summary": "강아지가 낑낑거리고 있고 등장 캐릭터가 너무 잘생겨서 콧날이 예술이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07174_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 15,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

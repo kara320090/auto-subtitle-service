@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYF_00169",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.066,
+        "format": "MP4",
+        "date": "2023-04-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 이거거든 와 아 너무한 거 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 음 와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.311,
+                "end": 20.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러면 고민은 배송만 늦출 뿐 그냥 빨리 주문해서 빨리 먹는 게 어 좋다 이렇게 말씀드리면서 오늘 여기서 마무리하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.627,
+                "end": 30.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 지금까지 저는 자동차 리뷰하는 아나운서 @이름1였고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.760,
+                "end": 35.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 동생 산적입니당.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.030,
+                "end": 36.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.722,
+                "end": 38.066
+            }
+        ]
+    },
+    "summary": "고민는 배송만는 늦추며 빨리 주문하라고 하며 마무리한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00169_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 28,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

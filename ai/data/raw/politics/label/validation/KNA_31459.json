@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_31459",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.533,
+        "format": "MP4",
+        "date": "2015-12-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "300명 정도를 더 일선 행정기관 동사무소에서 주민을 직접 응대할 수 있는 인력으로 배치가 보강될 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.891
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "구청장을 주민이 선출하는 자치구가 아니라 시장이 임명하는 이른바 일반구는 전국 12개 시에 35개가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.901,
+                "end": 18.129
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대부분 시와 동 사이에서 불필요하게 행정력을 낭비하는 고비용 구조라는 비판을 받아왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.139,
+                "end": 25.533
+            }
+        ]
+    },
+    "summary": "시장이 임명하는 일반구는 전국 12개 시에 35개가 있는데 불필요하게 행정력을 낭비하는 고비용 구조라는 비판이 있어 이번에 행정 체계를 개편했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31459_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_31459_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

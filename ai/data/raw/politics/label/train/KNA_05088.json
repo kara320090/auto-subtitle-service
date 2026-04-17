@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_05088",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.923,
+        "format": "MP4",
+        "date": "2022-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "복지 급여는 월 소득순으로 전체 가구를 줄 세웠을 때 정중앙인 가구의 소득 바로 기준 중위 소득으로 대상이 결정됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 내년도 중위 소득을 5.47퍼센트 인상하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.955,
+                "end": 12.714
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저소득층을 촘촘하고 두텁게 지원한다는 정책 기조를 반영한 것으로써 최고 증가율로 결정된 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.724,
+                "end": 23.923
+            }
+        ]
+    },
+    "summary": "정부는 내년도 중위 소득을 인상하기로 하고 저소득층을 촘촘하고 두텁게 지원한다는 정책 기조를 반영했으며 최고 증가율로 결정된 것이라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05088_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_02068",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.362,
+        "format": "MP4",
+        "date": "2022-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 당선인은 정부는 머슴이니 일 잘하는 게 우선이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실용주의를 기준으로 제시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.341,
+                "end": 6.638
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제일 중요한 것은 정부는 뭐 딴 거 있겠습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.648,
+                "end": 11.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 유능하고 일 잘하는 정부가 중요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.927,
+                "end": 16.349
+            }
+        ]
+    },
+    "summary": "윤석열 당선인은 유능하고 일 잘하는 정부가 중요하다고 발언하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02068_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

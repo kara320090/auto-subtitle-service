@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_06508",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.4,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "위에 막 사람들이 거꾸로 꽂혀 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방송 안 끊겼죠? OBS 연결 끊겼다고 뜨네?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.634,
+                "end": 11.592
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이쯤 되면 X맨 양성 시설인데 고마운 줄 모르고 도망가는 거 같은데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.602,
+                "end": 18.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러게. 뭔가 양성하고 있나 봐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.422,
+                "end": 24.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 거 같아요 그쵸? 여기가 아까 전에 그 밑에라면 이 위로",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.453,
+                "end": 31.400
+            }
+        ]
+    },
+    "summary": "게임 속에서 해당 공간이 X맨 양성 시설 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06508_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

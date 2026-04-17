@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_30579",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.233,
+        "format": "MP4",
+        "date": "2016-08-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단속 기관인 경찰은 수사 지침 마련에 한창입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과잉 단속 우려에 대비해 실명에 의한 서면 신고를 원칙으로 한다는 방침을 세워뒀습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.474,
+                "end": 9.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일선 경찰관들이 바로 활용할 수 있는 수사 매뉴얼을 500쪽 분량 준비해서 9월 초면은 배포할 예정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.523,
+                "end": 18.233
+            }
+        ]
+    },
+    "summary": "경찰은 과잉 단속 우려에 대비해 서면 신고 시 실명을 원칙으로 한다는 방침을 세워뒀으며 경찰관들이 활용할 수 있는 수사 매뉴얼을 준비해 9월 초에 배포할 예정입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30579_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 49,
+                    "act": 17
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_13714",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.753,
+        "format": "MP4",
+        "date": "2020-02-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 친구들이 이렇게 우리 @이름1는 노트북 앞에서 기도 하고 주무시고 계시고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.271,
+                "end": 11.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름2는 여기 편안하게 쿠션에 누워있구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.432,
+                "end": 16.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "들어있어? 뒷방야구",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.545,
+                "end": 19.753
+            }
+        ]
+    },
+    "summary": "@이름1은 노트북 앞에서 자고 있고 @이름2는 쿠션에 누워있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13714_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 48
+                }
+            ]
+        }
+    ]
+}

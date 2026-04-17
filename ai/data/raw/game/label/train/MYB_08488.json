@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYB_08488",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.9,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 내용이요 음.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여러분 2시가 됐기 때문에 이제 가야 돼.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.341,
+                "end": 8.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난 이제 편집도 해야 되거든.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.661,
+                "end": 9.892
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 오늘은 종료를 하고 서브 퀘스트를 내일 3개를 마저 하고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.902,
+                "end": 17.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안뇽 어 질이다 질",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.700,
+                "end": 20.900
+            }
+        ]
+    },
+    "summary": "새벽 2시가 되어 편집도 해야 하기 때문에 이제 가야 한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08488_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

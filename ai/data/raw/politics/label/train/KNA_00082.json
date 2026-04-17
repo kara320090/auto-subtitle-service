@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_00082",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.751,
+        "format": "MP4",
+        "date": "2022-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전환의 위기를 경제 재도약의 기회로 만들 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수출 1조 달러 국민 소득 5만 달러 글로벌 G5 시대를 향해서 전진하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.862,
+                "end": 13.405
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "10대 산업으로 국가 경쟁력이 있는 반도체와 2차 전지",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.415,
+                "end": 17.751
+            }
+        ]
+    },
+    "summary": "수출 1조 달러 국민 소득 5만 달러의 글로벌 G5 시대를 향해서 전진하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00082_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

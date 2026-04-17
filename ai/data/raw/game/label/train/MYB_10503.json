@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "filename": "MYB_10503",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.533,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.247
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "옥상 와 와",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.257,
+                "end": 10.578
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.588,
+                "end": 12.487
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.497,
+                "end": 18.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "백화점이 안 부럽구만.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.813,
+                "end": 25.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아낙네들이 좋아하는구만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.330,
+                "end": 27.803
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.813,
+                "end": 31.584
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 31.594,
+                "end": 33.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기서 닭을 키우네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.113,
+                "end": 35.250
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 35.260,
+                "end": 38.533
+            }
+        ]
+    },
+    "summary": "옥상에 올라가니 백화점이 안 부럽고 아낙네들이 좋아한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 36
+                }
+            ]
+        }
+    ]
+}

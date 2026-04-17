@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_22486",
+        "category": "엔터테인먼트",
+        "sub_category": 9,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.486,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코는 돼지 코로 복스러운데 약간 들창코가 귀여워요. 근데 들창코라 그래서 이게 콧구멍이 샌다고 볼 수 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에너지 장이 막혀 있는 아기도 있거든 들창코인데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.105,
+                "end": 10.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 아기들은 돈이 들어와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.846,
+                "end": 13.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코가 새면 안 되는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.146,
+                "end": 15.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 아직 새.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.169,
+                "end": 16.988
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새 그러니까 조금 더",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.998,
+                "end": 19.486
+            }
+        ]
+    },
+    "summary": "상담가가 여자의 코가 들창코라고 하면서 귀엽다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22486_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 39,
+                    "act": 23
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22486_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 39,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

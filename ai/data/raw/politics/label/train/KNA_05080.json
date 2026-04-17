@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_05080",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.594,
+        "format": "MP4",
+        "date": "2022-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꼭 필요한 부분에 필요한 만큼의 조치가 이루어지는 표적화된 정밀 방역을 위해 최선을 다할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령은 또 검사소 부족과 검사 비용 등으로 국민이 불편을 겪지 않도록 대책을 마련할 것을 관계 당국에 주문했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.399,
+                "end": 17.259
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민에게는 멈춤 없는 일상을 위해 정부의 방역 수칙을 준수해 달라며 협조를 당부했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.269,
+                "end": 23.493
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령은 이어 일선 지구대를 방문해 현장 경찰관들을 격려했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.503,
+                "end": 27.594
+            }
+        ]
+    },
+    "summary": "윤 대통령은 검사소 부족과 검사 비용 등으로 국민이 불편을 겪지 않도록 대책을 마련할 것을 관계 당국에 주문했고 국민에게는 정부의 방역 수칙을 준수해 달라며 협조를 당부했으며 일선 지구대를 방문해 현장 경찰관들을 격려했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05080_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

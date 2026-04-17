@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_12121",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.983,
+        "format": "MP4",
+        "date": "2020-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 30대 중반에서 40대는 논리가 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거대한 무지와 착각입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.243,
+                "end": 5.767
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김종인 위원장은 개인의 한마디를 당 입장처럼 보도하지 말라고 선을 그었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.777,
+                "end": 12.192
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미래통합당은 김 후보를 엄중 경고 조치했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.202,
+                "end": 16.983
+            }
+        ]
+    },
+    "summary": "미래통합당은 김 후보를 엄중 경고 조치했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12121_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

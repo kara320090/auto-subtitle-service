@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_07439",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.866,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이 많이 깎아 놨는데 아 이상한 데서 싸워서 그래 무릎 뚫어라",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 29.695
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아씨 아 또 경기장 넘어가기만 해 너 진짜 이리 와 오라 그랬어 거기 자꾸 넘어가지 말고 너 어디야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.705,
+                "end": 42.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저 콩콩이 진짜",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 42.276,
+                "end": 45.866
+            }
+        ]
+    },
+    "summary": "이상한 데서 싸워서 또 경기장 넘어가지 말고 이쪽으로 오라고 거기 자꾸 넘어가지 말자고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07439_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

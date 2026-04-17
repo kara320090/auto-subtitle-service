@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYF_00373",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.533,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그때 제일 많이 보이는 게 뱃살이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 해 해보신 분들은 아실 거예요. 이렇게 앉으면 뱃살 안 접히는 사람 있어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.002,
+                "end": 9.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 접히잖아요. 저만 접히는 거 아니잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.740,
+                "end": 12.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이거를 바지를 입고 이렇게 앉잖아요. 그러면 바지에 이렇게 달려 있는 지퍼까지 같이 이렇게 똥그랗게 돼서 배가 진짜 이만해 보여서 어, 되도록이면 저는 치마를 입습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.016,
+                "end": 25.533
+            }
+        ]
+    },
+    "summary": "제일 많이 보이는 게 뱃살인데 바지를 입고 앉으면 바지에 달려 있는 지퍼까지 동그랗게 돼서 되도록이면 치마를 입는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00373_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00373_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": 2,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

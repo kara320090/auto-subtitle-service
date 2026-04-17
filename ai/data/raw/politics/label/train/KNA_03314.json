@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_03314",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.432,
+        "format": "MP4",
+        "date": "2021-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수원 지검이 @이름1 법무부 출입국 외국인 정책 본부장을 피해자 신분으로 소환 조사했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차 본부장에 대한 혐의는 @이름2 전 차관에 대한 불법 긴급 출금 금지 조처를 알면서도 출금 요청을 승인했다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.999,
+                "end": 14.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공익 신고서에 따르면 출금 요청서를 썼던 이 모 검사가 불법으로 취득한 개인 정보로 출금 조치를 했다고 주장하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.623,
+                "end": 23.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 차 본부장이 불법 조처를 알고도 승인했는지와 함께 위법한 행위가 있었다면 윗선 지시가 있었는지 등을 조사하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.659,
+                "end": 32.432
+            }
+        ]
+    },
+    "summary": "수원 지검은 @이름1 본부장을 피해자 신분으로 소환 조사하여 불법 조처를 알고도 승인했는지 그리고 위법한 행위가 있었다면 윗선 지시가 있었는지 등을 조사하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03314_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03314_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

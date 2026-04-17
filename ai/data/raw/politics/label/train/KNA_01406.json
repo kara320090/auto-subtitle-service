@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01406",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2022-06-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "함께 간 김 모 교수는 김 여사가 대표로 있던 코바나 콘텐츠 임원을 지낸 인물입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 여사 측은 비공개 일정에 지인을 데려간 것이라고 설명했지만 야당을 중심으로 공사를 구분하지 못한 행동이라는 비판이 이어졌습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.633,
+                "end": 14.557
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 윤석열 대통령은 김 교수가 김 여사의 오랜 지인이라고 설명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.567,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "김 여사 측은 비공개 일정에 지인을 동행한 것이라고 설명했지만 야당 측은 공사를 구분하지 못하는 행동이라고 비판했다는 소식이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01406_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_11679",
+        "category": "정치뉴스",
+        "sub_category": 20,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.221,
+        "format": "MP4",
+        "date": "2023-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더불어민주당은 대통령의 거부권 행사는 식량 주권 포기 선언이라고 규정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부가 대책도 없이 전임 정부 탓만 하면서 쌀값 폭락을 방치했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.762,
+                "end": 10.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령의 대선 당시 쌀 시장 격리 공약은 표를 의식한 포퓰리즘이냐는 날 선 비판이 쏟아졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.382,
+                "end": 17.242
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쌀값 정상화 법에 대한 실질적 대안을 제시하거나",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.252,
+                "end": 21.221
+            }
+        ]
+    },
+    "summary": "더불어민주당은 대통령의 거부권 행사는 식량 주권 포기 선언이라고 규정했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11679_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

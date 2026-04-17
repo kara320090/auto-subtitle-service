@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_04523",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.81,
+        "format": "MP4",
+        "date": "2021-10-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "임기 마지막 예산안 시정 연설을 위해 국회를 찾은 문재인 대통령.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막까지 위기 극복에 전념해 완전한 일상과 경제 회복을 이루는 데 최선을 다하겠다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.489,
+                "end": 12.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 다음 달부터 시작되는 단계적 일상 회복은 코로나와 공존을 전제로 한다면서도 마스크 쓰기 등 기본적인 방역 지침은 유지된다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.651,
+                "end": 23.810
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부는 국민과 함께 일상 회복에서도 성공적 모델을 창출하여 K 방역을 완성해 내겠습니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.820,
+                "end": 32.799
+            }
+        ]
+    },
+    "summary": "임기 마지막 예산안 시정 연설을 위해 국회를 찾은 문재인 대통령은 마지막까지 위기 극복에 전념해 완전한 일상과 경제 회복을 이루는 데 최선을 다하겠다고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04523_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

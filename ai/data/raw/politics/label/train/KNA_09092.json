@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNA_09092",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.453,
+        "format": "MP4",
+        "date": "2022-11-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보답을 못 받고있다 라는 생각을 많이 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "참 지방이 다 어렵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.394,
+                "end": 6.104
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "국회에 예결 위원은 50명 나라 살림 전반을 꼼꼼히 살펴야 하지만 지역구 챙기기 행태는 올해도 여전했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.114,
+                "end": 14.079
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "모래부터는 소위를 열어 사업별 감액 증액 심사에 들어갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.089,
+                "end": 18.533
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.543,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "국회에 예결 위원은 50명 나라 살림 전반을 꼼꼼히 살펴야 하지만 지역구 챙기기 행태는 올해도 여전했다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09092_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

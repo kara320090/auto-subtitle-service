@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYB_08148",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.766,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.607
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "훌륭한 의사가 됐구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.617,
+                "end": 9.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "차마 보지 못하고 고개를 돌렸어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.114,
+                "end": 14.076
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 저 NPC랑 정이 안 들어 가지고 그래요 죽은 NPC를 잘 모르는 존재라서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.086,
+                "end": 23.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아요 맞아 전 프롬을 좋아해 가지고 시도를 해 보려고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.190,
+                "end": 29.766
+            }
+        ]
+    },
+    "summary": "여자 캐릭터가 차마 보지 못하고 고개를 돌리는 이유는 죽은 NPC와 잘 모르는 존재이기 때문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08148_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

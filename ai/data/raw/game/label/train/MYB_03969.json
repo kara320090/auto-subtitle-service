@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYB_03969",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 63.2,
+        "format": "MP4",
+        "date": "2022-12-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방금 저기는 야 좀 많이 아플 거 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기 저기 버티기 힘들면은 다른 거 갔다가 와야 되겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.100,
+                "end": 10.371
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단은 뭐 덱 하나로 클리어하는 거는 문제가 없는 거 같네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.381,
+                "end": 23.673
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 무난하게 60클까지 이지 하죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.683,
+                "end": 43.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 자 이렇게 해서 60 웨이브 클리어 가능합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 43.786,
+                "end": 63.200
+            }
+        ]
+    },
+    "summary": "남성이 게임을 하고 있으며 덱 하나로 클리어하는 것은 문제가 없고 무난하게 60까지 클리어 가능하다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03969_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

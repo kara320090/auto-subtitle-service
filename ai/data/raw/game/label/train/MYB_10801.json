@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_10801",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.433,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예전에는 그래픽이랑 프레임 이런 거 잘 몰라서 그게 좋고 안 좋고를 구분도 못했거든요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 인제 방송하면서 장비 업글하면서 이것저것 보다 보니까 좋은 걸 보고 나니까 안 좋은 걸 못 보게 됐어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.782,
+                "end": 16.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 이제 트위치에서 총싸움하는 방송 보면 아무도 안 보여요. 얼굴이 안 보여.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.449,
+                "end": 25.433
+            }
+        ]
+    },
+    "summary": "한 여자가 예전에는 그래픽이랑 프레임을 몰라서 좋은지 구분을 못했는데 방송과 장비 업글을 하면서 좋은 걸 보고 나니까 안 좋은 걸 못 보게 됐고 트위치에서 총싸움하는 방송에서는 얼굴이 안 보인다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

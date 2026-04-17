@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_00818",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.068,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 국민의 힘 지도부는 일단 사퇴론엔 선을 그으며 청문회를 지켜보자는 입장인데 내부에선 자진 사퇴를 요구하는 목소리도 터져 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임종빈 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.612,
+                "end": 11.756
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 정호영 보건 복지부 장관 후보자 낙마를 목표로 맹폭을 퍼부었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.766,
+                "end": 18.529
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후보자에게는 사퇴는 당연하고 수사까지 받아야 할 사안이라고 했고 지명자인 윤석열 대통령 당선인을 향해선 당선인이 강조했던 공정과 정의는 어디로 사라졌냐며 날을 세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.539,
+                "end": 31.713
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "윤 당선인이 입만 열면 외치던 공정과",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.723,
+                "end": 35.068
+            }
+        ]
+    },
+    "summary": "국민의 힘은 청문회를 지켜보거나 자진 사퇴를 요구하기도 했고 민주당은 후보자 사퇴는 당연하고 수사까지 받아야 한다며 지명자인 윤석열 당선인에게 당선인이 강조했던 공정과 정의에 대해 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00818_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00818_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

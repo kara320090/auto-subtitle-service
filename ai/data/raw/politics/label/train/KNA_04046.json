@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_04046",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.689,
+        "format": "MP4",
+        "date": "2021-06-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청와대는 당정 공감대에 방점을 찍고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지급의 대상을 어디까지로 할지 방식을 어떻게 할지는 아직은 확정되지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.474,
+                "end": 8.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 대략적인 공감대는 형성해 가고 있고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.830,
+                "end": 11.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추경안에는 백신 추가 구매와 소상공인 지원 일자리를 창출 등도 반영되는데 전체 규모는 35조 원 안팎이 유력합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.873,
+                "end": 20.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.656,
+                "end": 22.689
+            }
+        ]
+    },
+    "summary": "청와대는 당정 공감대에 방점을 찍고 있고 추경안에는 소상공인 지원과 일자리 창출이 반영되며 규모는 35조 원 안팎이라고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04046_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

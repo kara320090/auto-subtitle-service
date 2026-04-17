@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_10135",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 118.933,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 느낌 그리고 방금 마사 같은 목소리를 우리나라에도 있고 일본에도 있고 어 맞아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집요하네 아이시 아이 되게 안 막히네 이거 어유 아 진짜 세다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.170,
+                "end": 90.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 막아서 죽었네 음 패링을 이건 익숙해져 갖고 보스전 할 때 잘만 쓰면 진짜 멋있고 짱이겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 90.749,
+                "end": 113.432
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 113.442,
+                "end": 118.933
+            }
+        ]
+    },
+    "summary": "화자1이 마사 같은 목소리가 우리나라에도 있고 일본에도 있다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

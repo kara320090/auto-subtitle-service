@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYF_23138",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.433,
+        "format": "MP4",
+        "date": "2018-12-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좃좃",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "멋있네요. 멋있어 멋있어 아주 약간 귀여운 면도 있고 정말 UCI만의 특색이 있는 귀여운 마스코트네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.646,
+                "end": 9.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 포장해 주셔서 감사합니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 9.672,
+                "end": 11.055
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이쪽에는 보시면 컴퓨러 사이언스 빌딩이 이렇게 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.065,
+                "end": 15.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서부터는 이제 엔지니어링 공대 쪽이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.833,
+                "end": 20.433
+            }
+        ]
+    },
+    "summary": "여성은 UCI만의 귀여운 마스코트라고 말하고 남성은 계속해서 공대 쪽 건물을 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23138_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

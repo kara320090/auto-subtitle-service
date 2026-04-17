@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_02043",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.216,
+        "format": "MP4",
+        "date": "2022-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "명동성당의 무료 급식소를 찾아 배식 봉사활동을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대선 뒤에 다시 오겠다고 한 약속을 지키는 취지입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.451,
+                "end": 6.922
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 또 취임하고도 저 한번 여러 가지 일정들을 좀 보고 또 한번 오겠습니다 오늘만이 아니고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.932,
+                "end": 16.216
+            }
+        ]
+    },
+    "summary": "윤 당선인은 명동성당의 무료 급식소를 찾아 배식 봉사활동을 했는데 대선 뒤에 다시 오겠다고 한 약속을 지키는 취지라고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02043_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 7,
+                    "object": 38,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

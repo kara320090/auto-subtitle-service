@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "MYF_00825",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 68.318,
+        "format": "MP4",
+        "date": "2023-05-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대박이다. 와. 제 와",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 튼실하다",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 5.678,
+                "end": 6.656
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "새우로 아침에 4자 나온거야.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 6.666,
+                "end": 13.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 잘 생겼다. 진짜. 때깔 죽이네 대박. 가보자.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 13.077,
+                "end": 62.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요. 형님들 붕어 잡는 곰 인사드립니다. 오늘은 충남 대전에 있는",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 62.074,
+                "end": 68.318
+            }
+        ]
+    },
+    "summary": "붕어잡는 곰이 충남 대전에 있는 낚시터에 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00825_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

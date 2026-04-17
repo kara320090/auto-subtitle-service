@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "KNA_05833",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.672,
+        "format": "MP4",
+        "date": "2122-12-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "OECD 평균은 23.2퍼센트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 한국은 27.5퍼센트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.507,
+                "end": 8.493
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반면 민주당은 법인세 인하는 100여 개의 대기업만 혜택을 보는 초부자 감세라 맞섰습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.503,
+                "end": 15.176
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "매출액 5억 원 이하 중소, 중견 기업의 과세 표준을 기존 20퍼센트에서 10퍼센트까지 낮추는 방안은 적극 찬성하지만 줄어드는 세수를 고려하면 대기업은 제외해야 한다는 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.186,
+                "end": 27.717
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기에 저소득층 소득세와 월세 세액을 줄이는 국민 감세안을 마련했다며 합의가 결렬될 경우 단독 처리하겠다고 압박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.727,
+                "end": 36.669
+            }
+        ]
+    },
+    "summary": "민주당은 법인세 인하는 100여 개 대기업만 혜택을 보는 초부자 감세라며 중소, 중견 기업의 과세 표준을 10퍼센트까지 낮추는 방안은 적극 찬성하지만 대기업은 제외해야 하고 여기에 저소득층 소득세와 월세 세액을 줄이는 국민 감세안을 마련했다며 합의가 결렬될 경우 단독 처리하겠다고 압박했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05833_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05833_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

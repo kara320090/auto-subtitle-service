@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00559",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.217,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최근 이삿짐을 옮기는 등 입주 준비도 마쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "러시아군에 포위돼 집중 공격을 받아 온 우크라이나 남동부 도시 마리우폴이 함락 위기에 몰렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.874,
+                "end": 12.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물과 음식의 조달이 끊긴 이 도시에선 30만 명이 생존의 위기에 놓여 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.162,
+                "end": 17.217
+            }
+        ]
+    },
+    "summary": "러시아군에 포위돼 집중 공격을 받아 온 우크라이나 남동부 도시 마리우폴이 물과 음식 조달이 끊겨 함락 위기에 몰렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00559_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 7,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00559_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

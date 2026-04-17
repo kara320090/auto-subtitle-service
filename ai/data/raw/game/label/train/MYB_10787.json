@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_10787",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.933,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 여러분 근데 같이 애니메이션이나 영화 받는 것 같고 너무 재밌죠? 아 전 너무 재밌네요 요즘.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.592,
+                "end": 15.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네. 시드다 시드.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.342,
+                "end": 17.752
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.762,
+                "end": 20.754
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "칼? 허.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.764,
+                "end": 22.475
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.485,
+                "end": 30.933
+            }
+        ]
+    },
+    "summary": "한 여자가 같이 애니메이션이나 영화 받는 것 같고 너무 재밌지 않냐고 물어보면서 전 요즘 너무 재밌다고 말한다. 그리고 시드, 칼이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10787_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

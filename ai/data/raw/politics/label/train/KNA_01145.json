@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01145",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.521,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사정 컨트롤 타워 역할을 하게 되는 셈입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법무부는 지난주 물갈이 인사를 단행한 데 이어 이르면 이번 주 검찰 총장 추천 위원회도 구성하고 신임 검찰 총장 후보자를 추릴 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.882,
+                "end": 12.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 오승목입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.410,
+                "end": 15.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "6일 지방 선거 경기 지사 후보자들의 법정 토론회가 어젯밤 열렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.688,
+                "end": 21.521
+            }
+        ]
+    },
+    "summary": "한동훈 장관이 사정 컨트롤 타워 역할을 하게 되는 것으로 법무부는 지난주 물갈이 인사를 단행했고 이르면 이번 주 검찰 총장 후보자도 추릴 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01145_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01145_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

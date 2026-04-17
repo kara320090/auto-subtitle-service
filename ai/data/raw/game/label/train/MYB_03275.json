@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_03275",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.916,
+        "format": "MP4",
+        "date": "2023-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모노클이 참 역할을 잘해 주고 있죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중요합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.502,
+                "end": 5.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 아 상대 딜러가 아 여러분들 환상적입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.286,
+                "end": 13.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 근본 서리, 소르베덱 또한 이렇게 힐러 없는 덱한테 상대가 안 됐네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.873,
+                "end": 20.916
+            }
+        ]
+    },
+    "summary": "모노클이 역할을 잘 해줘서 근본 서리, 소르베덱 또한 힐러 없는 덱한테 상대가 안 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03275_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_03275_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

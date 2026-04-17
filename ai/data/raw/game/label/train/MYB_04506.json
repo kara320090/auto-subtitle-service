@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_04506",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.166,
+        "format": "MP4",
+        "date": "2022-11-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 고급으로 출발",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.823
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어디 한 번 시험해 볼까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.833,
+                "end": 5.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제 가능성을",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.206,
+                "end": 6.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에클레어 아닌가 오 에클레어 스타트 좋아 멤버 아주 굿 아 에클레어가 아니라 클로티드구나 메이플 아 아니야 아직 모른다 나 원래 단뽑은 안 했는데 단뽑도 나올 수 있잖아요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.546,
+                "end": 26.948
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "멀리 보도록 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.958,
+                "end": 28.166
+            }
+        ]
+    },
+    "summary": "화자가 에클레어가 아니라 클로티드라고 말한 후 단뽑을 한다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04506_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_33264",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.333,
+        "format": "MP4",
+        "date": "2018-12-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "후반기 국회 들어 처음 열린 윤리특별위원회 전체 회의",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음주 운전으로 물의를 빚은 민주평화당 이용주 의원 징계 여부가 관심이었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.219,
+                "end": 10.041
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 국회를 신뢰하고 사랑할 수 있도록 어 최선의 노력을 다하겠다는 말씀을 드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.051,
+                "end": 16.333
+            }
+        ]
+    },
+    "summary": "윤리특별위원회 전체 회의에서는 이용주 의원에 대한 징계 여부가 관심이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33264_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

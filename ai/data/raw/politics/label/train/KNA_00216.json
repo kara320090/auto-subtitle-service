@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00216",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.515,
+        "format": "MP4",
+        "date": "2022-02-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 김정대입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.857
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설날인 오늘 민주당 이재명 후보는 고향인 경북 안동을 찾아 지역 맞춤 공약을 발표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.867,
+                "end": 9.859
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연일 안보를 강조하고 있는 국민의 힘 윤석열 후보는 강화도 최북단을 찾았는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.869,
+                "end": 15.515
+            }
+        ]
+    },
+    "summary": "설날을 맞아 이재명 후보는 고향을 문재인 후보는 강화도 최북단을 찾았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00216_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

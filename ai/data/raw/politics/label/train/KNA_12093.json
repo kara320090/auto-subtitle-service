@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_12093",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.057,
+        "format": "MP4",
+        "date": "2020-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 다음에 법도 제대로 잘 안 지키는 그러한 모습을 보는 것이 현 정권입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "수도권 의석은 전체의 절반에 가까운 121개",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.673,
+                "end": 9.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영원함과 달리 확실한 고정 지지층이 없어 여야 누구도 승리를 장담할 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.348,
+                "end": 15.460
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 총선에선 수도권에 배정된 122개 의석 가운데 민주당이 82석 통합당의 전실인 새누리당은 35석을 차지했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.470,
+                "end": 24.057
+            }
+        ]
+    },
+    "summary": "수도권 의석은 121개로 여야 누구도도 승리를 장담할 수 없다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12093_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

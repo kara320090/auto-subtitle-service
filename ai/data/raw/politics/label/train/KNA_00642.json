@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_00642",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.891,
+        "format": "MP4",
+        "date": "2022-03-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "총리인선작업에도 속도가 붙을 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼청동 인수위에 나가있는 취재기자 연결해서 자세한 소식 알아보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.743,
+                "end": 7.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 강나루 기자 아 그럼 총리 후보자는 언제쯤 발표될까요? 이번주말이란 얘기도 있던데요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.314,
+                "end": 14.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 새 정부출범까지 이제 41일 남았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.341,
+                "end": 18.896
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회 청문회와 인명동의 절차를 생각하면 총리 후보 윤각이 나타나야 할 시점입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.906,
+                "end": 24.891
+            }
+        ]
+    },
+    "summary": "삼청동 인사위에 나가있는 기자를 연결하였고 새 정부출범까지 41일이 남았기 때문에 국회청문회와 인명동의 절차를 생각하면 총리 후보 윤각이 나타나야 할 시점이라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00642_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00642_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

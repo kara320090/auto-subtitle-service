@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_06796",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2022-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오로지 특정 인물이나 부패 세력을 수호하기 위하여 국가의 수사 기능을 무력화하는 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.199
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일 법사위 전체 회의에선 @이름1 법무 장관이 출석해 검찰 수사권 폐지를 둘러싸고 거센 공방이 오갈 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.209,
+                "end": 17.337
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.347,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "법사위 회의에서 법무 장관이 출석해 검사 수사권 폐지를 둘러싸고 거센 공방이 오갈 것으로 보인다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06796_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

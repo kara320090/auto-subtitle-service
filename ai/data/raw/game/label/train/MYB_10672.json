@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_10672",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.333,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 여기 여기서부터 1번 2번 3번이거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.894
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 이거 썸네일 수정해갖고 1 2 3 적어 놓을 거긴 한데 1 2 3 해갖고 이거 그냥 심심하실 때 라디오로 들으 들어보시면은 내용 대충 아실 거고 괜찮으실 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.904,
+                "end": 17.651
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일부러 풀영상으로 올리고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.661,
+                "end": 20.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래야지 이제 그 내용을 다 알 수 있으니까 음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.039,
+                "end": 23.333
+            }
+        ]
+    },
+    "summary": "1번부터 3번 썸네일 수정해서 적어 놓을 거고 심심하실 때 들어보면 내용 대충 알게 되고 괜찮을 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10672_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

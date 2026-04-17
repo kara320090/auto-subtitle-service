@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_08610",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.55,
+        "format": "MP4",
+        "date": "2022-09-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 민주당의 추산이 터무니없다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실 이전과 큰 관련성이 없는 사업까지 허위로 계상해 이전 비용을 지나치게 부풀렸다며 기적의 산수법이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.171,
+                "end": 12.204
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이전하지 않았더라도 충분히 발생할 여지가 있는 비용을 이중 계상",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.214,
+                "end": 17.550
+            }
+        ]
+    },
+    "summary": "국민의힘은 민주당이 관련성 없는 사업까지 이중 계상하면서 이전 비용을 부풀렸다며 추산이 터무니없다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08610_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

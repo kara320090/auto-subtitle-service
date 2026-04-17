@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "KNA_11943",
+        "category": "정치뉴스",
+        "sub_category": 48,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.927,
+        "format": "MP4",
+        "date": "2020-02-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미래 한국당 쪽으로 이제 가시게 되니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.667
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선관위는 미래 한국당이 정당법상 요건을 충족했다며 정당 등록 신청을 받아들였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.677,
+                "end": 9.575
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국당은 새로운 보수당 전진당과의 합당을 의결했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.585,
+                "end": 14.126
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "통합 신당 이름은 미래 통합당으로 확정돼 3년 만에 당명이 바뀝니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.136,
+                "end": 19.295
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기존 한국당 지도부와 공천 관리위 확대도 합의됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.305,
+                "end": 23.608
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오직 나라와 국민을 위해서 소중한",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.618,
+                "end": 27.927
+            }
+        ]
+    },
+    "summary": "선관위는 미래 한국당이 정당법상 요건을 충족했다며 정당 등록 신청을 받아들였고 통합 신당 이름은 미래 통합당으로 확정돼 3년 만에 당명이 바뀌었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11943_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11943_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

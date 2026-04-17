@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_11997",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.588,
+        "format": "MP4",
+        "date": "2020-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 미래통합당은 하나로 힘을 합칠 구체적인 방안을 제시해 주기 바랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.976
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 변호사는 박 전 대통령과 접견 자리에서 손글씨로 쓰인 원고를 직접 받아왔다고 공개했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.986,
+                "end": 15.906
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법무부는 정상 절차를 거쳐 반출된 문건이라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.906,
+                "end": 20.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.143,
+                "end": 21.588
+            }
+        ]
+    },
+    "summary": "@이름1 변호사는 박 전 대통령과 접견 자리에서 손글씨로 쓰인 원고를 직접 받아왔다고 공개했고 법무부는 정상 절차를 거쳐 반출된 문건이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11997_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11997_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

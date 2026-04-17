@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_07226",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.218,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다시 대한민국 새로운 국민의 나라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다짐과도 같은 글귀 앞에서 윤석열 대통령은 손을 들어 선서했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.831,
+                "end": 7.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령으로서의 직책을 성실히 수행할 것을 국민 앞에 엄숙히 선서합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.812,
+                "end": 18.218
+            }
+        ]
+    },
+    "summary": "윤석열 대통령이 취임식에서 선서하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07226_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

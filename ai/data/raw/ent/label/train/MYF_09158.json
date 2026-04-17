@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYF_09158",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 59.726,
+        "format": "MP4",
+        "date": "2021-07-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요. 형님들 @계정1 인사드립니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 29.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 좌회전입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 29.426,
+                "end": 33.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 임진강에 캠낚을 나왔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 33.563,
+                "end": 41.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차대고 바로 캠핑 및 낚시 가능합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.816,
+                "end": 47.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기가 낚시할 포인트입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 47.907,
+                "end": 51.447
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일명 숭의전 포인트라고도 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 51.457,
+                "end": 59.726
+            }
+        ]
+    },
+    "summary": "남성이 오늘은 임진강에 캠낚을 하러 왔다며 낚시할 포인트로 숭의전 포인트를 알려줍니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_09158_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 58
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_09158_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

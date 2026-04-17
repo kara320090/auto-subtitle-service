@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_30559",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.666,
+        "format": "MP4",
+        "date": "2016-08-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내역을 보면 토지와 건물을 합쳐 20억 원 이상의 부동산 보유한 의원은 모두 25명으로 집계됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 많은 부동산을 보유한 의원은 유명 어학원 경영인 출신인 더불어민주당 박정 의원으로 337억 8000만 원의 부동산을 소유하고 있고 더민주 금태섭 의원이 52억 6000만 원 새누리당 이철규 의원이 48억 4000만 원으로 뒤를 이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.818,
+                "end": 26.666
+            }
+        ]
+    },
+    "summary": "20억 원 이상의 부동산 보유한 의원은 모두 25명으로 가장 많은 부동산을 뽀유한 의원은 더불어민주당의 박정 의원이며 더민주 의원과 새누리당 의원이 뒤를 이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30559_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30559_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

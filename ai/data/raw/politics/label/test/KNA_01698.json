@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01698",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.1,
+        "format": "MP4",
+        "date": "2022-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "토론 뒤 민주당은 이재명 후보가 유능한 경제 대통령의 진면목을 유감없이 드러냈다고 했고 윤석열 후보에 대해선 횡설수설 답변했다고 평했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘은 윤석열 후보가 새로운 희망을 꿈 꿀 비전과 구체적 실천 방안을 제시했다며 이재명 후보는 동문서답식 태도로 답변을 피했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.387,
+                "end": 21.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 후보는 경제 토론인데 깊숙한 토론이 어려웠다며 아쉬움을 나타냈고 국민의 당 안철수 후보는 이재명 윤석열 후보 모두 준비가 부족했다 실망스러웠다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.175,
+                "end": 34.100
+            }
+        ]
+    },
+    "summary": "토론이 끝난 후 민주당 국민의 힘 정의당 국민의 당 모두 이번 토론에 대해 이야기하며 평가하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01698_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01698_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

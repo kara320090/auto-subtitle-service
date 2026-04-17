@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_09874",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.833,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강아지 만질까 아이고 잘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@계정1 는 벌써 임플란트 했구나 앞서 나가네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.738,
+                "end": 9.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대단해요 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.150,
+                "end": 11.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 여러분 여러분 휴가 좋아하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.540,
+                "end": 17.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 휴가 좋아해요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.840,
+                "end": 19.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연차 좋아해요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.738,
+                "end": 21.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쉬는 날 좋아하죠 맞죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.931,
+                "end": 25.833
+            }
+        ]
+    },
+    "summary": "여자가 휴가, 연차, 쉬는 날을 좋아하냐고 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09874_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

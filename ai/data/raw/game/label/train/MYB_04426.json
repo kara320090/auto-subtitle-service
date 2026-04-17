@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYB_04426",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.066,
+        "format": "MP4",
+        "date": "2022-11-10",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실전으로 가봅시다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공속 효과 이 2개 맞아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.319,
+                "end": 5.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제대로 갔어요 망토.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.012,
+                "end": 36.066
+            }
+        ]
+    },
+    "summary": "영상 속 화자는 이제 실전으로 가보겠다고 말했고 공속 효과는 이 2개로 진행하고 망토도 제대로 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04426_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

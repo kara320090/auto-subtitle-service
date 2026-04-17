@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYB_06430",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.4,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "으 아 실찐님 어서 오세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 근데 이거 너무 금방인데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.118,
+                "end": 7.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개아프지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.772,
+                "end": 11.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보는 나도 아픔.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.320,
+                "end": 12.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기다 세워놓고 너무 금방 닫힌다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.697,
+                "end": 20.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쏘옥 자 삼트만에 쏘옥 올라가야 되는데 어디 상자 같은 게 있나 볼까요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.350,
+                "end": 44.400
+            }
+        ]
+    },
+    "summary": "한 여성이 본인도 보는데 아프다며 너무 금방 닫힌다고 설명하고는 상자 같은 게 어디 있나 보자고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06430_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

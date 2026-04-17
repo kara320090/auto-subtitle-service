@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYB_11531",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.003,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 19.994
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아깝네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.004,
+                "end": 20.839
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "13년 전이라는데요 지금?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.849,
+                "end": 25.031
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.041,
+                "end": 28.000
+            }
+        ]
+    },
+    "summary": "한 여성이 아깝다 말하고는 지금 13년 전이라 한다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11531_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00265",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.151,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예외 없이 수사하는 게 맞다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 역시 윤석열 김건희 부부의 거짓말이 드러났다 용서받지 못할 중범죄라고 공세를 이어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.958,
+                "end": 11.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 윤석열 후보는 재경 전라북도 도민의 신년 인사회에 참석했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.997,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "민주당은 윤석열 부부에게 용서받지 못할 중범죄라고 공세를 이어갔고 윤 후보는 전라북도 도민의 신년 인사회에 참석했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00265_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00265_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

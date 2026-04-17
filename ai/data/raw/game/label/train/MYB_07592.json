@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYB_07592",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.7,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.564
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기로 도망쳤대요 자유를 찾아서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.574,
+                "end": 13.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.380,
+                "end": 20.361
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 20.371,
+                "end": 27.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 27.260,
+                "end": 28.700
+            }
+        ]
+    },
+    "summary": "자유를 찾아서 거기로 도망쳤다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07592_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

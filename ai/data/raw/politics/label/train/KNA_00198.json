@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNA_00198",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.315,
+        "format": "MP4",
+        "date": "2022-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "장병들에 대한 보상 예우도 좀 충분하게 하고 이게 힘들고 어려운 사람이 하는 일이 아니라 선호하는 사람 중에 선발돼서 하는 일이다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.694
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대한의사협회를 찾아선 대선 뒤 긴급 재정 명령이나 추가 추경을 통해",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.704,
+                "end": 15.315
+            }
+        ]
+    },
+    "summary": "민주당 이재명 대선 후보가 대한의사협회를 찾아 대선 뒤 긴급 재정 명령이나 추가 추경을 통해 어떻게 할 것인지에 대한 계획을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00198_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

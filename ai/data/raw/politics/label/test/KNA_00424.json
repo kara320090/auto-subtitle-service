@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_00424",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.384,
+        "format": "MP4",
+        "date": "2022-03-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 후보는 서울 대학가를 돌면서 2030 청년 유권자들에게 막판 지지를 호소하고 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정치부 취재 기자 연결합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.340,
+                "end": 9.167
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 강나로 기자 자세한 소식 전해 주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.170,
+                "end": 11.780
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 정의당 심상정 후보는 오늘 하루 서울 대학가에서 집중 유세를 벌였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.780,
+                "end": 17.384
+            }
+        ]
+    },
+    "summary": "정의당 심상정 후보는 서울 대학가를 돌면서 2030 청년 유권자들에게 막판 지지를 호소하며 집중 유세를 벌였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00424_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00424_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00407",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.95,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소상공인 대출 상황에 대한 자세한 분석과 맞춤형 컨설팅을 내놓기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 12월 말 기준 금융권의 만기 연장 상환 유예 대출 잔액은 133조 8000억 원입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.657,
+                "end": 12.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홍남기 부총리는 이 밖에 특별 고용 지원 업종 지정 연장",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.839,
+                "end": 16.950
+            }
+        ]
+    },
+    "summary": "소상공인 대출에 대한 맞춤형 컨설팅을 내놓을 것이며 지난해 금융권의 상환 유예 대출 잔액을 발표했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00407_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00407_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

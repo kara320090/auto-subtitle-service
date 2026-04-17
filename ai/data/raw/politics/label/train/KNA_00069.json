@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00069",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.181,
+        "format": "MP4",
+        "date": "2022-01-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경제적으로 좀 윤택하게 사실 수 있도록",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이른바 멸공 논란에 대해선 필요한 물건을 산 것뿐이라면서도 헌법 질서 안에서 누구나 의사 표현 자유를 갖는다는 입장을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.688,
+                "end": 11.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당 심상정 후보는 재생에너지와 전기차 등",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.951,
+                "end": 15.181
+            }
+        ]
+    },
+    "summary": "윤석열 후보가 멸공 논란에 대해 필요한 물건을 산 것뿐이라고 입장을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00069_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

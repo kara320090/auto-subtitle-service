@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_00405",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.583,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 국회에서는 여야 합의로 재연장해야 한다는 의견을 전달했고 정부도 6개월 연장하기로 방침을 정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.382
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금융권과 협의한 뒤 이달 중에 구체적인 내용을 발표할 예정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.392,
+                "end": 13.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 다만 조치가 끝난 뒤 충격을 줄이기 위한",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.142,
+                "end": 16.583
+            }
+        ]
+    },
+    "summary": "국회는 재연장해야 한다고 했고 정부도 방침을 정하고 구체적인 내용을 발표할 것이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00405_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00405_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

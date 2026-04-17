@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_04153",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.745,
+        "format": "MP4",
+        "date": "2021-07-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청와대는 문재인 대통령이 도쿄 올림픽 때 일본을 방문하지 않기로 결정했다고 공식 발표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "줄곧 방일 조건으로 내세웠던 정상회담 개최와 그 성과 차원에서 합의점에 도달하지 못한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.188,
+                "end": 15.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청와대는 한일 정상회담을 염두에 두고 두 나라 사이 역사 현안에 대한 진정과 미래 지향적 협력 방향에 대해 의미 있는 협의를 나눴지만 미흡했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.260,
+                "end": 27.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "양측 간 협의는 우호적인 분위기에서 진행되어 상당한 이해의 접근은 있었지만 정상회담의 성과로 삼기에는 여전히 미흡하며 그 밖의 제반 상황을 종합적으로 고려하여 이와 같이 결정하였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.592,
+                "end": 45.745
+            }
+        ]
+    },
+    "summary": "청와대는 두 나라 간에 역사 현안에 대한 주는 진정과 협력 방향에 대한 의미 있는 협의를 나눴지만 여전히 미흡하여 정상회담의 합의점에 도달하지 못하여 일본을 방문하지 않기로 결정했다고 발표했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04153_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

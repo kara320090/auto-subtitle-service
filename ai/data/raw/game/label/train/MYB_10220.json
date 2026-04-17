@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_10220",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.066,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 어쩔 수 없나 같이가요 누님 꿀꿀",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 이거 마을 구경하면 안 되나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.314,
+                "end": 8.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어머 전쟁터로 떠나기 전에 적극적이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.436,
+                "end": 20.875
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈 없다고 하니까 아무 말도 안 하네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.885,
+                "end": 25.066
+            }
+        ]
+    },
+    "summary": "화자가 게임 마을과 캐릭터 대화를 보면서 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10220_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

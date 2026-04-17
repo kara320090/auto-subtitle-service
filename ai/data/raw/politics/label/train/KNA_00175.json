@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_00175",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.383,
+        "format": "MP4",
+        "date": "2022-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동참해 주십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.294
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나흘째 이어간 경기 지역 매타버스에서는 5인 미만 사업장 등 노동법 사각지대 축소와 주 4.5일제 논의 시작 등이 담긴 노동 공약도 발표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.304,
+                "end": 12.763
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘 윤석열 후보는 선대위 필승 결의 대회에서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.773,
+                "end": 16.383
+            }
+        ]
+    },
+    "summary": "경기 지역 매타버스에서 노동법 사각지대 축소와 주 4.5일제 논의 등이 담긴 노동 공약을 발표했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00175_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

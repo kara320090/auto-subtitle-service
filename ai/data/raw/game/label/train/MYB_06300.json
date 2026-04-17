@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_06300",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.6,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 홀리베리 왕국 시장도 매우 번잡하고 쿠키 많기는 마찬가지지.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니야 아무래도 수상해 뭔가 찾고 있는 걸 발견할 수 있을 것 같은 기분이야.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 4.610,
+                "end": 10.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 네가 달콤한 음식을 좋아하긴 하지.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 10.497,
+                "end": 14.142
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 14.152,
+                "end": 15.600
+            }
+        ]
+    },
+    "summary": "남자는 시장이 수상하기보단 달콤한 음식을 좋아한다며 이야기하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06300_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 5
+                }
+            ]
+        }
+    ]
+}

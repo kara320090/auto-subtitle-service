@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00791",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2022-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신청사에서 업무를 시작합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 팔달산 청사에도 직원을 남겨 다음 달 27일까지는 인허가나 요양 보호사 접수 등 법정 민원을 접수합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.466,
+                "end": 10.954
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기도 의회 등이 함께 들어선 광교 신청사는 4년여간 공사 끝에 지난해 11월 준공됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.964,
+                "end": 18.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투입된 사업비는 4700여 억원.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.264,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "경기도 의회 등이 함께 들어선 광교 신청사는 지난해 11월 준공되었으며 팔달산 청사에도 직원을 남겨 인허가나 요양 보호사 접수 등 민원 접수를 받는다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00791_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 51
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00791_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYF_22451",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.366,
+        "format": "MP4",
+        "date": "2022-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거 들 준비",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.344
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예쁘다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.354,
+                "end": 4.686
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "구경을 좀 해볼까?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.696,
+                "end": 7.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘 많이 쓰는 모자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.743,
+                "end": 15.579
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 거 예쁘다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 15.589,
+                "end": 20.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "컬러가 너무 예뻐.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 20.575,
+                "end": 22.366
+            }
+        ]
+    },
+    "summary": "여성 2명이 상점에서 옷과 가방을 구경하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22451_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 64,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

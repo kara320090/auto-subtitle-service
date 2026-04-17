@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01476",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.754,
+        "format": "MP4",
+        "date": "2022-06-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "길들이기 주장은 허위라고 일축했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면 공지를 바꾸게 한 건 결국 행안부인데 행안부 측은 당초 최종안이 아닌 중간 검토안이 경찰에 잘못 전달돼 빚어진 일이라고 해명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.706,
+                "end": 13.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인사 결과가 확정되지 않았는데 그냥 미리 공개가 돼 버려가지고 예 그렇게 된 걸로 저는 알고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.683,
+                "end": 20.754
+            }
+        ]
+    },
+    "summary": "행안부는 최종안이 아닌중간 검토안이 경찰에 전달되어 빚어진 오류라고 해명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01476_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

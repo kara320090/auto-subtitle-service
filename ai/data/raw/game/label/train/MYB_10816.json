@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_10816",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.666,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잠시 여러분 풍경을 감상하고 계시겠어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화장실에 갔다 올 테니까.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.180,
+                "end": 6.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 으른의 사정을 살짝 끄겠다고요 궁금하네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.218,
+                "end": 11.024
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 이스트 풀로 가보도록 할게요. 아 뭔가 장문으로 인해 삭제되었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.034,
+                "end": 18.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어른의 어른의 사정.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.739,
+                "end": 22.666
+            }
+        ]
+    },
+    "summary": "화자1이 화장실에 다녀온 뒤 이스트 풀로 간다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10816_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "filename": "MYB_08773",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.466,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 머독 부인의 묘도 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.846
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.846,
+                "end": 3.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.500,
+                "end": 4.183
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.193,
+                "end": 5.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오스카도 기뻐할 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.789,
+                "end": 7.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.423,
+                "end": 8.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨 이주하는데 2주가 걸려요 아 저놈의 아재 개그 때문에 돌겠누 아 꽁꽁",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.940,
+                "end": 14.648
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.658,
+                "end": 15.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.816,
+                "end": 17.120
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.140,
+                "end": 18.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙겠어요 정말 감사드려요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.113,
+                "end": 22.466
+            }
+        ]
+    },
+    "summary": "영상 속 여자는 머독 부인의 묘가 있다는 걸 알게 되고 감사한다는 말과 함께 누군가의 아재 개그 때문에 돌겠다고 언급한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08773_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08773_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

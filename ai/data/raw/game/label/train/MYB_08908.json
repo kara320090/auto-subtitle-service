@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "MYB_08908",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.066,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도와주자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.394,
+                "end": 2.234
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.244,
+                "end": 5.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 보클라드 시장에서 팔려던 식량이 잔뜩 실려 있었대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.119,
+                "end": 8.862
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.872,
+                "end": 9.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.848,
+                "end": 10.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자 소리 좀 더 올려야 되나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.830,
+                "end": 17.676
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수상한 가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.686,
+                "end": 18.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 의심 없이 오케이 했는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.508,
+                "end": 22.066
+            }
+        ]
+    },
+    "summary": "보클라드 시장에서 팔려던 식량이 잔뜩 실려 있었다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08908_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

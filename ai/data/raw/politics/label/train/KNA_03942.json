@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_03942",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.872,
+        "format": "MP4",
+        "date": "2021-05-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다만 다른 나라에 비하면 우리나라 재정 건전성은 양호한 편이라고 진단했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "GDP 대비 국가 채무 비율은 코로나19 대응을 위한 추가 경정 예산안 편성 등으로 지난해 처음으로 40퍼센트를 넘겼고 올해는 48.2퍼센트로 전망됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.428,
+                "end": 16.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근 위기 대응 과정에서 국가 채무가 빠른 속도로 증가한 것은 사실이지만 다른 나라들에 비해 증가 폭이 낮고 재정 건전성이 양호한 편입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.320,
+                "end": 29.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 우리 경제가 정상 궤도에 복귀한 이후를 대비해 위기에 한시적으로 추진했던 사업들에 대한 출구 전략도 미리 마련해야 한다고 당부했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.961,
+                "end": 38.872
+            }
+        ]
+    },
+    "summary": "우리나라 재정 건전성은 다른 나라에 비해 양호한 편이지만 한시적으로 추진했던 사업들에 대한 출구 전략도 미리 마련해야 한다고 당부했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03942_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03942_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

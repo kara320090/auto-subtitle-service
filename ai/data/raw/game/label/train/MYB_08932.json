@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_08932",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 22.7,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대 미만",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 꽃도 그냥 버려버리고 애가 얼마나 막무가내로 자랄지 안 봐도 훤하다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 3.610,
+                "end": 13.097
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 13.107,
+                "end": 15.568
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주둥이 주둥이 주둥이",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 15.578,
+                "end": 18.659
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 18.669,
+                "end": 19.724
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 19.734,
+                "end": 22.700
+            }
+        ]
+    },
+    "summary": "꽃도 그냥 버리는 거 보니 애가 얼마나 막무가내로 자랄지 안 봐도 훤하다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08932_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

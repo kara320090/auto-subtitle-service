@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01657",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.202,
+        "format": "MP4",
+        "date": "2023-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 @이름1님 @이름2님이 만드신 덱이에요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름3님이 만든게 아니라 @이름2님이 만드신 겁니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.613,
+                "end": 12.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 요런 식으로 아 클리어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.114,
+                "end": 19.200
+            }
+        ]
+    },
+    "summary": "남성이 @이름3님이 아니라 @이름2님이 만든 덱을 쓴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01657_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

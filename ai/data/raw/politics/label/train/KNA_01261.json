@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNA_01261",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2022-06-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김동현 후보는 결국 개표 종료 직전에서야 당선을 확정지었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.878
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 도민과 국민 여러분께서 민주당 변화에 대한 씨앗을 또 민주당 변화에 대한 기대를 갖고 저에게 이런 영광을 주신 것 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.888,
+                "end": 15.664
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "경기도지사에 당선되신 김동현",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.674,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "김동현 후보는 결국 개표 종료 직전에서야 당선을 확정지었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

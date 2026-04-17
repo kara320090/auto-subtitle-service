@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01719",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.651,
+        "format": "MP4",
+        "date": "2022-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여론조사 단일화를 제안했던 거라고 거듭 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단일화 결렬 책임은 국민의힘에 있음을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.848,
+                "end": 7.489
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "함께 정치를 하는 어 그런 파트너로서의 대우가 아니라 그건 뭐 아주 적대시하는 그런 태도라고 볼 수밖에는 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.499,
+                "end": 18.651
+            }
+        ]
+    },
+    "summary": "안철수 후보는 단일화 결렬 책임은 국민의힘에 있음을 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01719_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

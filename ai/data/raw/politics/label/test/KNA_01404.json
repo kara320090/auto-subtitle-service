@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNA_01404",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.957,
+        "format": "MP4",
+        "date": "2022-06-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인하 폭 확대 방안 등도 요청했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.514
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 전기와 가스 요금은 지난 정부에서 지나치게 억눌렀다며 인상 가능성을 시사했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.524,
+                "end": 10.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회의 이후 대통령실은 별도의 브리핑을 갖고 현 경제 상황을 공급 측면 위기로 규정하면서 비상 경제 대응 체제로 대응하고 있다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.041,
+                "end": 20.966
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당도 별도 민생 TF를 꾸려",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.976,
+                "end": 23.957
+            }
+        ]
+    },
+    "summary": "전기와 가스 요금은 지난 정부에서 지나치게 억눌렀다며 인상 가능성을 시사했고 회의 이후 대통령실은 별도의 브리핑을 갖고 현 경제 상황을 공급 측면 위기로 규정하면서 비상 경제 대응 체제로 대응하고 있다고 밝혔다며 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 54,
+                    "act": 139
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01404_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

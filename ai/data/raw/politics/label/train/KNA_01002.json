@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_01002",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미사일 발사와 풍계리 핵 실험장 복구 등 북한의 최근 동향에 우려를 표명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 북한이 도발을 자제하고 대화에 복귀할 수 있도록 중국이 건설적 역할을 해 줄 것을 당부했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.064,
+                "end": 13.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "류샤오밍 중국 한반도 사무 특별 대표는",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.687,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "중국이 북한에게 도발을 자제하고 대화에 복귀할 수 있도록 해 줄 것을 당부하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01002_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

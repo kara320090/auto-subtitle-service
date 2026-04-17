@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNA_07479",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.255,
+        "format": "MP4",
+        "date": "2022-06-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "무거운 침묵 속에 웃음기가 사라진 선거 상황실 @소속1은 대선에 이어 두 번째 저조한 성적표를 받았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선거 참패에 지도부가 일제히 고개를 숙였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.868,
+                "end": 11.732
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 @소속1 비선대책위원 일동은 어 이번 지방선거 결과에 책임을 지고 전원 어 사퇴하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.742,
+                "end": 22.255
+            }
+        ]
+    },
+    "summary": "@소속1은 대선에 이어 두 번째 저조한 성적표를 받았는데 선거 참패에 지도부가 일제히 고개를 숙이며 이번 지방선거 결과에 책임을 지고 전원 사퇴하기로 했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07479_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

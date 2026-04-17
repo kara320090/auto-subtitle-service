@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNA_10650",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.362,
+        "format": "MP4",
+        "date": "2023-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정책에 대한 성향을 살펴봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보수와 진보의 응답이 확실하게 갈린 질문.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.637,
+                "end": 5.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분배와 성장 중 뭐가 중요하냐는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.949,
+                "end": 9.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보수도 진보도 아니라는 집단은 보수보다는 낮지만 성장을 선택한 응답자 비중이 높았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.242,
+                "end": 15.961
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 남북통일보다 경제 성장이 더 중요하다고 답한 비율은 보수와 거의 같았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.971,
+                "end": 21.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 도시의 개발보다 환경 보존이 중요하다는 응답은 진보 쪽에 가까워 사안 별로 이념 성향이 달랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.937,
+                "end": 29.362
+            }
+        ]
+    },
+    "summary": "보수도 진보도 아닌 집단은 사안 별로 이념 사항이 달랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10650_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10650_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

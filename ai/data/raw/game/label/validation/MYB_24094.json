@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_24094",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.5,
+        "format": "MP4",
+        "date": "2023-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "폭발 등에 상호작용하게 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.088
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이를 반응성 연막이다라고 이름을 붙였는데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.098,
+                "end": 4.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 연막이 변화했는지 봅시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.739,
+                "end": 6.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 카스 2에서의 연막은 터지는 즉시 쓰리디 물체를 생성하기 때문에 물리엔진에 영향을 받습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.699,
+                "end": 13.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이 연막은 당연히도 빛에 반응하죠",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.484,
+                "end": 16.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "게임상에서는 실제 쓰리디 물체이기 때문에 빛이 비치는 곳과",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.294,
+                "end": 20.500
+            }
+        ]
+    },
+    "summary": "카스 2의 연막탄은 터질 때 쓰리디 물체를 생성해서 빛에 반응을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_24094_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

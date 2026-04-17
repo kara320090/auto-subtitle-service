@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_01753",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.8,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "면목없습니다 홀리베리 쿠키님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.751
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 무슨 소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.761,
+                "end": 5.150
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 움직이지 마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.160,
+                "end": 7.009
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "누님 괜찮아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.019,
+                "end": 12.245
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "붉은 용은 겨우 따돌렸어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.255,
+                "end": 14.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기까지 와서 동료들의 발목을 잡다니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.081,
+                "end": 19.800
+            }
+        ]
+    },
+    "summary": "붉은 용을 겨우 따돌리고 나서 화자1은 면목이 없다며 동료들의 발목을 잡았다고 자책한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01753_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

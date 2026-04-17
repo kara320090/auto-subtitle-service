@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYF_00361",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.766,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여성이 혼자 자동차 리뷰를 하는 채널도 없었을뿐더러 제 스탭들도 없었거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 제가 제 휴대전화를 들고 제가 직접 쫓아가서 진행하며 촬영하며 이걸 혼자 다 했던 거예요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.586,
+                "end": 14.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 가지로 나뉩니다. 먼저 첫 번째는 제가 자동차 리뷰를 올렸더니",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.163,
+                "end": 19.766
+            }
+        ]
+    },
+    "summary": "여성이 혼자 자동차 리뷰를 하는 채널도 없었을뿐더러 스탭들도 없어서 직접 휴대전화를 들고 쫓아가서 진행과 촬영을 혼자 다 했었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00361_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00361_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

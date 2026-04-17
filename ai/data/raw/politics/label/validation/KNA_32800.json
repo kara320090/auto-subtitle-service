@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNA_32800",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.392,
+        "format": "MP4",
+        "date": "2023-10-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지역의 필수 의료를 살리기 위한 대책이 나온 다음날 곧바로 열린 관계장관 회의에서는 앞으로 남은 구체적 과제들이 줄줄이 언급됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인력 재배치 필수의료 수가 인상 의료사고 부담 완화 지방 인재 배려 및 교육 정책과의 연계 등 다양한 정책들이 함께 추진되어야 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.632,
+                "end": 25.392
+            }
+        ]
+    },
+    "summary": "정부가 지역의 필수 의료를 살리기 위한 대책이 나온 다음날 관계장관 회의에서 남은 구체적 과제들이 줄줄이 언급됐다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32800_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

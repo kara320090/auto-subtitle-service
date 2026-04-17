@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_03754",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.888,
+        "format": "MP4",
+        "date": "2021-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 지금의 잠정적인 평화를 항구적 평화로 정착시켜야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령은 한미 양국 간 백신 협력에도 심혈을 기울이겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.654,
+                "end": 11.166
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근 국내 백신 수급 불안정 등 우려가 커지는 상황을 해결하기 위해 백신 정상 외교에 대한 의지를 밝힌 것으로 해석됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.176,
+                "end": 20.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "kbs 뉴스 우수경입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.148,
+                "end": 21.888
+            }
+        ]
+    },
+    "summary": "문 대통령은 한미 양국 간 백신 협력에도 심혈을 기울이겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03754_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

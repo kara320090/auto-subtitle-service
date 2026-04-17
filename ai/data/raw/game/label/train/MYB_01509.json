@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_01509",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.7,
+        "format": "MP4",
+        "date": "2023-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하나 주세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 드래곤 뽑기 완전 폭망했는데 얘라도 좀 잘 나오지 커터 색은 예쁘네 자 밀키웨이 좋아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.110,
+                "end": 15.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조각 5개라도 뽑기 운 왜 이래 샤이닝 올 쿨인지 아시나요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.137,
+                "end": 21.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 아직 안 써봐서 모르겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.540,
+                "end": 25.700
+            }
+        ]
+    },
+    "summary": "화자가 뽑기 운이 안 좋다고 하며 샤이닝 올 쿨인지는 아직 안 써봐서 모르겠다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01509_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

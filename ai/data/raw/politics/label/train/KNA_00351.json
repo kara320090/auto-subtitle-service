@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNA_00351",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.498,
+        "format": "MP4",
+        "date": "2022-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제기된 의혹들에 대해 모두 사실무근이라고 강하게 부인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김일대 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.404,
+                "end": 7.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조재현 대법관이 오늘 오후 2시 대법원에서 기자회견을 열고 그동안 제기된 의혹을 강하게 부인했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.031,
+                "end": 14.128
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조 대법관은 정영학 녹취록에 등장하는 그분이 현직 대법관이라고 보도한 언론 기사를 직접 들어 보이며 깜짝 놀랐다며 전혀 사실무근이라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.138,
+                "end": 24.437
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면서 김만배 씨 등 대장동 관련자들과 통화한 적도 일면식도 없다고 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.447,
+                "end": 31.498
+            }
+        ]
+    },
+    "summary": "조재현 대법관이 오늘 오후 2시 대법원에서 기자회견을 열고 정영학 녹취록에 등장하는 그분이 현직 대법관이라고 보도한 언론 기사에 전혀 사실무근이라고 밝히며 대장동 관련자들과 통화한 적도 일면식도 없다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00351_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

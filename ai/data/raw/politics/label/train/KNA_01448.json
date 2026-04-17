@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_01448",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.184,
+        "format": "MP4",
+        "date": "2022-06-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "본인이 얘기 제일 많이 하셨어요. 여태까지",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.031
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 얘길 내가 유출했다고?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.041,
+                "end": 3.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 얘길 내가 유출했다고?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.721,
+                "end": 5.736
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "당 내홍이 깊어지는 가운데 국민의힘 중앙 윤리 위원회는 모레 저녁 이 대표의 성 상납 관련 의혹을 심의하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.746,
+                "end": 14.620
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "윤리위는 이 대표의 비위를 무마하려 했다는 의혹이 제기된",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.630,
+                "end": 18.184
+            }
+        ]
+    },
+    "summary": "당 내홍이 깊어지는 가운데 대표의 비위를 무마하려는 했다는 의혹을 받은 위원회는 모레 심의하겠다고 밝혔다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01448_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "game",
+  "split": "validation",
+  "num_samples": 10747,
+  "avg_val_loss": 1.2516284409130165,
+  "wer": 3.809762179463322,
+  "cer": 3.8164679526123937,
+  "loss_evaluated_count": 10747,
+  "loss_skipped_count": 0,
+  "max_label_length": 448,
+  "adapter_dir": "/home/user/SWPJ3/auto-subtitle-service/ai/data/results/game_lora/adapter",
+  "active_adapter_name": "default",
+  "model_id": "openai/whisper-large-v3"
+}

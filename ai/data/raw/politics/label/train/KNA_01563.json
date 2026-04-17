@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01563",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.021,
+        "format": "MP4",
+        "date": "2022-06-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "친윤계와 이 대표 측을 각각 겨냥한 거란 해석이 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 가운데 성접대를 주장하는 기업 대표가 접대 뒤 이 대표로부터 박근혜 시계를 받았다는 보도가 나왔는데 이 대표는 거짓말이라고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.388,
+                "end": 14.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당 내 일각에선 징계가 강행될 경우 이 대표의 신당 창당설까지 나오고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.905,
+                "end": 21.021
+            }
+        ]
+    },
+    "summary": "이 대표는 접대 뒤 박근혜 시계를 받았다는 보도에 대해 거짓말이라고 하였고 신당 창당설까지 나오고 있다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01563_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 64,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01563_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

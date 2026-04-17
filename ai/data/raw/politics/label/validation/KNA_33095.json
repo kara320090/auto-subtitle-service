@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_33095",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2023-09-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 전 대통령은 박 장관을 사자 명예 훼손으로 고발하겠다는 방침을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.505
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박 장관의 주장은 완벽한 거짓입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.515,
+                "end": 9.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 전 대통령의 부친이 흥남시청 농업계장을 하신 것은 일제 치하가 아니라 해방 후의 일이기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.260,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "민주당 측은 문 전 대통령의 부친은 해방 후에 흥남시청 농업계장을 한 것이라며 박 장관의 주장은 거짓이라고 지적했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33095_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

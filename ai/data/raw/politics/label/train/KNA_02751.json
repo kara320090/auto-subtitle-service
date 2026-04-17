@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02751",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.061,
+        "format": "MP4",
+        "date": "2022-11-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경찰과 소방 등 기관 간 유기적인 긴급 대응을 위해 구축된 재난안전통신망 1조 5000억 원이나 들였다지만 이번 이태원 참사에서 제 기능을 하지 못했다는 지적이 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부도 뒤늦게 대책을 검토하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.935,
+                "end": 15.153
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재난안전통신망이라든지 이런 부분에 대해서 미진한 부분이 있기 때문에 그런 부분의 개선 방안 제도적 개선 방안 이런 부분들에 집중해서 지금 검토를",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.163,
+                "end": 28.061
+            }
+        ]
+    },
+    "summary": "재난안전통신망이 이번 이태원 참사에서 제 기능을 하지 못했다는 지적이 이어졌고 정부도 뒤늦게 대책을 검토하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": 49,
+                    "act": 102
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02751_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

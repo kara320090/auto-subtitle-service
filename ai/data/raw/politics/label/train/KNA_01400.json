@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "KNA_01400",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.434,
+        "format": "MP4",
+        "date": "2022-06-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 수사하실 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.122
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반면 국민의 힘은 검찰 수사를 정치 보복으로 끌고 가는 건 대단히 잘못된 해석이라고 반박했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.132,
+                "end": 8.471
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "블랙리스트 의혹 수사는 지난 정부에서 시작돼 그동안 제대로 진행되지 않았을 뿐이란 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.481,
+                "end": 14.672
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "문재인 정부 초반 2 년간 소위 말한 적폐 수사 적폐 청산 수사를 하는데 그 적폐 청산 수사도 정치 보복이었는지 되묻고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.682,
+                "end": 25.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰은 문재인 정부 촉이 산업부와 산하 기관장 사퇴 문제를 논의한 청와대 인사를 박 의원으로 보고 수사에 돌입한 상태입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.523,
+                "end": 34.434
+            }
+        ]
+    },
+    "summary": "국민의 힘은 검찰 수사를 정치 보복으로 끌고 가는 건 잘못된 해석이라며 블랙리스트 의혹 수사는 지난 정부에서 시작돼 그동안 제대로 진행되지 않았을 뿐이라고 반박했고 검찰은 문재인 정부 촉이 산업부와 산하 기관장 사퇴 문제를 논의한 청와대 인사를 박 의원으로 보고 수사에 돌입한 상태라며 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01400_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

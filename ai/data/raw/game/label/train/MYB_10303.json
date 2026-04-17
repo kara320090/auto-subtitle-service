@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "filename": "MYB_10303",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.034,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.709
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 베어러 그냥 반란하자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.719,
+                "end": 2.610
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 2.621,
+                "end": 3.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시원하게 그냥 밀어버리자. 들어가자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.432,
+                "end": 6.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 6.550,
+                "end": 10.417
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "되게 좋은 사람이다. 그쵸?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.429,
+                "end": 11.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 11.722,
+                "end": 13.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마따나.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 13.493,
+                "end": 14.126
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마따네? 마따나?",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 14.136,
+                "end": 18.370
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우휴. 마무리가 당했잖아? 초럭키다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.380,
+                "end": 23.033
+            }
+        ]
+    },
+    "summary": "여자 게임 유튜버는 베어러라는 캐릭터에게 반란하자고 대화하듯 얘기하고 마무리가 당해 좋아하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10303_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

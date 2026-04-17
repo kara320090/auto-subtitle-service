@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "KNA_08859",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 48.548,
+        "format": "MP4",
+        "date": "2022-10-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정당한 법 집행을 가로막는 민주당의 행위는 어떠한 명분으로도 정당화될 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것은 법치주의와 자유민주주의에 대한 정면 도전입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.001,
+                "end": 11.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔가 구린 게 많아 압수수색을 막는다는 인상을 줄 뿐이다 공당임을 포기하고 이재명 대표 한 사람을 보호하기 위한 사조직이란 비판도 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.678,
+                "end": 22.535
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "민주당 국회의원들이 철저히 법을 지켜야 함에도 불구하고 이재명 대표의 사법 리스크 방패막이 호위 무사 노릇에만 충실하며 법을 어겼다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.545,
+                "end": 35.915
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 대통령은 민주당의 야당 탄압 주장에 전 정권 때를 언급했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 35.925,
+                "end": 41.795
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "언론사를 상대로 며칠 동안이나 압수수색을 했던 그런 것들을 좀 생각을 해 보면은",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 41.805,
+                "end": 48.548
+            }
+        ]
+    },
+    "summary": "민주당 국회의원들이 이재명 대표의 호위무사 노릇에만 충실한다고 비판했고 윤 대통령은 전 정권 때를 언급했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08859_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08859_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

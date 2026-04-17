@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "MYF_22200",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 61.895,
+        "format": "MP4",
+        "date": "2021-02-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 진심이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이야 샌드위치 이름은 뭐죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.394,
+                "end": 9.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "궁극의 샌드 아보카도 샌드위치",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.540,
+                "end": 14.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "궁아샌",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.416,
+                "end": 16.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 창밖이 잘 보이는 자리에 앉았어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.211,
+                "end": 32.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보스니아에서는 뜨거운 음료를 이렇게 빨대랑 같이 줘요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.046,
+                "end": 57.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직도 적응이 안 되는 파트",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 57.893,
+                "end": 61.895
+            }
+        ]
+    },
+    "summary": "여성은 남성과 샌드위치 이름을 지으면서 식사를 한 후 카페에 가서 음료를 시켰는데 보스니아에서는 뜨거운 음료와 빨대를 같이 준다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22200_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 50
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22200_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 25,
+                    "act": 58
+                }
+            ]
+        }
+    ]
+}

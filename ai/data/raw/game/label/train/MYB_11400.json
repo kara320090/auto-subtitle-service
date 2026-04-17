@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYB_11400",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 46.5,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "머리 아 뭔가 기운 달리나 봐 어 뭐야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.019
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.029,
+                "end": 30.834
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "13년 동안 원망했는데 그지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.844,
+                "end": 33.086
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.096,
+                "end": 46.500
+            }
+        ]
+    },
+    "summary": "남자는 13년 동안 원망했던 인물이 자신이라는 것을 알게 되었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

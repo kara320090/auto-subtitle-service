@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYB_09824",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.533,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최고의 만찬이라고 했잖아요 근데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 끝이야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.874,
+                "end": 21.533
+            }
+        ]
+    },
+    "summary": "여자가 영상을 보면서 최후의 만찬이 이게 끝이냐고 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09824_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

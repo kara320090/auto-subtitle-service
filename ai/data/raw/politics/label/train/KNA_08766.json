@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_08766",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2022-10-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 합참의장은 @이름2 연합 사령관과 북한의 탄도미사일 발사 직후 공조 회의를 통해 상황을 긴밀히 공유하였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 안보실장 주재로 긴급 소집된 국가안전보장회의 NSC는 UN 안보리 결의 위반이자 긴장 고조행위라며 강력 규탄했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.114,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "@이름2 안보실장 주재로 긴급 소집된 국가안전보장회의 NSC는 UN 안보리 결의 위반이자 긴장 고조행위라며 강력 규탄했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08766_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_00222",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.933,
+        "format": "MP4",
+        "date": "2023-04-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 어 아들 내가 별로 안 타니까 니가 타 진짜 좋은 아버지 아닙니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아버지 나는 왜 그런 아버지가 없어 아우 진짜 세상 부러워 우리 아버지 항상 건강하시구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.815,
+                "end": 12.755
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차 물려주셔서 제가 아들은 아니지만 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.765,
+                "end": 16.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 아버지께 물려 받은 신차 더 뉴 쏘렌토를 우리 차주 분이 와 뭐야 얘 튜닝을 했는데 튜닝 비용 2000만 원",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.112,
+                "end": 25.933
+            }
+        ]
+    },
+    "summary": "차주의 아버지가 차를 물려주셔서 감사하다고 얘기하고 튜닝 비용에 놀란다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00222_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

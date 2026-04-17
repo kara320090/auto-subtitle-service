@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_00512",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.04,
+        "format": "MP4",
+        "date": "2021-06-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 콩이 어머 봤어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.346
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옆에 보이는 이거는요 고슴도치 끝인데요 아기 고양이들에게는 딱 좋은 은신처예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.356,
+                "end": 13.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 콩이 꾹꾹이 하는구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.978,
+                "end": 21.040
+            }
+        ]
+    },
+    "summary": "콩이가 담요 안에서 돌아다니며 꾹꾹이를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00512_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 22
+                }
+            ]
+        }
+    ]
+}

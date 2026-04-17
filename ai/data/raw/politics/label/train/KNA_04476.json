@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_04476",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.695,
+        "format": "MP4",
+        "date": "2021-10-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "송영길 대표는 무효표 논란은 이미 결론난 문제라 거듭 선을 그었는데 민주당 지도부는 내일 당무위를 소집해 이의 제기에 대해 결론을 내기로 했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안 이낙연 후보 측에서 당무위를 열어 유권 해석을 해 달라 요구한 만큼 조기에 이 문제를 매듭 지어 불필요한 논란 확산을 막으려는 의도로 풀이됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.927,
+                "end": 21.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이낙연 후보님도 당신의 사전에는 불복이란 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.881,
+                "end": 25.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선대위원장 한 번 맡겠다. 수차례 공언해 오셨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.816,
+                "end": 28.695
+            }
+        ]
+    },
+    "summary": "민주당 지도부는 내일 당무위를 소집해 이의 제기에 대해 결론을 내기로 하였는데 이는 조기에 문제를 매듭 지어 불필요한 논란 확산을 막으려는 의도로 풀이된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04476_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

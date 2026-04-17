@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_09252",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.3,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "손님들 도망간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "숙부님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.942,
+                "end": 9.043
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 숙부님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.053,
+                "end": 18.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빵도 챙겼어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.450,
+                "end": 26.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "숙부님 손에 빵 있어요 빵.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.564,
+                "end": 36.300
+            }
+        ]
+    },
+    "summary": "발화자가 시청자와 함께 영상을 보며 이야기 하는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09252_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

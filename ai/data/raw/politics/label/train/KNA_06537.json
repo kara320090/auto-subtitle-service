@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "KNA_06537",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 59.259,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 당선인 측은 기존의 청와대를 쓸 가능성은 제로라고 표현했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.596
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청와대 밖으로 나오겠다고 한 것은 국민 속으로 들어가고 소통이 중요하다는 오랜 의지 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.606,
+                "end": 14.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의지는 분명한데 그러면 어디로 옮길지는 결정이 쉽지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.117,
+                "end": 18.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1차 검토했던 정부서울청사 대신 경호와 보안 지하 벙커 활용 등의 이점이 분명한 용산의 국방부 건물이 유력하게 검토되고는 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 18.992,
+                "end": 28.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 윤 당선인이 강조해 온 국민들과 접촉이 어렵고 광화문의 공무원들과도 떨어져 있어 그럴 거면 구중궁궐이라던 청와대와 다를 게 뭐냐는 반론이 제기됩니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 28.189,
+                "end": 37.825
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "군 보안시설에다 경호시설이 추가로 들어서면 시민들의 접근이 매우 어려워져요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.835,
+                "end": 45.060
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "소통을 원활하게 하겠다는 기본 취지에서 더 멀어지지 않을까 그런 우려가 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.060,
+                "end": 50.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 용산에 집무실을 만들면 한남동의 장관 공관 중 하나를 관저로 사용할 가능성이 높은데 대통령의 출퇴근에 따른 시민 불편도 걸림돌입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 50.516,
+                "end": 59.259
+            }
+        ]
+    },
+    "summary": "용산에 집무실을 만들면 한남동의 장관 공관 중 하나를 관저로 사용할 가능성이 높은데 대통령의 출퇴근에 따른 시민 불편도 걸림돌이 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06537_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06537_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

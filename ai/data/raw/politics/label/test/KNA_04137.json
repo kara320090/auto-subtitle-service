@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNA_04137",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.42,
+        "format": "MP4",
+        "date": "2021-07-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김학의 전 차관 관련 수사 등에서 피의 사실 유출이 의심되는 언론 보도가 계속되고 있다며 수사 동력을 얻기 위한 것 아니냐는 문제도 제기했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여론몰이용 수사 정보 유출로 의심되는 언론 보도는 현재까지 지속되고 있는데 이는 관련자의 명예를 훼손하고 인권을 침해할 수 있습",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.115,
+                "end": 20.420
+            }
+        ]
+    },
+    "summary": "김학의 전 차관 관련 수사 등에서 피의 사실 유출이 의심되는 언론 보도가 계속되고 있다며 수사 동력을 얻기 위한 것 아니냐는 문제도 제기했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04137_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 34
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04137_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

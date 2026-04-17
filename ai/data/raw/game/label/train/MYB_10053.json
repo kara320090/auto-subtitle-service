@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_10053",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.266,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이렇게 쓰자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.619,
+                "end": 6.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘쓰지도 않지만 아 넘 재밌어요. 지금",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.402,
+                "end": 12.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "액션도 액션인데 차라리 지금 이렇게 하길 잘했다고 생각하는 게 제가 게임을 그렇게 잘하는 편은 아닌데 나도 이렇게 화려한 스킬들을 막 쓸 수 있다니라는 생각이 들어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.936,
+                "end": 24.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 좋아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.512,
+                "end": 27.266
+            }
+        ]
+    },
+    "summary": "여성은 게임이 액션도 액션인데 게임을 잘하는 편이 아닌데도 화려한 스킬을 쓸 수 있어서 좋고 재밌다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10053_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

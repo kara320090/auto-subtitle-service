@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_02010",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.62,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 몸이 가루가 되어 불탈 때까지 나의 또 다른 소중한 터전를 위협하는 존재와 싸우는 거라네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 상대가 나보다 수백 배 커다란 전설의 붉은 용일지라도 말일세.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.090,
+                "end": 15.342
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "끼리끼리 논다더니 쳇",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.352,
+                "end": 19.600
+            }
+        ]
+    },
+    "summary": "타르타탕맛 쿠키는 자신의 터전을 위협하는 전설의 붉은 용과 싸울 것이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02010_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

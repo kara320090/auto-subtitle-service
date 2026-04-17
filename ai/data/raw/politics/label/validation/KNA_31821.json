@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_31821",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.933,
+        "format": "MP4",
+        "date": "2014-10-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 육군 주력 공격 헬기 코브라도 막강한 공격력을 자랑합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.030,
+                "end": 11.715
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지그재그로 날아다니며 정확히 과녁을 맞춥니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.725,
+                "end": 17.933
+            }
+        ]
+    },
+    "summary": "우리 육군 주력 공격 헬기 코브라도 막강한 공격력을 자랑하며 지그재그로 날아다니며 정확히 과녁을 맞춘다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31821_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

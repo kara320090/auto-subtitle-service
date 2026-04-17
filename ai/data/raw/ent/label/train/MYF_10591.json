@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYF_10591",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.991,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "누구야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재밌겠다 벌써 재밌겠네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.949,
+                "end": 5.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞머리 볼륨을 좀 주고 이제 저희는 포차에 가서 먹고 올 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.700,
+                "end": 11.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 또 이런 거 있구먼?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.556,
+                "end": 14.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 뭐야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.023,
+                "end": 16.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 이거 알죠 여러분? 이거 돋보기 거울",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.462,
+                "end": 23.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "입술 예쁘다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.122,
+                "end": 32.991
+            }
+        ]
+    },
+    "summary": "화자1은 앞머리에 볼륨을 주고 포차에 가서 먹고 올 것이라고 했고 화장실에 이런 게 있다며 돋보기 거울이 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10591_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_00018",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.824,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스크린에 펼쳐집니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반도체 산업 중심 도시의 위상을 뽐내는 다양한 무대 13일 특례시로 승격되는 용인시가 미리 출범식을 열었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.703,
+                "end": 11.231
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 용인시는 특례시 출범과 함께 세계 최대 반도체 도시로의 힘찬 여정을 시작하였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.241,
+                "end": 19.778
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특례시 승격과 함께",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.788,
+                "end": 21.821
+            }
+        ]
+    },
+    "summary": "용인시가 특례시로 승격됨에 따라 미리 출범식을 열었고 반도체 도시로의 여정을 시작했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00018_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 14,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00018_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

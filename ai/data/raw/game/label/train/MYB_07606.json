@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_07606",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.466,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 그걸 왜곡해?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.816,
+                "end": 8.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그걸 왜곡하냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.492,
+                "end": 10.237
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "$외국어 발화$",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.247,
+                "end": 18.466
+            }
+        ]
+    },
+    "summary": "여성이 소리를 들으며 그것을 왜곡해야 되냐며 질문한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07606_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

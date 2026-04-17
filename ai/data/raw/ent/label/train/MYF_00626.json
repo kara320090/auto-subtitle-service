@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYF_00626",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.72,
+        "format": "MP4",
+        "date": "2020-10-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 볼 때는 호두가 시루에게 은근히 어 놀아주는 것 같애요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 시루가 놀아 달라고 더 동생들을 조르는 것 같은데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.214,
+                "end": 11.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아하하 어이 그래 시루야 너도 좀 쉬어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.531,
+                "end": 16.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오두야 가서 자자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.730,
+                "end": 19.720
+            }
+        ]
+    },
+    "summary": "본인이 볼 때는 호두가 시루를 놀아주는 모습이고 시루가 놀아달라고 조르는 상황인데 시루에게 이제 쉬라며 호두에게 가서 자 자고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00626_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 59
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00626_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01216",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.526,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선관위는 사전 투표소 안에서 인증 사진을 찍거나 투표지를 찍어 SNS 등에 올려선 안 된다며 유권자들의 주의를 당부했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 투표소 밖에서 인증 사진을 찍거나 손가락으로 기호를 표시해 찍은 사진을 SNS 등에 올리는 것은 가능합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.830,
+                "end": 16.994
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 조지현입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.004,
+                "end": 18.997
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 다음 소식입니다 이 합리적인 이유 없이 일정 나이가 지난 노동자의 급여를 깎는 임금 피크제는",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.007,
+                "end": 26.526
+            }
+        ]
+    },
+    "summary": "사전 투표소 안에서 인증 사진을 찍거나 투표지를 찍어 SNS 등에 올려선 안 된지만 투표소 밖에서 인증 사진을 찍거나 손가락으로 기호를 표시해 찍은 사진을 SNS 등에 올리는 것은 가능하다고 하며 임금 피크제에 대해서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01216_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 49,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01216_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

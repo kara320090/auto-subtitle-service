@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNA_04113",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.45,
+        "format": "MP4",
+        "date": "2021-07-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 TV 토론에서 이낙연 후보는 이재명 후보를 향해 기본소득 설명이 오락가락하고 도덕성에 우려가 있다고 전면 공격했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.005
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 윤석열 전 총장의 사례를 보면서 우리 이재명 후보와 겹쳐서 생각하게 되는 그런 당원들도 꽤 많이 계십니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.015,
+                "end": 17.450
+            }
+        ]
+    },
+    "summary": "마지막 TV 토론에서 이낙연 후보는 이재명 후보를 향해 기본소득 설명이 오락가락하고 도덕성에 우려가 있다고 전면 공격했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04113_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

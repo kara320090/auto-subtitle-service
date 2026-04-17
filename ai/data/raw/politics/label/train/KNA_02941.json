@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_02941",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.456,
+        "format": "MP4",
+        "date": "2022-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 6월 윤석열 대통령은 공공기관에 대한 고강도 구조조정을 예고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.356
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공공기관 평가를 엄격히 하고 방만하게 운영되온 부분은 과감하게 개선해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.366,
+                "end": 14.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 달 뒤 기획재정부는 공공기관 기능 축소와 조직과 인력 감축 등을 핵심 내용으로 하는 공공기관 혁신 가이드 라인을 발표합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.150,
+                "end": 23.456
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 공공기관에 대한 고강도 구조조정을 예고했다고 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02941_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

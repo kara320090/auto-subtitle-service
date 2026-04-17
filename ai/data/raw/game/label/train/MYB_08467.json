@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYB_08467",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.433,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "초코보인데 랩터라고 써놨네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아카시아 육포 배고프신가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.912,
+                "end": 9.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러니까요 저도 그 머리스타일 때문에 지금 걱정이 많아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.425,
+                "end": 12.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세븐을 할 수 있을런지",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.767,
+                "end": 17.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 그 샤기컷이 너무 괴로워",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.305,
+                "end": 20.433
+            }
+        ]
+    },
+    "summary": "머리스타일 때문에 세븐을 할 수 있을지 걱정이라고 설명하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08467_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

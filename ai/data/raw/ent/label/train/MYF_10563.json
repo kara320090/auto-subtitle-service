@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_10563",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.647,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 마운틴 마운틴 언덕 뷰인데 이거는 힐 뷰 아니야 힐 뷰?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.191
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화장실 굉장히 중요하죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.201,
+                "end": 8.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 세면대 변기가 요렇게 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.239,
+                "end": 12.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕 어 오 샤워 부스도 나름 괜찮아. 꽁 꽁빠니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.589,
+                "end": 22.647
+            }
+        ]
+    },
+    "summary": "화자1은 호텔의 화장실이 굉장히 중요하다며 세면대와 변기가 있고 샤워 부스도 나름 괜찮다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10563_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 64,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

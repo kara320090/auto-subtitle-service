@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_01695",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.882,
+        "format": "MP4",
+        "date": "2022-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "피켓 가지고 다 막아주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여러분 마스크 벗겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.679,
+                "end": 8.895
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방역 실패 책임까지도 우리 윤석열 후보에게 돌리는 뻔뻔스러움에 어 그저 놀랄 뿐입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.905,
+                "end": 15.882
+            }
+        ]
+    },
+    "summary": "방역 실패 책임까지도 윤석열 후보에게 돌리는 뻔뻔스러움에 그저 놀랄 뿐이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01695_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01695_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

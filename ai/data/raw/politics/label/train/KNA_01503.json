@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01503",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.618,
+        "format": "MP4",
+        "date": "2022-06-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 자리에서 이재명 의원이 당 대표에 출마해선 안 된다는 의견이 줄을 이었는데 이 의원은 고민해 보겠다며 출마 여부에 말을 아꼈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김범주 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.455,
+                "end": 12.486
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연이은 선거 패배를 수습하고 당의 진로를 모색하기 위해 열린 민주당 워크숍.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.496,
+                "end": 18.618
+            }
+        ]
+    },
+    "summary": "민주당 워크숍에서 이재명 의원이 당 대표에 출마해선 안 된다는 의견이 줄을 이었는데 이 의원은 고민해 보겠다며 출마 여부에 말을 아꼈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01503_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 32
+                }
+            ]
+        }
+    ]
+}

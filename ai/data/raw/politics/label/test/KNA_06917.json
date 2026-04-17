@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_06917",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.026,
+        "format": "MP4",
+        "date": "2022-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 후보자는 대구 경북 지역에서 코로나19 환자가 급증했던 2020년 3월 밤 시간대에 식당 등에서 법인 카드로 수십만 원을 쓴 것으로 나타났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후보자는 병원 직원 격려를 위해서였다며 공직 수행 의지를 거듭 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.290,
+                "end": 17.461
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 눈높이라는 것이 도덕과 윤리의 잣대라면은 어 저는 거기로부터도 떳떳할 수 있다고 말씀드릴 수",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.471,
+                "end": 26.026
+            }
+        ]
+    },
+    "summary": "@이름1 후보자는 대구 경북 지역에서 코로나19 환자가 급증했던 2020년 3월 밤 시간대에 식당 등에서 법인 카드로 수십만 원을 썼는데 후보자는 병원 직원 격려를 위해서였다며 공직 수행 의지를 거듭 밝혔다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06917_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

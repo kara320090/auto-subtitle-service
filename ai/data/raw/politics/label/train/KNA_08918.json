@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "KNA_08918",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.367,
+        "format": "MP4",
+        "date": "2022-10-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 민주당의 시정연설 불참을 맹비난했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 나쁜 선례 헌정사의 오점이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.271,
+                "end": 8.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특권이라도 되는 것처럼 국회의 법상 의무마저도 책무마저도 버리는 행태가 아닐 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.119,
+                "end": 16.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당이 민생을 버리고 이재명 대표를 지키기 위한 사당이 됐다고도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.856,
+                "end": 22.333
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "새 나라 살림살이에 대한 대국민 보고를 이런 식으로 걷어차 버린 다수 의석의 민주당의 입법 독재는 역사적인 심판을 피할 수 없을 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.343,
+                "end": 34.367
+            }
+        ]
+    },
+    "summary": "국민의힘은 민주당의 시정연설 불참을 맹비난하며 아주 나쁜 선례이고 헌정사의 오점이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08918_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08918_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

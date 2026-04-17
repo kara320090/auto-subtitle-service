@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYF_23034",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.233,
+        "format": "MP4",
+        "date": "2021-04-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물이 없네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.945
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물 가져와야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.955,
+                "end": 5.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 갖고 올게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.928,
+                "end": 8.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바쁘셔 가지고 까먹었나 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.375,
+                "end": 15.608
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "바빠도 갖다 줘야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.618,
+                "end": 17.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.649,
+                "end": 21.233
+            }
+        ]
+    },
+    "summary": "식당이 바빠서 물을 가져다 주지 않았고 여성이 가지고 온다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23034_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 31,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

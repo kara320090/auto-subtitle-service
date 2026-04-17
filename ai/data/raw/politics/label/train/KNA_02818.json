@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_02818",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.187,
+        "format": "MP4",
+        "date": "2022-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "밤 10시쯤 112 상황 실장으로부터 특별한 일이 없다는 보고를 받았고 이후 1시간 동안 참사 관련 보고는 없었다고 해명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "단 한 건의 보고도 받지 못했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.533,
+                "end": 12.510
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 이태원 참사 상황을 알게 된 것 시점은 23시경입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.520,
+                "end": 21.187
+            }
+        ]
+    },
+    "summary": "전 용산 경찰서장은 밤 10시쯤 112 상황 실장으로부터 특별한 일이 없다는 보고를 받았고 이후 1시간 동안 참사 관련 보고는 없었다고 해명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02818_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

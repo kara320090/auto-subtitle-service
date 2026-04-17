@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_00092",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.094,
+        "format": "MP4",
+        "date": "2022-01-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "외부 연락을 끊은 채 칩거를 이어가고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 지지율 정체 상황에 대책을 고심 중인데 정의당 선대위는 선거 상황의 심각성을 인식한다면서 일괄 사퇴했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.723,
+                "end": 10.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의당 안철수 후보 측은 민주당과 국민의힘이 설 연휴 전 양자 티브이 토론을 하기로 합의한 데에 대해 안 후보를 포함한 삼 자 티브이 토론을 하자고 제안했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.526,
+                "end": 20.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박민철입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.273,
+                "end": 22.402
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘이 윤석열 대선 후보의 아내 김건희 씨 관련 녹음 파일에 대해",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.412,
+                "end": 28.094
+            }
+        ]
+    },
+    "summary": "정의당 선대위는 선거 상황의 심각성을 인식하고 일괄 사퇴하였고 국민의당 안철수 후보는 안 후보를 포함한 삼 자 트이브 토론을 하자고 제안하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00092_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 26
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00092_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

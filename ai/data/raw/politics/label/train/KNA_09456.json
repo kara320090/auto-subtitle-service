@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_09456",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.751,
+        "format": "MP4",
+        "date": "2023-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도착해서 본 경찰관은 단 2명이었다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "통제는 없었다고 증언했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.493,
+                "end": 4.843
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무나 외로웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.853,
+                "end": 6.911
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소방관들이 그 안에서 할 수 있는 것들이 너무나도 많이 없었고 구조한 사람들을 놓을 정 장소조차도 마련되지 않을 정도로 인파들이 통제되지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.921,
+                "end": 17.751
+            }
+        ]
+    },
+    "summary": "도착해서 본 경찰관은 단 2명이었고 구조한 사람들을 놓을 장소조차도 마련되지 않을 정도로 인파들이 통제되지 않았다고 증언했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09456_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

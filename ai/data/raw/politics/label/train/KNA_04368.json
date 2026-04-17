@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_04368",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.432,
+        "format": "MP4",
+        "date": "2021-09-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@소속1에선 윤석열 홍준표 유승민 후보 등이 1차 대선 예비 경선을 통과했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.827
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안상수 원희룡 최재형 하태경 황규환 후보까지 모두 8명이 1차 관문을 넘었지만 박진 장기표 장성민 후보는 탈락했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.837,
+                "end": 16.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 후보자별 득표율이나 순위는 공개하지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.238,
+                "end": 20.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 밝히라고 하는 거는 그거는 실례이니까 좀 그거를 자제를 해주시고 또 그런 게 돌아다닐 수가 없다는 거를 좀 충분히 좀 이해를 해 주시기 바랍니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.339,
+                "end": 32.432
+            }
+        ]
+    },
+    "summary": "@소속1에선 윤석열 홍준표 유승민 후보 등이 1차 대선 예비 경선을 통과했으며 후보자별 득표율이나 순위는 공개하지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04368_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

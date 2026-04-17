@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_03914",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.998,
+        "format": "MP4",
+        "date": "2021-05-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김 총리는 경찰과 검찰 수사팀에 더불어 금융위원회와 금감원 등은 부동산 시장에서의 편법 대출과 불법 탈세도 살펴보고 있다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수사 대상은 공직자 투기 행위에 더해 기획 부동산 분양권 불법 전매 등 모든 유형의 부동산 불법 행위로 확대했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.384,
+                "end": 20.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 총리는 다음달 첫 주 다시 열리는 점검 회의에서는 그동안의 경과와 성과를 국민들에게 설명드리는 자리를 별도로 마련하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.336,
+                "end": 30.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.702,
+                "end": 31.998
+            }
+        ]
+    },
+    "summary": "김 총리는 부동산 시장에서의 편법 대출과 불법 탈세를 조사하고 있다며 모든 유형의 부동산 불법 행위에 대한 수사를 확대해 국민들에게 성과를 설명하겠다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03914_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03914_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 2,
+                    "act": 38
+                }
+            ]
+        }
+    ]
+}

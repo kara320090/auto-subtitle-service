@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYF_22989",
+        "category": "엔터테인먼트",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.266,
+        "format": "MP4",
+        "date": "2022-01-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "밥 먹자 또 아까 그거 죽만 먹어 가지고 배가 안 찼지 너.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이리 와 자 추추추추추추 여기 누워 보세요. 자 오잉",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.816,
+                "end": 13.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기다가 또 우유 흘렸지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.404,
+                "end": 27.266
+            }
+        ]
+    },
+    "summary": "죽만 먹어 가지고 배가 안 찼냐고 여자가 아기에게 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22989_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

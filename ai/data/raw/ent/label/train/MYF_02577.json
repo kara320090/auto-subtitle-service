@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYF_02577",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.466,
+        "format": "MP4",
+        "date": "2022-05-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다른 영역에 있는 향수 중에는 유일하게 등장하는 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.299
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "20대에서 30대 연령층에서 그냥 단순하게 남자, 여자와 같이 성별에 집중되어서 향수를 언급한다고 해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.309,
+                "end": 14.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자향수, 여자향수 이렇게 그런데 40대 이상부터",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.905,
+                "end": 19.466
+            }
+        ]
+    },
+    "summary": "20대에서 30대 연령 층에서는 그냥 단순하게 남자, 여자와 같이 성별에 집중되어서 향수를 언급한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_02577_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

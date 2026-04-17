@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "MYB_11609",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.233,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혼자 돌아다니면 납치당할 수도 있는데? 저 애 저거 위험할 텐데 저거? 애가 나갔는데?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그쵸 개죽음 당할 수도 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.984,
+                "end": 14.580
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어머머머. 어머머 댕댕이 따라왔나 봐. 혼자 백구야. 그치? 혼자 하얀 마음 백구 찍었누.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.590,
+                "end": 29.233
+            }
+        ]
+    },
+    "summary": "애가 혼자 나가면 납치당할 수도 있고 혼자 하얀 마음 백구 찍은 댕댕이가 따라왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11609_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

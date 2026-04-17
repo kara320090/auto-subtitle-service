@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_30500",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.5,
+        "format": "MP4",
+        "date": "2016-08-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박근혜 대통령이 주재하는 제2차 과학기술 전략 회의가 청와대에서 열렸습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박 대통령은 과학기술로부터 우리가 당면하고 있는 위기를 극복할 새로운 동력을 얻고 우리 경제의 재도약를 위한 모멘텀을 만들어야 한다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.210,
+                "end": 15.468
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누가 얼마나 빨리 국가 차원의 혁신적 기술을 개발하느냐에 국가의 미래가 달려있기 때문에 경쟁력 확보를 위해 범국가적으로 신속하게 대응해야만 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.478,
+                "end": 31.500
+            }
+        ]
+    },
+    "summary": "청와대에서 열린 제2차 과학기술 전략 회의에서 박 대통령은 국가 차원의 혁신적 기술 얼마나 빨리 개발하느냐에 국가의 미래가 달려 있다며 범국가적으로 신속하게 대응해서 우리 경제의 재도약을 위한 모멘텀을 만들어야 한다고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30500_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

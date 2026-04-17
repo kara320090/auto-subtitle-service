@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNA_32921",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.852,
+        "format": "MP4",
+        "date": "2023-10-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "곧 연금을 탈 노년층일수록 보험료를 더 빨리 인상하고 청년층은 천천히 올리겠다는 내용입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.774
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그동안 개혁 과정을 보면 어 정부가 아 보험료율이나 소득대체율 수준을 제시를 하고 국민을 설득하는 과정을 해 왔는데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.784,
+                "end": 18.852
+            }
+        ]
+    },
+    "summary": "정부는 노년층의 보험료를 빨리 인상하고 청년층은 보험료를 천천히 인상하는 방안을 제시했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32921_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

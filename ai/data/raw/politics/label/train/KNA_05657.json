@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_05657",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.6,
+        "format": "MP4",
+        "date": "2122-11-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이태원 참사 당일 행정안전부는 국가 재난 관리 시스템을 통해 서울시와 용산구에 재난 문자를 보낼 것을 지시합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밤 10시 53분입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.543,
+                "end": 11.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울시도 행안부 지시에 따라 용산구에 재난 문자 발송을 요구하려고 여러 차례 연락을 시도했지만 닿지 않았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.037,
+                "end": 19.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "11시 27분에 용산구 재난 문자 담당자와 전화 연결이 돼 문자 발송을 요청했지만 발송은 되지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.439,
+                "end": 27.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 서울시는 긴급한 상황임을 고려해 11시 56분 첫 재난 문자를 발송했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.714,
+                "end": 33.600
+            }
+        ]
+    },
+    "summary": "이태원 참사 당일 재난 문자 발송을 요구했지만 연락이 안 됐고 11시 56분에 첫 재난 문자를 발송했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05657_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 43,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

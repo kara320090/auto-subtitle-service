@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01235",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.42,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안정을 선택하는 선거입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.642
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘은 격전지인 대전에서 중앙 선대위 현장 회의를 열었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.652,
+                "end": 7.799
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "추경안이 본회의를 통과했고 윤석열 대통령 재가로 손실 보상금 지급도 시작될 거라며 여당의 역할을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.809,
+                "end": 16.074
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지역 현안 해결을 위해 힘 있는 집권당을 뽑아야 한다는 주장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.084,
+                "end": 20.420
+            }
+        ]
+    },
+    "summary": "국민의힘은 대전에서 중앙 선대위 현장 회의를 열어 지역 현안 해결을 위해 힘 있는 집권당을 뽑아야 한다는 주장을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01235_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_09841",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.166,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 자꾸 이질감이 느껴져 외국인인데 일본어를 너무 잘해 그러니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마무를 이용한 조리 방법 던전밥?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.374,
+                "end": 11.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "던전밥 광고하는 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.983,
+                "end": 18.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 밥랑밥 피피?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.175,
+                "end": 23.166
+            }
+        ]
+    },
+    "summary": "여자가 외국인이 일본어를 너무 잘해서 이질감이 느껴진다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09841_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

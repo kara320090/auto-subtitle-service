@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNA_12129",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.288,
+        "format": "MP4",
+        "date": "2020-04-07",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "막 쓰고 돈 모자라니까 국채 발행하고 세금 줄어 망국의 길로 가고 있는데 여러분 그냥 놔둬도 되겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.743
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세출 구조 조정으로 쓰자라고 하는 구상은 그야말로 대학교 2학년생들의 리포트 수준에 불과한",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.753,
+                "end": 22.288
+            }
+        ]
+    },
+    "summary": "여야 간의 의견 차가 좁혀지지 않는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12129_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12129_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

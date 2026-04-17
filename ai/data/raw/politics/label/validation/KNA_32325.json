@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_32325",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.966,
+        "format": "MP4",
+        "date": "2018-03-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령이 다음 달 말 남북 정상 회담, 5월 북미 정상 회담에 이어 남북미 3국 정상 회담 개최도 가능해질 수 있을 거라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 남북 정상 회담 준비 위원회 2차 회의에 참석해 남북미 3국 정상이 함께 합의를 이루고자 하는 분명한 목표와 비전이 있다면서 이같이 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.520,
+                "end": 22.686
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 회담들과 앞으로 이어질 회담들을 통해 우리는 한반도의 핵과 평화 문제를 완전히 끝내야 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.696,
+                "end": 33.966
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 남북미 3국 정상 회담 개최가 가능할 것이라며 3국 정상이 함께 합의를 이루고자 하는 분명한 목표와 비전이 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32325_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

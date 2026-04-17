@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00951",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.603,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "교육감 후보 적합도 조사에선 모른다거나 없다는 비율이 60퍼센트 안팎으로 집계돼 깜깜이 현상이 반복되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.415
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 조사는 KBS가 한국리서치에 의뢰해 서울 등 6개 지역 만 18세 이상 남녀 각각 800명을 대상으로 지난달 30일부터 이틀 동안 전화 면접 조사 방식으로 진행했으며 표본 오차는 95퍼센트 신뢰 수준에 플러스마이너스 3.5퍼센트 포인트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.425,
+                "end": 26.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 손서영입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.189,
+                "end": 28.388
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 국회에서는 한덕수 국무총리 후보자와 장관 후보자 5명의 인사 청문회가 동시에 열렸는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.398,
+                "end": 36.603
+            }
+        ]
+    },
+    "summary": "교육감 후보 적합도 조사결과와 국회에서 열린 인사청문회에 관하여 이야기했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00951_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00951_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

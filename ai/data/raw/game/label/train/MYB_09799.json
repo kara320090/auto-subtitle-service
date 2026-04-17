@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_09799",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.3,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.882
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.892,
+                "end": 6.262
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아니요 듣지 않겠어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.272,
+                "end": 7.659
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐야 해달라고 그랬잖아요 뭐가 이렇게 변덕이 죽 끓듯이 끓어 갈대니 어 갈대밭 갔다 오셨습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.669,
+                "end": 14.982
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다 잠깐 간단한 설명은 필요할 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.992,
+                "end": 22.300
+            }
+        ]
+    },
+    "summary": "잠깐 간단한 설명은 필요할 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09799_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

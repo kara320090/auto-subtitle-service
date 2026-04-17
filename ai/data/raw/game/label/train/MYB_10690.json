@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYB_10690",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.5,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하잉",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.657
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.667,
+                "end": 3.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도시락 배달 주는 소리도 난다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.660,
+                "end": 11.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.081,
+                "end": 15.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동네에 사람들 얘기를 막 하네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.324,
+                "end": 18.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중요한 건 아니니까 대충 눈대중으로 보고 넘어갈게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.303,
+                "end": 26.500
+            }
+        ]
+    },
+    "summary": "도시락 주는 소리도 나고 동네 사람들이랑 얘기하는데 중요한 건 아니니 눈대중으로 보고 넘어가겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10690_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10690_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

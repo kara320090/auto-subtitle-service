@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYB_10504",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.052,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.678
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누군데?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.688,
+                "end": 2.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누구세요?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 2.785,
+                "end": 5.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 아 감옥에 갇혀 있었는데 어떻게 살아서 왔지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.577,
+                "end": 11.690
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제일 먼저 죽을 사람 아니었어 감옥에 갇혀 있었으면?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.700,
+                "end": 16.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.243,
+                "end": 19.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 경비병한테 도시락 갖다 주러 갔을 때 감옥에 갇혀 있는 애도 있었었잖아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.414,
+                "end": 26.033
+            }
+        ]
+    },
+    "summary": "감옥에 갇혀 있었던 사람이 돌아와서 궁금해 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10504_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 42
+                }
+            ]
+        }
+    ]
+}

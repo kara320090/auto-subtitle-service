@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYB_05211",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.233,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선원들을 이끌고 검은 바다에 들어오려고 했잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 지금은 어머나 내 앞에 서 있네?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.096,
+                "end": 9.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혼자서 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.436,
+                "end": 11.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아하하하 안쓰러워서 어떡하니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.575,
+                "end": 15.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 바스러져도 알아주는 쿠키 하나 없을 테지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.397,
+                "end": 20.887
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거야 원 어디서부터 잘못짚었다고 해야 할지 모르겠군.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.897,
+                "end": 25.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "혼자가 아니라는 말을 하고 싶은 거니?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.819,
+                "end": 29.257
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이상한 걸",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.267,
+                "end": 31.233
+            }
+        ]
+    },
+    "summary": "선원들을 이끌고 검은 바다에 들어오려 했지만 지금은 혼자 있어서 안 쓰러운데 오해라고 말을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05211_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

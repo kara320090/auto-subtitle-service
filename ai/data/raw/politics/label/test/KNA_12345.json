@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_12345",
+        "category": "정치뉴스",
+        "sub_category": 22,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.565,
+        "format": "MP4",
+        "date": "2020-02-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "출국하는 우리 국민 수는 늘고있고 중국에서 입국하는 중국인 수는 줄어들고 있다라고 고쳤는데 그 근거로 27일 딱 하루만 통계를 다시 공개했습니다",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "숫자엔 오류가 있었지만 중국으로 가는 한국인이 많아져 전면 입국금지는 실익이 없다는 당초 브리핑 취지는 크게 틀리지 않았다는 설명입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.890,
+                "end": 21.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과연 그럴까 청와대가 공개하지 않은 2월 출입국자 전체 통계입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.138,
+                "end": 26.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국에 온 중국인보다 중국으로 간 한국인이 더 많은 날은 딱 하루 27일 뿐입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.538,
+                "end": 32.565
+            }
+        ]
+    },
+    "summary": "중국에서 입국하는 중국인 수는 줄어들고 있다라고 고쳤는데 그 근거로 27일 딱 하루만 통계를 다시 공개했고 크게 틀리지 않았다고 했으나 2월 통계 결과 한국인이 더 많은 날은 딱 하루 27일 뿐이였다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12345_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12345_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

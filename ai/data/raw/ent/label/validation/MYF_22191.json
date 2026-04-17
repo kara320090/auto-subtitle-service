@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYF_22191",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.272,
+        "format": "MP4",
+        "date": "2021-02-20",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "옆에 있는 카페 갈려구요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 32.289
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기도 이런 장갑차랑 이런 것도 있어.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 32.299,
+                "end": 39.272
+            }
+        ]
+    },
+    "summary": "여성은 카페에 가는 길에 장갑차를 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22191_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22191_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": 26,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

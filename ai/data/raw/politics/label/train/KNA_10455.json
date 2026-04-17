@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_10455",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.688,
+        "format": "MP4",
+        "date": "2023-02-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "탑골공원이 있는 종로3가역 지난해 노인 승객은 337만 명으로 전체의 38퍼센트였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.996
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이것저것 구경도 하고 대화도 나누고 사람이 수명이 연장이 되고 건강하잖아요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.006,
+                "end": 12.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지자체가 운영하는 전국 도시철도의 노인 승객은 연평균 35만 명 내지 않은 요금은 1년에 4700억 원 정돕니",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.811,
+                "end": 21.688
+            }
+        ]
+    },
+    "summary": "지난해 노인 승객은 337만 명으로 전체의 38퍼센트였으며 지자체가 운영하는 전국 도시철도의 노인 승객은 연평균 35만 명 내지 않은 요금은 1년에 4700억 원 정도이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10455_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

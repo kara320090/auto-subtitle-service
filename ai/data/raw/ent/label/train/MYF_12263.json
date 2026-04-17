@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYF_12263",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.44,
+        "format": "MP4",
+        "date": "2019-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2층으로 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이쪽 정면부터 보여드리면 이게 군타 라인이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.287,
+                "end": 8.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "MCM 군타 라인 백 들이고 요게 이렇게 쉐입도 가능하고 이거를 펼치면은 요 쉐입이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.081,
+                "end": 17.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 요 쉐입에서.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.928,
+                "end": 23.440
+            }
+        ]
+    },
+    "summary": "MCM 군타 라인 백 들이 있고 백은 쉐입 형태를 바꿀 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12263_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 64,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

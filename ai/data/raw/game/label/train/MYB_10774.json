@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYB_10774",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아. 아 마사도 착한 사람이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.987,
+                "end": 10.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.247,
+                "end": 20.629
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "홀리 홀리.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.639,
+                "end": 23.800
+            }
+        ]
+    },
+    "summary": "한 여자가 마사도가 착한 사람이라고 말하면서 홀리 홀리라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10774_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

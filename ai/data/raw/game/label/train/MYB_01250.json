@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYB_01250",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.966,
+        "format": "MP4",
+        "date": "2023-07-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 미쳤네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.673
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이게 말이 되냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.683,
+                "end": 3.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 말한 쿠키만 쏙쏙 다 나오네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.016,
+                "end": 5.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 내가 잘 뽑는 쿠키가 용과를 특히 잘 뽑아드린 것 같아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.665,
+                "end": 9.474
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용과랑 스타더스트 같은 애들도 야 거의 이제 다 이제 오초월 된 거 같은데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.484,
+                "end": 17.966
+            }
+        ]
+    },
+    "summary": "내가 말한 쿠키만 쏙쏙 다 나오고 용과를 특히 잘 뽑아드린 것 같고 이제 거의 다 오초월 된 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01250_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

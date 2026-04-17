@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_02220",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.0,
+        "format": "MP4",
+        "date": "2023-05-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 서리 추가해 주세요 서리.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 드디어 나왔다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.350,
+                "end": 5.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 야 이걸 이렇게 주네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.947,
+                "end": 9.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 홀베까지 야 막판에 좀 잘 나온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.477,
+                "end": 13.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 제발 나오지 마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.635,
+                "end": 16.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 블랙펄 나왔네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.338,
+                "end": 18.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 뭐야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.937,
+                "end": 22.000
+            }
+        ]
+    },
+    "summary": "화자가 연속해서 뽑기를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02220_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

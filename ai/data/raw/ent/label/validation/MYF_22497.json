@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "MYF_22497",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.82,
+        "format": "MP4",
+        "date": "2022-12-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 이게 다야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 우리 좋아하잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.544,
+                "end": 7.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 너무 이쁘다 홀리 홀리",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.573,
+                "end": 12.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 이게 보스니아",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.630,
+                "end": 16.296
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그럼 여기 합쳐놨나보다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.306,
+                "end": 17.717
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거밖에 이것만 챙기고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.727,
+                "end": 19.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것만 남았어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.667,
+                "end": 20.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다 버리고",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.850,
+                "end": 23.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크게 한 것 같지 않아?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.508,
+                "end": 28.820
+            }
+        ]
+    },
+    "summary": "부부가 크리스마스 상자를 열어보면서 물건들을 하나하나 살피고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22497_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 43,
+                    "act": 52
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22497_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 52
+                }
+            ]
+        }
+    ]
+}

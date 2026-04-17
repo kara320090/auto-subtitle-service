@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_00374",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.422,
+        "format": "MP4",
+        "date": "2022-02-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3사관 학교 졸업식에 참석한 문재인 대통령은 우리가 충분한 억지력을 갖추고 있다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.125
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리는 우월한 미사일 역량과 방어 능력을 갖추고 있고 어떠한 이유에도 빈틈없이 막아낼 한국형 아이언 돔과 미사일 방어 체계도 든든하게 구축해 가고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.135,
+                "end": 21.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군도",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.561,
+                "end": 22.422
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 3사관 학교 졸업식에 참석해 우리나라의 미사일 역량과 방어 능력에 대해 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00374_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

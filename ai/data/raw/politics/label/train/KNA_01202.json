@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_01202",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.623,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강미애 10.3퍼센트 지지를 얻었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강원은 신경호 17.5퍼센트 유대균 9.9퍼센트로 나타났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.025,
+                "end": 8.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대구는 강은희 33.6퍼센트 엄창옥 17.3퍼센트으로 나타났고 경북은 임종식 28.1퍼센트 마숙자 10.5퍼센트 지지를 얻었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.383,
+                "end": 20.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부산은 28.7퍼센트가 김석준 후보를",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.222,
+                "end": 23.623
+            }
+        ]
+    },
+    "summary": "강원은 신경호 17.5퍼센트 유대균 9.9퍼센트이며 대구는 강은희 33.6퍼센트 엄창옥 17.3퍼센트으로 나타났고 경북은 임종식 28.1퍼센트 마숙자 10.5퍼센트 지지를 얻었습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01202_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01202_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

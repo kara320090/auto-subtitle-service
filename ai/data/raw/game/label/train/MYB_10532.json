@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_10532",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.033,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.864
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 질은 걱정 안 돼 왠지 항상 이런 게임의 여주는 죽지 않았어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.874,
+                "end": 8.355
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "끝까지 살아 남아서 마지막에 밝은 태양을 바라보며 항상 그 옆에 있었다고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.365,
+                "end": 12.613
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.623,
+                "end": 13.829
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보통 질은 괜찮아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.839,
+                "end": 16.995
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걱정 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.005,
+                "end": 19.033
+            }
+        ]
+    },
+    "summary": "이런 게임의 여주는 죽지 않고 마지막에 태양을 보고 있어서 질은 걱정이 안 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10532_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

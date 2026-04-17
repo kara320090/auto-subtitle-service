@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_01451",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.048,
+        "format": "MP4",
+        "date": "2022-06-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박지현 전 비대 위원장은 거듭 최 의원에 대한 중징계를 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이호준 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.651,
+                "end": 7.274
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더불어 민주당 윤리 심판원이 오늘 오후 전체 회의를 열어 최강욱 의원에 대한 징계 여부와 수위를 논의하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.284,
+                "end": 15.048
+            }
+        ]
+    },
+    "summary": "비대 위원장은 중징계를 요구하고 있는 가운데 윤리 심판원은 전체 회의를 열어 징계 여부와 수위를 논의하고 있다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01451_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

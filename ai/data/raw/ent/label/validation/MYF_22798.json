@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_22798",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.683,
+        "format": "MP4",
+        "date": "2019-03-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요? 동네 축구 고수 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.239
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 여러분들에게 약간 재미있는 소식을 알려드리려고 이렇게 영상을 찍게 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.249,
+                "end": 7.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 지금은 뛰고 있지 않지만 스페인에서 뛰었던 축구팀 꿈FC에서 다큐멘터리를 찍은 적이 있어요. 그때는 저도 선수로 뛰고 있었기 때문에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.405,
+                "end": 16.683
+            }
+        ]
+    },
+    "summary": "한 남자가 재미있는 소식을 들려주겠다고 영상 촬영을 하는데 스페인에 본인이 선수로 뛰었던 꿈FC에서 다큐멘터리를 촬영했던 것을 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22798_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

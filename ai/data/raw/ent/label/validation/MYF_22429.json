@@ -1,0 +1,212 @@
+{
+    "metadata": {
+        "filename": "MYF_22429",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 47.066,
+        "format": "MP4",
+        "date": "2022-11-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 만났어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.590
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 너무 추워요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.600,
+                "end": 2.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 너무 추워.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 2.874,
+                "end": 4.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "으힉 벌써 귀여운 것 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.609,
+                "end": 9.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기서도 사진 찍던데",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.550,
+                "end": 11.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 맞아 나와서 조금 있다가 사진 찍자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.279,
+                "end": 13.015
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.025,
+                "end": 13.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "언니 이거 봐봐 내가 말했던 물고기",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.942,
+                "end": 16.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 귀여워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.470,
+                "end": 18.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미쳤네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.135,
+                "end": 26.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 진짜 귀엽다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.698,
+                "end": 29.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 숨 막혀라",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 29.684,
+                "end": 38.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헉 귀여워.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 38.155,
+                "end": 41.246
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 41.256,
+                "end": 47.066
+            }
+        ]
+    },
+    "summary": "화자1, 화자2가 합정에서 만나 데이트를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22429_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 19,
+                    "object": 73,
+                    "act": 12
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22429_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

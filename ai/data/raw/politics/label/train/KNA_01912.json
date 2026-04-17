@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01912",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.918,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어제는 탄도미사일 비행 궤적 등을 추적하는 코브라볼 정찰기가 동해에서 임무를 수행했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "육지에선 패트리엇 요격 미사일 훈련 모습이 이례적으로 공개됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.919,
+                "end": 11.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주한 미군 장병들이 모의 전투 상황을 가정해 패트리엇 미사일을 옮기고 안테나를 조작하는 등의 모습이 담겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.973,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "동해에서는 코브라볼 정찰기가 임무를 수행했으며 육지에선 패트리엇 요격 미사일 훈련 모습이 이례적으로 공개됐다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01912_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 4,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01912_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

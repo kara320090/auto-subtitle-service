@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_04789",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.066,
+        "format": "MP4",
+        "date": "2021-12-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 이거는 이렇고 저거는 저렇고 하는 부분을 소상히 또 설명을 드려야 되니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.842
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 총괄선대위원장은 공식 사과 여부를 선대위에서 논의할 사항은 아니라며 후보 스스로 그 문제에 대한 해답을 내놓을 거라 생각한다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.852,
+                "end": 15.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의상 심상정 후보는 모든 시민에게 시민 최저 소득 백 만 원을 지급하겠다고 공약했고 국민의 당 안철수 후보는 이명박 박근혜 두 전직 대통령에 대해 형집행정지를 결단해 달라고 문재인 대통령에게 촉구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.010,
+                "end": 31.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.543,
+                "end": 33.066
+            }
+        ]
+    },
+    "summary": "대통령 후보들의 공약들을 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04789_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

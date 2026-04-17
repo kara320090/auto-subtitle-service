@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_30838",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.966,
+        "format": "MP4",
+        "date": "2016-12-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비선 진료 의혹의 핵심 인물인 @이름1 대통령 자문위는 자신을 청와대로 부른 게 @이름2 전 비서관이었다고 언론 인터뷰에서 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.751
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당시 @이름3 의무실장과 박 대통령 사이가 좋지 않아 자신을 불렀다는 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.761,
+                "end": 14.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박근혜 대통령을 진료할 때 청와대 의무실뿐만 아니라 관저 안에 있는 파우더룸도 이용했다고 김 씨는 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.047,
+                "end": 20.966
+            }
+        ]
+    },
+    "summary": "비선 진료 의혹의 핵심 인물인 대통령 자문위는 의무실장과 박 대통령 사이가 좋지 않아 전 비서관이 자신을 불렀다고 인터뷰에서 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30838_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30838_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

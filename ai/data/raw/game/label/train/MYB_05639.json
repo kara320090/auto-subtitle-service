@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_05639",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.1,
+        "format": "MP4",
+        "date": "2022-08-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 최적화가 가상 앱 플레이어랑은 약간 잘 안 맞는? 그런 상태 같습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이렇게 최적화를 해 봤는데 오우 야 야 이거 보이죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.437,
+                "end": 12.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오이스터는 중복으로 나오면은 이거 되게 레전드 요 물약 있죠 요 색깔?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.181,
+                "end": 17.100
+            }
+        ]
+    },
+    "summary": "게임을 최적화 하면 가상 앱 플레이어와는 맞지 않고 오이스터가 중복으로 나와 레전드 물약이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05639_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

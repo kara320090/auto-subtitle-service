@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYB_10254",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.11,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아까 대장간에서 일하던 친구도 줘야되는 담당인 거 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그쵸 맞는 거 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.768,
+                "end": 21.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "위치가 바뀌었네 NPC 위치가 아까 전에는 옆에 있었는데 정면으로 가 있네요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.738,
+                "end": 31.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예쁘다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.210,
+                "end": 34.100
+            }
+        ]
+    },
+    "summary": "화자가 게임 캐릭터에 대해서 말하면서 위치를 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10254_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

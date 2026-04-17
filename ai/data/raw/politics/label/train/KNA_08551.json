@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_08551",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.432,
+        "format": "MP4",
+        "date": "2022-09-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최대 1년까지는 이자를 내는 것도 더 미룰 수 있는데 대신 은행과 협의해 내년 3월까지 상환 계획을 마련해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.041
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근본적인 상환 능력 회복을 위해서 상환유예 지원 기간 중에 정상 회복 이후의 정상 상환계획을 선제적으로 마련토록 하고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.051,
+                "end": 19.855
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 상환 능력이 부족하면 이미 마련된 30조 원 규모의 새출발기금을 통해 채무 조정을 유도할 방침인데 다음 달 4일부터 신청할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.865,
+                "end": 30.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.328,
+                "end": 32.432
+            }
+        ]
+    },
+    "summary": "정부는 소상공인에 대한 금융지원 정책을 내놨는데 최대 1년까지는 이자를 내는 것도 미루는 것이 가능하며 상환 능력이 부족하면 출발기금을 통해 채무 조정을 유도할 방침이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08551_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

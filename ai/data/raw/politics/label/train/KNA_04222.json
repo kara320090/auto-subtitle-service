@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_04222",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.498,
+        "format": "MP4",
+        "date": "2021-08-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 화합과 단결에 폐가 될 만한 언동은 절대로 하지 말라고 아주 당부를 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.771
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "논란을 일으킨 신 정무실장은 입장문을 내고 당과 당대표에게 부담드리게 된 점을 사과한다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.781,
+                "end": 16.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 가운데 김기현 원내 대표는 오늘 저녁 지방에서 휴가 중인 이준석 대표를 찾아 긴급 회동을 갖고 토론회 논란 등 각종 현안을 논의했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.025,
+                "end": 25.855
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.865,
+                "end": 27.494
+            }
+        ]
+    },
+    "summary": "논란을 일으킨 신 전 정무실장은 입장문을 내고 당과 당 대표에게 사과한다고 밝힌 가운데 김기현 원내 대표는 이준석 대표를 찾아 긴급 회동을 갖고 토론회 논란 등 각종 현안을 논의합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04222_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04222_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_31458",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.866,
+        "format": "MP4",
+        "date": "2015-12-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오정과 원미, 소사구가 28년 만에 사라집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "36개 주민센터 가운데 10곳을 행정복지센터로 바꿔 거점으로 삼고 장기적으로는 동 체계를 행정복지센터를 중심으로 통합합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.621,
+                "end": 14.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행정 체계를 단순하게 하고 남는 인력은 주민 서비스를 강화하도록 재배치할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.105,
+                "end": 20.866
+            }
+        ]
+    },
+    "summary": "부천시의 오정, 원미, 소사구를 없애 36개의 동 체계를 10개의 행정복지센터로 통합하고 남는 인력은 재배치하여 서비스를 강화할 예정입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31458_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_31458_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 41,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

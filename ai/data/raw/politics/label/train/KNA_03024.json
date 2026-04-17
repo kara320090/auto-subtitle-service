@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNA_03024",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.32,
+        "format": "MP4",
+        "date": "2022-12-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이러한 불법 행위에 대해 모든 행정력을 동원해서 끝까지 추적하고 신속 엄정하게 조치해 주시기 바랍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정유와 철강 석유화학 등 업종에서 추가 피해가 우려된다며 즉시 업무 개시 명령을 발동할 수 있도록 준비할 것도 지시했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.110,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "윤 대통령은 불법 행위에 대해 신속 엄정하게 조치해 주기 바란다고 하였고 정유와 철강 석유화학 등 업종에서 추가 피해가 우려된다며 즉시 업무 개시 명령을 발동할 수 있도록 지시했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03024_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03024_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 20,
+                    "object": 7,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

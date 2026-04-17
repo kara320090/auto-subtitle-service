@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "MYB_01869",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.0,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제발 좀 힘내 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 지는 거야? 이거 뭐 어떻게 살릴 방법이 없을까요? 여러분들",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.879,
+                "end": 25.000
+            }
+        ]
+    },
+    "summary": "게임에 지니까 사람들에게 어떻게 하면 살릴 수 있는지 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01869_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

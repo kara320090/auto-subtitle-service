@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_06486",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.6,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이건 아쉽다. 쫄린다 쫄린다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수영을 빨리 하는 방법이 없어서.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.422,
+                "end": 14.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "탈출 후 야 거기 물귀신이 있었는데 겨우 도망쳐 왔잖아. 이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.197,
+                "end": 21.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이뻐요? 하하 이쁘냐? 아 진짜 웃겨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.670,
+                "end": 28.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자들 이쁘냐? 이뻤냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.448,
+                "end": 33.600
+            }
+        ]
+    },
+    "summary": "게임을 하고 있는데 다른 사람이 거기에 물귀신이 있었다고 이야기해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06486_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

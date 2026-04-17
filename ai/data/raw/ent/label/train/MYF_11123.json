@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "MYF_11123",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.667,
+        "format": "MP4",
+        "date": "2023-07-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 @계정1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.124
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이달의 쉽겟이 도착을 해서 이렇게 또 영상을 찍고 있는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.134,
+                "end": 8.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기존에 제가 사용하던 그 냉장고가 20리터짜리였잖아요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.966,
+                "end": 12.777
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "C20 제품이었어요 그래서 뭐 가지고 다니고 이동하기는 편한데 용량이 좀 딸리는 게",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.787,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "이전에 사용하던 자동차 냉장고는 20리터짜리 C20 제품이었지만 다니고 이동하기에는 편하지만 용량이 딸렸고 이번에 이달의 쉽겟이 도착했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 39,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

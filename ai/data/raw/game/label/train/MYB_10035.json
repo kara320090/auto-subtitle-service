@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYB_10035",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.6,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 아침에 면도를 했는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.044
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.054,
+                "end": 3.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행상인한테 무슨 일이 생긴 거 같대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.958,
+                "end": 5.789
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.799,
+                "end": 6.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진군로에서 오고 있어야 되는데 안 와 가지고 지금 안 그래도 걱정하고 있었대",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.592,
+                "end": 11.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면 마물을 만났을 확률이 있겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.852,
+                "end": 17.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 어떻게 해야겠어요? 멋진 제가 가서 구해줘야겠죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.105,
+                "end": 21.600
+            }
+        ]
+    },
+    "summary": "여성은 행상인한테 무슨 일이 생긴 거 같다고 했고 그래서 화자1이 멋진 자기가 가서 구해줘야 되겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10035_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

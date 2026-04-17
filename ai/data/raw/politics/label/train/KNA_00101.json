@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_00101",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.216,
+        "format": "MP4",
+        "date": "2022-01-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정치 공작이라 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보도가 목적이면서 사적 대화인듯 대답을 유도해 녹음했고 공개 시점도 조율했다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.411,
+                "end": 7.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "총력 저지 우선 의원 10여 명이 방송을 예고한 MBC를 찾아 항의했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.699,
+                "end": 15.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불공정 편파 방송을",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.611,
+                "end": 16.216
+            }
+        ]
+    },
+    "summary": "의원 10여 명이 MBC의 보도를 정치 공작이라 주장하며 항의했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00101_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

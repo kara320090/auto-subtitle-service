@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNA_01447",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.22,
+        "format": "MP4",
+        "date": "2022-06-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 같은 의원 들어 보세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.177
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비공개 회의할",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.187,
+                "end": 2.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비공개 회의 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.289,
+                "end": 4.801
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "앞서 지난 16일 비공개 회의 때 안철수 의원의 최고 위원 인선안에 대한 이 대표의 반대를 두고 배 최고 위원이 졸렬해 보인다고 발언한 게 보도된 것이 발단으로 보입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.811,
+                "end": 16.047
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "권성동 원내대표 만류에도 두 사람 언성은 높아졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.057,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "지난 비공개 회의 때 최고 위원의 발언이 발단으로 보이며 원내대표의 만류에도 언성은 높아졌다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01447_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01447_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

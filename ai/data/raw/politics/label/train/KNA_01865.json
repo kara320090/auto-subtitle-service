@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_01865",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.415,
+        "format": "MP4",
+        "date": "2022-03-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이재명이 부족해서 패배한 것이지 우리 선대위 민주당 당원 지지자 여러분 여러분은 지지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.334
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민들의 판단은 언제나 옳았다며 결과에 승복했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.344,
+                "end": 15.415
+            }
+        ]
+    },
+    "summary": "이재명 후보가 지지자들을 위로하며 대선 결과에 승복하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01865_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

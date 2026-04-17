@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_06526",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.426,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 당선인 측도 인사권 문제를 공개 거론했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새 정부와 국정 철학을 공유하는 인사가 공공기관에 배치돼야 한다는 건데 사실상 임기 말 공공기관장 임명을 자제해 달라는 취지입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.622,
+                "end": 12.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문재인 정부에서 꼭 필요한 인사의 경우에는 저희와 함께 협의를 진행을 하고 그렇지 않을 경우에는 업무 인수인계가 원활하게 진행될 수 있도록 요청을 한 상태입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.319,
+                "end": 26.426
+            }
+        ]
+    },
+    "summary": "새 정부와 국정 철학을 공유하는 인사가 공공기관에 배치돼야 한다는 건데 사실상 임기 말 공공기관장 임명을 자제해 달라는 취지다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06526_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

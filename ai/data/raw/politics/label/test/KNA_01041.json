@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNA_01041",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.864,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당과 논의해 본회의 개최 일정을 정하겠다고 답했다고 권 원내대표는 전했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘로 임기를 마무리하는 문재인 대통령이 조금 전인 6시쯤 청와대를 떠났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.385,
+                "end": 13.148
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "퇴임 연설에선 지난 5년 동안 위대한 국민과 함께해 영광이며 다음 정부에서도 성공하는 대한민국의 역사를 이어나가길 기대한다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.158,
+                "end": 23.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이철호 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.046,
+                "end": 26.082
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직원들 배웅 속에 문재인 대통령과 김정숙 여사가",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.092,
+                "end": 30.864
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 퇴임 연설에서 국민과 함께해 영광이며 다음 정부에서도 대한민국의 성공 역사를 이어나가길 기대한다고 하며 오늘로 임기를 마무리하고 청와대를 떠났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01041_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 153
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01041_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

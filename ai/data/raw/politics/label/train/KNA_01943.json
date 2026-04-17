@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_01943",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.048,
+        "format": "MP4",
+        "date": "2022-03-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 대응을 꼽았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영세 자영업자 소상공인분들에 대한 신속한 손실 보상과 더불어 방역 의료 문제 등을 중점적으로 다뤄주시기를 당부드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.490,
+                "end": 15.048
+            }
+        ]
+    },
+    "summary": "자영업자와 소상공인에 대한 손실 보상과 방역 의료 문제 등을 중점적으로 다뤄달라고 요청한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01943_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

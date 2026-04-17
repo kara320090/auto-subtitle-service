@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "filename": "MYB_08756",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.2,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.856
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.866,
+                "end": 3.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.017,
+                "end": 4.693
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.705,
+                "end": 7.300
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누구세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.400,
+                "end": 12.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 얘 종자들은 다 잘생겼어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.149,
+                "end": 14.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.886,
+                "end": 16.766
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.782,
+                "end": 19.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "얘도 잘생겼죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.400,
+                "end": 20.784
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.794,
+                "end": 26.200
+            }
+        ]
+    },
+    "summary": "영상에서는 캐릭터의 종자들은 다 잘생겼는데 누구냐면서 얘도 잘생겼지 않냐고 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08756_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08756_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

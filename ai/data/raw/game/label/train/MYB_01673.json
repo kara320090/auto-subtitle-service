@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_01673",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.033,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 58 야 타수 보호막 많다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.393
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 59까지 왔고요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.403,
+                "end": 6.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 보호막 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.156,
+                "end": 8.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 마지막 누구니?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.918,
+                "end": 11.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 마지막은 그루터기 정령 자 이렇게 2분 26초로 클리어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.015,
+                "end": 20.033
+            }
+        ]
+    },
+    "summary": "마지막 보스는 그루터기로 남성은 2분 26초로 클리어했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01673_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

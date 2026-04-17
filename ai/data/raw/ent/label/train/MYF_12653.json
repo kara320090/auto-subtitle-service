@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_12653",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.021,
+        "format": "MP4",
+        "date": "2022-10-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 오늘 특별한 분이 같이 또 동행해주셨다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어복의 황제를 한번 모셨는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.120,
+                "end": 6.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그 정도로 황제라는 말이 붙을 정도로 낚시계의 한 획을 그으신 일명 밑밥주기 마스터 우리 @이름1 님을 소개하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.382,
+                "end": 21.021
+            }
+        ]
+    },
+    "summary": "남성이 특별히 동행한 낚시 친구를 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12653_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

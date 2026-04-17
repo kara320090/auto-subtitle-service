@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01885",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.7,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 압도적인 성능이에요. 압도적인 성능",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 BTS는 이제 쓸 일이 없습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.113,
+                "end": 10.307
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수면도 엄청 빨리 풀리고 앞으로 쓰일 일이 없습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.317,
+                "end": 17.700
+            }
+        ]
+    },
+    "summary": "압도적인 성능을 가지고 있기 때문에 앞으로 BTS는 이제 쓸 일이 없다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01885_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

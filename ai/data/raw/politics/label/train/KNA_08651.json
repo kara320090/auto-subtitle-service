@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNA_08651",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.858,
+        "format": "MP4",
+        "date": "2022-10-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국가는 우리 국민을 지키지 못했고 정부는 고인을 월북자로 몰아 고인과 유족들의 명예를 땅에 떨어뜨렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령의 역할에 대해 국민들께 사실 관계를 답하는 것은 의무이자 도리입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.813,
+                "end": 16.198
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "정진석 비대위원장은 민주당의 정치 탄압 주장에 국민이 얼마나 동의할지 모르겠다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.208,
+                "end": 23.265
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "겸허한 마음으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.275,
+                "end": 24.858
+            }
+        ]
+    },
+    "summary": "정진석 비대위원장은 민주당의 정치 탄압 주장에 국민이 얼마나 동의할지 모르겠다고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08651_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08651_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

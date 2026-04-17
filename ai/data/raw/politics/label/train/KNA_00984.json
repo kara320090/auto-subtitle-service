@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00984",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.616,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 이른바 아빠 찬스 의혹을 받고 있는 정호영 보건복지부 장관 후보자를 상대로 민주당의 사퇴 압박이 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최유경 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.750,
+                "end": 9.892
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한덕수 국무총리 후보자에 대한 국회 인사청문회 이틀째",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.902,
+                "end": 15.615
+            }
+        ]
+    },
+    "summary": "아빠 찬스 의혹을 받고 있는 정호영 보건복지부 장관 후보자를 상대로 민주당의 사퇴 압박이 이어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00984_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00984_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

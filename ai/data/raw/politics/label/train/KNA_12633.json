@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_12633",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.054,
+        "format": "MP4",
+        "date": "2023-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인천항에서 컨테이너를 운송하는 @이름1씨.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 화주 측에서 운임을 깎을 수 있다는 얘기를 운송사로부터 전해들었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.077,
+                "end": 9.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기저기서 이제 소위 말하는 간보기를 하고 있죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.314,
+                "end": 13.615
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "화주 쪽에서 안전 운임제 없어졌는데 운송비 좀 내려줘야 되는 거 아니냐 이런 식으로 얘기를 한다라는 거죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.625,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "컨테이너 운송업을 하고 있는 @이름1는 최근 화주 측에서 안전 운임제 폐지로 인해 운임을 깎을 수 있다는 얘기를 운송사로부터 전해들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12633_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

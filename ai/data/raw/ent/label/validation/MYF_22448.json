@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYF_22448",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.103,
+        "format": "MP4",
+        "date": "2022-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "밤에는 여기보다 훨씬 어두워 더 불이 꺼져 가지고.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.608
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힙클에서 피자 먹는 거 같애.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.618,
+                "end": 9.460
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맛있어?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 9.470,
+                "end": 18.493
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 18.503,
+                "end": 19.176
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나는 존맛이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 19.186,
+                "end": 20.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "존맛이야?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 20.949,
+                "end": 23.100
+            }
+        ]
+    },
+    "summary": "여성 2명이 음식점에서 피자를 먹고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": 27,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNA_06557",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.958,
+        "format": "MP4",
+        "date": "2022-03-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집무실 이전 계획은 대통령 당선 단 열흘 만에 확정됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광화문 대신 용산 국방부가 본격 거론된 것만 따지면 닷새 만의 결정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.094,
+                "end": 9.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 의지가 강했던 건 당선인 본인이었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.655,
+                "end": 13.295
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제왕적 대통령제를 내려놓는 방식을 제왕적으로 한다는 말씀이신데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.305,
+                "end": 19.577
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거는 결단하지 않으면 제왕적 대통령제에서 벗어나기 어렵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.587,
+                "end": 24.958
+            }
+        ]
+    },
+    "summary": "집무실 이전 계획은 대통령 당선 단 열흘 만에 확정됐는데 광화문 대신 용산 국방부가 본격 거론된 것만 따지면 닷새 만의 결정이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06557_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

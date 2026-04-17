@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01504",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.857,
+        "format": "MP4",
+        "date": "2022-06-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최대 관심사는 이재명 의원의 전당 대회 출마 여부였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자유 토론에서 친이낙연계 중진인 설훈 의원이 동반 불출마를 제안했고 친문 핵심인 홍영표 의원도 이 의원과의 분임 토론에서 당의 단결이 중요하다며 사실상 불출마를 촉구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.366,
+                "end": 19.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 후보든 나오지 말고 홍영표도 나오지 말고 뭐 누구도 나오지 말고 그래서",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.079,
+                "end": 23.857
+            }
+        ]
+    },
+    "summary": "친이낙연계 중진인 설훈 의원이 동반 불출마를 제안했고 친문 핵심인 홍영표 의원도 당의 단결이 중요하다며 사실상 불출마를 촉구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01504_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_02520",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.818,
+        "format": "MP4",
+        "date": "2022-06-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘은 민주당이 여당일 때 손을 놓고 있었다며 공세를 폈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 올해 초 즉 여당일 때는 손을 놓고 있다가 정권이 바뀌자마자 안전 운임제를 법제화 하겠다고 목소리를 높이고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.363,
+                "end": 13.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 안전 운임제 연장을 막은 건 국민의 힘이었다고 반박했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.791,
+                "end": 18.818
+            }
+        ]
+    },
+    "summary": "국민의힘은 민주당이 여당일 때는 안전 운임제에 대해 손을 놓고 있다가 정권이 바뀌자 법제화를 추진한다고 했고 민주당은 국민의 힘이 연장을 막았다고 반박했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02520_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

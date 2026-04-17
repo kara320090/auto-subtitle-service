@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_11365",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.966,
+        "format": "MP4",
+        "date": "2022-10-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스마트폰을 이용한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또한 내 주업이 전도사이기 때문에 설교 준비를 하기 위해 자주 성경책을 펼친다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.050,
+                "end": 10.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매우 자주 카페로 출근하여 경제와 반도체 관련 자료들을 보고 분석하고 공부하기도 하고 또한 교회에서 성경책을 펼치고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.137,
+                "end": 21.966
+            }
+        ]
+    },
+    "summary": "카페로 출근하여 경제와 반도체 관련 자료들을 보고 분석하고 교회에서는 자주 성경책을 펼친다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11365_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 47,
+                    "act": 103
+                }
+            ]
+        }
+    ]
+}

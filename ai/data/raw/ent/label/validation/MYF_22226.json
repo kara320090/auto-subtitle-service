@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYF_22226",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.799,
+        "format": "MP4",
+        "date": "2020-11-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.511
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 약간 음 케첩이 필요할 수도 있을 것 같애.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.521,
+                "end": 10.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맛있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.259,
+                "end": 12.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당근도 좀 넣었어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.104,
+                "end": 13.510
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니. 당근 맛 나지? 당근 넣을까 말까 근데 좀 태웠어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.520,
+                "end": 22.264
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어때?",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.274,
+                "end": 24.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맛있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.521,
+                "end": 27.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 스타일이네 이전에 먹던 거랑?",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.321,
+                "end": 29.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응 이거 틱톡에서 배웠어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.462,
+                "end": 32.799
+            }
+        ]
+    },
+    "summary": "화자1은 화자2의 요리가 이전과는 다른 스타일이고 맛있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22226_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 31,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

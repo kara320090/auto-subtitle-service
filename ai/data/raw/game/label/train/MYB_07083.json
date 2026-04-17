@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_07083",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.801,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "할아버지들한테 자극이 너무 셀 텐데 괜찮나 몰라 괜찮아요 할아버지들 괜찮아요? 놀랐을 텐데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.071
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 선비들이라서 오후에 한 마디도 안 나오고 다들 멈춰있는 거 봐봐 동공 지진 뭐야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.081,
+                "end": 22.800
+            }
+        ]
+    },
+    "summary": "여성은 할아버지들 놀랐을 텐데 괜찮냐며 다들 동공 지진이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07083_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

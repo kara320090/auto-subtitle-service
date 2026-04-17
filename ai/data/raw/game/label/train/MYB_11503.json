@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYB_11503",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.866,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배고픈가 보다 그죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "배고파서 그런 거 같은데 아 아니 드레스 같은 걸 입고 있어 남동생이.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.279,
+                "end": 14.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힐런가 보다 힐러.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.821,
+                "end": 17.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 귀여워.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.549,
+                "end": 18.393
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.403,
+                "end": 26.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 힘을 막 쓰면 아픈가 보다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.660,
+                "end": 28.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 약한가 본데?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.960,
+                "end": 31.228
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.238,
+                "end": 32.866
+            }
+        ]
+    },
+    "summary": "한 여성이 배고파서 그런 거 같다 말하고는 남동생이 드레스 같은 걸 입고 있다며 힐러인 거 같다 설명하고는 약해서 힘쓰면 아픈 거 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

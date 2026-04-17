@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_11327",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2023-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대장동 의혹 관련 검찰 출석을 결정한 일을 두고는 정면 돌파가 특장기 라며 피할 이유도 없다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 방탄 논란 관련 질문에는 당 대표직 유지 당 차원의 대응이 계속될 것임을 내비치며 이렇게 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.778,
+                "end": 15.995
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "개인에 대한 공격이라는 측면도 있지만 당에 대한 공격",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.005,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "대장동 의혹 관련해 이 대표는 정면돌파한다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11327_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11327_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

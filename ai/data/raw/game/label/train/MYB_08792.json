@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_08792",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.6,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.735,
+                "end": 2.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.847,
+                "end": 20.671
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "허무하지 동료랑 가족 같은 사람들 다 잃어버렸는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.681,
+                "end": 25.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.200,
+                "end": 29.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좀 정신 나간 거 같다고 생각하긴 했는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.113,
+                "end": 32.600
+            }
+        ]
+    },
+    "summary": "화자는 게임 캐릭터의 대화를 보면서 가족 같은 사람들과 동료를 잃어 허무하겠다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08792_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

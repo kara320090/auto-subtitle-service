@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01808",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 10년간 국민과 함께 달려온 안철수가 국민의 뜻에 따라 힘을 합친 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.411
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원 팀이 돼서 국민 통합 정부를 만들겠다고 한 두 후보는 인수위원회 구성부터 공동 정부 구성까지 함께 협의해 가겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.421,
+                "end": 18.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시장 친화적 정부 진영 논리 극복 실용 등을 키워드로 제시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.112,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "안철수는 원 팀이 돼서 국민 통합 정부를 만들겠다고 했고 두 후보는 인수위원회 구성부터 공동 정부 구성까지 함께 협의해 가겠다고 하며 시장 친화적 정부 진영 논리 극복 실용 등을 키워드로 제시했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01808_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

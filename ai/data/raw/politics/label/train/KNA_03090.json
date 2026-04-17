@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_03090",
+        "category": "정치뉴스",
+        "sub_category": 38,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.126,
+        "format": "MP4",
+        "date": "2021-01-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 주택 매수자 중 무주택자 비중이 늘어나는 등 실수요자 중심으로 시장이 바뀌고 있다면서도 최근 매매시장 불안이 감지되고 있다고 평가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 주택 투기 수요를 차단해야 한다는 정부 의지는 확고 부동하다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.139,
+                "end": 16.613
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "투기수요 차단을 위하여 이미 마련한 세제 강화 유동성 규제 등 정책 패키지를 흔들림 없이 엄정하게 집행해 나갈 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.623,
+                "end": 26.126
+            }
+        ]
+    },
+    "summary": "정부는 주택 매수자가 실수요자 중심으로 시장이 바뀌고 있다고 평가하며 주택 투기 수요를 차단해야 한다고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03090_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

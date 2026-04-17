@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00130",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.157,
+        "format": "MP4",
+        "date": "2022-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과세가 시작이 되더라도 더 많은 분들이 가상 자산의 그, 거래에 투자할 수 있도록 하기 위한 조치입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 후보도 국내 가상 자산 발행을 허용하겠다고 했는데 다만 우선은 안전 장치가 마련된 거래소 발행 방식부터 도입하겠다 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.115,
+                "end": 18.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시세 조정 등을 통한 부당 거래 수익은 전액 환수하겠다고도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.965,
+                "end": 24.157
+            }
+        ]
+    },
+    "summary": "윤 후보는 국내 가상 자산 발행을 허용하겠다고 하지만 우선은 안전 장치가 마련된 거래소 발행 방식부터 도입하겠다고 하며 시세 조정 등을 통한 부당 거래 수익은 전액 환수하겠다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00130_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

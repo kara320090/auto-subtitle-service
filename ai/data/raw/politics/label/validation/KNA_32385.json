@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_32385",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.653,
+        "format": "MP4",
+        "date": "2023-08-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청년들과 좌담회에서 민주당 @이름1 혁신 위원장은 중학생 아들과의 대화를 회상하며 이렇게 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.298
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 나이 드신 분들이 우리 미래를 막 결정해 그러는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.308,
+                "end": 12.602
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여명까지로 해서 비례적으로 투표를 하게 해야 된다는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.600,
+                "end": 17.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "합리적이고 참 맞는 말이라고도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.417,
+                "end": 20.653
+            }
+        ]
+    },
+    "summary": "민주당 @이름1 혁신 위원장은 청년들과의 좌담회에서 여명까지 해서 투표를 비례적으로 해야 된다는 중학생 아들의 생각을 언급했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32385_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

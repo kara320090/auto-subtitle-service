@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_02351",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 39.266,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기에도 뭐 약간 그러 카드 같은 게 어디 있나 본데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일로 와 봐 일로 와 봐 아 유리 안 부셔도 되네 들어갈 수 있네",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.897,
+                "end": 20.976
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아우씨 깜짝이야 아 이걸 누르는 거구나 아 확인 아 이제 알았어",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.986,
+                "end": 27.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드론 가지고 저 눌르면서 가는 거구나",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.819,
+                "end": 30.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이 약간 다운시키는 거 어떻게 하지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.113,
+                "end": 33.475
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕히 계세요 여러분.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.485,
+                "end": 35.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 야 드론 사라졌어 아 뭐야 뒤에 있네",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 35.047,
+                "end": 39.266
+            }
+        ]
+    },
+    "summary": "화자는 게임 속 드론을 사용해서 버튼을 누르며 진행하는 것을 알아냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02351_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_07272",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 33.266,
+        "format": "MP4",
+        "date": "2022-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일주일 전 출근 시간대에 서초에서 반포대교를 거쳐 용산까지 이동하는 데 걸린 시간은 23분 44초 오늘은 25분 56초로 2분여 늘어났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동작역에서 용산까지 이동하는 구간도 비슷했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.325,
+                "end": 16.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난주엔 13분 18초 오늘은 14분 28초가 걸려서 1분가량 늘었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.459,
+                "end": 23.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차량 유입량에도 미미한 변화가 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.441,
+                "end": 27.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령이 반포대교를 이용하면서 다른 다리로 우회하는 차량이 일부 생긴 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.103,
+                "end": 33.266
+            }
+        ]
+    },
+    "summary": "대통령의 출근으로 인해 영향을 받은 출근 시간대 이동 시간과 차량 유입량을 알려주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

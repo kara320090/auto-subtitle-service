@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYB_05802",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.966,
+        "format": "MP4",
+        "date": "2022-07-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "길드 토벌전 같은 경우에서도 체력이 추가가 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 잠깐 토벌에서는 쿠키 체력 증가가 따로 되지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.064,
+                "end": 8.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "길드 토벌전에서 체력이 증가된 수치는 유물 레벨에 따른 체력 증가로 인한 증가와 보호막 체력으로 인해 쿠키 체력이 증가된 수치입니다 이 점 감안하고 봐주시면 감사하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.586,
+                "end": 20.966
+            }
+        ]
+    },
+    "summary": "길드 토벌전에서 체력이 증가된 수치는 유물 레벨의 증가로 인한 체력과 보호막으로 인한 체력이 증가된 수치로 쿠키 체력 증가는 따로 되지 않습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05802_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

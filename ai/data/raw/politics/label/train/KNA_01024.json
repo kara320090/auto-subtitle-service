@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01024",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.787,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새로운 대한민국을 만들자는 내용으로 25분간 취임사를 발표할 예정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.265
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취임식엔 주한 외교 사절을 포함해 300여 명의 외빈도 참석합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.275,
+                "end": 10.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시진핑 중국 국가 주석의 측근인 왕치산 국가 부주석 카멀라 해리스 미 부통령의 남편 더글러스 엠호프 하야시 요시마사 일본 외무상 등입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.113,
+                "end": 20.787
+            }
+        ]
+    },
+    "summary": "새로운 대한민국을 만들자는 내용으로 취임사를 발표할 예정이며 주한 외교 사절을 포함한 다수의 외빈도 참석한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01024_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 49,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32784",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.652,
+        "format": "MP4",
+        "date": "2023-10-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1개월 준비면 충분하다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.714
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 찬성 3표 반대 6표로 청문회 개최는 부결됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.724,
+                "end": 7.214
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "5.18 조사위 관계자는 조사를 마무리하기에도 빠듯한 상황에서 청문회까지 준비할 수 없다는 데 위원들이 동의했다며 결국은 준비 부족이 이유라고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.224,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "5.18 조사위 관계자는 청문회 개최 부결에 대해 준비 부족이 이유라고 설명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32784_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_00305",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 27.193,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중증 환자들을 위한 의료 체계를 확실하게 챙기고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.985
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 후보는 선거 유세 발언 중 마스크를 벗는 윤석열 후보를 향해선 규칙도 안 지키는데 리더 자질이 있냐고 비판했고",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.995,
+                "end": 14.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 경제가 죽든 말든 주식 시장이 망가지든 말든 사드 배치를 언급해 긴장을 고조 시킨다고 지적했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.949,
+                "end": 22.762
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 후보는 저녁 퇴근 시간에 맞춰 잠실에서 유세를 이어갑니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.772,
+                "end": 27.193
+            }
+        ]
+    },
+    "summary": "이 후보는 유세 발언에서 규칙을 안 지키는 윤석열 후보가 리더 자질이 없다고 비판했고 사드 배치를 언급해 긴장을 고조 지킨다고 지적하였으며 퇴근 시간에 잠실에서 유세를 이어간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00305_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00305_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

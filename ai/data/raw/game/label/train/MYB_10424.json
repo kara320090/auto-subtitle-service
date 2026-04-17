@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_10424",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.766,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나 시드 너무 좋아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.446
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.456,
+                "end": 13.623
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 그렇지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.633,
+                "end": 15.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이것도 멋있다. 여기도.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.680,
+                "end": 24.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "섬네일로 쓸만하겠다. 가만있어봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.340,
+                "end": 27.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 해야 되나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.417,
+                "end": 34.738
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 구도가 이상하다. 그냥 가자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 34.748,
+                "end": 37.766
+            }
+        ]
+    },
+    "summary": "여성이 게임속 경관에 감탄하며 영상 섬네일을 찍으려 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10424_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 15,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

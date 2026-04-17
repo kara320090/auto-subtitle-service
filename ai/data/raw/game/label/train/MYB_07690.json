@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYB_07690",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 50.1,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엄마가 옷 그렇게 벗어놓지 말랬지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.466
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.476,
+                "end": 43.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 디온게이게이 퇴장할 때 준내 멋있어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 43.760,
+                "end": 46.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 디온게이게이야 한 건 하냐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 46.260,
+                "end": 50.100
+            }
+        ]
+    },
+    "summary": "여자가 게임 속 영상을 보고 디온 게이게이가 퇴장할 때 정말 멋있다고 하면서 한 건을 하냐고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07690_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

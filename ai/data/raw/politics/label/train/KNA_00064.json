@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_00064",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.695,
+        "format": "MP4",
+        "date": "2022-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2기 GTX 3개 노선을 새로 만들겠다고 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오후엔 대장동 피해 원주민을 직접 면담하며 이재명 후보 견제에 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.361,
+                "end": 11.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 후보는 청년 복지사들을 만나 종사자들 간 단일 임금 체계를 도입하고 보수 수준도 공무원 수준으로 상향하는 등 처우 개선을 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.086,
+                "end": 23.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 당 안철수 후보는 2박 3일로 충청권 방문을 시작했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.254,
+                "end": 28.695
+            }
+        ]
+    },
+    "summary": "윤석열 후보는 2기 GTX 3개 노선을 새로 만들겠다고 약속하고 오후엔 대장동 피해 원주민을 면담하였고 심상정 후보는 단일 임금 체계를 도입하여 보수 수준 상향을 약속했고 안철수 후보는 충청권 방문을 시작했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00064_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00064_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

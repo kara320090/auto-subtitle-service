@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_03251",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.125,
+        "format": "MP4",
+        "date": "2023-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당신을 체포하겠어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "열차가 흔들리겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.266,
+                "end": 6.431
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 이거 타이밍 진짜 중요하네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.441,
+                "end": 11.238
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 타이밍이 중요하네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.248,
+                "end": 13.294
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.304,
+                "end": 34.125
+            }
+        ]
+    },
+    "summary": "공격 타이밍이 진짜 중요하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03251_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_01972",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.166,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "드래곤 시티에 왔으면 드래곤 시티의 음료를 마셔야 하는 법.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 밤엔 용날개 크림주스다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.818,
+                "end": 9.810
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 많이 드시면 안 됩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.820,
+                "end": 12.598
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "몬스터들이 방벽을 넘어온다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.608,
+                "end": 16.082
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어헛",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.092,
+                "end": 18.166
+            }
+        ]
+    },
+    "summary": "드래곤 시티에서 파는 용날개 주스를 마시려고 하는 때에 몬스터들이 방벽을 넘어온다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01972_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

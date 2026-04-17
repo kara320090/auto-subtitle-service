@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_01802",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 15.281,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당의 구호를 베꼈다며 불쾌감을 드러내기도 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.095
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정치 교체가 아니라 기만 정치입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.105,
+                "end": 8.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 파장을 주시하며 이재명 후보 지지층이 철저하게 결집하기를 기대하는 분위기입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.290,
+                "end": 15.281
+            }
+        ]
+    },
+    "summary": "민주당의 구호를 베꼈다며 기만 정치라고 하였고 이 후보 지지층이 철저하게 결집하기를 기대하는 분위기라고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01802_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

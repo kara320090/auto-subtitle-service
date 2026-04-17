@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_12722",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.501,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 출조하실 때 꼭 외투 챙기셔서 어 따뜻하게 입고 낚시하십시오.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 @이름1 형님이 김밥 주셔서 요거 먹고 낚시 이어가도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.368,
+                "end": 13.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붕어 1마리만 봤으면 좋겠네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.468,
+                "end": 25.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방금 입질은 꼭 살치 같았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.777,
+                "end": 29.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찌를 로케트처럼 올려버리네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.156,
+                "end": 31.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붕어는 아닌 것 같은데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.876,
+                "end": 34.501
+            }
+        ]
+    },
+    "summary": "남자는 출조할 때 외투 챙겨서 따뜻하게 입고 낚시하라고 전했고 김밥 먹고 붕어 1마리만 더 봤으면 좋겠다면서 방금 입질이 왔는데 찌를 로케트처럼 올리는 게 살치 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12722_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12722_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

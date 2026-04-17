@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_04748",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.328,
+        "format": "MP4",
+        "date": "2021-12-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 리프레시하기 위해서 간 거 같은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예정된 충청 지역 일정도 사흘째 이어가며 주 52시간제를 완화하고 기업가의 상속세 부담을 낮추겠다는 등 현 정부 정책 수정을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.793,
+                "end": 13.442
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 후보는 대표 공약인 국토 보유세 도입도 국민이 동의하지 않으면 강행은 어렵다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.452,
+                "end": 20.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내용을 정확히 이해하면 반대할 이유가 없다면서 국민 설득에 무게를 둔 발언이지만 기존 입장에서 한 발 물러선 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.112,
+                "end": 28.328
+            }
+        ]
+    },
+    "summary": "주 52시간제를 완화하고 기업가의 상속세 부담을 낮추겠다는 등 현 정부 정책 수정을 강조한 한편 이재명 후보는 대표 공약인 국토 보유세 도입에 대해 국민 설득에 무게를 둔 발언을 하며 기존 입장에서 한 발 물러섰습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04748_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04748_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

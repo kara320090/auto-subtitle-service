@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "MYF_02465",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.766,
+        "format": "MP4",
+        "date": "2022-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.262
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 제가 책에도 썼지만 그런 우리가 향수의 카테고리들을 이렇게 이야기를 할 때 그럴 때 인제 뭐 다양하게 이야기 하지만 그 중에 한 카테고리가 오리엔탈 카테고리라고 얘기를 하는 게 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.272,
+                "end": 15.625
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실 이게 동방의 오리엔탈이라는 그 단어가 유럽에서 이제 동방을 지칭할 때 하는 이야기지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.635,
+                "end": 23.766
+            }
+        ]
+    },
+    "summary": "화자가 책에도 썼던 내용이지만 향수의 카테고리들을 이야기할 때 다양한 카테고리 중 하나가 오리엔탈 카테고리이고 오리엔탈이라는 단어는 유럽에서 동방을 지칭할 때 하는 이야기다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_02465_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_02465_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

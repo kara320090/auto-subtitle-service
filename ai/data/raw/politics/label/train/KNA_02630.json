@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02630",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.958,
+        "format": "MP4",
+        "date": "2022-11-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관계 부처 및 전문가와 함께 심도 있는 논의를 가질 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 기회에 국민의 생명과 안전을 확실히 지킬 수 있는 대책을 마련하도록 중지를 모아 나가겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.405,
+                "end": 14.733
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난달 31일부터 엿새 동안 서울시와 25개 자치구 합동 분향소를 다녀간 조문 인원은 11만 7000여 명으로 집계됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.743,
+                "end": 24.958
+            }
+        ]
+    },
+    "summary": "관계자는 심도 있는 논의로 국민의 생명과 안전을 지킬 수 있는 대책을 마련하겠다고 했고 지난달부터 합동 분향소를 다녀간 조문 인원은 11만 7000여 명으로 집계됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02630_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02630_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

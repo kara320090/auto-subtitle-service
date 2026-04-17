@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_03999",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.132,
+        "format": "MP4",
+        "date": "2021-06-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최고 위원에는 조수진 배현진 김재원 정미경 후보가 당선돼 여성 진출이 두드러졌고 청년 최고 위원에는 김용태 후보가 당선됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회 의원 경험이 없는 30대 대표의 출현은 보수 정당의 혁신뿐 아니라 내년 대선 한국 정치의 지형에도 영향을 미칠 것으로 전망됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.936,
+                "end": 19.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령은 정치사에 길이 남을 큰 일을 했다고 이 대표에게 전화로 축하를 건넸고 송영길 민주당 대표는 정치가 새롭게 변화하는 계기가 되기를 기대한다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.238,
+                "end": 30.747
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.757,
+                "end": 32.132
+            }
+        ]
+    },
+    "summary": "최고 위원에는 여성 진출이 두드러졌고 청년 최고 위원에는 김용태 후보가 당선된 한편 국회 의원 경험이 없는 30대 대표의 출현으로 문재인 대통령은 정치사의 길이 남을 큰 일을 했다며 이 대표에게 전화로 축하를 건넸고 송영길 민주당 대표는 정치가 새롭게 변화하는 계기가 되기를 기대한다고 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03999_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 59
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03999_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

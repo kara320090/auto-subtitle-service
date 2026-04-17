@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_02877",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.721,
+        "format": "MP4",
+        "date": "2022-11-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령은 대통령실 용산 이전의 핵심 이유로 소통 강화를 꼽았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.190
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "집무실의 1층에 프레스센터를 설치해서 수시로 언론과 소통하는 대통령이 되겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.200,
+                "end": 15.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취임 다음 날부터 소통은 시작됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.022,
+                "end": 18.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "출근길 문답이라는 전례 없던 방식을 선보인 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.082,
+                "end": 21.721
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 대통령실 용산 이전의 핵심 이유로 소통 강화를 꼽으며 언론과의 소통을 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02877_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

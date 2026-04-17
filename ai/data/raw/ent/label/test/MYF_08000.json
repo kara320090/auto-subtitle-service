@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_08000",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2019-10-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 쑥이지니 밥 먹어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밤새 화장실도 아주 잘 사용하고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.136,
+                "end": 7.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밤새 음 비타 크레프트 연어 스틱을 줬더니 그거는 다 먹었었어요. 그래서 이번에는 캣냠 연어랑 비타 크레프트 연어를 함께 섞어줘 봤어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.371,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "쑥이는 밤새 화장실도 잘 사용하고 간식도 잘 먹는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08000_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

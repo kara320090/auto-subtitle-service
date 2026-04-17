@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_00624",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.128,
+        "format": "MP4",
+        "date": "2022-03-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.637
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인수위는 다만 민주당이 다수 의석인 만큼 단계적으로 제도 개선을 추진할 방침입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.647,
+                "end": 7.705
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인수위는 또 코로나 백신 부작용에 대해선 국가의 피해 보상 책임을 강화하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.715,
+                "end": 13.533
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "백신 접종을 국가 책임으로 시행하였음에도 부작용 피해를 충분히 책임지지 않아 정책에 대한 신뢰가 상실됐다고 지적하였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.543,
+                "end": 23.745
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 당선인은 아이보시 고이치 일본 대사를 만나",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.755,
+                "end": 28.128
+            }
+        ]
+    },
+    "summary": "인수위는 단계적 제도 개선과 백신 부작용에 대한 책임을 강화하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00624_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

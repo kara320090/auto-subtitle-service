@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_04009",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신성한 고목이요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은 쿠키의 모습을 하고 있다고 들었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.828,
+                "end": 5.759
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미로의 숲에 가면 만날 수 있을 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.769,
+                "end": 9.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미로의 숲에 있는 정령 쿠키라면 천년나무 쿠키님 말인가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.816,
+                "end": 15.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 만나기 어려운 분이잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.924,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "바다 요정 쿠키가 지금 쿠키의 모습을 하고 있는 정령나무 쿠키에 대해 알려주고 미로의 숲에 가면 만날 수 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04009_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

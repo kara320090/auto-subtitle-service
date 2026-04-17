@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_08866",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.666,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 모두 웃으세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에르메스 지옥행 열차가 장난감 기차가 칙칙 떠나간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.477,
+                "end": 13.578
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과자와 사탕을 싣고서 열 맞춰 뭐 또 나왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.588,
+                "end": 30.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나오겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.738,
+                "end": 32.230
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.240,
+                "end": 39.666
+            }
+        ]
+    },
+    "summary": "화자는 몬스터를 공격하며 노래를 부르다가 몬스터가 또 나올 것 같다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08866_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

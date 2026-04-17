@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "filename": "KNA_00243",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 49.916,
+        "format": "MP4",
+        "date": "2022-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청와대 고위 관계자도 윤 후보의 발언에 매우 불쾌하다고 입장을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보는 상식적인 이야기라면서 청와대를 향해 문제 될 게 없다면 불쾌할 게 없을 거라고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.127,
+                "end": 12.355
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 한 거는 정당한 뭐 적폐의 처리고 또 남이 하는 거는 보복이고 그런 프레임은 맞지 않다 이런 말",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.365,
+                "end": 23.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 자신의 발언은 문제가 있으면 정상적인 사법 시스템에 따라 이루어지게 돼 있다는 원론적인 이야기라고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.386,
+                "end": 31.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 손서영입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.117,
+                "end": 33.629
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다음은 베이징 동계 올림픽 소식입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.639,
+                "end": 36.951
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "쇼트트랙 남자 1000m 경기에서 편파 판정 논란으로 줄줄이 실격한 우리 대표팀이 오늘 1500m로 다시 메달에 도전합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.961,
+                "end": 45.605
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "경기 도중 왼손을 다쳐 11바늘이나 꿰맨 박장혁 선수도",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.615,
+                "end": 49.916
+            }
+        ]
+    },
+    "summary": "청와대 고위 관계자도 윤 후보의 발언에 매우 불쾌하다고 입장을 밝혔고 윤 후보는 자신의 발언은 문제가 있으면 정상적인 사법 시스템에 따라 이루어지게 돼 있다고 설명했으며 쇼트트랙 우리나라 대표팀이 오늘 1500m로 다시 메달에 도전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00243_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00243_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

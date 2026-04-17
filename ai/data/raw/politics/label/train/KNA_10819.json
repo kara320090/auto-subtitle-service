@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_10819",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.893,
+        "format": "MP4",
+        "date": "2023-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정밀 기계를 갖다가 지금 정부에서 예산을 잡아서 내려준다 합니다 말은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 실질적으로 지금 단 한 대도 내려온 적이 없고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.428,
+                "end": 9.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오염수를 방류할 경우 우리 해역은 안전한지 안전하지 않다면 어떤 대비책을 세울지 정부가 아무런 설명이 없는 데 대해 답답해 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.633,
+                "end": 19.273
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 수산업 피해가 현실화할 경우를 대비해서 어가 손실 보상금 등 대책을 강구해야 한다고 목소리를 높입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.283,
+                "end": 26.893
+            }
+        ]
+    },
+    "summary": "오염수 방류에 대해 정부가 아무런 설명이 없는 데 대해 답답해 하고 있으며 어가 손실 보상금 등 대책을 강구해야 한다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10819_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

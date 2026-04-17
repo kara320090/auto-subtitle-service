@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYB_09608",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.266,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 잠시 잠깐만 할 수 있는 일이야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠시 뒤라니 거진 한 30일은 걸리겠구만.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.170,
+                "end": 6.272
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이것만 만든 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.282,
+                "end": 19.517
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.527,
+                "end": 26.047
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.057,
+                "end": 31.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.633,
+                "end": 39.076
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.086,
+                "end": 41.266
+            }
+        ]
+    },
+    "summary": "여자가 게임을 하면서 잠시만 할 수 있는 일이 아니고 30일은 걸리겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09608_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

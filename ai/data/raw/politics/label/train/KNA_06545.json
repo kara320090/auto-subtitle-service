@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_06545",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.156,
+        "format": "MP4",
+        "date": "2022-03-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인수위의 권영세 부위원장과 인수위원들이 국방부 청사를 찾아 시설 전반을 점검했습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.363
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청와대가 아무래도 국정의 중심인데 대통령실이 제대로 기`능할 수 있는 장소가 어디겠냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.373,
+                "end": 14.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령 집무실이 옮겨올 경우에 장애 요소를 묻는 질문에 국방부 관계자는 국방부 이사에만 20일이 걸린다고 답했습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.546,
+                "end": 23.156
+            }
+        ]
+    },
+    "summary": "인수위의 권영세 부위원장과 인수위원들이 국방부 청사를 찾아 시설 전반을 점검했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06545_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

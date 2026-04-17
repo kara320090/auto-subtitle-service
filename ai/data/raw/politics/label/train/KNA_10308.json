@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_10308",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.821,
+        "format": "MP4",
+        "date": "2023-01-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나 전 의원은 자택 앞에서 취재진을 만나서도 출마 여부에 대해 말을 아꼈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.212
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떠한 형태의 당의 모습과 전당 대회 모습이 총선 승리에 도움이 될 것인가에 대한 또 고민의 지점이 있다 이렇게 말씀드리겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.222,
+                "end": 14.535
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤심이 멀어진 듯한 상황에서 출마를 강행하거나 혹은 접더라도 모두 정치적 부담이 크기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.545,
+                "end": 21.821
+            }
+        ]
+    },
+    "summary": "나 전 의원은 출마 여부에 대해 말을 아꼈는데 이는 윤심이 멀어진 듯한 상황에서 출마를 강행하거나 혹은 접더라도 정치적 부담이 크기 때문이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10308_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

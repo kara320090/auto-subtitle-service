@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_00683",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.033,
+        "format": "MP4",
+        "date": "2023-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조심하세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.171
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "발사",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.181,
+                "end": 1.816
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 36까지 클리어 37 자 빠르게 빠르게 진행 자 요런식으로 진행을 해 주면 되고요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.826,
+                "end": 16.633
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자 용가리까지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.643,
+                "end": 18.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조심하세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.486,
+                "end": 20.033
+            }
+        ]
+    },
+    "summary": "남성이 36까지 클리어하고 37도 빠르게 진행을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_00683_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

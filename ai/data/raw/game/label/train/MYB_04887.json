@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_04887",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.0,
+        "format": "MP4",
+        "date": "2022-10-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "목 마르다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.875
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대체적으로 그냥 클로티드가 더 승률이 높게 나오는 것도 있고 안 될 때도 있고 하지만 클로티드 덱은 치명적인 단점이",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.885,
+                "end": 9.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "목 마르다고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.922,
+                "end": 11.332
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 벨벳 덱한테 너무 약해요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.342,
+                "end": 14.851
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그거 한번 보여 보여드리겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.861,
+                "end": 18.000
+            }
+        ]
+    },
+    "summary": "대체적으로 클로티드가 승률이 높게 나오지만 단점이 벨벳 덱한테 약하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04887_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

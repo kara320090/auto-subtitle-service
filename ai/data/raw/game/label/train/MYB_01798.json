@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYB_01798",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.733,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어쩌다 보니 잠시 목표가 같은 거라고 생각해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하하하. 동맹을 위한 동맹?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.410,
+                "end": 7.336
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좋아 잘 부탁한다. 용과드래곤 쿠키.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.346,
+                "end": 11.302
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다시 한 번 나란히 싸울 수 있어 영광이었습니다 홀리베리쿠키님.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.312,
+                "end": 17.741
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내기는 홀리베리쿠키 님의 승리입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.751,
+                "end": 21.733
+            }
+        ]
+    },
+    "summary": "홀리베리쿠키와 나란히 싸울 수 있어 영광이었다. 내기는 홀리베리쿠키의 승리이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01798_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_01798_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

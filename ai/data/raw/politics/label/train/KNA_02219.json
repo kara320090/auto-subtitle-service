@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_02219",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.688,
+        "format": "MP4",
+        "date": "2022-04-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전략동맹을 강화해 나가겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.435
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인수위 관계자는 작년 5월 워싱턴 한미 정상회담이 많은 주제를 열거했었다면 이번엔 몇 가지 주제에 대해 구체적인 방안이 도출될 것이라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.445,
+                "end": 15.372
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최우선 의제는 북한의 핵미사일 위협 대응입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.382,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "인수위 관계자는 이번 한미 정상회담에서 몇 가지 주제에 대해 구체적인 방안이 도출 될 것이라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02219_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02219_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

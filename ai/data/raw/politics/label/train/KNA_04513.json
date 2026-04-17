@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "KNA_04513",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.062,
+        "format": "MP4",
+        "date": "2021-10-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단속 사실을 아예 몰랐던 학부모도 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.879
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 지금 단속도 하고 있었는데 혹시 전혀 모르셨어요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.889,
+                "end": 6.043
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.053,
+                "end": 6.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 죄송한데 학원이 늦어 가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.842,
+                "end": 8.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도로 교통법이 바뀌면서 어린이 보호 구역 내 모든 도로에서 주정차가 전면 금지됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.897,
+                "end": 16.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울시와 경찰 각 자치구는 등하교 시간대 집중 단속에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.283,
+                "end": 21.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 같은 어린이 보호 구역에서는 잠깐만 차를 세워도 일반 도로보다 세 배 많은 과태료 최소 12만 원이 부과됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.526,
+                "end": 29.062
+            }
+        ]
+    },
+    "summary": "도로 교통법이 바뀌면서 어린이 보호 구역내 모든 도로에서 주정차가 전면 금지됐으며 등하교 시간대 집중 단속에 나섰다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04513_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04513_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYB_07002",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.4,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "절로 가서 살려주실래요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "위험해 보이는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.369,
+                "end": 3.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조심해 모두.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.233,
+                "end": 17.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주삿바늘이 나오고 있댔어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.379,
+                "end": 21.257
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아프겠지요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.267,
+                "end": 44.400
+            }
+        ]
+    },
+    "summary": "플레이어들이 서로 도와가며 가고 있었지만 끝까지 못 가고 다 죽게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

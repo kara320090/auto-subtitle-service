@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_33515",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2023-06-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 최근에는 에이 씨가 내년 부산 지역 총선 출마를 위해 국민의힘 지도부와 접촉했다는 추가 의혹도 제기되며 논란은 커졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 황보 의원은 경찰 수사 등은 이혼한 전남편의 일방적인 주장에 근거한 것이라며 반박해왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.441,
+                "end": 15.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전남편에 의한 가정폭력 피해 사실까지 공개하면서 사적 보복이라고도 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.006,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "황보 의원은 최근 받고 있는 의혹에 대해서 반박하며 전남편의 사적 보복이라고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33515_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

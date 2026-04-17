@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_10333",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.466,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 새벽에 자꾸 깨서 그런 거 같아. 이거 렌더링 돌리느라고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유튜브 영상 올리느라고 렌더링 돌리고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.795,
+                "end": 5.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 돌아가면은 그 올리고 뭐하고 썸네일 만드느라 늦게 자고 막 이래가지고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.115,
+                "end": 13.283
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘도 일어나가지고 샐러드 먹고 다시 잠들어갖고 5시, 6시 다 돼서 일어났어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.293,
+                "end": 18.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잠 귀신 들린 거 같아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.651,
+                "end": 22.466
+            }
+        ]
+    },
+    "summary": "여자 게임 유튜버는 유튜브 영상을 올리기 위해 렌더링 돌리고 올리고 썸네일 만드느라 늦게 자서 늦게 일어난다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10333_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

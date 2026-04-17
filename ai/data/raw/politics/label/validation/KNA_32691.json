@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNA_32691",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-10-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "추석 연휴 뒤 윤석열 대통령은 첫 일정으로 재항 군인회 창설 기념식을 찾았습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 안보가 안팎으로 위협받고 있다면서 북한 핵 미사일 개발과 이른바 가짜 평화론, 가짜 뉴스를 요인으로 거론했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.102,
+                "end": 14.239
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대북 정찰 자산을 축소 운영하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.249,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "윤석열 대통령이 추석 연휴 뒤 재항 군인회 창설 기념식을 찾아 우리 안보가 안팎으로 위협받고 있다면서 북한 핵 미사일 개발과 가짜 뉴스를 요인으로 거론했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32691_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

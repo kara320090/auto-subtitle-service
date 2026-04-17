@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_02151",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.033,
+        "format": "MP4",
+        "date": "2023-05-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 가장 좋은 옵션 3개 도트 피해량 아군 피해량 그 다음에 치명타 피해 증가",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거 3개 하시면 됩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.495,
+                "end": 8.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "30억 가자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.229,
+                "end": 9.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "출발",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 9.219,
+                "end": 12.832
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자 30억 드가자 드가자 드가자.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.842,
+                "end": 23.033
+            }
+        ]
+    },
+    "summary": "가장 좋은 옵션 확인하고 높은 점수를 따기 위해 게임을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02151_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 41,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_09169",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.722,
+        "format": "MP4",
+        "date": "2022-11-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "구속기간 만료로 오늘 새벽 석방된 @이름1 변호사.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당일 곧바로 대장동 재판에 출석했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.493,
+                "end": 7.111
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진술 태도 바꾸신 이유.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.121,
+                "end": 9.989
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 법정에서 소상히 말씀드리겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.999,
+                "end": 13.924
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "풀려난 지 10시간 만에 증인으로 나선 남 변호사는 검찰 조사 당시 사실대로 진술하지 못한 것이 있다며 작심 발언을 쏟아냈습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 13.934,
+                "end": 22.722
+            }
+        ]
+    },
+    "summary": "석방 직후 @이름1 변호사는 대장동 재판에 출석했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09169_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

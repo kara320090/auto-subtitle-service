@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_02245",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.256,
+        "format": "MP4",
+        "date": "2022-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 대통령이 마음대로 할 수 있는 권한이라고 생각하지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.459
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난주 문 대통령이 국민 청원 답변에서 이명박 전 대통령 사면을 두고 찬반 의견 모두 많다고는 했지만 여론 조사 상으로는 여전히 반대 여론이 훨씬 높습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.469,
+                "end": 17.377
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김경수 전 경남 지사나 정경심 전 교수에 대한 사면 역시 마찬가지입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.387,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "지난주 문 대통령이 국민 청원 답변에서 이명박 전 대통령 사면을 두고 찬반 의견 모두 많다고는 했지만 여론 조사 상으로는 여전히 반대 여론이 훨씬 높다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02245_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

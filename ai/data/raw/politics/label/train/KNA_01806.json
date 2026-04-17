@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNA_01806",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.649,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "딱 보면 제 눈에는 견적이 나옵니다. 그냥",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 후보는 사전 투표 후 유엔 기념 공원을 참배하고 지지세가 강한 대구 경북 등 영남 지역을 잇달아 방문합니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 3.728,
+                "end": 12.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당 심상정 후보는 남편과 함께 사전 투표를 마쳤습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.216,
+                "end": 16.649
+            }
+        ]
+    },
+    "summary": "윤 후보는 사전 투표 후 유엔 기념 공원을 참배하고 지지세가 강한 대구 경북 등 영남 지역을 잇달아 방문하였고 정의당 심상정 후보는 남편과 함께 사전 투표를 마쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01806_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01806_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

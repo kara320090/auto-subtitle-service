@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_04747",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.601,
+        "format": "MP4",
+        "date": "2021-12-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이틀째 태업 중인 제1 야당 대표 복귀 대신 부산 장제원 의원 사무실을 기습 방문 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.138
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지나가다 들렀다지만 하필 윤석열 후보 측근으로 꼽히는 장 의원 사무실을 찍어 찾은 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.148,
+                "end": 12.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어젯밤엔 정의화 전 국회 의장을 만나 선대위 갈등 문제를 상의했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.404,
+                "end": 17.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "입만 열지 않았지 선대위에 불만을 표하는 행보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.635,
+                "end": 21.640
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대선을 앞두고 폭발한 분열 양상에 당 중진들까지 모여 우려했지만 윤석열 후보 일단 기다려보겠다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.650,
+                "end": 29.224
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당무를 거부하고 있는 상태도 아니고 지금 뭐 부산에 좀 뭐라 그럴까 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.234,
+                "end": 34.601
+            }
+        ]
+    },
+    "summary": "이틀째 태업 중인 제1야당 대표가 윤석열 후보 측근으로 꼽히는 장 의원 사무실을 지나가다 들렀다며 기습 방문 했고 어젯밤엔 정의화 전 국회 의장을 만나 선대위 갈등 문제를 상의하는 등 선대위에 불만을 표하는 행보를 보인 한편 대선을 앞두고 폭발한 분열 양상에 당 중진들까지 모여 우려했지만 윤석열 후보는 일단 기다려보겠다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04747_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04747_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

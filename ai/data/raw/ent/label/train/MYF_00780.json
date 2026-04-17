@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_00780",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 44.085,
+        "format": "MP4",
+        "date": "2023-08-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "분위기는 정말 좋습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이. 매운탕 거리 와 대박. 이건 먹을 것 좀 있겠는데요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.845,
+                "end": 33.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비 오고 그 계곡형 소류지라 저 산에서 물 내려오니까 냉수대 껴서 그런건지",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 33.528,
+                "end": 44.085
+            }
+        ]
+    },
+    "summary": "사람들이 소류지에서 매운탕거리를 낚았다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00780_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

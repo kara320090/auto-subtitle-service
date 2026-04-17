@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNA_01446",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.288,
+        "format": "MP4",
+        "date": "2022-06-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘부터 비공개 회의에서 현안 논의는 하지 않도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비공개 내용이 자꾸 언론에 보도되는 상황이 불편하다는 건데 배현진 최고 의원을 탓하는 듯한 발언을 내놓으면서 설전이 격화 됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.143,
+                "end": 13.874
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "본인께서 언론과 나가서 얘기하신 거를 언론인들이 쓴 것을 누구의 핑계를 대면서 지금 비공개 회의를 합니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.884,
+                "end": 19.585
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "그만합시다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.595,
+                "end": 20.286
+            }
+        ]
+    },
+    "summary": "비공개 내용이 언론에 보도되는 상황이 불편한 듯 의원을 탓하는 발언을 내놓으며 설전이 격화 됐다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01446_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01446_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

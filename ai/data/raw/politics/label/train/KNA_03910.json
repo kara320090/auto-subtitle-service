@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNA_03910",
+        "category": "정치뉴스",
+        "sub_category": 20,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.987,
+        "format": "MP4",
+        "date": "2021-05-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 국회에서는 대학생뿐 아니라 대학원생도 빌린 학자금을 취업한 뒤에 갚을 수 있도록 하는 법안과 어린이집 시시티비 원본을 부모가 볼 수 있는 권한을 명확히 한 법안도 통과됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주민등록등본 같은 각종 행정 서류를 일일이 발급받지 않고도 제3자에게 전송하는 게 가능토록 하는 법안도 국회 문턱을 넘었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.888,
+                "end": 20.987
+            }
+        ]
+    },
+    "summary": "대학생과 대학원생이 빌린 학자금을 취업 후 갚게 하는 법안을 비롯해 부모가 어린이집 시시티비를 볼 권한 등이 국회 본회의를 통과했다는 소식이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03910_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03910_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": null,
+                    "act": 102
+                }
+            ]
+        }
+    ]
+}

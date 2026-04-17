@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_01212",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.722,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "감동적인 웰메이드 신작 드라마를 이제 보여주십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.257
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 토론회의 전체 영상은 중앙 선거 방송 토론 위원회 홈페이지와 KBS 뉴스의 홈페이지 유튜브 채널을 통해 다시 볼 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.267,
+                "end": 13.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 황진우입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.529,
+                "end": 16.798
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내일과 모레 이틀간 지방 선거와 국회 의원 보궐 선거의 사전 투표가 진행되죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.808,
+                "end": 22.722
+            }
+        ]
+    },
+    "summary": "이번 토론회의 전체 영상은 중앙 선거 방송 토론 위원회 홈페이지와 KBS 뉴스의 홈페이지 유튜브 채널을 통해 다시 볼 수 있으며 내일과 모레 이틀간 지방 선거와 국회 의원 보궐 선거의 사전 투표가 진행된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01212_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01212_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

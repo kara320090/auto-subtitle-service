@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01390",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.051,
+        "format": "MP4",
+        "date": "2022-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김 당선인도 광역적으로 풀어야 할 문제들이 많다며 호응했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "취임 직후부터 만들어서 어 함께 에 이 수도권의 주민들이 겪을 수 있는 여러 가지 불편 사항을 해소해 드리고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.120,
+                "end": 14.588
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 오 시장님과 함께 우리 인천 시장님도 함께 이렇게 삼자 간에",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.598,
+                "end": 18.051
+            }
+        ]
+    },
+    "summary": "김 당선인도 광역적으로 풀어야 할 문제들이 많다며 호응했고 오 시장은 함께 수도권의 주민들이 겪을 수 있는 여러 가지 불편 사항을 해소하겠다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01390_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 43,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01390_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

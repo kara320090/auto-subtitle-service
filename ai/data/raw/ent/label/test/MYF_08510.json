@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYF_08510",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.757,
+        "format": "MP4",
+        "date": "2019-04-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희는 지금 어 브릿지 공간하고 함께 사용하기 위해서 이제 테두리가 있어서 함께 어 캣타워랑 브릿지랑 연동하여 사용할 수 있도록 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "달래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.763,
+                "end": 20.826
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헤 달래 자고 있구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.836,
+                "end": 23.757
+            }
+        ]
+    },
+    "summary": "테두리가 있어 캣타워와 브릿지를 연동하여 사용할 수 있도록 했고 고양이 달래는 자고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08510_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_08510_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 48
+                }
+            ]
+        }
+    ]
+}

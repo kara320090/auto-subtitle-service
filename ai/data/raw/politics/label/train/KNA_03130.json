@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_03130",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.002,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2월 한 달 동안 온누리 상품권도 10퍼센트 할인돼 판매됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할인 구매 한도도 월 50만 원에서 100만 원으로 높여 모두 1조 원어치의 상품권을 판매하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.366,
+                "end": 11.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "명절 수요에 대비해 자금 지원도 늘리는데 특별 자금 대출과 신용 보증 기금 기술 보증 기금 보증을 통해 38조 4000억 원을 공급합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.642,
+                "end": 21.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난해보다 2조 1000억 원이 늘어난 규모입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.856,
+                "end": 24.991
+            }
+        ]
+    },
+    "summary": "2월 한 달 동안 10퍼센트 할인한 1조 원어치의 온누리 상품권을 판매하기로 했고 명절 수요에 대비해 자금 지원도 지난해보다 2조 1000억 원 늘려 38조 4000억 원을 공급합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03130_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 23
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03130_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

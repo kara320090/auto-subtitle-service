@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_04295",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.7,
+        "format": "MP4",
+        "date": "2020-12-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 우리가 아는 에스티 로더의 그 시작이 바로 그렇게 이제 시작이 된 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에스티 로더의 화장품이 이제 백화점에서도 판매가 되고 정말 많은 사람들에게 이제 사랑을 받게 되는 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.502,
+                "end": 9.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 1953년에 에스티 로더 여사님이 왜 향수를 입지 않을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.526,
+                "end": 14.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국 여성들은 이제 이런 질문을 하면서 향수를 만들게 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.852,
+                "end": 18.700
+            }
+        ]
+    },
+    "summary": "에스티 로더는 미국 여성들은 향수를 왜 안 쓰는지 이런 질문을 하면서 1953년에 향수를 만들게 됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04295_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04295_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

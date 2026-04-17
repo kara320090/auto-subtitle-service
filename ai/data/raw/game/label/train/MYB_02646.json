@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_02646",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.733,
+        "format": "MP4",
+        "date": "2023-03-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방송 언제까지 볼 수 있죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저렇게 물어보시는 거 보면은 자러 가야 되는데 방종할 때 까지 보겠다는 거죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.833,
+                "end": 7.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.831,
+                "end": 34.733
+            }
+        ]
+    },
+    "summary": "남성은 방송 종료 시간 물어보는 거 보면 자러 가야 하는데 방종할 때까지 보겠다는 거라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02646_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

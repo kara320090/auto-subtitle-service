@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_11226",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.966,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 교회로 끌려갔대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.790
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 마을 어딘가에 수집요소가 진짜 있을 것 같은데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.800,
+                "end": 23.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마을 조용한 거봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.703,
+                "end": 25.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밥 먹다 끌려 갔나봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.684,
+                "end": 28.966
+            }
+        ]
+    },
+    "summary": "마을이 조용한 거 보니 밥 먹다 교회로 끌려 간 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11226_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

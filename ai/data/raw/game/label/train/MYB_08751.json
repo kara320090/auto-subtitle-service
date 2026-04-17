@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYB_08751",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.1,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "황금에 평원.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.599,
+                "end": 6.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.706,
+                "end": 8.353
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.446,
+                "end": 11.833
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다른 거 누르면 어떻게 될까 음",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.880,
+                "end": 14.240
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.306,
+                "end": 17.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동쪽에는 대지의 은혜였는데 이렇게 말하면 어떻게 될까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.960,
+                "end": 22.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.800,
+                "end": 29.100
+            }
+        ]
+    },
+    "summary": "영상에서는 동쪽에는 대지의 은혜였지만 다른 거 누르면 어떻게 될지 궁금하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08751_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

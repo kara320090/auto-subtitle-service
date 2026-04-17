@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYB_08088",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.401,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 빨리 얘기해 봐",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 반지를 만든 건 내 동문 형제래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.187,
+                "end": 15.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "졸탄",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.187,
+                "end": 18.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 싸우고 헤어진 뒤로 몇십 년 때 못 봤는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.276,
+                "end": 26.400
+            }
+        ]
+    },
+    "summary": "한 여성이 게임에서 졸탄이라는 캐릭더에 대해 설명을 듣고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08088_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

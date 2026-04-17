@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYB_10214",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.4,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과연 배신을 할까 아니겠지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 17.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하 한숨 소원권이라니 당장 달려갑니다 누나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.860,
+                "end": 25.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소원을 마음껏 빌어 주세요 뭐든 하겠습니다 꿀꿀",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.256,
+                "end": 31.400
+            }
+        ]
+    },
+    "summary": "화자가 소원을 빌어달라는 멘트를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10214_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

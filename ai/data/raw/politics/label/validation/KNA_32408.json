@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32408",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.787,
+        "format": "MP4",
+        "date": "2023-08-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "핵심 자원 공급망과 반도체 등의 첨단 기술 협력도 강화해 위협에 공동 대응하자는 논의도 이뤄질 걸로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 한미일 정상 회의 정례화 가능성을 대통령실이 언급했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.138,
+                "end": 13.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "회담의 정례화 문제는 지금 공감대가 조성되고 있기 때문에 정상들 간의 협의의 결과에 따라서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.610,
+                "end": 20.787
+            }
+        ]
+    },
+    "summary": "한미일 삼국은 첨단 기술 협력을 강화해 위협에 공동 대응하자는 내용의 논의를 할 것으로 보이며 대통령실은 한미일 정상 회의 정례화 가능성에 대해 정상들 간 협의 결과에 따라 달라질 것이라고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32408_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

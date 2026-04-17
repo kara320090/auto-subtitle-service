@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYB_08879",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 50.066,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.463
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 아하 그럼 말이 죽은 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.473,
+                "end": 12.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나 방종해야 돼 지금 싸우지 마.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.188,
+                "end": 28.648
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나 방종해야 된다고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.658,
+                "end": 33.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일 싸워.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 33.533,
+                "end": 36.469
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 보통내기가 아닌가 봐요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 36.479,
+                "end": 44.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한쪽 손만 써도 널 이길 수 있다고 지금 보여주고 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 44.673,
+                "end": 50.066
+            }
+        ]
+    },
+    "summary": "보통내기가 아닌지 한쪽 손만 써도 널 이길 수 있다고 보여주고 있다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08879_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

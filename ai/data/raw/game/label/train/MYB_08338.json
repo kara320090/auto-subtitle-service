@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_08338",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.204,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜 안돼 금방 죽을 것 같긴 한데 이 쯤은 우습지 흥.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 14.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하 광산 우습죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.051,
+                "end": 17.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응 와 태호야 아이 무서워 얼굴 와 무서워써 얼굴 진짜 개무섭게 생겼어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.657,
+                "end": 33.200
+            }
+        ]
+    },
+    "summary": "게임에서 광산쯤은 우습고 뒤이어 태호가 나왔는데 얼굴이 너무 무섭게 생겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08338_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

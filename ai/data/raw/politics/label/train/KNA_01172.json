@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_01172",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.42,
+        "format": "MP4",
+        "date": "2022-05-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박 위원장은 거듭 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.259
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다양한 의견이 있는 게 민주주의라고 생각을 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.269,
+                "end": 5.846
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당내에서 협의를 거쳐갈 수 있는 과정이라고 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.856,
+                "end": 9.143
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘에선 윤종원 전 청와대 경제 수석이 장관급인 총리실 국무 조정실장에 내정된 사실이 알려지면서 당내 우려가 제기됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.153,
+                "end": 18.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "권성동 원내 대표가",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.332,
+                "end": 20.420
+            }
+        ]
+    },
+    "summary": "박 위원장은 다양한 의견에 대해 당내에서 협의를 거쳐갈 수 있을 것이라고 말했고 국민의힘에선 윤종원 전 청와대 경제 수석이 총리실 국무 조정실장에 내정된 것에 우려가 제기됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01172_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01172_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

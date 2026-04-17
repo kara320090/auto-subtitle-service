@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_10715",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 29.5,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.123
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 초코보가 끌고 가던 게 아니라 초코보가 노리고 있는 거였어?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.133,
+                "end": 12.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 12.948,
+                "end": 14.327
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "느낌 있어요?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.337,
+                "end": 15.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 15.616,
+                "end": 29.500
+            }
+        ]
+    },
+    "summary": "화자1은 초코보가 마차를 끌고 가던 게 아니라 노리고 있는 거였냐고 했고 댓글에서는 외국어가 느낌 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10715_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

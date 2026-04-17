@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYF_10569",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.78,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "화장실밖에 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.174
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "슬프다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.184,
+                "end": 2.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오믈렛을 먹으러 다녀오겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.477,
+                "end": 4.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중문에 있는 오믈렛 집에 왔어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.828,
+                "end": 8.796
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "둘레길이라는 곳이고 오믈렛이랑 파스타가 맛있다네요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.806,
+                "end": 13.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 와 이야 멋있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.459,
+                "end": 28.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맛있겠네. 이것도 이거",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.263,
+                "end": 30.780
+            }
+        ]
+    },
+    "summary": "화자1은 중문에 있는 둘레길이라는 곳에 왔는데 오믈렛과 파스타가 맛있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10569_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 64,
+                    "act": 24
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_10569_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 31,
+                    "act": 67
+                }
+            ]
+        }
+    ]
+}

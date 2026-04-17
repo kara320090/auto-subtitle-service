@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00181",
+        "category": "정치뉴스",
+        "sub_category": 41,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.056,
+        "format": "MP4",
+        "date": "2022-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재판부는 이상직 의원이 선거에 공정하게 임해야 하는 책임을 져버려 비난 가능성이 크다고 판시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 특정 정당의 지지율이 우세하다고 여겨지는 지역에서 공천 과정의 공정성이 확보되지 않는다면 당선에 미치는 영향이 크다고 덧붙였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.791,
+                "end": 16.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대법원에서 확정 판결이 나면 이 의원은 국회 의원직을 잃게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.888,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "재판부는 이상직 의원이 선거에 공정하게 임해야 하는 책임을 져버렸고 특정 정당의 지지율이 우세한 지역에서 공천 과정의 공정성이 확보되지 않는다면 당선에 미치는 영향이 크며 이 의원은 대법원에서 확정 판결이 나면 국회 의원직을 잃게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00181_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00181_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

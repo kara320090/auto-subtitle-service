@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_09790",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 54.866,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 이제는 한방에 안 죽네 원래 궁수는 한방에 다 나가 떨어졌는데 이제 한방에 안 죽네 좀 더 자라나야 겠는걸 맞아 궁사로 아 파인다이닝 아니고 아유 @이름1님 왜 이렇게 오랜만이에요 어서와요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.122,
+                "end": 41.738
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "파인다이닝 아니고 파이널 판타지 판타지가 뭔진 아시는지 모르겠지만 마법이 공존하는 세상이라고나 할까 저 지금 개 세요 저 이 게임 끝나고 나면 중2병 걸릴 듯",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.748,
+                "end": 54.866
+            }
+        ]
+    },
+    "summary": "판타지는 마법이 공존하는 세상이라고 할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09790_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

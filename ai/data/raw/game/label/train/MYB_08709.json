@@ -1,0 +1,165 @@
+{
+    "metadata": {
+        "filename": "MYB_08709",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.4,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "남자 7세 마동석.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.253
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.263,
+                "end": 8.046
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.056,
+                "end": 10.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "술 많이 먹었나 본데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.240,
+                "end": 11.500
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.530,
+                "end": 13.150
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.240,
+                "end": 18.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타보르란 마을이 있는데 그 마을에 자주 신세를 졌고 아카시아를 해치워 달래요 동료들도 아카시아 화됐대.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.860,
+                "end": 27.670
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.686,
+                "end": 28.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.540,
+                "end": 29.400
+            }
+        ]
+    },
+    "summary": "여자는 상대가 술을 많이 먹은 것 같다면서 타보르 마을에 신세를 졌기 때문에 아카시아를 해치워달라는 말을 들었다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08709_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08709_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

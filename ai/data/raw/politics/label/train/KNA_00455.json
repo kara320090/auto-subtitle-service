@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00455",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한국 경제를 다시 성장 궤도에 올려 놓겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 밖에 신생 업체들을 대상으로 주 52시간 근무제 예외 적용 확대 등 노동과 기업 정책 변화도 가시화될 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.455,
+                "end": 16.299
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 김수현입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.309,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "신생 업체들을 대상으로 주 52시간 근무제 예외 적용 확대 등 노동과 기업 정책 변화도 가시화될 것으로 보입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00455_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

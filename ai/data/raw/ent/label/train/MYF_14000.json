@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYF_14000",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.456,
+        "format": "MP4",
+        "date": "2020-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 시루가 저희랑 놀아주고 있는데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시루가 저희에게 새로운 게임을 가르쳐주고 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.106,
+                "end": 10.484
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일명 바나나 박스 두더지 잡기인데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.494,
+                "end": 13.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시루 잡기죠 시루가 기가 막히게 알고",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 13.386,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "여성이 고양이와 두더지 잡기 게임을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_14000_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

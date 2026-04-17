@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "MYF_00417",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 43.2,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마이 프레셔스 골룸, 골룸",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "테슬라 튜닝 끝판왕",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.829,
+                "end": 8.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 카터뷰 튜닝 끝판왕의 이아나입니다 삐까",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.435,
+                "end": 30.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "테슬라 모델 쓰리 퍼포먼스와 함께합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.942,
+                "end": 33.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 제가 얼마 전에 테슬라는 튜닝차가 별로 없다 그래서 제가 직접 튜닝 해 드리겠다 99만원 쏩니다 했던 영상, 기억 나시죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 33.985,
+                "end": 43.200
+            }
+        ]
+    },
+    "summary": "카터뷰 튜닝 끝판왕의 이아나가 테슬라 모델 쓰리 퍼포먼스를 소개하며, 얼마 전 테슬라는 튜닝차가 별로 없어서 직잡 튜닝해 드리겠다며 99만원 쏜다던 영상 기억 나시냐며 지난 영상 언급.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00417_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00417_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

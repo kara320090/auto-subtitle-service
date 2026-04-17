@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_02624",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.388,
+        "format": "MP4",
+        "date": "2022-06-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 더 강화 시켜야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인의 이해 관계로 따지면 손익이 차이가 있지만 전체적으로 보면 우리 사회의 공평성을 도모하는 일이거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.981,
+                "end": 9.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부는 이번 개편이 건보 재정에 큰 충격 없이 운용 가능하다고 밝혔지만 투입되는 재정은 연간 2조 원 이상입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.115,
+                "end": 17.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난해 말 기준 건보 누적 적립금은 20조 원입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.817,
+                "end": 21.388
+            }
+        ]
+    },
+    "summary": "전체적으로 보면 우리 사회의 공평성을 도모하는 일이므로 강화시켜야 한다고 했고 투입되는 재정이 2조 원 이상이며 누적 적립금은 20조 원이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02624_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02624_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

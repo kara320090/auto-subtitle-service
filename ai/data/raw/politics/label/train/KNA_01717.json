@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "KNA_01717",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.198,
+        "format": "MP4",
+        "date": "2022-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강원 원주에서 유세를 이어갑니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 송락규입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.708,
+                "end": 5.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘 윤석열 후보는 어제까지 이틀 일정으로 호남 지역 유세를 돌며 지지를 호소했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.000,
+                "end": 12.089
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가는 곳마다 김대중 전 대통령을 추켜세웠고 김 전 대통령의 생가를 찾아선 통합의 정신을 계승하겠다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.099,
+                "end": 20.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘은 경기 수원에서 유세에 나섭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.130,
+                "end": 22.487
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방준원 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.497,
+                "end": 26.905
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "국민의힘 윤석열 후보는 1시간 반 배를 타고 김대중 전 대통령 생가를 찾았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.915,
+                "end": 32.198
+            }
+        ]
+    },
+    "summary": "민주당 이재명 후보는 강원 원주에서 유세를 이어가고 국민의힘 윤석열 후보는 어제까지 이틀 일정으로 호남 지역 유세를 돌며 지지를 호소했고 오늘은 경기 수원에서 유세에 나선다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01717_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01717_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

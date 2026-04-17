@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYF_13650",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.356,
+        "format": "MP4",
+        "date": "2020-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1가 한번 나와보네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2가 갔나 하고 나왔는데 웬걸 @이름2가 딱 지키고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.595,
+                "end": 7.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 안으로 @이름1가 밖으로 나올 수 있을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.632,
+                "end": 14.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2야 혹시 니가 안에 들어가고 싶은 거 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.039,
+                "end": 18.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1가 있는데 @이름2가 들어가고 싶은데 나오진 않고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.632,
+                "end": 23.356
+            }
+        ]
+    },
+    "summary": "@이름1이 한번 나왔으나 @이름2가 지키고 있자 여성은 @이름2가 안에 들어가고 싶은 거 아니냐고 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13650_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 91
+                }
+            ]
+        }
+    ]
+}

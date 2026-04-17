@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_02321",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2022-05-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 국회에 제출됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.784
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 16일 추경안에 대한 국회 시정 연설에도 나섭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.794,
+                "end": 6.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 국무 회의가 끝난 뒤 청문 보고서가 도착한 산자부 이창양 중기부 이영 2명의 장관도 추가로 임명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.323,
+                "end": 15.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이로써 초대 내각의 장관은 11명이 임명됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.483,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "윤 대통령은 추경안에 대한 국회 시정 연설에 나설 것이며 국무회의가 끝난 뒤 2명의 장관을 추가 임명해 초대 내각의 장관이 11명이 임명됐다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02321_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02321_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

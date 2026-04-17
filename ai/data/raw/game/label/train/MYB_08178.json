@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYB_08178",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.5,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.205
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "별 거 아니야 내가 여태까지 구해 준 마을이 몇 개더라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.215,
+                "end": 5.592
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 게임 저 게임 다하면 몇백 개쯤은 될 듯",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.602,
+                "end": 13.176
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아 스덴은 중대 사항이긴 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.186,
+                "end": 17.443
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 스덴이 그냥 쓰면 안 된다면서요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.453,
+                "end": 20.362
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연마제 있어 가지고 연마제 때문에 다 닦아서 써야 된대 베이킹 소다로 난 몰랐다 그냥 썼는데 여태까지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.372,
+                "end": 30.500
+            }
+        ]
+    },
+    "summary": "여자가 스테인리스 제품은 연마제가 있어서 그냥 사용하면 안 되고 베이킹 소다로 닦아서 사용해야 한다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08178_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

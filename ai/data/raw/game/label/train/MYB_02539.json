@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYB_02539",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.4,
+        "format": "MP4",
+        "date": "2023-04-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "변이",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "변이 됐어?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.600,
+                "end": 3.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이렇게 변이 됐네요. 도토리 된 거 맞아?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.012,
+                "end": 6.613
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자꾸 자극하면",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.623,
+                "end": 9.402
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 도토리 변이가 진짜 너무 짧아서 의미가 있나",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.412,
+                "end": 13.846
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내 활이 되어 주렴",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.856,
+                "end": 15.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 이거 의미가 없는 느낌이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.497,
+                "end": 17.484
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞서 가겠어",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.494,
+                "end": 20.400
+            }
+        ]
+    },
+    "summary": "도토리 변이가 짧아서 의미가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02539_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

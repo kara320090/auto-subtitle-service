@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_06613",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.72,
+        "format": "MP4",
+        "date": "2022-03-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부동산 매매 계약에서 대금은 다 지불한 상태 아닙니까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "필요한 조치는 하지만 이제 뭐 집을 이렇게 좀 고치거나 이런 건 잘 안 하지 않습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.398,
+                "end": 12.159
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령과 당선인이 직접 언급을 주고받으며 상황 관리는 더 어려워진 국면입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.169,
+                "end": 19.012
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.022,
+                "end": 20.720
+            }
+        ]
+    },
+    "summary": "대통령과 당선인이 직접 언급을 주고받으며 상황 관리는 더 어려워진 국면이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06613_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

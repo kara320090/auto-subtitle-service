@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYF_13807",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.954,
+        "format": "MP4",
+        "date": "2020-02-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름1 공 잡으러 나오세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공이 @이름1 보고 나를 잡아줘 하는데 @이름1야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.534,
+                "end": 6.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공은 어디로 가는 걸까 공은 굴러가고 있네 @이름2한테 가나 어 @이름3 한테 가네 공이 @이름3아 가봐 괜찮아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.497,
+                "end": 15.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가 봐 @이름3아 공이 정말 @이름3를 찾아가요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.637,
+                "end": 20.954
+            }
+        ]
+    },
+    "summary": "여자가 거실에 고양이 장난감 스마트 캣볼을 자동으로 작동 시켜놓으니 장난감이 고양이 @이름3한테 가고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13807_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

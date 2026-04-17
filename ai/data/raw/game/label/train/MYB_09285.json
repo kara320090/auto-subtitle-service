@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "MYB_09285",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.7,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "구경가 싸움 보니까 못한 지 오래됐다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 무서워 보면 누구보다 쉽고 빠르게 해치우는 나",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.780,
+                "end": 13.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.881,
+                "end": 16.673
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.683,
+                "end": 20.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헐 바로 말해 버려?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.370,
+                "end": 21.761
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.770,
+                "end": 23.700
+            }
+        ]
+    },
+    "summary": "주민들을 빠르게 해치웠으며 주인공의 물음에 바로 말해 버린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09285_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 10,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

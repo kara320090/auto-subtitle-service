@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_04640",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.824,
+        "format": "MP4",
+        "date": "2021-11-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보는 오후에는 봉화 마을을 방문해 노무현 전 대통령 묘역을 참배했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.649
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민 통합이라는 것이 용서와 화해의 통합도 있 있지만 또 부당한 기득권을 타파함으로써 또 국민 통합을 기여하는 측면이 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.659,
+                "end": 18.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보와 권양숙 여사와의 만남은 성사되지 않았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.318,
+                "end": 22.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.638,
+                "end": 24.824
+            }
+        ]
+    },
+    "summary": "윤 후보는 봉화 마을을 방문해 전 노무현 대통령 묘역을 방문해 참배했지만 권양숙 여사와의 만남은 성사되지 않았다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04640_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 49,
+                    "act": 58
+                }
+            ]
+        }
+    ]
+}

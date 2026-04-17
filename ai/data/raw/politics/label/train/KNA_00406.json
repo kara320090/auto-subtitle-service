@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_00406",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.418,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "연착륙 방안을 마련해 발표하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "핵심은 장기 분할 상환입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.580,
+                "end": 6.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상환 기간을 5년까지 길게 부여해 소액으로 나눠 갚을 수 있게 하고 차주가 신청하면 최대 1년의 거치 기간을 둘 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.467,
+                "end": 16.296
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 이를 위해 금융 당국이",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.306,
+                "end": 18.418
+            }
+        ]
+    },
+    "summary": "금융 당국은 핵심은 장기 분할 상환이며 방안을 마련해 발표하겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00406_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

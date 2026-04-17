@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYB_06290",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.666,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당신은 홀리베리 왕국에서 오셨다고 하셨죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "책에서 홀리베리 궁전에는 늘 아름다운 음악이 흐르고 우아하게 춤추는 쿠키들이 있다고 읽었어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.332,
+                "end": 10.672
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어머 그래 무슨 춤을 주로 추나요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.682,
+                "end": 14.111
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나도 최근에 춤 수업을 좀 받았는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.121,
+                "end": 17.641
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그건 제 분야가 아니라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.651,
+                "end": 19.666
+            }
+        ]
+    },
+    "summary": "남자는 자신의 왕국의 춤에 대해 궁금해하는 여자들에게 자신의 분야가 아니라며 말하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06290_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

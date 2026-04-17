@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYB_08001",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.3,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저번에 거지꼴로 성으로 다시 걸어 갔잖아 지 옷 찾아 입어가지고 온 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.699,
+                "end": 11.697
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 복주머니를 왜 들고 다녀?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.707,
+                "end": 13.819
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "남자친구는 어떻게 됐어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.829,
+                "end": 18.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "살았네 남자친구 살았네",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.037,
+                "end": 25.300
+            }
+        ]
+    },
+    "summary": "게임 캐릭터에서 남자친구는 어떻게 됐는지 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

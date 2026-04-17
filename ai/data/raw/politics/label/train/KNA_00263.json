@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00263",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.017,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보는 친노동이 친기업이자 친경제라며 노동과 기업의 협력적 관계를 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.232
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "노동자가 살아야 기업이 살고 기업이 살아야 경제가 삽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.242,
+                "end": 12.307
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서로가 서로에게 도움이 되는 협력적 관계를 만들어 내는 것",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.317,
+                "end": 17.017
+            }
+        ]
+    },
+    "summary": "이재명 후보는 친노동이 친기업이자 친경제라며 노동과 기업의 협력적 관계를 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00263_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

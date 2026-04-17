@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_24093",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.033,
+        "format": "MP4",
+        "date": "2023-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 총을 쏘든 옆에서 폭탄이 터지든",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 어떠한 강풍이나 폭발이 있어도 연막은 마치 늘 푸르른 소나무처럼 항상 그 자리를 꼿꼿히 지키고 서 있었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.629,
+                "end": 11.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만요 카운터 스트라이크 2에서의 연막은 주변 환경과 빛 총격",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.561,
+                "end": 17.033
+            }
+        ]
+    },
+    "summary": "총을 쏘든 옆에서 폭탄이 터지든 연막은 마치 늘 푸른 소나무처럼 항상 그 자리에 지키고 서 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_24093_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_00049",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2022-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "군은 경고 방송을 했고 A 씨는 초소를 우회하다 마을 주민과 마주치기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "A 씨가 3미터 높이의 철책을 넘은 건 저녁 6시 36분",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.512,
+                "end": 10.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "철책 감지 장치와 감시 카메라 등은 정상 작동했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.112,
+                "end": 14.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경보를 들은 소대장 등 6명은 6분 만에 현장에 도착했지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.420,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "A 씨가 철책을 넘을 때 감지 장치와 감시 카메라는 정상 작동하고 있었으며 마을 주민과 마주치기도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00049_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 64,
+                    "act": 44
+                }
+            ]
+        }
+    ]
+}

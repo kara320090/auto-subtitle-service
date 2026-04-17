@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "KNA_01921",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.891,
+        "format": "MP4",
+        "date": "2022-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 당선인 어제 오전 인수위 회의 뒤 주변 식당을 찾았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당초 예정대로라면 청와대에서 문재인 대통령과 오찬 회동을 했어야 할 시각이었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.922,
+                "end": 11.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령과 윤 당선인 간 오찬 회동 무산은 딱 4시간 전 공지됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.120,
+                "end": 17.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 실무적 협의가 마무리되지 않아서 일정을 다시 잡기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.124,
+                "end": 23.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "협의는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.197,
+                "end": 24.891
+            }
+        ]
+    },
+    "summary": "예정대로라면 청와대에서 문재인 대통령과 오찬 회동을 했어야 할 시각에 윤석열 당선인 어제 오전 인수위 회의 뒤 주변 식당을 찾았고 문 대통령과 윤 당선인 간 오찬 회동 무산은 딱 4시간 전 공지되었는데 실무적 협의가 마무리되지 않아서 일정을 다시 잡기로 했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01921_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 67,
+                    "act": 1
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01921_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

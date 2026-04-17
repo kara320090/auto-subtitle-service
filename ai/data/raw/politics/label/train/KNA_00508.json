@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00508",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.264,
+        "format": "MP4",
+        "date": "2022-03-17",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이르면 내일 오전 인수위 공식 출범을 알리는 현판식이 열릴 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이화진 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.586,
+                "end": 7.390
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령직 인수 위원회 7개 분과 가운데 경제 2와 과학 기술 교육 사회 복지 문화 분과에 인수 위원 인선이 오늘 발표됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.400,
+                "end": 17.753
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일자리 등 산업 정책을 담당하는 경제 2 분과에는 이창양 카이스트 경영학부 교수를 비롯해 과거 한국인 최초 우주인 후보로 선발됐던 고산 에이티 벤처 대표 등이 선임됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.763,
+                "end": 31.264
+            }
+        ]
+    },
+    "summary": "이르면 내일 오전 인수위 공식 출범을 알리는 현판식이 열릴 것으로 보이고 경제 2 분과에는 이창양 카이스트 교수와 고산 에이티 벤처 대표 등이 선임됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00508_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00508_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

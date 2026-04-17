@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01521",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.866,
+        "format": "MP4",
+        "date": "2023-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 5초월 됐네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 용과 5초월 야 나 근데 용과 여기에 돈 그렇게 많이 안 쓴 거 같은데 패키지 나름 그래도 잘 찍은 거 같다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.873,
+                "end": 14.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "샤이닝도 1성 자 일단 요거까지 마지막 뽑기 해서",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.895,
+                "end": 22.866
+            }
+        ]
+    },
+    "summary": "화자가 용과 5초월이 됐다고 하며 여기에 돈을 많이 쓰지 않은 것 같은데 패키지를 잘 찍은 것 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01521_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 13,
+                    "object": 38,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

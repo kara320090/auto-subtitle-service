@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_08207",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.166,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 와중에 토르 가르도 자기 자리가 있나봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.128,
+                "end": 4.798
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.808,
+                "end": 5.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멋있는데 방금 되게 캐릭터 선택장 같았어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.570,
+                "end": 11.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캐릭터 선택장 이거 보니까 딱 이 장면에서 그걸 생각난다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.671,
+                "end": 24.166
+            }
+        ]
+    },
+    "summary": "20대 여성이 영상을 보면서 멋있는데 방금 되게 캐릭터 선택장 같고 이거 보니까 이 와중에 캐릭터 토르 가르도 자기 자리가 있는 거 같다고 말을 하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08207_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 30,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_05413",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.4,
+        "format": "MP4",
+        "date": "2022-02-20",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제일 가까운 동선에 약국을 확인을 해가지고 갔거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 자가진단 키트를 사가지고 했는데 음성이 나왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.601,
+                "end": 8.965
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그날 음성이 나왔고 그때 그 임시 선별진료소 거기를 가가지고 그거를 검사를 받고 그다음 날이 왔고 갑자기 전화가 오는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.975,
+                "end": 19.400
+            }
+        ]
+    },
+    "summary": "여자가 가까운 약국에 가서 코로나19 자가진단 키트를 사서 검사를 했는데 음성이 나왔고 임시 선별진료소에 가서 검사를 받았는데 다음날 전화가 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_05413_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 39,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

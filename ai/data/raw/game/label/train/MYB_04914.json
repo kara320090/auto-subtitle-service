@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_04914",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.775,
+        "format": "MP4",
+        "date": "2022-09-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "퍼레이드를 시작할게",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "확실히 캡틴케비어가 여러분들 딜이 장난이 아닙니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.728,
+                "end": 6.425
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거의 1분 지나서 공증 100퍼센트 타임이 지나서 나가는 저 어뢰포는 뭐 5초윌이건 간에 올아몬드 간에 그냥 모든 쿠키들이 다 터지는 그런 그림들을 보일 수 있고 역시나 블랙펄 0티어 답게 딜이 미처 날뛰고 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.435,
+                "end": 24.766
+            }
+        ]
+    },
+    "summary": "확실히 캡틴케비어가 딜이 장난이 아니고 공증 100퍼센트 타임이 지나서 나가는 저 어뢰포는 모든 쿠키들이 다 터지는 그런 그림을 볼 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04914_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_04914_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

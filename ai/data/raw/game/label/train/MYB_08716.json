@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYB_08716",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.333,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.419
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "츤츤대기는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.429,
+                "end": 2.687
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.697,
+                "end": 4.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네네 그러십시오.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.220,
+                "end": 7.115
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 마을에나 돌아가십시오.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.125,
+                "end": 9.804
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "끼래 끼래 낄 낄슨 아싸 상자다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.814,
+                "end": 13.271
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 아까 전에 그러고 보니까 그 뭐지 카론 할머니랑",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.281,
+                "end": 19.333
+            }
+        ]
+    },
+    "summary": "여자는 츤츤댄다면서 마을에나 돌아가라고 했고 상자를 발견하고는 카론 할머니에 대해 언급한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08716_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08716_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

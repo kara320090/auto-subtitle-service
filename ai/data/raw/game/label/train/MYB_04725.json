@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_04725",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.866,
+        "format": "MP4",
+        "date": "2022-10-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 제이홉 쿠키 스킨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 알엠 쿠키 스킨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.729,
+                "end": 4.632
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리의 음악이 작은 힘이 되길.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.642,
+                "end": 6.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋습니다 쿠키 완품으로.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.202,
+                "end": 15.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이렇게 슈가 쿠키 꾸밈 템도 다 뽑아주고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.749,
+                "end": 20.999
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "많이 보고 싶었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.009,
+                "end": 22.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나왔다 마지막 정국 쿠키.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.428,
+                "end": 29.866
+            }
+        ]
+    },
+    "summary": "남성 화자가 제이홉 쿠키 스킨, 알엠 쿠키 스킨, 슈가 쿠키 마지막으로 정국 쿠키까지 뽑는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04725_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

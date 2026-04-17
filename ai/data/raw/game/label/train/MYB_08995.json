@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_08995",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.333,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 요만큼 가고 떨어져.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 있네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.254,
+                "end": 10.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장난감 기차가 칙칙 떠나간다. 과자와 사탕을 싣고서. 엄마 방에 있는 우리 아이한테 갖다주러 갑니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.710,
+                "end": 28.333
+            }
+        ]
+    },
+    "summary": "화자는 캐릭터들이 싸우는 것을 보면서 노래를 부른다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08995_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

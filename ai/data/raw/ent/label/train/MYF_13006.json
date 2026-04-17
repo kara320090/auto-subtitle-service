@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYF_13006",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.651,
+        "format": "MP4",
+        "date": "2023-09-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나무 저희 집에 온 20번째 막둥이 @이름1이랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 @이름2은 2주 전쯤에 저희 차 보닛에 들어가서 하는 수 없이 저희 집으로 오게 되었죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.675,
+                "end": 26.651
+            }
+        ]
+    },
+    "summary": "고양이는 2주 전쯤에 자동차 보닛에 들어가 구조한 20번째 막둥이라고 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13006_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

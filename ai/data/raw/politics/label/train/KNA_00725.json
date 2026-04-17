@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_00725",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.255,
+        "format": "MP4",
+        "date": "2022-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서울 중앙 지검은 오늘 판검사장에 대해 증거 불충분을 이유로 혐의 없음 처분했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 2020년 3월 당시 채널A 소속이던 이 전 기자가 이철 전 밸류인베스트코리아 대표에게 접근해 한 검사장과의 친분을 과시하며 유시민 작가 등 여권 인사의 비리 정보를 진술하도록 강요했다는 의혹이 제기됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.584,
+                "end": 22.255
+            }
+        ]
+    },
+    "summary": "서울 중앙 지검은 오늘 판검사장에 대해 증거 불충분을 이유로 혐의 없음 처분했다고 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00725_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00725_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 29
+                }
+            ]
+        }
+    ]
+}

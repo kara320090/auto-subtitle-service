@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYF_23082",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.996,
+        "format": "MP4",
+        "date": "2023-07-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맞지? 맞지 이거.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이건 뭐죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.515,
+                "end": 4.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 만든 쿠키 어 이건 돌돌이 조명선 이건 또 집게 쇼핑백 중짜 대짜 총 4만 9100원이었나?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.437,
+                "end": 24.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 산 것도 없는 거 같은데 많이 나왔네요. 비싸네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.172,
+                "end": 29.996
+            }
+        ]
+    },
+    "summary": "남성은 오늘 구입한 물품을 확인하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23082_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_23082_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

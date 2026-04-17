@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00245",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.915,
+        "format": "MP4",
+        "date": "2022-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자신이 조사해 온 사건에서 부당하게 배제됐다고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아홉 건이니까요 그 모든 기록이 검사 임은정으로 되어 있는데 총장님이 그걸 몰랐다는 건 상식적으로 사실일 순 없고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.173,
+                "end": 12.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대검은 애초에 임 담당관에게",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.793,
+                "end": 15.915
+            }
+        ]
+    },
+    "summary": "임은정 검사는 자신이 조사해 온 사건에서 부당하게 배제됐다고 주장했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00245_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

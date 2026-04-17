@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_13660",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.451,
+        "format": "MP4",
+        "date": "2020-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여러 가지로 정말 쓸모가 있는 좋은 장난감 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 무엇보다도 집사가 놀아주는 것이 아니고 고양이들이 스스로 함께 놀 수 있는 공간이라서 더 좋은 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.289,
+                "end": 15.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 @이름1가 왔네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.614,
+                "end": 18.451
+            }
+        ]
+    },
+    "summary": "이 장난감은 집사가 놀아주는 것이 아니라 고양이 스스로 함께 놀 수 있는 공간이라서 여러 가지로 쓸모가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13660_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

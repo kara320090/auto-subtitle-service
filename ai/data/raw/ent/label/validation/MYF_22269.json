@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_22269",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.54,
+        "format": "MP4",
+        "date": "2020-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 좀 자기관리?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 23.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저희 지금 격리 중 엄청 오래됐어요. 한 2주 정도 거의 집에만 있는데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.486,
+                "end": 34.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 너무 추하게 선크림 바르기 싫어서 맨날 이거 모자 쓰고 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.188,
+                "end": 40.540
+            }
+        ]
+    },
+    "summary": "화자는 거의 2주 정도 격리 중이며 선크림을 바르기 싫어서 매일 모자를 쓰고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22269_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 39,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

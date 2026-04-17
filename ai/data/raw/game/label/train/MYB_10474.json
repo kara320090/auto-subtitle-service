@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "MYB_10474",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.766,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보여요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 왕이랑 왕비가 어떻게 됐는지가 궁금한데 그건 볼 수가 없나?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.863,
+                "end": 18.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다시 일로 가면 음 어빌리티 찍고 싶은데 벤누 호수 아 여기 그 유적지 있던 데인가 보다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.329,
+                "end": 33.284
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.294,
+                "end": 40.766
+            }
+        ]
+    },
+    "summary": "왕과 왕비의 근황을 묻고 유적지가 있던 벤누 호수로 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10474_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

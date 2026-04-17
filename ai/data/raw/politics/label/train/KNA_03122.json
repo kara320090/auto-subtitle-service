@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_03122",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령은 초대 외교부 장관으로 3년이 넘도록 자리를 지켜온 강경화 장관 교체를 전격 결정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후임으로는 정의용 전 청와대 안보 실장이 내정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.740,
+                "end": 12.211
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정 내정자는 이번 정부 국가 안보 실장으로 3년간 외교 안보 분야 컨트롤타워 역할을 해왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.221,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 강경화 장관 교체를 전격 결정했고 후임으로는 외교 안보 분야 컨트롤타워 역할을 3년간 해온 정의용 전 청와대 안보 실장이 내정됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03122_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 35
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03122_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

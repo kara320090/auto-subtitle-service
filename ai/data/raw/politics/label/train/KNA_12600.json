@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_12600",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.629,
+        "format": "MP4",
+        "date": "2022-09-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령의 외교 활동을 왜곡하고 거짓으로 동맹을 이간하는 것이야말로 국익 자해 행위입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.805
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "동맹국 의회를 조롱한 게 아니라 우리 국회를 향해 비속어를 썼다는 해명 인정하더라도 문제는 남습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.815,
+                "end": 15.590
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국 우리 국회를 폄훼한 건데 대통령실은 거친 표현에 대한 국민의 염려를 안다면서도 유감 표명이나 사과는 하지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.600,
+                "end": 24.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령 해외 순방 중인 캐나다 토론토에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.673,
+                "end": 29.629
+            }
+        ]
+    },
+    "summary": "대통령실은 동맹국 의회를 조롱한 게 아니라 우리 국회를 향해 비속어를 썼다는 해명을 했고 유감 표명이나 사과는 하지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12600_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12600_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

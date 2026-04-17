@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_13901",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.256,
+        "format": "MP4",
+        "date": "2020-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "참참이는 어 누구와도 뽀뽀를 한답니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참참이를 사랑하는 마음을 가진 사람들이 참참이에게 다가가면 뽀뽀를 해줘요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.710,
+                "end": 12.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 길에서 처음부터 살았던 친구들은 아무리 사람과 관계가 돈독해져도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.540,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "화자는 참참이가 하는 행동에 대해 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13901_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

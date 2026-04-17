@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_01377",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.388,
+        "format": "MP4",
+        "date": "2022-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실은 밤 11시를 넘겨 오전에 NSC 안보상황점검회의를 열었다고 공개했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더불어민주당은 북한의 도발에도 윤석열 대통령 부부가 오후에 영화를 관람했고 발사 사실도 늑장 공개했다며 비판했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.596,
+                "end": 16.382
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북한에 대한 뭐 선제 타격까지 주장하실 정도로 강력하게 얘기하면서 실제 행동에서는",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.392,
+                "end": 21.388
+            }
+        ]
+    },
+    "summary": "더불어민주당은 북한의 도발에 대한 윤석열 대통령의 대응을 비판하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01377_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

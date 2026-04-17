@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_10339",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.491,
+        "format": "MP4",
+        "date": "2023-05-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주주의가 퇴행하고 있는 이 안타까운 현실 속에 시민들과 함께 조직된 힘으로 뚜벅뚜벅 한 걸음씩 앞으로 나아가겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.374
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 대통령은 조화를 보내 애도의 뜻을 전했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.384,
+                "end": 16.304
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "봉화마을은 노란색 물결로 덮였고 참석자들은 대통령 묘역에 헌화 참배했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.314,
+                "end": 22.565
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.575,
+                "end": 24.491
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 조화를 보내 애도의 뜻을 전했고 참석자들은 대통령 묘역에 헌화 참배했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10339_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 67,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

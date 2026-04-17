@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_06882",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.598,
+        "format": "MP4",
+        "date": "2022-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 행정 안전부 장관 후보자의 부인이 위장 전입했던 사실이 밝혀졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.005
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2004년 6월 가족 중 부인 혼자만 서울 서초구에서 강남구 도곡동의 업무용 오피스텔로 주소지를 옮긴 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.015,
+                "end": 13.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보자 측은 해외에 있던 자녀의 귀국과 중학교 배정을 위해 실제로 이사하려 했는데 딸이 외국에서 계속 학교를 다니기로 마음을 바꿨다며 위장 전입을 인정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.695,
+                "end": 25.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주민 등록법 소관 부처인 행안부 장관 후보자로서 부적절한 처신이란 지적이 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.592,
+                "end": 31.598
+            }
+        ]
+    },
+    "summary": "행정 안전부 장관 후보자의 부인이 위장 전입했던 사실이 밝혀져 이 후보자는 위장 전입을 인정했는데 주민 등록법 소관 부처인 행안부 장관 후보자로서 부적절한 처신이란 지적이 있다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06882_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06882_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

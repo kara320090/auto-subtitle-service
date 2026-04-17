@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYB_08325",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.284,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다 스토나 풀, 로자리아 수도교 근처,",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응 내가 구해올게 진홍색.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.276,
+                "end": 19.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수도교 아 진짜 예쁘다 얘 너무 예뻐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.723,
+                "end": 26.266
+            }
+        ]
+    },
+    "summary": "게임에서 로자리아 수도교 근처에 있는 진홍색의 스토나 풀이라는 재료를 구하러 가야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08325_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

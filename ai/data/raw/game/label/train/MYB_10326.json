@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_10326",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.3,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.665
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 스토커급이네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.675,
+                "end": 3.098
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아휴 근데 진짜 어저께 그 랜딜이었나 이름?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.108,
+                "end": 14.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "랜달인지 랜딜인지 그 친구도 그렇고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.455,
+                "end": 19.252
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 친구도 그렇고 다 죽어 있어가지고 마음이 안 좋다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.262,
+                "end": 23.235
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방금 클로에도 마찬가지고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.245,
+                "end": 24.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 완전 쯧 취급이 안 좋네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.939,
+                "end": 30.300
+            }
+        ]
+    },
+    "summary": "여자 게임 유튜버는 게임 속 캐릭터들이 다 죽어 있어서 취급이 안 좋다며 안타까워한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10326_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

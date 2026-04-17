@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_12082",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.029,
+        "format": "MP4",
+        "date": "2020-03-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "등록을 하도록 되어있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제대로 떼인 게 하나도 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.433,
+                "end": 3.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 이게 번갯불에 콩구워 먹는다는 얘기도 있습니다마는 이런 형식으로선 제대로 될 수가 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.159,
+                "end": 8.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더불어시민당은 모레까지 후보를 공모하고 이르면 23일 1차 비례대표 후보군을 발표합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.880,
+                "end": 16.425
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 열린민주당은 1차로 후보군 18명을 발표했는데 민주당 검증과정에서 불출마를 선언했던 김의겸 전 청와대 대변인이 포함됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.435,
+                "end": 27.527
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.537,
+                "end": 29.029
+            }
+        ]
+    },
+    "summary": "더불어시민당은 모레까지 후보를 공모하고 23일 1차 비례대표 후보군을 발표한다고 했고 열린민주당은 김의겸 전 대변인이 포함됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12082_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12082_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

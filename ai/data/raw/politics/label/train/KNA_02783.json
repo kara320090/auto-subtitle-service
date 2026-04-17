@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_02783",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.222,
+        "format": "MP4",
+        "date": "2022-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제안국이 대부분 쿼드나 오커스 참여국이어서 미국의 대중국 견제 행보에 보조를 맞춘 거란 분석이 나옵니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한일 정상회담에서도 양국 간 현안이 논의됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.382,
+                "end": 11.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강제동원 피해자 배상이란 명시적 표현 대신 양국 간 현안이라고만 언급됐는데 활발한 소통이 이루어지고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.271,
+                "end": 18.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계속 협의해 나가자라는 원론적 발표만 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.878,
+                "end": 22.222
+            }
+        ]
+    },
+    "summary": "한일 정상회담에서는 강제동원 피해자 배상이란 명시적 표현 대신 양국 간 현안이라고만 언급됐는데 활발한 소통이 이루어지고 있고 계속 협의해 나가자라는 원론적 발표만 나왔다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02783_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 144
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02783_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 43,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

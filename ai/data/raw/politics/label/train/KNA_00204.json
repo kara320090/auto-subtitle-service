@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_00204",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2022-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 밤 국회에서 만나 구체적인 방안을 논의할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법원 판결에 따라 지상파 방송사가 주관할 수 없는 만큼 이를 우회해 온라인 중계 등이 검토될 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.728,
+                "end": 11.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 구체적인 토론 형식과 사회자 주제 선정 등을 놓고 양 당의 기 싸움이 이어지면 토론 진행 자체에 영향을 미칠 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.910,
+                "end": 21.402
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가급적 많은 토론을 하자고 두 후보 모두 입을 모으지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.412,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "법원 판결에 따라 토론을 지상파 방송사가 주관할 수 없으므로 온라인 생중계를 검토 중이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00204_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

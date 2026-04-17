@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_08670",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2022-10-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "권력을 남용한 명백한 폭력적 행위이며 과거 권위 지정권의 유산을 그대로 답습한 나쁜 행동이고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 지난달 초부터 해외 체류 중인 국민대 @이름1 이사장도 국감이 끝날 때까지 미국 출장 일정을 잡았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.829,
+                "end": 16.781
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.791,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "지난달 초부터 해외 체류 중인 국민대 @이름1 이사장도 국감이 끝날 때까지 미국 출장 일정을 잡았다고 전달했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08670_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

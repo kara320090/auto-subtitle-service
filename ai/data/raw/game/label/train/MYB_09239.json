@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_09239",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.466,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나 숙부님 가다가 죽을까봐 걱정 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.679,
+                "end": 31.466
+            }
+        ]
+    },
+    "summary": "발화자가 시청자와 함께 직접 게임을 하며 아몬드를 먹고 이야기하는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09239_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

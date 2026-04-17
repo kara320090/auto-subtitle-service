@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_00380",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.3,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어, 저희 어머니가 딸이 저 하나다 보니까 옷을 되게 사주고 싶어 하세요. 그리고 엄마가 사준 옷을 입고 영상 찍는 걸 굉장히 좋아하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문제는 뭐냐 하면 엄마의 취향과 제 취향이 약간 달라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.181,
+                "end": 12.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서 엄마가 사주신 옷을 입고 한번 영상을 찍어봤거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.848,
+                "end": 16.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어,",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.550,
+                "end": 18.300
+            }
+        ]
+    },
+    "summary": "어머니가 딸이 하나다 보니까 옷을 사주고 싶어 하시고 사준 옷을 입고 영상 찍는 걸 굉장히 좋아하시는데 문제는 엄마의 취향과 제 취향이 약간 다르다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00380_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00380_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

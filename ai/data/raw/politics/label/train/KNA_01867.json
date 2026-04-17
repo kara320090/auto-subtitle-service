@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01867",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2022-03-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선거 운동을 도왔던 이들에게 감사 인사 등을 전할 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "송영길 대표를 포함한 민주당 지도부는 선거 패배 책임을 지고 전원 사퇴 의사를 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.241,
+                "end": 12.733
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "농부가 밭을 탓하지 않듯이 국민을 믿고 다시 시작합시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.743,
+                "end": 17.831
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리는 그렇게 이겨 왔고 이겨 나갈 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.841,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "송영길 대표를 포함한 민주당 지도부는 선거 패배 책임을 지고 전원 사퇴 의사를 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01867_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

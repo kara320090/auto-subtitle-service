@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYB_05227",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.266,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금도 이 배에 있어?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.477
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물론 자격이 없는 선원을 끌어내고 자신이 그 자리를 대신하려고 호시탐탐 기회를 노리고 있지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.487,
+                "end": 11.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "히이익",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.113,
+                "end": 12.526
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 그만 좀 놀려라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.536,
+                "end": 14.964
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어쨌든 간에 이렇게 검은 바다의 모험은 막을 내렸지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.974,
+                "end": 20.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캡틴캐비어맛 쿠키 진짜",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.421,
+                "end": 24.266
+            }
+        ]
+    },
+    "summary": "배에 자격이 없는 선원을 끌어내고 자신이 그 자리를 대신하려는 존재가 있다고 놀리자 캡틴캐비어맛 쿠키가 그만 놀리라며 정리해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05227_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

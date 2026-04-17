@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01195",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.154,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 김진태 44.9로 오차 범위 밖이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대구는 민주당 서재헌 11.7 국민의힘 홍준표 63.6 경북은 민주당 임미애 14.7 국민의힘 이철우 61.2였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.769,
+                "end": 15.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부산은 민주당 변성완 25.9",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.093,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "대구는 민주당 서재헌 11.7 국민의 힘 홍준표 63.6 경북은 민주당 임미애 14.7 국민의 힘 이철우 61.2였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01195_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01195_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

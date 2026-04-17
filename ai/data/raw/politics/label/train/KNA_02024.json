@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_02024",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2022-03-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령직 인수위도 제도 시행을 더 미루자는 쪽에 힘을 실었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "코로나19가 잠잠해질 때까지는 일회용 컵 규제 유예하는 것이 좋다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.592,
+                "end": 13.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 환경부는 코로나19로 한시적으로 미뤄온 제도를 더 이상 늦출 수 없다는 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.571,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "대통령 인수위는 일회용 컵 규제 시행을 더 미루자고 했으나 환경부는 더 이상 늦출 수 없다는 입장을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02024_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

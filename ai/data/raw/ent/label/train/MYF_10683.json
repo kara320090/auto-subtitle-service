@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYF_10683",
+        "category": "엔터테인먼트",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.192,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 멜버른 주가 맞는 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.312
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캉가루 아일랜드도 갔는데 A었는지 D었는지 헷갈립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.322,
+                "end": 10.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그래요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.702,
+                "end": 16.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "B와 C야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.747,
+                "end": 18.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멜버른 주도 있는데 멜버른에서 안 갔나 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.959,
+                "end": 23.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "캉가루 아일랜드에서 갔나 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.283,
+                "end": 26.192
+            }
+        ]
+    },
+    "summary": "남성은 멜버른 주가 맞는 것 같다고 했지만 오답이었으며 캉가루 아일랜드였던 것 같다고 다시 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10683_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

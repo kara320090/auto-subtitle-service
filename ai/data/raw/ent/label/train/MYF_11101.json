@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_11101",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.766,
+        "format": "MP4",
+        "date": "2021-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 @계정1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들이랑 좀 스몰 토크하는 느낌으로 이렇게 좀 가까워지고자 QNA 영상을 준비했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.227,
+                "end": 20.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 어제 밤에 열심히 공책에 이렇게 적었는데 생각보다 되게 많더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.351,
+                "end": 24.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 간식도 나름 준비해 왔는데 혹시 식사하고 계시면 저랑 같이 떠들면서 밥 먹는 느낌으로 들어주시면 되겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.504,
+                "end": 32.766
+            }
+        ]
+    },
+    "summary": "스몰 토크하는 느낌으로 QNA를 준비했다며 식사하고 계시면 같이 떠들면서 밥 먹는 느낌으로 들어주면 될 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_11101_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

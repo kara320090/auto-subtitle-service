@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_06636",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.0,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "죽었어 아무 사이도 아니지만 돈 때문에 같이 다니던 내 동료를 죽여 버렸어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 15.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무 사이도 아니지만 돈 때문에 같이 다닌 내 동료야. 진짜 웃겨.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.930,
+                "end": 21.522
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "배고파 배가 고파서 정신을 못 차리겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.532,
+                "end": 26.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 그게 중요해?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.620,
+                "end": 27.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "녀석들이 아무것도 아닌 사이의 동료를 죽였다니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.946,
+                "end": 32.000
+            }
+        ]
+    },
+    "summary": "화자는 돈 때문에 같이 다니던 동료를 죽여 버렸다는 말에 웃음을 참지 못한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06636_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

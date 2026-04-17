@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_03976",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.055,
+        "format": "MP4",
+        "date": "2021-06-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방역 수칙 불복종 운동을 전개해 나갈 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당도 정부와 여당이 피해 지원이라는 말로 손실 보상의 본질을 물타기 하고 있다고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.220,
+                "end": 12.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회 산업위는 내일 소위를 열어 손실 보상을 논의할 계획인데 야당의 반대로 논의에 진통이 예상됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.738,
+                "end": 19.968
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1 입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.978,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "정의당도 정부와 여당이 피해 지원이라는 말로 손실 보상의 본질을 물타기 하고 있다고 비판했으며 국회 산업위는 내일 소위를 열어 손실 보상을 논의할 계획인데 야당의 반대로 논의에 진통이 예상됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03976_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03976_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

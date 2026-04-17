@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_30839",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.566,
+        "format": "MP4",
+        "date": "2016-12-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박 대통령이 고령자용 불면증 치료제인 서카딘 서방정을 복용했다는 언급도 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서카딘 서방정은 청와대가 600개를 구입해 현재 240개가 남아 있는데 청와대는 해외 순방시 수행원들의 시차 적응용이라고 해명한 바 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.665,
+                "end": 15.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 씨는 또 청와대에 반입 된 마약류 의약품 중 하나인 항우울제 자낙스는 @이름1 씨가 평소 복용하던 약이라고 덧붙였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.913,
+                "end": 24.566
+            }
+        ]
+    },
+    "summary": "김 씨는 박 대통령이 고령자용 불면증 치료제를 복용했으며 청와대는 해외 순방시 수행원들의 시차 적응용이라고 해명한 바 있으며 청와대에 반입된 마약류 의약품 중 하나인 항우울제는 평소 최 씨가 복용하던 약이라고 덧붙였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30839_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30839_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

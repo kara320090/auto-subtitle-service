@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYF_22302",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.862,
+        "format": "MP4",
+        "date": "2020-01-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "That's so cute.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.440
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "It's a lot.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.440,
+                "end": 4.311
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "Yes it is a lot.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.320,
+                "end": 6.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "Thank you @이름1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.517,
+                "end": 11.837
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "It's like a leek pie.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.847,
+                "end": 14.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "It's like a .",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.577,
+                "end": 17.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "And it's 감자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.721,
+                "end": 20.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "Yeah it's potatoes.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.897,
+                "end": 24.862
+            }
+        ]
+    },
+    "summary": "화자2가 다른 친구들과 음식에 대해 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22302_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 30,
+                    "act": 90
+                }
+            ]
+        }
+    ]
+}

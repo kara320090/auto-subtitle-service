@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_12190",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2020-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 지도부 험지와 격전지에 막판 화력을 집중했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음 경북을 찾은 이낙연 위원장의 국가적 불행에 지역은 없었다며 지역주의 장벽을 낮추자고 했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.572,
+                "end": 11.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막말 논란이 인 통합당을 향한 쓴소리도 이어갔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.937,
+                "end": 16.146
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제대로 일할 사람 뽑는 것",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.156,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "이낙연 위원장은 경북을 찾아 지역주의의 장벽을 낮추자고 했으며 통합당을 향한 쓴소리도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12190_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

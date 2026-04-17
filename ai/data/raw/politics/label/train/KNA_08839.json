@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "KNA_08839",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 45.245,
+        "format": "MP4",
+        "date": "2022-10-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양도나 대여가 안 된다고 처음부터 회원카드 발급할 때 명시를 드리고 배정해드린 팀 수가 줄어드는 패널티가 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "체크인을 했을 때도 모니터에 얼굴 화면이 크게 뜨기 때문에 명의 도용을 할 수 있는 것은 현실적으로 어렵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.399,
+                "end": 16.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "골프장 이용과 관련해 문제가 있는 것으로 의심되는 사례는 15개의 연구기관에 걸쳐 100여 건에 이릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.311,
+                "end": 22.603
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "연구원에서 소명한 선택 근로 유연 근로를 빼고도 근무시간에 골프를 치러가는 등 일탈 행위는 절대 있어서는 안 될 일입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.613,
+                "end": 30.580
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저는 감사원과 관련 기관에 특별 감사를 요구할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.590,
+                "end": 35.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국책 연구기관의 연구원들은 국가공무원의 복무규정을 준수해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.270,
+                "end": 39.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인사혁신처는 조사를 거쳐 사실로 확인될 경우 징계위원회 회부 대상이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.562,
+                "end": 45.245
+            }
+        ]
+    },
+    "summary": "골프 회원권은 양도나 대여가 되지 않는 것으로 확인됐고 인사혁신처는 조사를 거쳐 사실일 경우 징계위원회에 회부한다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08839_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 12,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08839_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

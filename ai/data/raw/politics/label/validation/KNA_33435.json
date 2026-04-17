@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_33435",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.384,
+        "format": "MP4",
+        "date": "2023-06-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그동안 지역 발전의 족쇄로 작용해 온 이중 삼중의 규제를 극복할 길이 열린 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.665
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기업이 들어오고 사람이 넘쳐 나고 우리의 청년들이 더 이상 일자리를 얻기 위해 수도권으로 떠나지 않아도 되는 그런 자유의 땅으로 만들겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.675,
+                "end": 16.485
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러분",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 16.495,
+                "end": 17.384
+            }
+        ]
+    },
+    "summary": "이중 삼중의 규제는 지역 발전의 족쇄로 작용했는데 극복할 길이 열려 김 도지사는 기업과 사람이 오고 청년들이 일자리를 위해 수도권으로 떠나지 않아도 되는 자유의 땅으로 만들겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33435_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_08297",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.596,
+        "format": "MP4",
+        "date": "2022-09-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 미 백악관 국가 안보 보좌관과의 1시간 반 동안 양자 회담을 마친 뒤 @이름2 국가 안보 실장은 먼저 전기 차 문제를 꺼냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.367
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인플레이션 감축법이 한국 전기 차에 미치는 영향에 대해 백악관 국가 안전 보장 회의 NSC에서 직접 검토에 나서기로 했다고 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.377,
+                "end": 21.418
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전기 차 보조금 문제가 저희 영향을 미칠 수 있을지에 대해서 어 NSC 차원에서 좀 상세히 들여다보겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.428,
+                "end": 29.596
+            }
+        ]
+    },
+    "summary": "@이름1 미 백악관 국가 안보 보좌관과의 양자 회담을 마친 @이름2 국가 안보 실장은 전기 차 문제를 먼저 꺼냈으며 전기 차 보조금 문제가 영향을 미칠 수 있는지 NSC 차원에서 직접 검토에 나서기로 했다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08297_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

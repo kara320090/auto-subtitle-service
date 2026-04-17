@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_09454",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.666,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진행하다 보면은 옷을 주는데 그거 입는 거 말곤 없는 거 같아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 PC로 나오면 모드가 많이 생기겠죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.600,
+                "end": 23.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 네 네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.760,
+                "end": 28.666
+            }
+        ]
+    },
+    "summary": "진행하다 보면 주는 옷 입는 거 말고는 없다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09454_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

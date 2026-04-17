@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_30522",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.733,
+        "format": "MP4",
+        "date": "2016-08-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 가운데 국회 예산 결산 특별 위원회는 오늘부터 추경과 관련해 정부를 상대로 한 종합 정책 질의에 돌입했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.941,
+                "end": 10.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한민구 국방부 장관이 사드 배치 논란과 관련해 내일 경북 성주를 다시 방문합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.796,
+                "end": 17.475
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 대변인은 한 장관이 내일 오후 2시 성주 지역 주민들과 간담회를 갖는다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.485,
+                "end": 23.925
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대변인은 내일 간담회는 지역 주민들의 의견을 경청하는 자리라며 기회가 되면 사드 배치 부지가 선정된 과정도 설명할 예정이라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.935,
+                "end": 34.733
+            }
+        ]
+    },
+    "summary": "국방부 장관이 내일 성주 지역 주민들과 사드 배치 논란과 관련해 간담회를 갖는다고 밝혔으며 지역 주민들의 의견을 듣고 부지가 선정된 과정도 설명할 예정이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30522_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30522_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

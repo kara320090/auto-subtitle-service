@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_11911",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.731,
+        "format": "MP4",
+        "date": "2020-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "확진환자 3명이 퇴원하는 등 신종 코로나가 적절히 관리되고 있다며 방심은 금물이지만 과도한 불안과 공포로 위축될 필요는 없다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.427
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민들께서는 우리 의료체계에 대한 신뢰를 갖고 안전행동수칙을 지키면서 차분하게 대처해 주시기를 당부드립니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.437,
+                "end": 20.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 경제에는 큰 어려움이 생겼다며 정부의 지원 노력을 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.899,
+                "end": 26.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리는 경제에 미치는 어려움을 반드시 이겨낼 것입니",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.577,
+                "end": 31.731
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 신종 코로나와 관련해, 아직 방심은 금물이지만 불안과 공포로 위축될 필요는 없다며 우리 의료 체계를 믿고 차분하게 대처해달라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11911_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 43,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

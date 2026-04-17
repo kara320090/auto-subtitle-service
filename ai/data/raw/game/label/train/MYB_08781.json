@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "filename": "MYB_08781",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.866,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 마을 사람들이랑 절 전투할 거 같은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.286
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.298,
+                "end": 4.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "죽는 거 아니야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.686,
+                "end": 5.693
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.760,
+                "end": 9.046
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.053,
+                "end": 12.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고탕 농장에 있는 베어러와 대화한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.324,
+                "end": 17.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요쪽이구나 요쪽",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.247,
+                "end": 18.894
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.904,
+                "end": 21.866
+            }
+        ]
+    },
+    "summary": "영상에서는 마을 사람들과 전투할 거 같은데 죽는 거 아니냐면서 고탕 농장에 있는 베어러와 대화하러 요쪽 방향으로 간다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08781_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08781_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

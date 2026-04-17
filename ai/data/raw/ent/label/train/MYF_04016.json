@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "filename": "MYF_04016",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 46.4,
+        "format": "MP4",
+        "date": "2021-03-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "찬란하게 찬란하게 변신하고 계십니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 제가 껍질 있는 애들을 굉장히 좋아합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.550,
+                "end": 6.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갑각류 러버 네 껍질 있는 갑옷 입고 다니는 애들 오우 너무 좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.570,
+                "end": 14.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우 이 소리였어 흐흐흐흐 역시 쉐프님이 이렇게 써놓은 팁은 네 꼭 읽어야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.630,
+                "end": 23.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "불을 껐는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.140,
+                "end": 25.130
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불 끄지 않았나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.130,
+                "end": 26.050
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아까 껐는데 아직도 끓고 있어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.050,
+                "end": 30.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 자라나는 청소년 많이 드세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.740,
+                "end": 35.383
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이제 내가 할까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.393,
+                "end": 38.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할 수 있다 오 마이 갓 오 무거워.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.495,
+                "end": 46.400
+            }
+        ]
+    },
+    "summary": "여자가 요리하며 자신이 갑각류를 좋아한다고 대화를 나누고 완성된 요리를 접시에 담고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04016_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": null,
+                    "act": 7
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04016_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 25,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

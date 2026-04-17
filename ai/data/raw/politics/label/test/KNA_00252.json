@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_00252",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.597,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이재명 삼십사 국민의힘 윤석열 후보 삼십칠 점 칠 퍼센트로 오차 범위내 접전입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 삼 국민의당 안철수 후보 구 퍼센트였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.120,
+                "end": 12.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이재명 후보는 연령대별로 사십 대 지역별로는 호남에서 지지세가 강했고 윤 후보는 육십 대 이상과 서울 영남지역에서 우위를 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.291,
+                "end": 22.827
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일월에 지속됐던 이 후보 하락세와 윤 후보 상승세는 모두 멈춰 설 연휴 직전 조사와 비슷하게 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.837,
+                "end": 30.597
+            }
+        ]
+    },
+    "summary": "이재명 후보는 연령대별로 사십 대 지역별로는 호남에서 지지세가 강했고 윤 후보는 육십 대 이상과 서울 영남지역에서 우위를 보였고 설 연휴 직전 조사와 비슷하게 나왔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00252_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00252_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

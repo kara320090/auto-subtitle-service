@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYB_06261",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.766,
+        "format": "MP4",
+        "date": "2022-06-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "점점 더 몰려든다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이러다 다 부서져버려.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 1.338,
+                "end": 3.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러분 이쪽입니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 3.796,
+                "end": 5.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저를 따라 대성당으로 오세요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 5.854,
+                "end": 8.911
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어서요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 8.921,
+                "end": 23.344
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 98퍼야 아 스트레스 진짜 왜 이거 이렇게 만든 거야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.354,
+                "end": 29.379
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 진짜.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.389,
+                "end": 32.766
+            }
+        ]
+    },
+    "summary": "남자는 게임을 하며 스킵을 잘못 눌렀다가 100퍼센트가 되지 않아 스트레스를 받고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

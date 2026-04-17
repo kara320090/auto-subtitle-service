@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_08599",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.187,
+        "format": "MP4",
+        "date": "2022-09-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 국방부니 총 들고 들어왔다 딱 그거 그거 얘기한 거지 뭐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "알고 보니 이 조사는 @이름1 씨의 피해를 살피려는 것이 아니었고 당시 김 씨를 납치했던 군인들의 공적을 조사하는 것이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.890,
+                "end": 12.753
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첩보 부대원 2명이 납치의 공을 들어 보상금을 신청했고 국가가 1억 5000만 원을 지급한 뒤 적절성을 따지는 절차였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.763,
+                "end": 21.187
+            }
+        ]
+    },
+    "summary": "정부에서 @이름1 씨에게 그날 일을 물은 것은 피해를 살피려는 것이 아니라 당시 김 씨를 납치했던 군인들의 공적을 조사하는 것이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08599_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

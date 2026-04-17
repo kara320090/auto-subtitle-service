@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_10832",
+        "category": "정치뉴스",
+        "sub_category": 45,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.227,
+        "format": "MP4",
+        "date": "2023-02-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "본인이 너무나 공포에 사로잡혀있는 것이 아닌가 저는 그렇게 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 이건 또 어 국민들께도 그렇고 당원들께도 그렇고 정말로 실례되는 발언입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.340,
+                "end": 12.071
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김 후보는 사과 대신 역공을 폈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.081,
+                "end": 15.019
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 후보는 박근혜 전 대통령 탄핵에 동참하고 @이름1 행안부 장관 사퇴를 요구하는 등 민주당과 결이 같은 주장을 해왔다며 당 대표가 되면 대통령에게 칼을 겨눌 수 있는 인물이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.029,
+                "end": 27.227
+            }
+        ]
+    },
+    "summary": "안 후보의 비판에 김 후보는 사과 대신 역공을 폈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10832_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

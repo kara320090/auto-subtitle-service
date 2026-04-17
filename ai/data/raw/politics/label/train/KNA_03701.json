@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNA_03701",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.946,
+        "format": "MP4",
+        "date": "2021-04-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2030의원들은 조국 사태와 검찰개혁에 대한 자성 필요성까지 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.124
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "추미애 윤석열 갈등으로 점철된 추진 과정에서 국민들의 공감대를 잃고 말았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.134,
+                "end": 11.983
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조국 전 장관이 검찰개혁의 대명사라고 생각했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.993,
+                "end": 15.821
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "압승을 거둔 국민의 힘은 여당 압박에 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.831,
+                "end": 19.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청와대를 포함해 기간 제한 없는 LH 특검에 이어 백신 공급에 대한 국정조사까지 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.414,
+                "end": 26.888
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이제라도 백신 확보부터 접종까지 전 과정을 다시 한번 국민에게 소상히 보고하고 점검해봐야 할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.898,
+                "end": 35.935
+            }
+        ]
+    },
+    "summary": "2030의원들은 조국 사태와 검찰개혁에 대해 자성해야 한다고 했고 국민의 힘은 LH 특검과 백신 공급에 대한 국정조사를 요구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03701_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03701_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

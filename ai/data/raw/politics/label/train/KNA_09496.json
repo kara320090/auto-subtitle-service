@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_09496",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.384,
+        "format": "MP4",
+        "date": "2023-01-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유튜브 방송에 출연한 이재명 민주당 대표 쌍방울과의 인연은 내의를 사 입은 것뿐이라는 지난해 발언을 다시 언급하며 변호사비 대납 의혹은 어처구니없고 황당하다고 거듭 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.214
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1라는 분 얼굴도 본 적이 없거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.224,
+                "end": 16.383
+            }
+        ]
+    },
+    "summary": "유튜브 방송에 출연한 이재명 민주당 대표는 쌍방울과의 인연은 없고 변호사비 대답 의혹은 황당하다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09496_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

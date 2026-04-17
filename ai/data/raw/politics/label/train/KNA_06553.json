@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "KNA_06553",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.666,
+        "format": "MP4",
+        "date": "2022-03-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 수많은 장병이 근무하고 있는 국방부 청사를 정리하려면 1조 원 이상의 예산이 필요하다는 추계도 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.703
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 비용에 추산과 관련해서 1조 가까이 된다라고 하는 건 너무 나가신 것 같고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.713,
+                "end": 15.391
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래서 국민의힘 내부에서도 신중론이 일부 제기되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.401,
+                "end": 19.417
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘 윤석열 당선인과 현장 답사를 함께 한 김기현 원내대표는 우려가 적지 않다는 점을 알고 있다며 더 찬찬히 따져보겠다고 했고 국민 속으로가 말하는 건 공간의 문제만은 아니니 숙고하자는 얘기도 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.427,
+                "end": 32.046
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.056,
+                "end": 33.666
+            }
+        ]
+    },
+    "summary": "오늘 윤석열 당선인과 현장 답사를 함께 한 김기현 원내대표는 우려가 적지 않다는 점을 알고 있다며 더 찬찬히 따져보겠다고 했고 국민 속으로가 말하는 건 공간의 문제만은 아니니 숙고하자는 얘기도 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06553_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06553_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

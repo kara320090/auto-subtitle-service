@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00060",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.287,
+        "format": "MP4",
+        "date": "2022-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "때론 걷기도 하면서 시민들과 더 적극적으로 만나겠다는 구상입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오후에는 서울시당에 선대위 출범식을 갖고 당내 결속을 다졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.068,
+                "end": 10.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 대한민국이 가진 가장 유능한 자원을 가장 좋은 정책을 구별하지 말고 적용하고 실행해서 아 정말",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.950,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "오후에 서울시당에 대한민국이 가진 좋은 정책을 구별하지 말고 적용하고 실행하자는 내용의 선대위 출범식을 갖고 당내 결속을 다졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00060_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 49,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00060_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_02145",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.49,
+        "format": "MP4",
+        "date": "2022-04-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 답변 드릴 수 있는 내용이 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 후보자의 문제점은 또 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.829,
+                "end": 5.487
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부하 직원으로부터 고급 양주를 받아 김영란법을 위반한 혐의가 있고 관용차를 등산 모임에 사용하는 등 9차례나 관용차를 사적으로 사용한 개인 비위 등까지 모두 5가지 비위가 적발됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.497,
+                "end": 19.532
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고용부는 이 총장을 해임할 것을 재단에 요청하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.542,
+                "end": 23.490
+            }
+        ]
+    },
+    "summary": "이 후보자는 김영란법을 위반한 혐의가 있고 9차례나 관용차를 사적으로 사용한 개인 비위 등까지 모두 5가지 비위가 적발됐고 고용부는 이 총장을 해임할 것을 재단에 요청하기도 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02145_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02145_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

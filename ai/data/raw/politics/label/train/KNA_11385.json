@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_11385",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.254,
+        "format": "MP4",
+        "date": "2023-03-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 또 조국을 위해 희생하고 헌신한 분들을 기억하고 예우하지 않는다면 국가라고 할 수 없다 국가의 미래도 없다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서해수호 용사 55명의 이름을 호명하면서는 잠시 말을 잇지 못하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.049,
+                "end": 15.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누군가를 잊지 못해.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.533,
+                "end": 21.254
+            }
+        ]
+    },
+    "summary": "윤석열 대통령이 서해수호 용사의 이름을 호명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11385_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "MYB_01388",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.566,
+        "format": "MP4",
+        "date": "2023-07-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비키게나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 해치우겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.042,
+                "end": 3.078
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.088,
+                "end": 7.215
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "도전할 셈이냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.225,
+                "end": 8.282
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 진짜 돈 벌었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.292,
+                "end": 10.156
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "와 이건 진짜 돈 번거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.166,
+                "end": 13.291
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 와 씨 아 축하드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.301,
+                "end": 20.142
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 필요한 거 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.152,
+                "end": 28.566
+            }
+        ]
+    },
+    "summary": "어떤 캐릭터가 나온 후 돈 벌었다며 축하한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01388_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

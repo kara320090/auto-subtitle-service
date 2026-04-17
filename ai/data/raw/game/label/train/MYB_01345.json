@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_01345",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.666,
+        "format": "MP4",
+        "date": "2023-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쓸 수도 야 마지막 좀 오래 걸렸다. 야 2분대 나왔네 이거 좀 뭔가 조합이 나올 거 같은데? 2분은 너무 많이 걸렸다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 16.748
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 내가 1등 이네 그런데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.758,
+                "end": 19.666
+            }
+        ]
+    },
+    "summary": "남성이 게임 하는데 2분대가 나와 오래 걸렸다고 했지만 1등을 했고 하면서 뭔가 조합이 나올 거 같다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01345_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

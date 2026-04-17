@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_10586",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2023-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 정부 출신이었던 윤석열 대통령까지 소환하며 자신의 확장성도 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.219
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 대통령께서도 문재인 전 대통령이 임명했던 검찰 총장이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.229,
+                "end": 13.299
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이분들을 받아들임으로써 우리는 민주당과 잘 싸울 수 있게 되었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.309,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "안 후보는 문재인과 윤석열을 소환하며 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10586_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

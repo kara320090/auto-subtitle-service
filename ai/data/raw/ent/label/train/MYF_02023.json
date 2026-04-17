@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "MYF_02023",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.9,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "러쉬가 제품을 만들",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.877
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가까이 다가가면.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 6.887,
+                "end": 16.088
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "믿고 있는 핵심 가치 코어 별로 여섯 가지가 나와 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.098,
+                "end": 19.847
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "고객님이 평소에 실천하고 있는 캠페인이나 실천하시고 싶은 캠페인, 중요하다고 믿는 가치 하나에다가 요렇게 팔찌 태깅 해주시면 되세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.857,
+                "end": 29.900
+            }
+        ]
+    },
+    "summary": "러쉬의 20주년 쇼케이스의 곳곳을 관람하는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_02023_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_02023_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

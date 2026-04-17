@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "MYF_10062",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.566,
+        "format": "MP4",
+        "date": "2021-07-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선글라스를 꼭 끼고 이거는 이제 블루라이트 차단하는 거거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 지금은 제가 그 노트북에 블루라이트 차단 그 필름 이거 붙여가지고 네 가끔 자외선이 좀 너무 심할 때 또 비 오는 날 그 구름에 난사가 되거든요 빛이?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.060,
+                "end": 17.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 더 피곤해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.009,
+                "end": 19.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그런 날 집에서 좀 편하게 있을 때 편하게 있고 싶을 때 이제 저런 걸 쓰고 있답니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.231,
+                "end": 27.566
+            }
+        ]
+    },
+    "summary": "한 여성이 선글라스를 끼는 이유에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10062_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

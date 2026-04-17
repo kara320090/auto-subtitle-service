@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_04599",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.423,
+        "format": "MP4",
+        "date": "2021-11-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한국거래소를 방문한 민주당 이재명 후보 과거 개인 자격으로 주식 투자했던 경험을 언급하며 소액 주주 피해 방지 제도 필요성을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장기 투자에도 혜택을 도입하겠다 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.360,
+                "end": 13.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "양도소득세 2023년이면 도입을 하는데 이런 데서 장기 보유에 대해서 좀 뭔가 혜택을 좀 부여하는 게 좋겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.670,
+                "end": 23.423
+            }
+        ]
+    },
+    "summary": "이재명 후보는 소액 주주 피해 방지 제도 필요성을 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04599_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

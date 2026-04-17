@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00420",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.415,
+        "format": "MP4",
+        "date": "2022-03-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대기표 등을 활용해 투표할 수 있도록 할 방침입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "직접 선거 원칙 훼손 비판이 있었던 임시 기표소 방식은 사용하지 않고 확진자가 직접 투표함에 기표지를 넣도록 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.733,
+                "end": 13.197
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직접 기표를 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.207,
+                "end": 15.415
+            }
+        ]
+    },
+    "summary": "직접 선거 원칙 훼손 비판이 있었던 임시 기표소 방식은 사용하지 않고 확진자가 직접 기표한 후 투표함에 기표지를 넣도록 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00420_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00420_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

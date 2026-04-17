@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32245",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.666,
+        "format": "MP4",
+        "date": "2015-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영광의 시간은 짧았고 고뇌의 시간은 아주 길었다고 그렇게 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.535
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주화 여정을 담은 기록관 앞에서는 오늘을 있게 한 과거 자신의 말을 다시 꺼내 들기도 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.545,
+                "end": 15.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "닭의 목을 비틀어도 새벽은 마침내 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.424,
+                "end": 21.666
+            }
+        ]
+    },
+    "summary": "김영삼 전 대통령은 기록관에서 닭의 목을 비틀어도 새벽이 온다는 자신의 말을 다시 꺼내 들기도 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32245_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

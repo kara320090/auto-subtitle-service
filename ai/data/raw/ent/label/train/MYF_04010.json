@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_04010",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.569,
+        "format": "MP4",
+        "date": "2021-03-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 이정도 오 흐흐흐 정말 먹방을 시도해보는",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.961
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맛을 표현하는 거라면 어떨까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.970,
+                "end": 10.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 굉장히 좋은 포인트구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.180,
+                "end": 12.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네, 저희가 이렇게 낯선 그 존대말을 쓰고 있지만요 저희는 고모와 조카 사이라는 거 으흐흐흐흐 맛있네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.660,
+                "end": 22.566
+            }
+        ]
+    },
+    "summary": "화자가 만든 음식을 먹으면서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04010_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 28,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

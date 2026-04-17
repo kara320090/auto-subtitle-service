@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_00975",
+        "category": "정치뉴스",
+        "sub_category": 35,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.42,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부 세종 청사 문화관입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.268
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3층 복도에 플라스틱 통을 갖다 놓고 빗물을 받고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.278,
+                "end": 6.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다른 층에도 빗물이 흘러내립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.482,
+                "end": 9.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유리로 된 피라미드형 천장에서 비가 새 준공 2년밖에 안 된 새 건물에 물난리가 난 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.139,
+                "end": 16.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누수는 준공 다음 해인 2020년부터 시작됐지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.507,
+                "end": 20.420
+            }
+        ]
+    },
+    "summary": "유리로 된 피라미드형 천장에서 비가 새 준공 2년밖에 안 된 새 건물에 물난리가 났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00975_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 10,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00975_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 71
+                }
+            ]
+        }
+    ]
+}

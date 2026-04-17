@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_09197",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.366,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기 일단 얘기하고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기저기서 혼란에 빠졌대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.993,
+                "end": 8.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.396,
+                "end": 9.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정확한 상황 파악까지는 못하고 있고 아 가브 쪽에는 서신을 보냈는데 답변을 기다리는 중",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.039,
+                "end": 19.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 미드랑 로즈필드 정도 거기 있대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.208,
+                "end": 24.861
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동생도 걱정 되겠지만 네 할 수 있는 건 모두 해 두자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.871,
+                "end": 31.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.304,
+                "end": 34.366
+            }
+        ]
+    },
+    "summary": "발화자가 게임 캐릭터에 말을 걸어서 대화를 읽어줍니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09197_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

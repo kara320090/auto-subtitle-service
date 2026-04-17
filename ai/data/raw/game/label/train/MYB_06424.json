@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYB_06424",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 59.001,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계단으로 움직일 수가 없어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 뒤쪽에 나선형 계단이 있죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.542,
+                "end": 5.241
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 저쪽으로 가려면 뭔가 돌려야 되는데 이게 조종할 수 있는 수단이 없는데?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.251,
+                "end": 29.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계단을 어떻게 하면 돌릴 수 있을까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.205,
+                "end": 53.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 뛰어내리면 죽을 것 같은데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 53.240,
+                "end": 59.000
+            }
+        ]
+    },
+    "summary": "한 여성이 뒤쪽에 나선형 계단이 있어 가려면 돌려야 하는데 조종할 수단이 없다며 뛰어내리면 죽을 것 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06424_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

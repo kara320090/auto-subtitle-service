@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32834",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.525,
+        "format": "MP4",
+        "date": "2023-10-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 서울중앙지방법원장은 내부 규정에 따라 배당했을 거라며 특별하지 않다고 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사회에 미치는 영향이 중대한 사건 또는 그밖에 사건의 성질상 합의체로 심판하는 것이 적절한 사건이라고 판단해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.455,
+                "end": 17.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더불어민주당은 대장동 재판의 검찰 수사 기록만 20만 페이지라면서 법원이 적절히 막아야 한다고 맞받았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.264,
+                "end": 25.525
+            }
+        ]
+    },
+    "summary": "더불어민주당은 대장동 재판의 수사 기록만 20만 페이지라며 법원이 적절히 막아야 한다고 맞받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32834_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

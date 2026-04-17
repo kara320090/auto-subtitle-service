@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_10080",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.866,
+        "format": "MP4",
+        "date": "2021-07-14",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "편안하게 편안하게 진짜 하루도 편하셨던 날이 없으신 거 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 진짜 대단한 분이시고 정말 이렇게 지금 돌이 지금의 우리 사는 모습을 봐도 이렇게 살 수 있을까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.552,
+                "end": 15.990
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 생각을 참 많이 하게 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.000,
+                "end": 19.356
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 브이로근데 브이로근데 자꾸 말이 많아 이제 겨우 커피 마시는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.366,
+                "end": 27.866
+            }
+        ]
+    },
+    "summary": "한 여성이 자신이 읽었던 책에 나온 이순신 장군에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

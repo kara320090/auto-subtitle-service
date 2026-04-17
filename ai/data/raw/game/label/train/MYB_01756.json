@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_01756",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.533,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "금방 다녀올게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 없는 동안 몬스터 잡으면 반칙이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.860,
+                "end": 4.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 잘 쉬고 회복하고 있으라고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.580,
+                "end": 8.708
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 무슨 소린데 너희 어디 가는데 너희 어디 가는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.718,
+                "end": 18.528
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이쪽이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.538,
+                "end": 20.907
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저게 무슨 소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.917,
+                "end": 23.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "속삭이는 소리 같긴 한데 쿠키 말은 아닌 것 같고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.467,
+                "end": 28.533
+            }
+        ]
+    },
+    "summary": "화자1은 자신이 없는 동안 잘 쉬라고 말하고 속삭이는 소리가 무엇이냐고 질문한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01756_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

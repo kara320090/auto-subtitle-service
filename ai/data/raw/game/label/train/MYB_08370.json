@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYB_08370",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.0,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주민과 병사사이의 싸움이 될 것 같다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.160
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 얘기하면 들어 줄 지도 모른대 병사들에게도 신뢰가 두터우니까 오리플람 공작과 이야기를 나눠봐달라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.170,
+                "end": 14.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "칼을 들고 가면 되겠지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.391,
+                "end": 16.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "칼 들고 가면 모든 게 해결될 수도 있겠지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.453,
+                "end": 19.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "훈련소에 있대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.648,
+                "end": 23.000
+            }
+        ]
+    },
+    "summary": "게임에서 주민과 병사사이의 싸움이 될 것 같으니 오리플람 공작과 이야기를 나눠달라고 해서 승낙을 했고 칼을 들고 가면 모든 게 해결 될 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08370_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

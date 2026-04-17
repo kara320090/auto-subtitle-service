@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_33499",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.854,
+        "format": "MP4",
+        "date": "2023-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한국을 찾은 것은 2017년 10월 이후 5년 8개월 만입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해군은 지난 4월 한미 정상이 채택한 워싱턴 선언에 담긴 미국 전략 자산의 정례적 가시성을 제고한다는 합의를 이행하는 차원이라고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.690,
+                "end": 15.824
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "힘에 의한 평화를 구현하고자 하는 한미 동맹의 압도적인 능력과",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.834,
+                "end": 20.854
+            }
+        ]
+    },
+    "summary": "해군은 지난 4월 한미 정상이 채택한 워싱턴 선언의 합의를 이행하는 차원이라고 설명했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33499_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33499_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

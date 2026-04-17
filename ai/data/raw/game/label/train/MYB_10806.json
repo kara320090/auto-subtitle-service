@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_10806",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.312,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 그 동료가 뒤통수 치는 거 아냐?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.374,
+                "end": 7.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.752,
+                "end": 13.447
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "말도 안 돼. 어떻게 보호해. 이런 판국에 그죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.447,
+                "end": 16.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.870,
+                "end": 18.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 마사가. 마사는 믿을 수 있지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.941,
+                "end": 23.300
+            }
+        ]
+    },
+    "summary": "한 여자가 그 동료가 뒤통수 치는 거 아니냐, 이런 판국에 어떻게 보호하냐고 말하면서 마사는 믿을 수 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10806_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

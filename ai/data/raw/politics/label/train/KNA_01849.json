@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01849",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "밖에서 다 식물 총장이라고 그러지 않습니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.758
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 지난해 3월 임기를 4달 남긴 상황에서 전격 사퇴했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.768,
+                "end": 8.186
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 사회가 오랜 세월 쌓아 올린 상식과 정의가 무너지는 것을 더 이상 지켜보고 있기 어렵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.196,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "지난해 3월 임기를 4달 남긴 상황에서 검찰총장을 사퇴했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01849_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

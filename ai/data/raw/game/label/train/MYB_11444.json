@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_11444",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 22.533,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "치료 치료 간지 넘쳐.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 눈에 띄는 옷을 입고서는 막사를 뒤지면 어떡해.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 15.055,
+                "end": 22.533
+            }
+        ]
+    },
+    "summary": "눈에 띄는 옷을 입고서 막사를 뒤지면 어떡하냐고 말을 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11444_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

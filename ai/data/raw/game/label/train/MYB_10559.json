@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_10559",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 48.2,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아아 이틀 만에",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 32.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대단하다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.281,
+                "end": 44.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "길게 못해서 미안해요 항상.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 44.423,
+                "end": 48.200
+            }
+        ]
+    },
+    "summary": "여자는 이틀 만에 대단하다고 하고 항상 길게 못해서 미안하다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10559_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

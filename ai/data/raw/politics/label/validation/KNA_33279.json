@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNA_33279",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.233,
+        "format": "MP4",
+        "date": "2018-12-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안보 환경이 빠르게 변하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이럴 때일수록 우리 군은 상황에 걸맞은 신속한 국방 개혁으로 더욱 강 강한 군으로 거듭나야 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.935,
+                "end": 12.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국방부는 이와 함께 내년 상반기부터 일과 후에 병사들의 휴대폰 사용을 허용하는 등의 장병 복지안과",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.923,
+                "end": 20.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "양심적 병역 거부자 대체 복무 제안도 대통령에게 보고했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.193,
+                "end": 24.346
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.356,
+                "end": 27.233
+            }
+        ]
+    },
+    "summary": "국방부는 장병들에 대한 휴대폰 사용 허용과 복지안 그리고 양심적 병역 거부자들의 대체 복무에 대해 대통령에게 보고했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33279_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

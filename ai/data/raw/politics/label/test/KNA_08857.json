@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_08857",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.765,
+        "format": "MP4",
+        "date": "2022-10-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "8시간 대치 끝에 검찰에 압수수색 시도를 저지한 민주당",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.404
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아침부터 검찰 규탄 의원 총회가 열렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.414,
+                "end": 7.406
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무도하고 뻔뻔하게 야당 탄압과 정치 보복에 전면적으로 나선 정권은 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.416,
+                "end": 15.046
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사상 유례없는 검찰 쿠데타로 기록될 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.056,
+                "end": 19.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 대표는 최측근인 @이름1 민주연구원 부원장의 결백을 믿는다며 대선자금 수수 의혹에 대해서도 강하게 부인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.237,
+                "end": 28.736
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대선 자금 운운하는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.746,
+                "end": 31.765
+            }
+        ]
+    },
+    "summary": "민주당은 검찰의 압수수색 시도를 저지했고 검찰 규탄 의원 총회를 열었다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08857_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08857_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

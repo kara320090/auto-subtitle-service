@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYB_08703",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.466,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "존 노와 이제 메인을 할 수 있겠군.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대륙의 향로 와 아 아이고 음 좋아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.003,
+                "end": 12.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 왜 이케 뭐가 먹고 싶냐 진짜 왜 이게 이래서 다이어트를 못한다니까.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.822,
+                "end": 17.518
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "겨우겨우 어떻게 3키로 넘게 뺐는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.528,
+                "end": 22.466
+            }
+        ]
+    },
+    "summary": "여자는 이제 메인을 할 수 있다면서 대륙의 향로 좋다고 언급하며 3키로 넘게 다이어트를 했으나 음식을 먹고 싶다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08703_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08703_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

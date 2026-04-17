@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_08040",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.128,
+        "format": "MP4",
+        "date": "2022-07-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "후보등록 첫날 이재명 의원이 당대표 출마를 선언했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선거패배 책임을 놓고 불출마 요구가 잇따랐지만 정면 돌파를 택한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.084,
+                "end": 9.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이름만 빼고는 모든 것을 바꾸겠다 이기는 민주당을 만들기 위해 몸을 던지겠다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.660,
+                "end": 16.370
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새로운 민주당",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.379,
+                "end": 18.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이기는 민주당으로 만드는 것이야말로 진정으로 책임지는 행동입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.350,
+                "end": 24.124
+            }
+        ]
+    },
+    "summary": "이재명 의원이 당대표 출마를 선언했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08040_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

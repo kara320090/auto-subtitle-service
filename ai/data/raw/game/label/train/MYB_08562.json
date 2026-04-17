@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "filename": "MYB_08562",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.5,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.319
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.329,
+                "end": 3.010
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.020,
+                "end": 5.713
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그새 NPC 대사가 바껴 버리네.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 5.723,
+                "end": 8.468
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.478,
+                "end": 11.813
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 여기 개판 돼 있었구나 몰랐는데",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.823,
+                "end": 14.838
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.848,
+                "end": 17.791
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "도적들이 개판 만들어놨네 빵집도?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.801,
+                "end": 20.570
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내가 좋아하는 빵집.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.580,
+                "end": 22.221
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "빵집도 개판 쳐 놨네 자식들이",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.231,
+                "end": 25.500
+            }
+        ]
+    },
+    "summary": "게임을 하면서 게임 내용을 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08562_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

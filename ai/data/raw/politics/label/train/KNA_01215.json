@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01215",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.292,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19 확진자 등 격리자는 사전 투표 이틀째인 모레에 한해 저녁 6시 30분부터 8시까지 투표할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신분증 외에 보건소로부터 받은 투표 안내 문자 등을 준비해야 하며 일반 유권자들이 투표를 마치고 퇴장한 뒤 일반 유권자와 동일한 방법으로 투표하게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.916,
+                "end": 20.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저녁 8시 이전에만 투표소에 도착하면 투표 마감 시각이 지나더라도 투표할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.138,
+                "end": 26.292
+            }
+        ]
+    },
+    "summary": "코로나19 확진자 등 격리자는 사전 투표 이틀째인 모레에 한해 저녁 6시 30분부터 8시까지 투표할 수 있고 신분증 외에 보건소로부터 받은 투표 안내 문자 등을 준비해야 하며 일반 유권자들이 투표를 마치고 퇴장한 뒤 일반 유권자와 동일한 방법으로 투표하게 됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01215_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01215_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

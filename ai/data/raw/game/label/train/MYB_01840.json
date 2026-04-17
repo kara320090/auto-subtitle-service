@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_01840",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.666,
+        "format": "MP4",
+        "date": "2023-06-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 그러고 아까 말씀드렸듯이 주스가 떨어지기 전에 바로 발동시켜 줘야 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 쓰고 바로 이렇게 주스가 스킬 쓰면 됐습니다 성공",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.433,
+                "end": 11.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 다음에는 스킬 눌러 주면서 연타로 눌러주시면 끝입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.113,
+                "end": 20.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 말씀드린 것처럼",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.127,
+                "end": 23.666
+            }
+        ]
+    },
+    "summary": "남자가 주스가 바로 스킬 써야 되는 것을 중요시 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

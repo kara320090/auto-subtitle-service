@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYB_07840",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.133,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.149
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.159,
+                "end": 4.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.870,
+                "end": 15.102
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.112,
+                "end": 17.254
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "포기한대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.264,
+                "end": 18.005
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "입단도 하지 않겠대.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.015,
+                "end": 20.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.830,
+                "end": 23.836
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "빡쳤다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.846,
+                "end": 30.133
+            }
+        ]
+    },
+    "summary": "20대 여성이 게임 속 내용과 대사를 상세하게 설명해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

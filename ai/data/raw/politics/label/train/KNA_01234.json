@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01234",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.116,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민만 바라보고 혁신하겠다는 쇄신 메시지를 던졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 최소한의 균형을 선택해 달라며 투표 참여를 호소했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.949,
+                "end": 9.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대한민국의 미래를 위해 일방의 독주와 독선을 막아낼 최소한의 균형과",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.197,
+                "end": 16.116
+            }
+        ]
+    },
+    "summary": "국민만 바라보고 혁신하겠다는 쇄신 메시지를 던지며 최소한의 균형을 선택 해달라며 투표 참여를 호소했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01234_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

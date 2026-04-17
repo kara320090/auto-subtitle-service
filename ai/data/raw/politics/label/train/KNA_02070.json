@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_02070",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.33,
+        "format": "MP4",
+        "date": "2022-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과거에도 100대 과제 나열했지만 못 지켰으니 사회 경제 여건 여소야대에서 할 수 있는 30에서 50 개 과제에 집중하겠다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 최근의 원자재 수급 물가 급등에 우려를 나타내며 공급망 위기 대응 시스템 구축을 당면 과제로 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.087,
+                "end": 17.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민생 우선이라는 방향은 분명히 한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.715,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "과거에 100대 과제 못 지켰으니 30에서 50 개 과제에 집중하겠다고 했다면서 공급망 위기 대응 시스템 구축을 당면 과제로 강조했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02070_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02070_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

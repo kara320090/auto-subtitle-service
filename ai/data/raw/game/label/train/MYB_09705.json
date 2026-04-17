@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_09705",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 좋다던데 원래는 우유니 소금 사막을 가보고 싶었거든요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 가는 데만 5일 걸린데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.163,
+                "end": 7.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 생각했던 거 보다 사진만 잘 나오고 딱히 습하고 이래서 좀 그렇다고 하더라고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.845,
+                "end": 17.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "환상같은 위험 그리고 제일 문제는 위험하다고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.038,
+                "end": 23.800
+            }
+        ]
+    },
+    "summary": "여성이 게임을 하고 있으며 우유니 소금 사막에 여행을 가보고 싶었는데 가는데 5일이 걸리고 위험해서 안 갔다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

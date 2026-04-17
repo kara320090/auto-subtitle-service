@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNA_02800",
+        "category": "정치뉴스",
+        "sub_category": 16,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.195,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여당은 발끈했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영부인이 현지 주민과 아픔을 공감하는 활동을 한 것이라며 인격모독이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.680,
+                "end": 7.745
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 반여성적이고 성 인지 감수성에 문제가 있을 뿐만 아니라 왜 우리 스스로가 스스로 깎아내리는지 이해할 수가 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.755,
+                "end": 16.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야당 의원은 마스크를 쓰지 않았다고도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.578,
+                "end": 19.624
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "의료시설 마스크 착용은 다 의무화하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.634,
+                "end": 24.079
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "김건희 여사의 의료기관 방문 마스크 미착용 매우 부적절하구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.089,
+                "end": 29.195
+            }
+        ]
+    },
+    "summary": "여당은 영부인이 현지 주민과 아픔을 공감하는 활동을 한 것이라며 인격모독이라고 발끈한 한편 야당 의원은 마스크를 쓰지 않았다고도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02800_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 154
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02800_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

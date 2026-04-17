@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_04024",
+        "category": "정치뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.14,
+        "format": "MP4",
+        "date": "2021-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 방역조치로 인한 손실을 소급해 보상할 지를 놓고 자정까지 여야의 평행선이 이어지자 수적우위에 있는 민주당은 표결을 시도했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.928
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소급적용 하셔야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.938,
+                "end": 13.803
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘 의원들은 항의하며 회의장을 떠났고 민주당과 시대전한만의 찬성으로 법안은 소의원회를 통과했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.813,
+                "end": 22.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개정안에는 논란되온 소급적용 조항은 빠졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.067,
+                "end": 26.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 소급해 보상하면 연말에나 보상을 받게 되고 그나마도 적은 금액이 될 거라고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.241,
+                "end": 33.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대신 재난지원금같은 피해지원 형태로 손실을 보상케 하는 내용을 법안 부측에 명시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.483,
+                "end": 40.140
+            }
+        ]
+    },
+    "summary": "코로나 방역조치로 인한 손실보상에 대하여 여야가 논란이 되고 있다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04024_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04024_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

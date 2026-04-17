@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_09915",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.9,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 정도?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 아 환불 공짜예요? 아 몰랐네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.360,
+                "end": 16.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기메임. 저 치킨 시켰으니까 오래 오래 뱅송해 주세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.884,
+                "end": 21.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이쯤에서 아직 안 가죠. 그래도 오늘 한두 시까지는 하지 않을까요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.192,
+                "end": 24.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치킨 다 드실 때까지는 할 수 있을 거 같기는 한데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.720,
+                "end": 26.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다고 살살 그냥 부스러기 하나씩 드시진 마시고요 아시겠죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.920,
+                "end": 32.900
+            }
+        ]
+    },
+    "summary": "시청자가 치킨 시켰기 때문에 오래오래 방송해 달라고 해서 한 두시까지는 할 수 있을 거 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09915_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 73,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

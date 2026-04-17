@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_02073",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.218,
+        "format": "MP4",
+        "date": "2022-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수사팀은 지난달 말쯤 지휘부에 한 검사장을 무혐의 처분하겠다고 보고했는데 중앙지검은 최근까지 공식 보고는 받지 않았다는 입장을 고수해왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.956
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한편 수사 착수 석 달여만에 재판에 넘겨졌던 이 전 기자는 1심에서 무죄를 선고받았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.966,
+                "end": 16.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 이유민입",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.805,
+                "end": 18.218
+            }
+        ]
+    },
+    "summary": "수사팀은 지휘부에 한 검사장을 무혐의 처분하겠다고 보고했지만 중앙지검은 공식 보고는 받지 않았다는 입장을 고수해왔고 한편 재판에 넘겨졌던 이 전 기자는 1심에서 무죄를 선고받았다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02073_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02073_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

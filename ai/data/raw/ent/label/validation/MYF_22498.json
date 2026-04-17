@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYF_22498",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 35.368,
+        "format": "MP4",
+        "date": "2022-12-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오우 오빠",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.417
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 어뜩해",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.427,
+                "end": 5.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이렇게 엄마가 삿포로에서 사 온 건데 엄마 이것 봐 엄마가 좋아하는 장서방이 깼어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.435,
+                "end": 15.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 한 거 아이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.304,
+                "end": 17.499
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 나쁘지 않은 것 같기도 하면서 허접한 허접 그 자체 같기도 하면서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.509,
+                "end": 35.368
+            }
+        ]
+    },
+    "summary": "여자 친정 엄마가 삿포로에서 사온 선물을 남편이 깼다면서 친정 엄마에게 이르고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22498_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 43,
+                    "act": 92
+                }
+            ]
+        }
+    ]
+}

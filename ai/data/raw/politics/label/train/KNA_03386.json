@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_03386",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2021-02-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두 후보는 상대의 부동산 공약 검증에 마지막까지 집중했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 의원은 먼저 공급 물량의 의문을 제개했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.061,
+                "end": 9.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공공 임대 주택 용적률을 높여서 짓는 거만으로는 30만 호에 공급하는 거고 매우 어렵다고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.319,
+                "end": 16.865
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "용적률을 높여 주기 시작하면 서울에 굉장히 많은 어 생각지 못한 부지들이 상당히 많이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.875,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "두 후보는 상대의 부동산 공약 검증에 마지막까지 집중했고 @이름1 의원은 공급 물량의 의문을 제기했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03386_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 150
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYF_12902",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.957,
+        "format": "MP4",
+        "date": "2022-05-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우와 그렇지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 짼다 짼다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.250,
+                "end": 5.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 그렇지 우와 짼다 짼다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.290,
+                "end": 9.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 그렇지 내가 나올 줄 알았다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.800,
+                "end": 16.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋아 야 그렇지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.370,
+                "end": 23.957
+            }
+        ]
+    },
+    "summary": "영상 속 남자는 물고기가 나올 걸 미리 알고 있었다면서 그렇지라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12902_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12902_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

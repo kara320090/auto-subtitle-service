@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_09016",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.866,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니요. 당장은 안 돼.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.391,
+                "end": 5.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제메키스 가도 주변부터 조사한대요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.481,
+                "end": 9.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용병 구하고 있었구나?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.919,
+                "end": 11.362
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남들은 코로나 걸리면 입맛이 없어진다는데 회사 조퇴하면서 순대국 한사발 들이키고 죽 먹고 저녁으로 덮밥먹고 후식으로 팝콘까",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.372,
+                "end": 19.866
+            }
+        ]
+    },
+    "summary": "화자1은 제메키스에 가도 주변부터 조사한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09016_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

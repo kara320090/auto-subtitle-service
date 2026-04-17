@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_02325",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.073,
+        "format": "MP4",
+        "date": "2022-05-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자진 사퇴 형식이었지만 대통령실 내부에서도 그동안 김 비서관 문제를 심각하게 지켜봐 왔던 것으로 알려진 만큼 사실상 경질에 가깝다는 해석입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실 관계자는 김 비서관의 과거 발언들이 너무 심각했다며 여론의 추이를 살핀 결과라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.833,
+                "end": 18.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 윤 대통령이 소통을 강화하겠다며 시민 사회 수석실을 확대하고 종교 다문화 비서관을 신설했는데 김 비서관이 자리를 지킬 경우 이런 구상에 차질이 빚어질 수 있다는 점을 우려한 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.751,
+                "end": 32.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 앞으로 인사 문제든 정책 문제든 그 언론에서 나오는 것들 제가 다 잘 보고 있습니다. 네",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.813,
+                "end": 40.073
+            }
+        ]
+    },
+    "summary": "대통령실 관계자는 김 비서관의 과거 발언들이 너무 심각했다며 자진 사퇴 형식이었지만 대통령실 내부에서도 그동안 김 비서관 문제를 심각하게 지켜봐 왔던 것으로 알려진 만큼 사실상 경질에 가깝다는 해석입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02325_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02325_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

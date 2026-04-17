@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_11484",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.1,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 다리를 다쳤나 봐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.965
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.975,
+                "end": 6.762
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 나 이 장면에서 비하스트가 죽는 걸 이미 봤어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.772,
+                "end": 10.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 비하스트 죽을 것 같은데 같이 저렇게 열심히 살다가?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.118,
+                "end": 14.197
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "늘 베프는 죽게 돼 있다구.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.207,
+                "end": 17.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 미래가 살짝 보였는데 그죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.678,
+                "end": 22.100
+            }
+        ]
+    },
+    "summary": "한 여성이 이 장면에서 이미 비하스트 죽는 걸 봤다며 저렇게 열심히 살다가 베프는 늘 죽게 돼 있다며 미래가 보였다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11484_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

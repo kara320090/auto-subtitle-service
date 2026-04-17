@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_05814",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.598,
+        "format": "MP4",
+        "date": "2122-12-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "복지부가 보장성 강화를 골자로 하는 이른바 문 케어 개편에 나선 이유입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.783
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 5년간 광범위한 비급여의 급여화 정책이 추진되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.793,
+                "end": 11.466
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "불필요한 의료 남용과 같은 부작용을 초래하여 건강 보험 재정에 큰 부담으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.476,
+                "end": 18.268
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "MRI와 초음파는 급여 적용 기준을 명확히 하고 적용 횟수도 제한하는 방안을 추진합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.278,
+                "end": 25.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해로 예정됐던 근골격계 MRI와 초음파 급여화도 필수 항목에만 적용합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.208,
+                "end": 31.598
+            }
+        ]
+    },
+    "summary": "복지부가 불필요한 의료 남용이 건강 보험 재정에 큰 부담으로 이어졌다며 문 케어 개편에 나서 MRI와 초음파의 급여 적용 기준을 명확히 하고 적용 횟수도 제한하는 방안을 추진 중이며 올해로 예정됐던 근골격계 MRI와 초음파 급여화도 필수 항목에만 적용합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05814_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05814_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 7,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

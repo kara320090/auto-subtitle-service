@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_08698",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.766,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "못 마시누 오 그럴 듯한데 아 야식 땡겨.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아물간 브리또 이방인 드세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.036,
+                "end": 12.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 먹겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.315,
+                "end": 19.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아우 어 간지러",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.023,
+                "end": 22.766
+            }
+        ]
+    },
+    "summary": "20대 여성이 게임 화면 속에서 게임을 설명하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08698_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_08415",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.333,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대창님이 왜 여기에서 단독행동하고 있지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.738
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 오랜 지인이 단서를 손에 넣었대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.748,
+                "end": 9.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니깐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.498,
+                "end": 11.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분은 다 마무리 지었죠 저만 못 지었죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.714,
+                "end": 17.333
+            }
+        ]
+    },
+    "summary": "한 캐릭터가 대창님이 왜 여기에서 단독행동하고 있냐고 물었더니 오랜 지인이 단서를 찾았다고 이야기했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08415_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

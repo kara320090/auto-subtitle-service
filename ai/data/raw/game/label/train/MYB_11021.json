@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYB_11021",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.405,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "몰라 아무튼 되게 징그러웠어요 아침에 딱 창문 열자마자 그러고 있어서 소리 지를 뻔 했어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.774
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대화해요 소통해요 우와 모자도 썼네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.784,
+                "end": 13.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "편지 못 봤음?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.174,
+                "end": 16.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 개가 종이를 물고 있었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.828,
+                "end": 23.400
+            }
+        ]
+    },
+    "summary": "게임에서 플레이어가 편지를 찾기 위해 여자 NPC와 대화를 나눈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11021_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

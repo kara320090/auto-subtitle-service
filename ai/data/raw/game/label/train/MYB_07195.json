@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_07195",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.433,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.772
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 귀신같이 생겼어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.782,
+                "end": 12.047
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무서워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.057,
+                "end": 12.877
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.887,
+                "end": 22.433
+            }
+        ]
+    },
+    "summary": "그가 정말 귀신같이 생겨서 나는 무섭다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07195_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

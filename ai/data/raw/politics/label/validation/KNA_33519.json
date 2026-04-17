@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_33519",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.718,
+        "format": "MP4",
+        "date": "2023-06-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 회담에서 양국 간 가치 연대를 통한 협력 확대에 관해",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.687
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리나라의 3대 교역 대상국인 베트남도 국빈 방문합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.697,
+                "end": 9.861
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "포괄적 전략 동반자 관계로 두 나라 관계가 격상된 만큼 정상회담 등을 통해 양국 관계를 더욱 심화시키겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.871,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "윤 대통령은 베트남을 국빈 방문해 정상회담 등을 통해 양국의 관계를 더욱 심화시키겠다고 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33519_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 3,
+                    "act": 40
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33519_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

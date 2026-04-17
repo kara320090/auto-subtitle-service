@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYB_08323",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.266,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고민있냐 조슈아님의 상태가 좋지 않습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.594
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가슴의 석화로 인한 통증이 나날이 심해지시는 모양입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.604,
+                "end": 11.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약이 문제다 아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.237,
+                "end": 18.266
+            }
+        ]
+    },
+    "summary": "게임 속의 조슈아의 상태가 좋지 않고 가슴의 석화로 인한 통증이 나날이 심해지고 있는데 약이 문제인 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08323_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

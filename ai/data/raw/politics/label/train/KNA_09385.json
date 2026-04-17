@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_09385",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.622,
+        "format": "MP4",
+        "date": "2022-12-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현재 우리 군의 탐지 타격 능력으로는 격추에 어려움이 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.293
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북한의 무인기는 시속 100킬로미터의 비교적 느린 속도로 약 3킬로미터의 낮은 고도에서 비행했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.303,
+                "end": 13.034
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울 북부 지역을 서쪽에서 동쪽으로 횡단하며 1시간가량 유유히 비행했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.044,
+                "end": 18.162
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원격 조종이 아닌 사전에 입력된 좌표대로 비행한 것으로 분석됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.172,
+                "end": 22.622
+            }
+        ]
+    },
+    "summary": "북한의 무인기는 사전에 입력된 좌표대로 서울 북부 지역을 서쪽에서 동쪽으로 1시간가량 횡단했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09385_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

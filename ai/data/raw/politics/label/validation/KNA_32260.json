@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32260",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.0,
+        "format": "MP4",
+        "date": "2015-11-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "향나무 관이 내려가자 아버지를 전직 대통령을 떠나보내는 애통함이 얼굴마다 가득합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "교회 장로였던 고 김 전 대통령의 마지막 길에서는 예배가 함께 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.372,
+                "end": 13.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 모두 그를 본받아 고난할 때나 흉통할 때나 변치 않는 믿음을 갖게 하옵소서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.752,
+                "end": 23.000
+            }
+        ]
+    },
+    "summary": "향나무 관이 내려가자 전직 대통령을 떠나보내는 애통함이 얼굴마다 가득했고 대통령의 마지막 길에는 예배가 함께 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32260_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

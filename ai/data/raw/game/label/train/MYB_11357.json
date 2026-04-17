@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYB_11357",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.5,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 아까 친구다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.813,
+                "end": 3.524
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.534,
+                "end": 17.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.289,
+                "end": 19.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앵그리신",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.819,
+                "end": 27.745
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.755,
+                "end": 32.438
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.448,
+                "end": 38.500
+            }
+        ]
+    },
+    "summary": "여자는 게임을 영상을 바라보며 스토리에 몰입하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11357_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

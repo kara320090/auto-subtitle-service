@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_02069",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.682,
+        "format": "MP4",
+        "date": "2022-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과제 선정 과정에서 청년 참여도 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새 정부 국정과제는 이달 중순 한 차례 정리를 거쳐 다음 달 초 윤석열 당선인이 직접 발표할 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.276,
+                "end": 10.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안철수 인수위원장은 국정과제를 나열 식으로 내놓진 않겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.499,
+                "end": 15.682
+            }
+        ]
+    },
+    "summary": "새 정부 국정과제는 다음 달 초 윤석열 당선인이 직접 발표할 예정이고 안철수 인수위원장은 국정과제를 나열 식으로 내놓진 않겠다고 밝혔다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02069_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02069_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

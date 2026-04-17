@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_03244",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.375,
+        "format": "MP4",
+        "date": "2023-01-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 진형 케이크 들개 파티 두 번째 보스 잡으러 가보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단은 광역 딜러가 좋다고 하거든요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.240,
+                "end": 9.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 전투력 260만 덱 자 일단은 랜덤 효과 가져갈게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.194,
+                "end": 16.375
+            }
+        ]
+    },
+    "summary": "케이크 들개 파티 두 번째 보스 잡으러 갈 텐데 광역 딜러가 좋다고 해서 전투력 260만 덱의 랜덤 효과를 가져간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03244_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

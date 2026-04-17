@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_08001",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.621,
+        "format": "MP4",
+        "date": "2019-10-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 사료는 많이 안 먹더라고요. 아직은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.876
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 습식 사료하고 물도 싹싹 비웠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.886,
+                "end": 6.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물도 새로 갈아 주는데 그 전에 비해 좀 먹은 것 같고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.782,
+                "end": 11.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 쑥이 대단하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.235,
+                "end": 14.170
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄마한테 와 솜방망이 솜방망이 엄마한테 와",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.180,
+                "end": 21.621
+            }
+        ]
+    },
+    "summary": "쑥이는 사료는 많이 먹지 않지만 물은 잘 먹고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

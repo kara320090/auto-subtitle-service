@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_03352",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.201,
+        "format": "MP4",
+        "date": "2021-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차단물은 부식돼 당시 이미 훼손돼 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 여름 군이 이 일대 배수로를 전수 조사했지만 과거 부대 교대 시 제대로 인수인계가 되지 않아 배수로 3개가 더 있는지도 몰랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.804,
+                "end": 14.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결과적으로 월남자가 우리 해안에 상륙한 뒤 군이 인지하기까지 3시간 이상이 수색을 통한 신병 확보까지 6시간 20분이 걸렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.517,
+                "end": 24.612
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "군은 이번 사항을 엄중하게 인식하고 환골탈태의 각오로 극본적인 보완 대책을 강도 높게 추진하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.622,
+                "end": 35.201
+            }
+        ]
+    },
+    "summary": "지난 여름 군이 이 일대 배수로를 전수 조사했지만 과거 부대 교대 시 제대로 인수인계가 되지 않아 배수로 3개가 더 있는지도 몰랐으며 결과적으로 월남자가 우리 해안에 상륙한 뒤 군이 인지하기까지 3시간 이상이 수색을 통한 신병 확보까지 6시간 20분이 걸렸습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03352_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03352_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 46,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

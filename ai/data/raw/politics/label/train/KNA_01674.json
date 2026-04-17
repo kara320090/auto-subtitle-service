@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01674",
+        "category": "정치뉴스",
+        "sub_category": 47,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.123,
+        "format": "MP4",
+        "date": "2022-02-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보다 겸허한 자세로 국민을 섬기겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.009
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재판부는 유상봉 씨에겐 징역 4년 총선 당시 윤 의원의 수석 보좌관이었던 A씨에겐 징역 3년을 각각 선고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.019,
+                "end": 12.203
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경쟁 후보 비방과 선거 과정에서의 도움을 대가로 이익을 주고 받은 혐의가 인정된 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.213,
+                "end": 18.316
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰은 판결문을 면밀히 검토해 항소 여부를 결정하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.326,
+                "end": 23.123
+            }
+        ]
+    },
+    "summary": "경쟁 후보 비방과 선거 과정에서의 도움을 대가로 이익을 주고 받은 혐의가 인정되어 재판부는 유상봉 씨에겐 징역 4년 총선 당시 윤 의원의 수석 보좌관에겐 징역 3년을 각각 선고했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01674_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01674_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

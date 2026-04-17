@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_02570",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.293,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서해 공무원 피살 사건은 지난 정부의 결론을 뒤집었고 공공기관 개혁을 주문하면서는 지난 5년 방만했다고 지적했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.727
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임기가 남은 지난 정부 임명 기관장들의 거취 갈등도 진행 중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.737,
+                "end": 13.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실 관계자는 KBS와의 통화에서 지난 정부의 일을 정상화하는 과정일 뿐 일부러 각을 세우는 건 아니라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.937,
+                "end": 22.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근의 국정 지지율 문제와도 아무 관련이 없다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.879,
+                "end": 27.293
+            }
+        ]
+    },
+    "summary": "지난 정부의 방만함을 지적하고 지난 정부의 일을 정상화하는 과정일 뿐이라고 답했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02570_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02570_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01129",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.5,
+        "format": "MP4",
+        "date": "2023-08-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 여러분들이 한 가지 중요한 포인트가 박하가 맨 뒤에 위치하고 있는데 스킬 타이밍이 언제 쓰는지가 제일 중요하거든요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용과를 버티기 위해서는 가급적이면 용과가 브레스 발사하기 전에 스킬이 나가서 아군의 힐을 딱 채워주거나 보호막을 설정해주면 가장 좋아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.529,
+                "end": 16.631
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 그거를 중점적으로 보면 되는데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.641,
+                "end": 22.500
+            }
+        ]
+    },
+    "summary": "한 가지 중요한 포인트가 박하가 맨 뒤에 위치하고 있는데 스킬 타이밍이 언제 쓰는지가 제일 중요하고 용과를 버티기 위해서는 용과가 브레스를 발사하기 전에 스킬을 쓰는 게 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01129_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

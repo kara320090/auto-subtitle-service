@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_01708",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2022-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "논쟁은 이 부분에서 시작됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열은 영장 들어오면 죽어 윤석열은 원래 죄가 많은 사람이야 내가 가진 카드면 윤석열은 죽어 이거 들어보셨지요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.440,
+                "end": 13.798
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 녹취록 끝부분을 가면 이재명 게이트란 말을 김만배가 한다고 그러는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.808,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "윤석열 후보와 이재명 후보는 녹취록 일부를 서로 얘기하며 논쟁이 시작됐다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01708_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

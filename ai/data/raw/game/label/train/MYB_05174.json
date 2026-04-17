@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_05174",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.1,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대회 우승을 축하해요 캡틴 캐비어 맛 쿠키.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.873
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아주 인상적이었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.883,
+                "end": 5.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쟁쟁한 성기사들을 제치고 해산물 쿠키가 우승한 그 순간 원로들의 표정이 어땠는지 당신은 상상도 못할 거랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.841,
+                "end": 16.692
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바다 쿠키를 얕보면 그렇게 되는 거지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.702,
+                "end": 20.100
+            }
+        ]
+    },
+    "summary": "여자는 캡친 캐비어 맛 쿠키에게 우승을 축하하며 아주 인상적이었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05174_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

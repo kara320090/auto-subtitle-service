@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_00613",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 56.6,
+        "format": "MP4",
+        "date": "2020-11-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뜨고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "톨이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.965,
+                "end": 5.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "톨이의 상태도 급격하게 한순간에 요렇게 나빠지는 것 같애요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.340,
+                "end": 13.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 아기 톨이야 일단 뭘 먹는 걸 거부하니까 아이가 이렇게 하루 만에 이렇게 너무 힘들어지네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.882,
+                "end": 27.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 병원을 갔다 온다 해도 병원 가기 전에라도 어떻게 될까 걱정이에요 진짜 우리 아기 이렇게 지하실에서 이불 덮자 우리 톨이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.137,
+                "end": 50.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지하철에서 도대체 무슨 일이 있었던 거야 아고 우리 애기",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.564,
+                "end": 56.600
+            }
+        ]
+    },
+    "summary": "톨이의 상태가 급격히 악화되고 음식을 거부하며 하루 만에 힘들어하는 모습을 보이는데 병원에 가기 전에라도 어떻게 될까 걱정되며 지하철에서 있었던 상황을 궁금해 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00613_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00613_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

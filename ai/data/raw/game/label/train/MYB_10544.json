@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_10544",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.566,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 피닉스가 정화도 할 수 있어요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.617,
+                "end": 13.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오오",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.108,
+                "end": 17.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.738,
+                "end": 19.566
+            }
+        ]
+    },
+    "summary": "여자는 피닉스가 정화도 할 수 있냐고 하고 가자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10544_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

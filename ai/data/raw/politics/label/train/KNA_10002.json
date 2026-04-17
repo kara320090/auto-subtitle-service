@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_10002",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.464,
+        "format": "MP4",
+        "date": "2023-04-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.797
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미래의 한미동맹은 첨단기술과 우주로 확장될 거라고 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.807,
+                "end": 7.263
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.273,
+                "end": 16.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 한미동맹이 글로벌 동맹으로 발전했다며 우크라이나 지원 의사를 밝히고 북한 인권에 대한 국제사회의 관심을 요청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.017,
+                "end": 24.481
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.491,
+                "end": 31.464
+            }
+        ]
+    },
+    "summary": "윤 대통령은 연설에서 미래의 한미동맹은 첨단기술과 우주로 확장될 거라고 했고 한미동맹이 글로벌 동맹으로 발전했다며 우크라이나 지원 의사를 밝히고 북한 인권에 대한 국제사회의 관심을 요청했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

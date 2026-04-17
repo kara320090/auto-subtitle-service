@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00702",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.123,
+        "format": "MP4",
+        "date": "2022-04-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성실하게 설명 드리고 끝까지 책임을 질 것입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 가운데 의혹을 최초 제기한 별정직 7급 공무원 A씨 측은 법적 대응을 준비 중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.710,
+                "end": 12.415
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "A씨 측은 배씨에 대해 직장 내 괴롭힘으로 고소할 예정이며 조사를 위한 경찰 출석 일정도 조율 중이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.425,
+                "end": 19.919
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공무원 인사 등의 최종 책임자가 경기 도지사이고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.929,
+                "end": 23.123
+            }
+        ]
+    },
+    "summary": "김혜경씨 관련 의혹을 최초 제기한 별정직 7급 공무원 A씨 측은 법적 대응을 준비 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00702_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

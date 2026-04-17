@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_01062",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 백신 등 필요한 지원을 아끼지 않겠다며 인도적 지원에 대해선 정치 군사적 고려 없이 언제든 열어놓겠다고 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 시정 연설에 앞서 박병석 국회의장과 여야 지도부 등을 만나 한덕수 국무총리 후보자의 국회 인준 협조를 요청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.565,
+                "end": 16.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박민철입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.099,
+                "end": 18.852
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "성 비위 의혹을 받고 있는 3선 중진 박완주 의원이",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.862,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "윤 대통령은 국회의장을 만나 국무총리 후보자의 국회 인준 협조를 요청했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01062_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

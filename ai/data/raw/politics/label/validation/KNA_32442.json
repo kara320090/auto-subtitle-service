@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32442",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2023-08-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 이번 행사가 남겨준 우리들의 과제에 대해 한치의 소홀함도 없이 철저히 분석하고 성찰하는 시간을 갖도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 총리는 이어 태풍 카눈 피해와 관련해선 신속한 복구와 충분한 지원에 최선을 다하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.316,
+                "end": 17.670
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.680,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "한 총리는 이번 행사가 남긴 과제에 대해 철저히 분석하고 성찰하겠다고 밝혔으며 태풍 카눈과 관련해서는 피해의 신속한 복구와 충분한 지원에 최선을 다하겠다고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32442_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

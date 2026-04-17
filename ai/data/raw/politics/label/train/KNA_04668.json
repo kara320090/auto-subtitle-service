@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_04668",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2021-11-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 압수수색과 관련해 민주당은 정책 개발 관련 일상적 협조 업무는 있었지만 대선 공약 개발을 요청한 바는 없다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.230
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 @이름1 산업 통상 자원부 1 차관이 소속 직원들에게 대선 공약 개발을 지시했다는 선관위의 수사 의뢰 건도 기초 조사에 들어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.240,
+                "end": 18.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.834,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "이번 압수수색과 관련해 민주당은 정책 개발 관련 일상적 협조 업무는 있었지만 대선 공약 개발을 요청한 바는 없다고 밝혔고 검찰은 @이름1 산업 통상 자원부 1 차관이 소속 직원들에게 대선 공약 개발을 지시했다는 선관위의 수사 의뢰 건도 기초 조사에 들어갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04668_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04668_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_09723",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 56.266,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 지도에서 수상한 곳",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 아 저 버려진 폐가에도 또 스티머스 잡으라고 해서 이건 뭐야 아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.816,
+                "end": 14.577
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 스티머스 여기 있다고 써 있었는데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.587,
+                "end": 48.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "버려진 폐가 근처 아닐까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 48.824,
+                "end": 51.774
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭔 바보 같은",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 51.784,
+                "end": 56.266
+            }
+        ]
+    },
+    "summary": "여성이 게임을 하고 있으며 버려진 폐가에 스티머스가 있었다고 알았는데 없어 찾고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09723_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

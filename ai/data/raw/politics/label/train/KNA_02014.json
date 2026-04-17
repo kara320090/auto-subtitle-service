@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_02014",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.182,
+        "format": "MP4",
+        "date": "2022-03-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령과 윤석열 당선인이 청와대 상춘재에서 만찬을 겸해 만납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가급적 이른 시일 내에 윤석열 당선인과 만났으면 한다는 문재인 대통령의 제안을 다시 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.170,
+                "end": 14.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미리 정한 의제는 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.190,
+                "end": 16.182
+            }
+        ]
+    },
+    "summary": "문재인 대통령과 윤석열 당선인이 청와대 상춘재에서 만찬을 겸해 만나며 미리 정한 의제는 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02014_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

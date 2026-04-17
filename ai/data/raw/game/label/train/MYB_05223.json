@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYB_05223",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.133,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "으아 됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.014
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검은 바다에서 벗어났어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.024,
+                "end": 6.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "길 끝에 위쪽으로 빠지는 구멍이 있을 줄이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.159,
+                "end": 9.660
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네가 아니었으면 큰일났을 거다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.670,
+                "end": 12.268
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고생했다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.278,
+                "end": 14.144
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으아아아아 조그만 쿠키 주제에 감히 나를 가지고 놀아?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.154,
+                "end": 24.133
+            }
+        ]
+    },
+    "summary": "쿠키들은 길 끝에 위쪽으로 빠지는 구멍이 있어서 검은 바다에서 벗어날 수 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05223_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

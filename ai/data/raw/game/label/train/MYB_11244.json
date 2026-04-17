@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_11244",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.716,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이구 댕댕이도 밥먹네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음유시인.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.985,
+                "end": 16.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 돌아오면 죽을 것 같은 지감.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.402,
+                "end": 22.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 술집 잘 만든 거 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.632,
+                "end": 32.700
+            }
+        ]
+    },
+    "summary": "강아지도 밥 먹고 있다며 돌아오면 죽을 것 같다고 하며 그리고 술집 잘 만들었다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11244_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

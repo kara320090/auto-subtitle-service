@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYB_01185",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.2,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고개 내민 바닷 것들 모조리 쓸어 잡아라.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.332
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당신이 사랑하는 작은 보석이 당신의 힘을 나눠 받기를 간절히 바랍니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.342,
+                "end": 11.806
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그래요. 이건 당신들께 드리는 힘 이 바다는 당신들로 인해 안전할테죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.816,
+                "end": 22.200
+            }
+        ]
+    },
+    "summary": "업데이트 소개 영상을 보여주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01185_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

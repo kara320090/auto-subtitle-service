@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_08778",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.298,
+        "format": "MP4",
+        "date": "2022-10-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "군은 이 가운데 건강하고 사람에게 친화적인 군견을 민간에 무상 분양하고 있지만 그 수는 한 해 10마리에서 20마리에 불과합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분양이 안된 관리견은 죽을 때까지 훈련소에서 관리하는데 한 해 사료비만 2억 원 정도가 들어갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.520,
+                "end": 16.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관리견 8마리당 이들을 돌보는 군견 병사 1명도 필요해 군에는 적지 않은 부담입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.754,
+                "end": 23.589
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "평생 헌신한 군견들의 처우를 개선할 필요가 있겠고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.599,
+                "end": 27.558
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 편안한 노후를 위해서 무료 분양 홍보도 강화할 필요가 있겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.568,
+                "end": 32.298
+            }
+        ]
+    },
+    "summary": "군은 건강하고 사람에게 친화적인 군견을 민간에 무상 분양하고 있지만 그 수가 한 해 10마리에서 20마리뿐이고 분양이 안 된 관리견은 한 해 사료비만 2억 원 정도 들어가고 관리견 8마리당 이들을 돌보는 군견 병사 1명이 필요해 군에는 적지 않은 부담이 든다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08778_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 15,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08778_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

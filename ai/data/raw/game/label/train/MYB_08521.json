@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYB_08521",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.733,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 근데 마을 수장같은 사람이 다 여자네?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 일루 가야 되는 구나.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.374,
+                "end": 7.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 다리 넘어가야 되겠네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.424,
+                "end": 12.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 을씨년스러운거 봐라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.933,
+                "end": 16.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.375,
+                "end": 18.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 가서 해치워 주지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.111,
+                "end": 24.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 갑자기 급발진 하시네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.341,
+                "end": 31.733
+            }
+        ]
+    },
+    "summary": "게임을 하면서 다음 퀘스트 장소를 확인하고 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08521_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

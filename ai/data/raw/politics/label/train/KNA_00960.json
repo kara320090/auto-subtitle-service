@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00960",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.383,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 재가동하는 것이 지금 현재로서 가장 우리가 취할 수 있는 좋은 방안이라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.062
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 당선인이 후보 시절 공약했던 사드 추가 배치에 대해서는 신중한 입장을 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.072,
+                "end": 12.503
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "수도권 방공망을 보강한다는 차원에서 나온 제안이라며",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.513,
+                "end": 16.383
+            }
+        ]
+    },
+    "summary": "윤석열 당선인의 후보 시절 공약에 대하여 논의하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00960_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

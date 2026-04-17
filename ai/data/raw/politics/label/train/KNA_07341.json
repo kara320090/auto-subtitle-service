@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_07341",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.861,
+        "format": "MP4",
+        "date": "2022-05-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이명박 대통령이 노무현 대통령을 죽이려 했던 것처럼 윤석열 대통령이 이재명 후보를 죽이려 해서는 절대 안 됩니다 여러분.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울시장 4선에 도전하는 오세훈 후보도 선거사무소를 열었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.110,
+                "end": 17.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시정을 잘 아는 현직 출신으로 정책 경쟁력을 강조했는데 국민의힘이 부자를 위한 정당이라는 건 오해라며 취약계층 정책을 잘 실현해 나가겠다고 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.025,
+                "end": 27.861
+            }
+        ]
+    },
+    "summary": "서울시장 4선에 도전하는 오세훈 후보도 선거사무소를 열었다며 시정을 잘 아는 현직 출신으로 정책 경쟁력을 강조했고 취약계층 정책을 잘 실현해 나가겠다고 했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNA_30528",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.9,
+        "format": "MP4",
+        "date": "2016-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 G20 정상회의는 혁신과 활력 연계와 포용적인 세계 경제 건설을 주제로 열립니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.296
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저성장 극복을 위한 정책 공조와 금융 시장 변동성 확대 세계 교역 위축에 대한 협력 방안 그리고 테러와 기후변화 문제 등이 중점 논의될 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.306,
+                "end": 18.900
+            }
+        ]
+    },
+    "summary": "이번 G20 정상회의는 혁신과 활력 연계와 포용적인 세계 경제를 주제로 저성장 극복을 위한 정책 공조와 세계 교역 위축에 대한 협력 방안 등이 중점 논의될 것으로 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30528_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30528_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

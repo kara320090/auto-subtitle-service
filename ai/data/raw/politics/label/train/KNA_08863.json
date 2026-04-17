@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_08863",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.602,
+        "format": "MP4",
+        "date": "2022-10-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "발굴 사업엔 예산과 인력이 필요하고 지역 주민들의 이해 협조도 절실합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기도는 중앙 정부가 주도해야 한다는 입장이지만 정부는 사과 권고조차도 수용한 적이 드뭅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.114,
+                "end": 13.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진실화해위는 대규모 발굴과 사후 조치를 감당할 행정력이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.678,
+                "end": 18.962
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "확실히 예 확실히 여기예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.972,
+                "end": 21.659
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기가 시신 집합소였어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.669,
+                "end": 24.298
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "볼록볼록 나온 게 다 무덤이잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.308,
+                "end": 26.593
+            }
+        ]
+    },
+    "summary": "유해 발굴 사업이 이루어지지 못하고 있다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08863_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08863_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

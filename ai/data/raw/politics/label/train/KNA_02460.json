@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_02460",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2022-06-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지상파 3사 출구 조사에서 우세로 예측된 10개 지역에 오차 범위 내 경합지였던 세종 대전까지 국민의 힘 후보가 당선됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 후보로 나선 현직 시장들을 모두 꺾은 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.433,
+                "end": 13.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최대 격전지로 꼽혔던 경기는 민주당 김동현 후보가 적정 끝에 당선됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.351,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "지상파 3사 출구 조사에서 우세로 예측된 10개 지역에 오차 범위 내 경합지였던 세종 대전까지 국민의 힘 후보가 당선됐으며 최대 격전지로 꼽혔던 경기는 민주당 김동현 후보가 적정 끝에 당선됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02460_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02460_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

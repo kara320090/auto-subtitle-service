@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00009",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "군은 이번에 드러난 경계 허점에 대해 현장 조사를 벌이고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.909
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "합참 정비 태세 검열 실장 등 17명을 현장에 투입해서 군 초동 조치와 이동 경로 등 당시 상황 전반에 대해서 현장 조사 중에 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.919,
+                "end": 14.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "A 씨는 1년여 전 귀순했을 때 민간인 통제선 지역까지 내려왔다가",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.728,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "군은 이번에 드러난 경계 허점에 대해 현장 조사를 벌이고 합참 정비 태세 검열 실장 등 17 명을 현장에 투입해서 군 초동 조치와 이동 경로 등 당시 상황 전반에 대해서 현장 조사 중에 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00009_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

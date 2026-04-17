@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_07794",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.456,
+        "format": "MP4",
+        "date": "2022-06-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유가족 중에선 기다리다 못해 직접 변호사를 구해서 재심 개시 결정을 받아낸 사례도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "권고만 남아 있고 국가는 통지를 못 받았으니 뭔가 구체적인 어떤 액션을 취할 수 없고 진실 규명 결정 이전과 이후가 크게 달라지지 않는",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.670,
+                "end": 16.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2010년 활동을 마친 1기 진화위의 권고 가운데 200여 건이 아직 이행되지 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.507,
+                "end": 23.456
+            }
+        ]
+    },
+    "summary": "기다리진 못한 유가족은 직접 변호사를 고용했고 아직 이행되지 않은 건이 200여 건이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07794_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

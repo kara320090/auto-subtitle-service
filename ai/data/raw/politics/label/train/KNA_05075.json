@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_05075",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.041,
+        "format": "MP4",
+        "date": "2022-07-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 외교부 장관은 북한 인권 문제는 남의 일이 아닌 바로 우리의 일이라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.876
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북한 내 인권문제에 대해서 어 이 신 정부는 어 가장 그런 그 적극적인 관심과 또 인권 개선을 위해서 어 앞으로 적극적인 노력을 기울일 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.886,
+                "end": 21.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 2016 년 통과된 북한 인권법에 따라 북한 인권 재단 설립도 적극 추진하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.010,
+                "end": 28.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "통일부는 최근 국회에 재단 이사를 추천해 달라는 공문을 발송하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.620,
+                "end": 33.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 인권 문제는 북한이 민감하게 반응하는 사안인 만큼 남북관계가 더욱 경색될 가능성이 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 33.870,
+                "end": 41.041
+            }
+        ]
+    },
+    "summary": "외교부 장관은 북한 인권 문제는 남의 일이 아닌 바로 우리의 일이라고 강조했고 정부는 북한 인권법에 따라 북한 인권 재단 설립도 적극 추진하고 있다며 다만 북한이 민감하게 반응하는 사안인 만큼 남북관계가 더욱 경색될 가능성이 있다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05075_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05075_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

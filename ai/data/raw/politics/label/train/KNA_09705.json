@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_09705",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.357,
+        "format": "MP4",
+        "date": "2023-01-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2019년 11월 우리 정부는 탈북 어민 2명을 북으로 돌려보냈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.743
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "동해 북방한계선 인근에서 나포된 지 닷새 만이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.753,
+                "end": 8.334
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 그들이 북한에서 중대 범죄를 저질렀다며 우리 국민 보호 필요성 등을 북송 사유로 들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.344,
+                "end": 15.264
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오징어잡이 배에서 16명의 동료 승선원을 살해하고 도주한 것으로 파악되었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.274,
+                "end": 24.357
+            }
+        ]
+    },
+    "summary": "2019년 11월 우리 정부는 탈북 어민 2명에 대해 북한에서 중대 범죄를 저질렀다며 북으로 돌려보냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

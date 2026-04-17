@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_00557",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.357,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현재 직접 수사를 할 수 없는 각 지방 검찰청 일반 형사부에 직접 수사나 인지 수사 필요성도 법무부에 개진한 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 역시 윤 당선인이 내건 사법 개혁 공약 중 하나입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.438,
+                "end": 14.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 김민철입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.270,
+                "end": 16.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난해 12월 특별사면을 받은 뒤에도 삼성 서울 병원에서 계속 입원 치료를 받아 온 박근혜 전 대통령이",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.300,
+                "end": 24.357
+            }
+        ]
+    },
+    "summary": "윤 당선인이 내걸었던 사법 개혁 공약 중 하나인 직접 수사를 할 수 없는 각 지방검찰청 일반 형사부의 직접 수사나 인지 수사 필요성도 법무부에 개진한 것으로 알려졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00557_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00557_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

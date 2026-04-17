@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "KNA_06627",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.531,
+        "format": "MP4",
+        "date": "2022-03-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋은 인재들이 저의 고향인 대구의 도약을 이루고 더 나아가 대한민국의 발전에 기여할 수 있도록 저의 작은 힘이나마 보태려고 합니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 15.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대구 시민들은 박 전 대통령의 낙향에 각별한 애정을 보였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.633,
+                "end": 20.661
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너무 기쁜 날인 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.671,
+                "end": 22.059
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "행복하게 남은 여생 잘 지내셨으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.069,
+                "end": 26.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인사말 도중 40대 남성이 병을 던져 행사가 중단되기도 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.810,
+                "end": 31.531
+            }
+        ]
+    },
+    "summary": "대구 시민들은 대부분 박 전 대통령의 낙향에 각별한 애정을 보였지만 인사말 도중 40대 남성이 병을 던져 행사가 중단되기도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06627_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06627_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

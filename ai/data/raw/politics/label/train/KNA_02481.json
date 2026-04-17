@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_02481",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.483,
+        "format": "MP4",
+        "date": "2022-06-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저조한 성적표를 받았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선거 참패에 지도부가 일제히 고개를 숙였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.607,
+                "end": 6.275
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더불어민주당 비상 대책 위원 일동은 이번 지방 선거 결과에 책임을 지고 전원 사퇴하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.285,
+                "end": 16.483
+            }
+        ]
+    },
+    "summary": "더불어민주당의 선거 참패에 비상 대책 위원 일동은 이번 지방 선거 결과에 책임을 지고 전원 사퇴하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02481_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_04025",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.861,
+        "format": "MP4",
+        "date": "2021-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소 소상공인 자영업자는 엄청난 손실과 빚을 떠안게 되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.834
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부 말만 믿고 전부 믿은 게 죄가 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.844,
+                "end": 9.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "손실 보상이라는 단어만 끌어다 붙여서 민심을 호도하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.757,
+                "end": 15.007
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "민주당은 여론 추이를 지켜보며 남은 절차를 6월 국회에서 마무리할 계획이지만 야당은 소급적용을 반드시 포함해야 한다는 입장이어서 진통이 예상됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.017,
+                "end": 25.925
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.935,
+                "end": 27.861
+            }
+        ]
+    },
+    "summary": "손실 보상과 관련하여 여야가 입장이 달라 진통이 예상된다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04025_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04025_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

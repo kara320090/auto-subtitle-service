@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_10589",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.429,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 서울 외환 시장에서 원달러환율은 8원 가까이 내리며 다시 1300원 아래로 내려갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국은행이 기준 금리를 동결하면 한미 간 금리 차가 커질 것을 우려해 환율이 오를 거라는 예상과는 다른 모습이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.482,
+                "end": 14.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금융 시장이 금리를 더 올릴 수 있다는 이창용 총재의 발언에 주목했기 때문으로 풀이됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.826,
+                "end": 21.317
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "금번 기준 금리 동결을 금리 인상 기조가 끝났다라는 의미로 받아들이지 않았으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.327,
+                "end": 29.429
+            }
+        ]
+    },
+    "summary": "기준 금리 동결이 금리 인상 기조가 끝난 것은 아니라고 이창용 총재는 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10589_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

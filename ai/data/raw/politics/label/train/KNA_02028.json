@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_02028",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.349,
+        "format": "MP4",
+        "date": "2022-03-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집무실 이전을 위한 예비비 승인은 어렵다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한 도발이 이어지는 상황에서 안보 공백을 발생시킨 정부로 남을 수 있다는 점도 청와대로선 부담입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.866,
+                "end": 12.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어제 국무회의에도 예비비 안건은 오르지 못했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.126,
+                "end": 16.349
+            }
+        ]
+    },
+    "summary": "북한도발이 이어지는 상황에서 안보 공백을 발생시킨 정부로 남을 수 있다는 부담감에 집무실 이전을 위한 예비비 승인은 어렵다고 청와대는 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02028_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02028_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

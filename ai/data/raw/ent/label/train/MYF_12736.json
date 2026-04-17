@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYF_12736",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.502,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하하하하 오 야야야야 자 떡 38 38.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 19.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 어제 만났던 3 4짜 떡붕어입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.160,
+                "end": 24.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이게 토종이었으면 얼마나 좋았을까요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.303,
+                "end": 28.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하하 방생하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.461,
+                "end": 31.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙다 잘가라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.896,
+                "end": 35.502
+            }
+        ]
+    },
+    "summary": "남자는 어제 잡은 4짜 떡붕어가 토종이었으면 좋았을 거라면서 나머지 38센치 2마리와 방생했고 고맙고 잘가라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12736_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12736_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00188",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.562,
+        "format": "MP4",
+        "date": "2022-01-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "징역 1년에 집행 유예 3년이 확정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의혹 제기 3년여 만에 실형이 확정되면서 김 전 장관은 문재인 정부 전 현직 장관 중 실형이 확정된 첫 사례가 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.130,
+                "end": 11.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박진수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.930,
+                "end": 14.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "광주를 찾은 민주당 이재명 후보는 광주 군 공항 이전을 지원하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.150,
+                "end": 19.552
+            }
+        ]
+    },
+    "summary": "의혹 제기 3년여 만에 징역 1년에 집행 유예 3년이 확정되면서 김 전 장관은 문재인 정부 전 현직 장관 중 실형이 확정된 첫 사례이며 민주당 이재명 후보는 광주 군 공항 이전을 지원한다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00188_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 64,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00188_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

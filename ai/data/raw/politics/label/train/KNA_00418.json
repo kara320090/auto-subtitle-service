@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00418",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2022-03-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "임시 기표소 투표 과정에서 국민들께 많은 혼란과 불편을 드려서 어 깊이 사과드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.772
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재발 방지 대책도 내놨는데 투표 시간은 분리하고 투표 방법은 통일시켰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.782,
+                "end": 15.663
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "확진자들은",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.673,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "임시 기표소 투표 과정에서 국민들께 많은 혼란과 불편을 드려서 깊이 사과드린다며 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00418_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

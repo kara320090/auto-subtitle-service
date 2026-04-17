@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_00254",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.424,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정권 교체 여론 층에선 열 명 중 일곱 명 가까이가 윤석열 후보를 꼽았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.003
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼 일 첫 TV 토론회에서 누가 잘했는지도 조사했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.013,
+                "end": 9.764
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이재명 이십오 점 팔 윤석열 이십사 점 이 퍼센트로 팽팽했고 심상정 십이 점 칠 안철수 십이 점 팔 퍼센트였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.774,
+                "end": 19.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특별히 잘한 후보가 없다는 응답은 사분의 일 가까이였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.185,
+                "end": 23.423
+            }
+        ]
+    },
+    "summary": "첫 TV 토론회에서 이재명 이십오 점 팔 윤석열 이십사 점 이 퍼센트로 팽팽했고 심상정 십이 점 칠 안철수 십이 점 팔 퍼센트로 나왔고 특별히 잘한 사람이 없다는 응답은 사분의 일로 조사됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00254_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00254_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

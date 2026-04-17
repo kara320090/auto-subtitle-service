@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_08477",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.305,
+        "format": "MP4",
+        "date": "2022-09-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 전 대표는 성 접대 의혹 말고도 2013년 7월부터 2015년 9월까지 김 대표로부터 수차례 청탁과 금품을 받았다는 혐의로도 고발됐는데 경찰은 그에 대해서도 불송치 결정을 내렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공소시효를 아무리 길게 잡아도 2015년 1월까지의 의혹은 이미 시효가 만료됐고 그 이후의 의혹에 대해선 고발인 주장을 입증할 증거가 충분치 않다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.628,
+                "end": 26.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 접대와 청탁 의혹 등의 사건 본류와는 별개로 또 다른 수사의 불씨는 남아 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.212,
+                "end": 32.305
+            }
+        ]
+    },
+    "summary": "경찰은 이 전 대표의 청탁과 금품을 받았다는 혐의에 대해서도 공소시효가 만료됐으며 증거가 충분치 않는다 이유로 불송치 결정을 내렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08477_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08477_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

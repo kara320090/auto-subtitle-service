@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_09406",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.666,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "누가 막 죽어있네 누가 죽은 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "깨고 싶은데 이거",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.617,
+                "end": 22.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이 이건 튈래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.220,
+                "end": 23.342
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.352,
+                "end": 25.060
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아 알하이탐 아 와 신기하다 역시 성우는 신기해요 그쵸?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.070,
+                "end": 36.666
+            }
+        ]
+    },
+    "summary": "발화자는 게임 성우에게 놀라고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 138
+                }
+            ]
+        }
+    ]
+}

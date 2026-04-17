@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYF_01767",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.941,
+        "format": "MP4",
+        "date": "2023-03-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다, @이름1 님.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2판 인쇄 축하드려요, 고맙습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.573,
+                "end": 4.194
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네, 2판 인쇄가 들어갔어요 너무 감사하게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.204,
+                "end": 8.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "출판사 분들도 진짜 너무너무 고생 많으셨고 저 이거 책 나오기까지 진짜 너무 고생 많으셨거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.305,
+                "end": 16.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "향수만 200개 있잖아요, 200개 제가 추천을 드렸고 그 향수들에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.652,
+                "end": 22.933
+            }
+        ]
+    },
+    "summary": "너무 감사하게도 2판 인쇄가 들어갔고 출판사 분들도 진짜 너무너무 고생 많으셨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01767_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_01767_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 69,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

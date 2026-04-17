@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_31032",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.866,
+        "format": "MP4",
+        "date": "2016-12-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바지선도 운항중에 예인선과 연결된 줄이 끊어져 10여일 동안 표류하다 우리측에 발견됐다고 통일부가 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.036
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북한 선박은 기관 고장 그리고 북한 중국 어선과의 충돌 그리고 예인줄 절단 등의 사유로 동해를 표류한 것으로 확인되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.046,
+                "end": 19.866
+            }
+        ]
+    },
+    "summary": "북한 선박이 엔진 고장과 예인줄 절단 등의 사유로 10일을 동해를 표류하다 우리 측에 발견되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31032_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

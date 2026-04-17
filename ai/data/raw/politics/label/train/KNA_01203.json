@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01203",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.819,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "23.7퍼센트는 하윤수 후보를 지지한다고 답해 오차 범위 내 격차를 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.667
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "울산은 노옥희 36.5퍼센트 김주홍 27.7퍼센트였고 경남은 박종훈 33.1퍼센트 김상권 24.6퍼센트로 나타났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.677,
+                "end": 17.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광주는 이정선 19퍼센트",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.444,
+                "end": 19.819
+            }
+        ]
+    },
+    "summary": "23.7퍼센트는 하윤수 후보를 지지한다고 답해 오차 범위 내 격차를 보였으며 울산은 노옥희 36.5퍼센트 김주홍 27.7퍼센트였고 경남은 박종훈 33.1퍼센트 김상권 24.6퍼센트로 나타났습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01203_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01203_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

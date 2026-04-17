@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_00561",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.922,
+        "format": "MP4",
+        "date": "2022-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이와 관련 청와대 고위 관계자는 한은 총재직 공백을 최소화하기 위해 당선인 측의 의견을 들어 내정자를 발표하게 됐다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 한은 총재는 어느 정부가 지명했느냐와 관계없이 정치적 중립성이 보장돼 있다며 임명 절차 등을 고려할 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.084,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "청와대 관계자는 한은 총재직 공백을 최소화하기 위해 내정자를 발표했으며 정치적 중립성이 보장돼 있다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00561_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00561_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

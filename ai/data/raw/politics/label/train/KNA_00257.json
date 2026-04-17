@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00257",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.081,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "강력한 분노를 표하며 사과를 요구한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.518
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 윤 후보가 현 정부 서울중앙지검장과 검찰 총장을 지낸 것을 언급했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.528,
+                "end": 10.533
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면서 그때는 이 정부 적폐를 있는데도 못 본 척한 건지",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.543,
+                "end": 15.081
+            }
+        ]
+    },
+    "summary": "문 정부는 윤 후보가 현 정부 서울중앙지검장과 검찰 총장을 지낸 것을 언급하며 그 때에도 정부 적폐가 있었는데 모른 척 한 것인지 강력한 분노를 표하며 사과를 요구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00257_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00257_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNA_08482",
+        "category": "정치뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.53,
+        "format": "MP4",
+        "date": "2022-09-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이건 20년이 돼 가지고 좀 리모델링이 조금 필요합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경호용 이런 방탄창이라든가 이런 것들 설치하는 데 합계 252억으로 지금 기재부에서 보내왔고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.519,
+                "end": 12.608
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예비비 100억 원을 들여 용산으로 옮겨간 경호처도 마찬가지입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.618,
+                "end": 17.131
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내년도 건설비 예산이 크게 늘었는데 그 중에는 통신 시설 공사 8억 원 차량 통제 시설 공사 20억 원 등이 포함됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.141,
+                "end": 26.799
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역시 용산 이전에 따른 추가 비용이라는 주장이 나옵니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.809,
+                "end": 30.530
+            }
+        ]
+    },
+    "summary": "용산 이전에 따른 추가 비용에 따라 내년도 건설비 예산이 크게 늘었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08482_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08482_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": null,
+                    "act": 85
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_03137",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.52,
+        "format": "MP4",
+        "date": "2023-02-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 요렇게 @이름1님 그래도 잘 뽑았죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "블랙펄 그다음에 달빛 요런 것들 다 퓨바도 많이 뽑고 생각보다 되게 잘 나왔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.981,
+                "end": 11.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뽑기는 마무리하도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.365,
+                "end": 20.520
+            }
+        ]
+    },
+    "summary": "@이름1님의 뽑기는 블랙펄, 달빛, 퓨바도 뽑았기 때문에 잘 뽑았고 여기서 뽑기는 마무리하겠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03137_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

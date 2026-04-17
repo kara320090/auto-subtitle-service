@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_08640",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 69.069,
+        "format": "MP4",
+        "date": "2019-02-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 어디로 나오지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유채야 물었는데 아깝다 유채 물었다 하하 무작위야 유채야 순서가 있는 게 아닌가 봐 유채야 어떡하지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.243,
+                "end": 37.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물었다 유채 너무 귀여워 죽겠어 유채야 찾으려고 위에서 보는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.576,
+                "end": 66.354
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유채 패턴을 보는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 66.364,
+                "end": 69.069
+            }
+        ]
+    },
+    "summary": "여성이 고양이가 어떤 행동을 하며 놀고 있는지 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08640_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

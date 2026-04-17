@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_07048",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 78.966,
+        "format": "MP4",
+        "date": "2023-08-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 자식 이제 슬슬 머리 쓰는데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1아 @이름1아 정신 차리자 진짜.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.190,
+                "end": 48.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 그 뭐야 혼자 한다고 생각하고 각자 생존해 보자 그러면 어쨌든 죽으면 내가 살려주러 갈 테니까 최선을 다해서 회피를 해봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 48.797,
+                "end": 60.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이가 제일 잘했겠어요 지금 오래 살아남았으니까 제가 잘해 보도록 할게요 이번에 정신 바짝차리고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 60.720,
+                "end": 70.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 혼자 깬다고 생각하고 내가 해보겠다 그러면 알겠겠죠 혼자 왔다고 생각하고.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 70.540,
+                "end": 78.966
+            }
+        ]
+    },
+    "summary": "혼자 왔다고 생각하고 각자 생존하기 위해 회피하면서 해보자고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07048_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

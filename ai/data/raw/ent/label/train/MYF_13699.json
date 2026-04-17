@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_13699",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.083,
+        "format": "MP4",
+        "date": "2020-02-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1가 저기 밑에 지금 청소기 옆에 앉아있죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 또 @이름2가 역시 저희 @이름1를 가장 좋아하고 가장 따라다니는 친구는 @이름2예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.256,
+                "end": 15.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.316,
+                "end": 17.083
+            }
+        ]
+    },
+    "summary": "@이름2가 청소기 옆에 앉아있는 @이름1을 가장 좋아하고 따라다니는 친구다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13699_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

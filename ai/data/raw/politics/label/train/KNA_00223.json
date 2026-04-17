@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNA_00223",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.855,
+        "format": "MP4",
+        "date": "2022-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양자 토론을 진행하고 있습니다 토론은 CBS가 주관하고 경제와 정치 외교안보 세 개 분야로 주제를 나눠 저녁 8시까지 이어집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보는 토론을 시작하면서 대한민국이 겪는 어려움을 도약에 기회로 만드는 유능한 대통령이 필요하다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.452,
+                "end": 19.454
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이재명 후보 측은 행정 전문가로서",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.464,
+                "end": 21.855
+            }
+        ]
+    },
+    "summary": "양자토론을 진행하고 이 후보는 토론을 진행하면서 대한민국은 유능한 대통령이 필요하다고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00223_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

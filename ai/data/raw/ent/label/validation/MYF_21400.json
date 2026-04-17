@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYF_21400",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 46.068,
+        "format": "MP4",
+        "date": "2022-01-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 지렁이는 넣자마자 입질하네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맨 우측이 2.8칸입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.229,
+                "end": 13.489
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이쿠야 간다 간다 간다 간다 간다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.499,
+                "end": 21.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 오 아이고 한 세 치 되겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.843,
+                "end": 33.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세 치 지렁이 넣자마자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.160,
+                "end": 35.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "넣자마자 지금 옥수수도 지렁이도요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.486,
+                "end": 41.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기 지금 집어제 신 마약 가루에 묻혀서 사용하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.109,
+                "end": 46.046
+            }
+        ]
+    },
+    "summary": "지렁이는 넣자마자 입질하고 맨 우측이 2.8칸이고 지금 지렁이랑 옥수수에 집어제 신 마약 가루를 묻혀서 사용하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_21400_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

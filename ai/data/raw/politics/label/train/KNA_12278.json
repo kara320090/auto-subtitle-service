@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "KNA_12278",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2020-01-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여느 부부처럼 대형 마트를 찾은 문 대통령 부부.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카트를 직접 밀며 설맞이 장보기에 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.349,
+                "end": 6.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차례상에 올릴 딸기와 사과 단감을 고르고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.835,
+                "end": 10.769
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당신도 하나 골라보세요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.779,
+                "end": 12.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "각종 야채와 나물 돼지고기 등도 구입했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.343,
+                "end": 16.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물건을 직접 고르며 가격도 확인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.383,
+                "end": 19.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마트 직원들과는 인사를 나누고 사진도 찍었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.611,
+                "end": 23.758
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하나 둘 셋.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.768,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "문 대통령 부부가 설을 맞아 대형 마트에 방문했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12278_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 55
+                }
+            ]
+        }
+    ]
+}

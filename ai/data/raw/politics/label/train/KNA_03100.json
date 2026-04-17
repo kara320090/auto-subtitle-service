@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "KNA_03100",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 49.382,
+        "format": "MP4",
+        "date": "2021-01-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 우리나라 총인구는 2만 명 정도 줄었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "출생 인구보다 사망 인구가 더 많은 이른바 인구 데드 크로스 현상이 처음 나타난 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.714,
+                "end": 9.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데도 세대수는 61만 가구나 늘었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.940,
+                "end": 13.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "12인 가구가 급증했기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.417,
+                "end": 16.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령은 저금리로 인한 유동성 증가에다 이런 변수까지 겹치면서 주택 공급 부족을 일으켰다고 진단했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.256,
+                "end": 24.460
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 예측했던 그 공급의 그 물량에 대한 어떤 수요가 더 초과하게 되고 그것으로 결국 공급 부족이 부동산 가격의 상승을 부추긴 에 그런 측면도 있다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.470,
+                "end": 41.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어 그동안 투기 억제에 역점을 뒀지만 안정화에 실패했다고 인정하면서 특단의 공급 대책을 재차 예고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.473,
+                "end": 49.382
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 저금리로 인한 유동성 증가에다 인구 데드 크로스 현상과 1 2인 가구 급증이라는 변수까지 겹치면서 주택 공급 부족을 일으켰다고 진단했고 그동안 투기 억제에 역점을 뒀지만 안정화에 실패했다고 인정하면서 특단의 공급 대책을 재차 예고했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03100_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 21
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03100_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

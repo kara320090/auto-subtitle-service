@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYF_03296",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.033,
+        "format": "MP4",
+        "date": "2022-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "KL 제가 다니는 곳이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이거 사람들 되게 머리한 지 얼마 안 된 거 같다고 얘기도 하시는데 한 지 꽤 됐거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.289,
+                "end": 16.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 원장님이 컷팅이 예술이셔가지구",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.846,
+                "end": 25.033
+            }
+        ]
+    },
+    "summary": "이거 사람들이 되게 머리한 지 얼마 안 된 거 같다고 얘기도 하시는데 한 지 꽤 됐거든요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_03296_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_03296_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

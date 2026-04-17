@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_10416",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.0,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파수꾼?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.385,
+                "end": 8.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 엘든 링마냥 우주에서 누가 크리스털을 심어 놨나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.384,
+                "end": 15.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크툴루마냥?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.610,
+                "end": 21.000
+            }
+        ]
+    },
+    "summary": "여성이 게임을 하며 다른 게임의 예를 언급하며 예상을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10416_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 11,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

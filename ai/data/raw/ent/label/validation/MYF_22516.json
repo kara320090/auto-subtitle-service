@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYF_22516",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 44.711,
+        "format": "MP4",
+        "date": "2022-12-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.896
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예약 되셨을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.906,
+                "end": 2.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.097,
+                "end": 2.678
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안에 엄청 높",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.688,
+                "end": 7.724
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가능하시고 스테이크는 안심 등심 소끼랑 고기 선택해 주시면 되시고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.734,
+                "end": 23.602
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "아 이게 다 좋은데 이게 다 나누어기 때문에 좋은데 되게 좋은데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.612,
+                "end": 44.711
+            }
+        ]
+    },
+    "summary": "남녀 커플이 스테이크를 먹기 위해 예약된 레스토랑을 방문한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22516_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 38,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

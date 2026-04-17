@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_02206",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.392,
+        "format": "MP4",
+        "date": "2022-04-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "검찰의 직접 수사가 가능한 6대 주요 범죄 가운데 4개를 삭제한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.251
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 새 정부 출범 이후 대통령령으로 수사 범위를 넓힐 여지를 차단하기 위해 등을 중으로 바꾸는 방안을 추진했지만 의장 중재안을 벗어난다는 야당의 지적을 수용해 등으로 최종 수정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.261,
+                "end": 18.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 1년 6개월 뒤 중수청 등으로 나머지 수사권도 이관한다는 중재안 내용은 담기지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.449,
+                "end": 25.392
+            }
+        ]
+    },
+    "summary": "검찰의 직접 수사가 가능한 6대 주요 범죄 가운데 4개를 삭제했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02206_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02206_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 95
+                }
+            ]
+        }
+    ]
+}

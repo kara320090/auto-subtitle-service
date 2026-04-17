@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_02547",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.448,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.046
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 말이 바뀐 거냐는 질문에 대해선 현장 조사와 국제 사법공조의 결과라고만 답할 뿐 명확한 근거를 대지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.056,
+                "end": 9.732
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "해경과 더불어 월북설을 제기했던 군당국도 입장을 바꾸며 유감을 표명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.742,
+                "end": 15.448
+            }
+        ]
+    },
+    "summary": "월북설을 제기했던 해경과 군당국은 입장을 바꾸어 유감을 표명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02547_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

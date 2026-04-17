@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_00135",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.905,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나는 에너지 드링크 한잔 해야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물약 빨고 힘내야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.198,
+                "end": 7.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 물로만 쏴서는 때가 전혀 안 지워진 게 확인이 되시죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.497,
+                "end": 14.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 드러워 내 차지만 너무 드럽다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.041,
+                "end": 18.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 레이처럼 오염이 심하고 오랫동안 세차를 안 한 차에 경우에는 프리 워시가 매우 필요합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.017,
+                "end": 26.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 희석해 놓은 요 아이를 뿌려볼게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.888,
+                "end": 30.897
+            }
+        ]
+    },
+    "summary": "에너지 드링크 마시며 힘내고 물로만 쏴서는 전혀 안 지워졌다며 오염이 심하고 오랫동안 세차를 안 한 차 경우에는 프리워시가 필요하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": 2,
+                    "act": 2
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00135_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

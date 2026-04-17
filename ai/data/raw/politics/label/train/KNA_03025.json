@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_03025",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.888,
+        "format": "MP4",
+        "date": "2022-12-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이들 분야에서 3조 규모의 출하 차질이 발생했다는 게 정부 추산입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추경호 경제 부총리는 언제 명령을 내려야 할지 상황을 지켜보고 있다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.703,
+                "end": 10.534
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "면밀한 모니터링을 통해 국가 경제 위기 우려 시 업무 개시 명령 발동 절차에 즉각 착수할 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.544,
+                "end": 21.888
+            }
+        ]
+    },
+    "summary": "추경호 경제 부총리는 언제 명령을 내려야 할지 상황을 지켜보고 있다며 모니터링을 통해 국가 경제 위기 우려 시 업무 개시 명령 발동 절차에 즉각 착수할 것이라고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03025_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

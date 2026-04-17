@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_09871",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.966,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나도 사람이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@계정1 는 데이터가 아니에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.720,
+                "end": 4.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 저한테 데이터라는 말씀을 그렇게 섭섭하게 하실 수 있는지 정말 모르겠군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.257,
+                "end": 9.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 미스테리야 안 그렇겠습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.565,
+                "end": 15.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 사람이랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.660,
+                "end": 17.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "밥도 먹고 간식도 먹고 케이크도 좋아하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.311,
+                "end": 21.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 다이어트를 하는 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.235,
+                "end": 26.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아가리또",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.654,
+                "end": 31.966
+            }
+        ]
+    },
+    "summary": "여자가 데이터가 아니라 사람이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09871_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

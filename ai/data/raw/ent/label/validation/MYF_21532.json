@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYF_21532",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.26,
+        "format": "MP4",
+        "date": "2022-03-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 지난주에 놓고 갔던 레시피 분명 하지도 않을 거 왜 붙여 놨는지 모르겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.876
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자린고비 생선 같은 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.886,
+                "end": 12.052
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어디보자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.062,
+                "end": 13.862
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘은 아무것도 안 사와 가지고 냉장고에 있는 걸로만 만들어야 되는데 고구마는 맨날 있냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.865,
+                "end": 22.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헤 탄산수가 가득 채웠네 아휴.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.140,
+                "end": 27.260
+            }
+        ]
+    },
+    "summary": "냉장고에 있는 것들로만 음식을 해야 해서 냉장고를 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21532_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 52,
+                    "act": 112
+                }
+            ]
+        }
+    ]
+}

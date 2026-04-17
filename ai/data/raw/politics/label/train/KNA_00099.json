@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNA_00099",
+        "category": "정치뉴스",
+        "sub_category": 20,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2022-01-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보상법을 제대로 좀 만들어서 진짜 그분들의 그 억울함을 제대로 보상도 해주고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.431
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보상법 규정이 전혀 없는 다른 80에서 90대 고령의 희생자 유족들은 애가 탑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.441,
+                "end": 14.248
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "국가에서 이제 그 기본법에 진실 화해 법의",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.258,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "보상법을 제대로 만들어서 80에서 90대 고령의 희생자 유족들의 억울함을 제대로 보상해 줘야 한다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00099_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00099_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

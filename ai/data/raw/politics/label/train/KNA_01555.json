@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01555",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.72,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국무 회의 배석자를 정해 놓은 국무 회의 규정 8조에 따른 것으로 이 규정은 시도지사 중에서는 서울시장만 배석자로 적시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.851
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국무 위원들이 참고해야 할 지방 정부의 입장을 국무 회의에서 서울시장이 대표하고 있는 셈입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.861,
+                "end": 18.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이를 두고 경기 지사직 인수위는",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.028,
+                "end": 20.720
+            }
+        ]
+    },
+    "summary": "국무 회의 배석자는 규정에 따라 서울 시장만 배석자로 적시했으며 지방 정부의 입장을 서울시장이 대표하고 셈이라고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01555_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01555_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

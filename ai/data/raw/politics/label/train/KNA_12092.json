@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "KNA_12092",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.538,
+        "format": "MP4",
+        "date": "2020-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이낙연 선대위원장이 표심잡기에 나선 곳 경기도 수원의 대표적 전통시장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어 평택과 용인까지 경기도 중남부를 오가며 유권자들을 만나고 지역 후보를 지원했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.944,
+                "end": 12.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서북권 관광벨트 활성화, 평화경제통일특구도 추진해 경기도에 새로운 활력을 불어넣겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.072,
+                "end": 21.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "통합당 김종인 선대위원장은 오늘 선거 사무소 6곳을 돌며 지원에 나섰는데 모두 서울과 경기도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.233,
+                "end": 28.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난달 29일 취임 뒤 나흘 연속 수도권 행보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.357,
+                "end": 32.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "활동을 재개한 유승민 의원도 수도권 지원에 집중하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.682,
+                "end": 36.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 영체가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.873,
+                "end": 38.538
+            }
+        ]
+    },
+    "summary": "민주당 이낙연 선대위원장은 수원 평택 등을 오가며 지역후보를 지원했고 통합당 김종인 선대위원장도 서울과 경기도를 오가며 지원하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12092_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12092_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

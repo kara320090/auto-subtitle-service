@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_06309",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.886,
+        "format": "MP4",
+        "date": "2022-02-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "책임을 충분히 져야 하는데 그 책임을 지지 않았던 것에 대해서 우리 부산 시민들이 심판하신 거 인정합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.694
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "믿습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.704,
+                "end": 11.239
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 후보는 내일 부산항에서 부산 공약을 발표한 뒤 고 노무현 대통령 묘역을 참배합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.249,
+                "end": 17.689
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.699,
+                "end": 19.886
+            }
+        ]
+    },
+    "summary": "이 후보는 내일 부산항에서 부산 공약을 발표한 뒤 고 노무현 대통령 묘역을 참배한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 95
+                }
+            ]
+        }
+    ]
+}

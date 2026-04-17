@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNA_01073",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.115,
+        "format": "MP4",
+        "date": "2022-05-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하십니까 코로나19 통합 뉴스룸 KBS 7시 뉴스입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령이 오늘 한동훈 법무부 장관과 김현숙 여성 가족부 장관을 임명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.352,
+                "end": 9.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안 다수 야당인 민주당이 강하게 반대해 온 두 장관의 임명을 감행함에 따라",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.782,
+                "end": 15.115
+            }
+        ]
+    },
+    "summary": "윤석열 대통령이 오늘 한동훈 법무부 장관과 김현숙 여성 가족부 장관을 임명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01073_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

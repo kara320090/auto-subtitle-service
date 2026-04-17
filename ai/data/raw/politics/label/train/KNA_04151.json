@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_04151",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.37,
+        "format": "MP4",
+        "date": "2021-07-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국회에서 논의 중인 추경안은 7월 이전 피해를 보상하기 위해 최대 900만 원까지 지급하는 내용을 포함하고 있지만 사각지대에 놓인 소상공인도 지원하고 최고 금액을 받는 대상도 확인하겠다는 뜻입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "희망 회복 자금은 지급 단가를 상향하고 경영 위기 업종 구간을 세분화하는 등 더욱더 두터운 지원 방안을 마련하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.900,
+                "end": 23.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회에서 추경안이 통과되면 정부는 8월 17일부터 피해 지원금 지급을 시작할 계획입니다. 7월 이후에 손실에 대한 보상은 10월 8일 심의 위원회를 열어 곧바로 보상 심의에 들어가겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.233,
+                "end": 37.370
+            }
+        ]
+    },
+    "summary": "국회에서 논의 중인 추경안은 사각지대에 놓인 소상공인을 지원하고 지급 단가를 상향하여 더욱더 두터운 지원 방안을 마련할 것이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04151_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04151_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_04571",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2021-10-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그거는 구태 기득권 정치인 전형입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우르르 끌어모아가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.696,
+                "end": 6.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유승민 후보는 경제와 안보가 나라의 기둥이라면서 두 분야 모두 자신이 전문가라고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.813,
+                "end": 13.919
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원희룡 후보는 민주당 이재명 후보의 가짜 업적과 가짜 능력을 파헤칠 준비가 돼 있다고 내세웠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.929,
+                "end": 21.311
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.321,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "유승민 후보는 경제와 안보를 강조하였고 원희룡 후보는 이재명 후보의 가짜 능력을 파헤칠 준비가 돼 있다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04571_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 25,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

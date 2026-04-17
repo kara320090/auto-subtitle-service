@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYB_09861",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 41.666,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도즈메어 아 돌의 검 대원이 상브레크령에서 봤대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.874
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 몬스터 잡으러 간다 몬스터 잡으러 간다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.884,
+                "end": 18.111
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이 자 장인이 누군지 궁금해졌으니까 메인 퀘스트 잠깐 쉬고 저 리스키 몹 게시판 보고 도즈메어를 찾아서 한번 잡으러 가볼까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.121,
+                "end": 29.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 여기 게시판에 있는 몹들 진짜 드럽게 세던데 내가 이걸 저번에도 겨우 잡았는데 될라나 모르겠네 질",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.635,
+                "end": 41.666
+            }
+        ]
+    },
+    "summary": "여자가 메인 퀘스트 잠깐 쉬고 도즈메어를 잡으러 가본다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09861_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

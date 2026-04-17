@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYF_00558",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.92,
+        "format": "MP4",
+        "date": "2021-01-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보이세요 저기 솔이 솔아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "솔아 솔이는 여기서요 지금 아이고 안 보이네 솔아 어 솔이가 여기서 꾹꾹이 하면서 자고 있어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.572,
+                "end": 19.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 우리 아기들 어휴 방울이 꾹꾹이 오이 꾹꾹이.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.316,
+                "end": 32.254
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가 가지도 꾹꾹이 해 괜찮아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.264,
+                "end": 36.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 36.058,
+                "end": 36.920
+            }
+        ]
+    },
+    "summary": "솔이는 안 보이겠지만 꾹꾹이를 하며 자고 있고 마찬가지로 방울이도 꾹꾹이를 하고 가지한테도 꾹꾹이 하라며 괜찮다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00558_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00558_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

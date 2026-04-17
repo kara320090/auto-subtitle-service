@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_06942",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.73,
+        "format": "MP4",
+        "date": "2022-04-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여야 원내 지도부가 서명한 검찰 수사권 폐지 합의안에 국민의힘 이준석 대표가 제동을 걸었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "협상안에 심각한 모순점이 있는 상황에서 더 이상의 입법 추진은 무리라며 내일 최고위원회의에서 재검토하겠다고 선언한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.777,
+                "end": 14.951
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이틀 동안 침묵을 지키던 윤석열 당선인도 대변인을 통해 일련의 과정을 국민이 우려하는 모습과 함께 지켜보고 있다는 입장을 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.961,
+                "end": 23.943
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "취임 이후에 헌법 가치를 수호하기 위해서 대통령으로서의 책임과 노력을 다할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.953,
+                "end": 30.730
+            }
+        ]
+    },
+    "summary": "여야 원내 지도부가 서명한 검찰 수사권 폐지 합의안에 국민의힘 이준석 대표가 제동을 걸었고 윤석열 당선인도 대변인을 통해 지켜보고 있다는 입장을 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06942_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06942_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

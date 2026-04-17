@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_04153",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.166,
+        "format": "MP4",
+        "date": "2022-11-28",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사랑과 평화를 위해서라면 영원히 노래할 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조금이라도 더 편히 움직일 수 있을 때 꼭 날려 보내고픈 소원이 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.297,
+                "end": 16.895
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "같이 스토리가 나왔던 거죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.905,
+                "end": 18.916
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "마지막은 이렇게 이별하는 장면으로 끝났지만 다시 쿠키로 출시하게 되었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.926,
+                "end": 25.029
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "닿아주길",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.039,
+                "end": 29.166
+            }
+        ]
+    },
+    "summary": "한 여성과 할머니가 노래를 하고 한 남성이 쿠키런 출시 관련 소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

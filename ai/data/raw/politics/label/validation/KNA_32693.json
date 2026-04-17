@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNA_32693",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.856,
+        "format": "MP4",
+        "date": "2023-10-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "명확한 안보관으로 자유 평화 번영의 대한민국을 우리 모두 함께 만들어 갑시다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "16주년을 맞은 십사 남북 공동 선언에 대한 언급은 따로 없었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.650,
+                "end": 15.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "첫 일정은 안보였지만 대통령실은 이와 함께 경제와 민생이 앞으로 국정의 중심이라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.632,
+                "end": 22.856
+            }
+        ]
+    },
+    "summary": "윤 대통령은 연설에서 십사 남북 공동 선언에 대한 언급을 따로 하지 않았으며 안보로 시작한 첫 일정이었지만 대통령실은 이와 함께 경제와 민생이 앞으로 국정의 중심이라는 점을 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32693_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

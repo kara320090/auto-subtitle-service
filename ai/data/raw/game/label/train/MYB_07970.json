@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_07970",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 68.0,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "말 발굽을 주네 진짜 크다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 쟤 죽인다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.195,
+                "end": 18.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "과연 타이탄이랑 과마무트랑 싸울때 보다 더 멋있는 액션이 나올 것인가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.067,
+                "end": 28.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "낙마의 눈 어어어 어우 금방 죽네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.910,
+                "end": 68.000
+            }
+        ]
+    },
+    "summary": "게임에서 진짜 큰 말 발굽 아이템이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07970_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 48,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

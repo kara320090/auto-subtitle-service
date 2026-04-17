@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_04570",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2021-10-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "후보 요청으로 우리 더불어민주당의 손실보상의 하한을 좀 올리고 손실보상받고 화나게 하지 말자 최소한",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.940
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경선 경쟁자였던 추미애 전 장관과 오찬을 함께 한 뒤 이재명 후보는 노태우 전 대통령 빈소도 방문했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.950,
+                "end": 17.037
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고인에 대해 이 후보는 빛과 그림자가 있지만 빛의 크기가 그늘을 덮지는 못할 것이라고 평가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.047,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "이재명 후보는 경선 경쟁자였던 추미애 전 장관과 오찬을 함께 한 뒤 노태우 전 대통령 빈소를 방문했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04570_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 26,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

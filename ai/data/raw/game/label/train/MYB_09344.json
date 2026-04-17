@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYB_09344",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.174,
+                "end": 2.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.300,
+                "end": 2.510
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "죽지 말라고 몸조심하래요.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 2.510,
+                "end": 3.960
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "절친 돼 버렸네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.960,
+                "end": 6.610
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "다들 성격도 좋고 되게 뭔가 뭐라고 해야 되지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.610,
+                "end": 11.710
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "의리가 넘쳐요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.710,
+                "end": 14.114
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "절로 이동해 버렸다가 서브퀘를 완료를 못 할 것 같아서 일단 서브퀘를 좀 완료하고 그리고 출발을 해 볼게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.120,
+                "end": 23.800
+            }
+        ]
+    },
+    "summary": "루보르가 클라이브에게 몸조심하라고 얘기하는 모습을 보니까 의리가 넘치는 것 같고 서브 퀘스트를 완료한 다음에 출발하겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09344_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

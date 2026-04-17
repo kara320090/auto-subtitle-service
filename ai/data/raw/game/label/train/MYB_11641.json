@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYB_11641",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.6,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혹시 걔가 GPS 같은 거 심고 위치 알려주는 거 아니야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.570,
+                "end": 8.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마법 같은 거 보내서?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.591,
+                "end": 15.396
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.406,
+                "end": 19.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "위험해 등 보일 때마다 불안해 죽겠어 어",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.260,
+                "end": 24.600
+            }
+        ]
+    },
+    "summary": "한 여성은 자신의 시청자들과 함께 게임을 하며 소통하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11641_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

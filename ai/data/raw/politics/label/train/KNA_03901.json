@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_03901",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 38.471,
+        "format": "MP4",
+        "date": "2021-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "연구팀은 이산화질소가 뇌에 염증을 일으키거나 외부와 직접 맞닿은 후각신경에 독성을 일으켜 생긴 비정상적인 단백질이 뇌로 타고 들어가 파킨슨병이 생기는 것으로 추정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이산화질소라는 것은 이제 우리가 노력을 하면은 노출을 줄이거나 국가 정책을 통해서 이제 조절을 할 수 있기 때문에 어느 정도 이제 파킨슨병에 대한 그러한 위험도를 낮추는 데 기여를 어 할 수도 있는 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.609,
+                "end": 27.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대기오염이 뇌질환을 유발할 수 있다는 학설은 꾸준히 제기돼 왔지만 건강보험 빅데이터를 이용해 국내에서 장기간 대규모 연구를 벌인 건 이번이 처음입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 27.314,
+                "end": 38.471
+            }
+        ]
+    },
+    "summary": "연구팀은 이산화질소가 파킨슨병에 영향을 줄 수 있다고 추정했고, 이와 관련해 건강보험 빅데이터를 이용해 국내에서 장기간 대규모 연구를 벌인 건 이번이 처음이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03901_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

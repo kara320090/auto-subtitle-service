@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_32755",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.118,
+        "format": "MP4",
+        "date": "2023-10-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보안 취약점은 충분히 예측 가능하고 해킹 가능성이 있다고 보여지고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 너무 지나치게 해석하기에는 많은 어떤 한계점이 있다고 생각",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.591,
+                "end": 9.419
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야당은 보궐선거 하루 전이라는 발표 시점 등에 의문을 제기하면서 국정원을 앞세운 선관위 길들이기라고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.429,
+                "end": 18.118
+            }
+        ]
+    },
+    "summary": "야당은 국정원을 앞세운 선관위 길들이기라며 비판했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32755_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

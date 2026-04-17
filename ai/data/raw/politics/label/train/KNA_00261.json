@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00261",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령이 왜 사과를 요구했는지에 대한 고민이나 이해가 전혀 담겨 있지 않다며 진정성 있는 사과로 받아들이기 어렵다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.711
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 이철호입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.721,
+                "end": 12.684
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당 이재명 후보가 자신을 지지 선언한 한국 노총을 찾아 정책 협약식을 맺었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.694,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "청와대 고위관계자는 윤 후보의 발언에 대해 진정성 있는 사과로 받아들이기 어렵다고 말했고 민주당 이재명 후보는 자신을 지지 선언한 한국 노총을 찾아 정책 협약식을 맺었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00261_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

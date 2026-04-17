@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_02571",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령이 서울 중앙 지검장으로 있을 때 함께 일했던 특수통 심봉수 신은석 검사 등 10명이 검사장으로 승진했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.034
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노정연 청원 지검장이 첫 여성 고검장에 올랐고 한직으로 알려진 법무 연수원에는 전 정부 성향으로 평가받아온 검사장들이 보내졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.044,
+                "end": 19.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰 인사는 법무부 장관이 검찰총장 의견을 듣고 내도록 돼있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.111,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "윤석열 대통령이 서울 중앙 지검장으로 있을 때 함께 일했던 특수통 검사들이 승진했다고 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02571_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02571_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

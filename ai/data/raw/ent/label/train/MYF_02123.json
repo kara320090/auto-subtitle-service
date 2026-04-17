@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYF_02123",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.515,
+        "format": "MP4",
+        "date": "2022-10-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 존재감이 좀 존재는 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.244,
+                "end": 2.741
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지만 밖에 나가서 사람들이 막 너무 티나게 뭐 너 향수 썼어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.751,
+                "end": 7.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "막 이렇게까지 얘기하는 향수는 아니거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.536,
+                "end": 10.150
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 조금의 존재감은 두께감은 가지고 있는 머스크 향수로",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.160,
+                "end": 15.515
+            }
+        ]
+    },
+    "summary": "존재감이 존재하는 향수이지만 사람들이 향수를 썼는지 알아보는 향수는 아니고 조금의 두께감은 가지고 있는 머스크 향수이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_02123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

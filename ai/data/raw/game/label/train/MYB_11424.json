@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYB_11424",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.4,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 시드 진짜 멋있다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저렇게 약간 뭐라고 해야 되지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.469,
+                "end": 10.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 표현하면 좀 이상한데 사람 다룰 줄 안다고 해야 되나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.114,
+                "end": 12.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 상태에 있는 사람 많이 봤을 거 아니에요 여태까지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.950,
+                "end": 16.400
+            }
+        ]
+    },
+    "summary": "시드는 표현이 좀 이상하지만 사람 다룰 줄 아는 모습이 멋있다고 말합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11424_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

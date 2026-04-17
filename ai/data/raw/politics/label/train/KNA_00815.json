@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_00815",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.5,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령은 검찰 수사권 폐지 법안에 반발하며 어제 사의를 밝힌 김오수 검찰총장의 사표를 하루 만에 반려했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 총장의 요청을 받아들여 청와대에서 면담도 진행했는데 이 소식은 이호준 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.477,
+                "end": 15.901
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당의 검찰 수사권 폐지 법안 추진에 책임을 통감한다며 어제 사표를 제출한 김오수 검찰총장 문재인 대통령은 하루 만에 김 총장의 사표를 반려했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.911,
+                "end": 27.380
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 13일 김 총장이 검찰 수사권 폐지 법안과 관련해 요청한 면담도 받아들였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.390,
+                "end": 33.500
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 검찰 수사권 폐지 법안에 반발하며 사의를 밝힌 김오수 검찰총장의 사표를 하루 만에 반려했고 김 총장이 이와 관련해 요청한 면담도 받아들였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00815_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00815_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

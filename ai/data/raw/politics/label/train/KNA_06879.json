@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_06879",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.224,
+        "format": "MP4",
+        "date": "2022-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2017년 구술 3 고사실에서 A 교수는 정 후보자 딸에게 20점 만점을 다음 해인 2018년 서류 전형에선 아들에게 30점 만점에 29점을 줬습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "B 교수는 2017년 구술에서 딸에게 만점을 C 교수는 2018년 구술에서 아들에게 만점에 가까운 19점을 부여했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.244,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "A 교수는 정 후보자 딸에게 20점 만점을 다음 해 서류 전형에선 아들에게 29점을 줬고 B 교수는 구술에서 딸에게 만점을 C 교수는 구술에서 아들에게 19점을 부여했다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06879_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06879_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

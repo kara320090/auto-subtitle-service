@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_11163",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.162,
+        "format": "MP4",
+        "date": "2023-05-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일주일 만에 다시 모인 전국 500명의 시민참여단 열띤 질의와 토론을 이어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현 세비를 동결한 상태에서 의석수만 늘리는 그런 방안은 있는지",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.070,
+                "end": 13.298
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "의석 정수는 늘리되 세비는 그대로 해라 이걸 과하게 요구하시면서 싫다하는 국회의원이나 정당이 있으면 표를 안 주고 낙선시키시면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.308,
+                "end": 24.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 전문가는 국회의 역할을 화장실에 비유해 설명하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.783,
+                "end": 29.162
+            }
+        ]
+    },
+    "summary": "일주일 만에 다시 모인 전국 500명의 시민참여단 열띤 질의와 토론을 이어갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11163_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11163_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

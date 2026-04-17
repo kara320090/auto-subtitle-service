@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_01788",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.563,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "복지 정책의 큰 틀에서 기본 소득을 강조한 이재명 후보 성장과 복지의 선순환을 강조한 윤석열 후보 곳곳에서 시각차가 드러났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 이재명 후보의 대표 정책인 기본 소득이 쟁점이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.380,
+                "end": 13.924
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 기본 소득 같은 보편 복지를 현금으로 하게 되면 뭐 1년에 우리 이재명 후보께서 말씀하신 연 100만 원만 해도 한 50조 원이 들어가는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.930,
+                "end": 24.747
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "혹시 국민의힘 정강 정책 1조 1항에 기본 소득한다 이렇게 들어있는 거 아십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.757,
+                "end": 30.563
+            }
+        ]
+    },
+    "summary": "복지 정책의 큰 틀에서 기본 소득을 강조한 이재명 후보 성장과 복지의 선순환을 강조한 윤석열 후보 곳곳에서 시각차가 드러났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01788_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01788_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

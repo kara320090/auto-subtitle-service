@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_08330",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.009,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여긴 오래전부터 대장일로 먹고 살던 마을이었어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가장 뛰어난 대장장이가 촌장이 되지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.607,
+                "end": 11.478
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 촌장님 스승님도 촌장이 됐는데 일에 쫓겨가지고 대장장 일은 못했대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.488,
+                "end": 24.000
+            }
+        ]
+    },
+    "summary": "게임에서 나오는 마을이 있는데 그 마을은 오래전부터 대장일로 먹고 살았고 가장 뛰어난 대장장이가 촌장이 된다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08330_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYF_00290",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.953,
+        "format": "MP4",
+        "date": "2022-12-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "핫바 익히고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오오 그런데 제가 현금이 없어 가지고 길에서 어 카카오페이로 드릴 테니까 현금 2만 원만 빌려달라고 그래서 어 2만 원을 빌렸어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.550,
+                "end": 13.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로는 현금을 잘 가지고 다니려고요. 돈 빌려주셔서 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.370,
+                "end": 19.969
+            }
+        ]
+    },
+    "summary": "현금이 없어서 길에서 누군가에게 현금을 빌리고 카카오페이로 입금해주었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00290_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 50
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00290_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

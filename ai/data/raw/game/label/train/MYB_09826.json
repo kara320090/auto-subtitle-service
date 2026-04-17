@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYB_09826",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.833,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왜 아니 말조심해야지 불현듯 떠오른 것 입 밖에 내지 말자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.167,
+                "end": 15.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저택 구경 좀 시켜주시면 안돼요? 숙부님?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.350,
+                "end": 21.833
+            }
+        ]
+    },
+    "summary": "여자가 영상을 보면서 말조심해야겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09826_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNA_01720",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.993,
+        "format": "MP4",
+        "date": "2022-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예우에 대한 고민 차원이었지 먼저 사퇴하라는 건 아니었다고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 후보는 투표용지 인쇄를 앞둔 이번 주말 윤석열 후보와의 담판 가능성이 제기되자 그런 계획 없다며 어제 하루 울산과 포항에서만 9개 일정을 소화하는 강행군을 펼쳤습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.560,
+                "end": 17.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 후보는 오늘은 외부 유세 없이 내일 있을 TV토론을 준비합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.835,
+                "end": 22.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 후보는 장애인 이동권 시위 현장을 찾아 힘을 실었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.755,
+                "end": 26.993
+            }
+        ]
+    },
+    "summary": "안 후보는 이번 주말 윤석열 후보와의 담판 가능성이 제기되자 그런 계획 없다며 어제 하루 울산과 포항에서만 9개 일정을 소화하는 강행군을 펼쳤고 오늘은 외부 유세 없이 내일 있을 TV토론을 준비하며정의당 심상정 후보는 장애인 이동권 시위 현장을 찾아 힘을 실었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01720_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01720_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 64,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

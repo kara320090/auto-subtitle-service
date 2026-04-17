@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01511",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.321,
+        "format": "MP4",
+        "date": "2022-06-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사법부 입법부 행정부에 이어서 제4의 경찰부가 될 수밖에 없는 상황인 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.584
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 장관은 특히 행안부 장관의 관장 업무에 치안 업무가 빠진 것이 아니라면서 행안부 장관이 경찰을 지휘 감독할 조직을 만드는 것은 당연한 것이라고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.594,
+                "end": 17.942
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 현행 정부 조직법상 전담 조직 신설은",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.952,
+                "end": 21.321
+            }
+        ]
+    },
+    "summary": "이 장관은 특히 행안부 장관의 관장 업무에 치안 업무가 빠진 것이 아니라면서 행안부 장관이 경찰을 지휘 감독할 조직을 만드는 것은 당연한 것이라고 강조했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01511_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

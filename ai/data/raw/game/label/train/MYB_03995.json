@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_03995",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.254,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네가 도움을 줄 수 있겠느냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다른 정령 쿠키들도 서리여왕 쿠키님처럼 뭔가 느끼고 있을지도 몰라요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.341,
+                "end": 9.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그분들에게 다녀오겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.037,
+                "end": 11.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋은 생각이구나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.740,
+                "end": 13.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그들도 분명 영향을 받는 있을 것이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.583,
+                "end": 17.518
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기치만 어디부터 가봐야 할지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.528,
+                "end": 21.254
+            }
+        ]
+    },
+    "summary": "쿠키 여왕이 정령쿠키에게 도와 달라고 하고 정령 쿠키는 다른 쿠키들에게 다녀오겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03995_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

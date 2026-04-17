@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_06678",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.463,
+        "format": "MP4",
+        "date": "2022-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대구에선 @이름1 변호사가 출사표를 던졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홍준표 의원 @이름2 전 의원과 삼파전입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.049,
+                "end": 6.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 5년은 여러분에게는 다른 이들의 조롱과 멸시를 견디어 냈던 시간이었고 박근혜 대통령에게는 참담하고 참혹한 날들이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.399,
+                "end": 21.166
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유 변호사는 박 전 대통령과 출마를 상의했고 박 전 대통령이 후원 회장을 맡게 될 것이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.176,
+                "end": 28.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.490,
+                "end": 30.463
+            }
+        ]
+    },
+    "summary": "대구에선 유 변호사가 출사표를 던져 박 전 대통령이 후원 회장을 맡게 될 것이라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06678_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

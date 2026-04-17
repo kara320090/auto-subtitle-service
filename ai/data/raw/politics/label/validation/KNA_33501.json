@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_33501",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.4,
+        "format": "MP4",
+        "date": "2023-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수전요원을 태워 적지 침투 등 특수 작전 임무 수행도 가능합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.174
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국은 최근 대표적인 전략 자산인 비 52 전략 폭격기 4대를 괌의 앤더슨 공군기지에 배치하기도 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.184,
+                "end": 12.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한이 2달여 만에 단거리 탄도미사일을 발사하고 정찰 위성 추가 발사를 예고한 가운데 북한에 대한 압박을 강화하고 있다는 분석입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.996,
+                "end": 22.389
+            }
+        ]
+    },
+    "summary": "미국은 잠수함과 폭격기를 배치시키며 북한 도발에 대한 압박을 강화하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33501_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33501_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

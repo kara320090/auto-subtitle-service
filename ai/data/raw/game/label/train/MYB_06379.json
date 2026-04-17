@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_06379",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.9,
+        "format": "MP4",
+        "date": "2023-08-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아줌마가 요리를 해보겠어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 돼지고기를 집어넣고 이제 거기다가 먹고 싶은 만큼 김치를 쓸어 가지고 이렇게 집어넣으면 정말 맛있겠어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.589,
+                "end": 16.086
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다시 언니가 보글보글 잘 끓고 있는지 확인을 하고 여기다가 고춧가루도 집어넣고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.096,
+                "end": 22.900
+            }
+        ]
+    },
+    "summary": "돼지고기를 집어넣고 김치를 썰어 넣고 고춧가루도 넣습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06379_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYB_02985",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.333,
+        "format": "MP4",
+        "date": "2023-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왔습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왔어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.685,
+                "end": 4.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피감이 아 야 그래도 이거 상당히 그래도 잘 나온 편입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.409,
+                "end": 12.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 보기 힘든 토핑들 하나만 더 나오면 쫌 욕심일까요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.558,
+                "end": 18.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그래 하나만 더 아하 욕심이 과했나 봐요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.710,
+                "end": 25.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하나 왔다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.565,
+                "end": 27.333
+            }
+        ]
+    },
+    "summary": "영상에서는 이 정도면 보기 힘든 토핑들이라서 잘 나온 편이지만 하나만 더 바란다면서 욕심이 과했다고 언급하더니 하나 왔다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02985_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_02985_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

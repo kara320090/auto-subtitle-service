@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "filename": "MYB_07159",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.933,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이럼 저 살이 찔래야 찔 수가 없겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 온다 또.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.195,
+                "end": 3.538
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 이렇게 인기가 많았나?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.548,
+                "end": 6.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 방 시청한 투스브가 잡은 몬스터가 더 많은 듯 견과류예요.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 6.040,
+                "end": 12.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.031,
+                "end": 22.427
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.437,
+                "end": 24.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.496,
+                "end": 25.381
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.391,
+                "end": 29.925
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.935,
+                "end": 31.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 헤",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.009,
+                "end": 36.933
+            }
+        ]
+    },
+    "summary": "한 여성이 상대가 또 온다며 이렇게 인기가 많았냐고 말하고 있고 먹고 있는 게 견과류라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07159_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

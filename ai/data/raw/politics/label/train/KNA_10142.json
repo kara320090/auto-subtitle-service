@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_10142",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.719,
+        "format": "MP4",
+        "date": "2022-05-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경남에선 하늘 터널 인천에선 한중 터널 해저 터널은 선거 때마다 등장하는 단골 공약입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같은 당 후보들이 경선 때도 허경영식 공약이다 이렇게 얘기를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.162,
+                "end": 13.312
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "인천에서 서울까지 가는 10분대 교통 시대를 연다고 했지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.322,
+                "end": 17.462
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "허경영도 놀랄 일일 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.472,
+                "end": 19.719
+            }
+        ]
+    },
+    "summary": "경남과 인천 등 해저 터널은 선거 때마다 등장하는 단골 공약으로 같은 당 후보들도 허경영식 공약같이 현실성 없는 얘기를 했다고 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10142_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

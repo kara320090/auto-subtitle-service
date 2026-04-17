@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_33002",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.6,
+        "format": "MP4",
+        "date": "2014-03-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "취임 후 처음으로 마주앉은 박근혜 대통령에게 아베 일본 총리는 한국어로 인사말을 건넸습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.221
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박근혜 대통령님을 만나서 반갑습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.231,
+                "end": 11.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청와대는 오늘 3국 정상회담과 관련해 이르면 다음달 한미일 안보 토의가 열릴 수 있다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.631,
+                "end": 18.600
+            }
+        ]
+    },
+    "summary": "취임 후 처음으로 마주앉은 박근혜 대통령에게 아베 일본 총리는 한국어로 인사말을 건넸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

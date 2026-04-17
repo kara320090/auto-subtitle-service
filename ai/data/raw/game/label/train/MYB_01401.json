@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYB_01401",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.133,
+        "format": "MP4",
+        "date": "2023-07-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 조합으로 가게 되면은 흐름을 보게 되면은.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.647
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신들의 목소리를 담아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.657,
+                "end": 7.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 조합은 1분이 지났을 때 네 소르베가 부활하게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.819,
+                "end": 13.477
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "락스타도 죽게 되구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.487,
+                "end": 15.030
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신들의 목소리를 담아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.040,
+                "end": 19.133
+            }
+        ]
+    },
+    "summary": "진행자가 조합한 쿠키들로는 1분 후 소르베가 부활하고 락스타는 죽게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01401_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 11,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

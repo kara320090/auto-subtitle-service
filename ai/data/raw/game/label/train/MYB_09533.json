@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_09533",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.466,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기는 베어러 사냥으로 가족을 잃은 사람들",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.019
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.029,
+                "end": 10.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 흑기사가 낌새를 챘으면 오래 가지 못하죠 마을이?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.657,
+                "end": 13.779
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.789,
+                "end": 17.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도와줄게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.345,
+                "end": 19.466
+            }
+        ]
+    },
+    "summary": "한 여성이 영상을 보며 내용을 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09533_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

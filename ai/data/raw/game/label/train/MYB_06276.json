@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_06276",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.133,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집주인 맛 쿠키?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.549
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 나일세.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.559,
+                "end": 3.472
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그동안 엄청 오래 연구소를 비우고 있었지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.482,
+                "end": 7.411
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "산처럼 쌓여있던 고지서는 내가 청소를 했어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.421,
+                "end": 11.469
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 밀린 관리비는 자네가 내줘야 하지 않겠나?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.479,
+                "end": 16.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 네 그동안 체납료가 많이 밀렸겠군요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.130,
+                "end": 21.133
+            }
+        ]
+    },
+    "summary": "집주인은 쌓여있던 고지서를 직접 청소했다며 관리비를 내야 한다고 말하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06276_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

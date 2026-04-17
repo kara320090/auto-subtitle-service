@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_01746",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.0,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "난 하늘에서 전방을 주시해주잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.540
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거기 와이번",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.550,
+                "end": 5.921
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 녀석 감싸고 돌기만 하면 발전이 없다고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.931,
+                "end": 12.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "버터크림 조금만 천천히 가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.446,
+                "end": 18.443
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "매운 계피 가루가 흩날려.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.453,
+                "end": 25.000
+            }
+        ]
+    },
+    "summary": "게임 속 인물이 서로 대화하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01746_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNA_10766",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.425,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "병역법상 사회복무요원은 질병 치료 등이 필요할 경우 최대 2년까지 복무를 중단했다 재개할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 2년 전쯤 사회복무요원으로 소집되자마자 우울증 치료 등을 이유로 여러 차례 복무를 미뤘습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.190,
+                "end": 16.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 심각한 신경정신 질환이 있는 것처럼 꾸며 결국에는 복무 부적합 판정을 받아내려 했다는 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.910,
+                "end": 25.425
+            }
+        ]
+    },
+    "summary": "병역법상 사회복무요원은 질병 치료 등이 필요할 경우 최대 2년까지 복무를 중단했다 재개할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10766_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

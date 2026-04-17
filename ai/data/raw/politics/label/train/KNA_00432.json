@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "KNA_00432",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.269,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령과 윤 당선인의 회동은 다음 주쯤 이뤄질 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보도에 김경진 기자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.979,
+                "end": 7.029
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "통화는 오늘 오전 9시 10분부터 5분 동안 이뤄졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.039,
+                "end": 11.842
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "문재인 대통령은 오늘 오전 윤석열 당선인과 통화하며 축하 인사를 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.852,
+                "end": 18.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령은 통화에서 힘든 선거를 치르느라 수고 많으셨다며 선거 과정의 갈등과 분열을 씻어내고 국민이 하나되도록 통합을 이루는 게 중요하다고 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.592,
+                "end": 29.295
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이에 윤 당선인은 많이 가르쳐달라며 이른 시일 안에 회동이 이뤄지길 바란다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 29.305,
+                "end": 36.269
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 윤석열 당선인에게 통화로 축하 인사와 함께 통합이 중요하다고 전하였고 회동은 다음 주쯤 이뤄질 것으로 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00432_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00432_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

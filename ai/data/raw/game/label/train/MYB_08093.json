@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYB_08093",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.2,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번에는 이거 하고 나면은 반지를 주려나 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 이제 어 크라바방목지 쪽으로 가는 게 맞는 것 같은데 여기가 이제 잠깐만",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.559,
+                "end": 15.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기가 로스트 윙 마을 안쪽에 이게 무슨 퀘스트지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.634,
+                "end": 21.222
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 마이틀링을 쓰러트린다 이거 먼저 할게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.232,
+                "end": 25.200
+            }
+        ]
+    },
+    "summary": "한 여성은 게임에서 크라바방목지로 가다가 로스트 윙 마을 안쪽에 마이틀링을 스러트리러 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08093_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

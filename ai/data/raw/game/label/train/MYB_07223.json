@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_07223",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.2,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 18.289
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "깨진다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.299,
+                "end": 21.915
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "색깔 진짜 예쁘게 잘 뽑았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.925,
+                "end": 29.833
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 예쁘다. 항상 이게 깨질 때 보면 이거 바탕 화면에 해놓고 싶어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.843,
+                "end": 37.200
+            }
+        ]
+    },
+    "summary": "그녀는 화면의 하늘이 깨지는 장면을 보면서 색깔 등이 예쁘다고 감탄하며 바탕 화면으로 하고 싶다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07223_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_32500",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.718,
+        "format": "MP4",
+        "date": "2023-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 샤워장에 사람의 배설물이 있었지만 조직위로부터 답변이 없었다고 지적한 영국 대표단",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그날 밤 새만금 철수를 결정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.754,
+                "end": 9.586
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국인 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.596,
+                "end": 18.718
+            }
+        ]
+    },
+    "summary": "샤워장의 위생문제에 조직위는 답변이 없었다고 영국 대표단은 지적하며 새만금 철수를 결정했다고 기자는 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

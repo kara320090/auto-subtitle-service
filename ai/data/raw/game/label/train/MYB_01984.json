@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_01984",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.166,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "듬직한 녀석들을 양쪽에 끼구서 말이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.733
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자네두 용의 협곡에 들어가려고 왔는가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.743,
+                "end": 7.606
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 그런 셈이지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.616,
+                "end": 10.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 용날개 크림 주스랑 용머리 스튜를 도무지 잊을 수가 없기도 했고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.683,
+                "end": 18.166
+            }
+        ]
+    },
+    "summary": "여관 주인 쿠키가 용의 협곡에 들어가려고 왔는지 묻자 홀리베리 쿠키는 그런 셈이라고 답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01984_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

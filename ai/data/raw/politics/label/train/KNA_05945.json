@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_05945",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.926,
+        "format": "MP4",
+        "date": "2022-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어젯밤 아홉 시 20분쯤 강원도 동부 전선 비무장 지대에서 신원이 확인되지 않는 한 명이 우리 군의 열 감시 장비에 포착됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신변을 확보하기 위해 병력을 투입했지만 결국 열 시 40분쯤 군사 분계선을 넘어 월북한 게 최종 확인됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.395,
+                "end": 16.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어제 야간에 동부 전선 디엠지를 통해 미상 인원 1명이 월북한 상황이 있었으며 현재 합참 전투 태세 검열실에서 현장 확인 중에 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.924,
+                "end": 26.926
+            }
+        ]
+    },
+    "summary": "어젯밤 아홉 시 20분쯤 강원도 동부 전선 비무장 지대에서 신원이 확인되지 않은 한 명이 우리 군의 열 감시 장비에 포착됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05945_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

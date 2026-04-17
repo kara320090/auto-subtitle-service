@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_11213",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.099,
+        "format": "MP4",
+        "date": "2023-05-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이재명 대표는 오염 처리수 10리터를 마셔도 된다고 한 영국 교수를 언급하며 정부와 여당을 향해 일본의 오염수 방류에 무책임하게 대처하고 있다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.225
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "10리터를 매일 마셔도 괜찮다고 헛소리를 한다고 해도 일본 정부 스스로 쓸모가 없고 위험한 물질이라 바다에 가져다 버리는 것 아닙니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.235,
+                "end": 24.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당은 내일 후쿠시마로 출발하는 정부 오염수 시찰단 활동에 한계를 지적하며 파견을 철회하라고 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.038,
+                "end": 33.099
+            }
+        ]
+    },
+    "summary": "민주당 이재명 대표는 정부와 여당이 일본의 오염수 방류에 무책임하게 대처하고 있다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11213_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

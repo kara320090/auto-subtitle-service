@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_00556",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.685,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대검 측 의견을 어떤 식으로 반영할지 주목됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법무부 의견만 담을지 대검 의견을 병기할지 등에 대해 논의 중인 것으로 전해졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.613,
+                "end": 9.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법무부 관계자는 현재는 각 실국별로 의견을 취합하는 단계라며 아직 정해진 건 없다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.655,
+                "end": 17.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대검은 또",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.329,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "법무부 관계자는 아직 실국별로 의견을 취합하는 단계라며 법무부의 의견만 담을지 아니면 대검 의견을 병기할지 등에 대해 논의 중이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00556_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00556_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_32764",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.787,
+        "format": "MP4",
+        "date": "2023-10-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지상 전시는 못 하는 걸로 돼 있고 다만 플라이바이는 요청이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1300피트 정도로 지나갈 걸로 예상이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.648,
+                "end": 8.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇기 땜에 충분히 보실 수 있을 걸로 예상이 되고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.621,
+                "end": 12.064
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이후 비52는 국내 공군기지에 착륙할 예정인데 그동안 한반도 상공에서 연합훈련은 했지만 착륙하는 것은 이번이 처음입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.074,
+                "end": 20.787
+            }
+        ]
+    },
+    "summary": "그동안 한반도 상공에서 연합훈련만 했던 비52가 국내 공군기지에 처음으로 착륙할 예정이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32764_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

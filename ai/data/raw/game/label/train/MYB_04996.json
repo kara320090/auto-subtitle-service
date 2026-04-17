@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYB_04996",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.3,
+        "format": "MP4",
+        "date": "2022-09-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "편하거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거 하고 얘는 올 라즈 얘는 아몬드 무조건 해야 돼요 얘 아몬드 아니면 터지기 때문에 올 아몬드에 8퍼센트 지금 보면은 뭐 문제가 있거나 그런 게 없어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.543,
+                "end": 12.114
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "생산 테크만 높이고 토핑작 파밍만 좀 더 열심히 하시면 될 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.124,
+                "end": 17.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 이렇게 뇸 님 계평은 여기서 마치도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.107,
+                "end": 26.300
+            }
+        ]
+    },
+    "summary": "화자1은 올 아몬드에 8퍼센트로 하고 지금 보면 문제가 있거나 그런 게 없어서 생산 테크만 높이고 토핑작 파밍만 좀 더 열심히 하시면 될 거 같다며 계정 평가는 여기서 마치겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04996_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_04996_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

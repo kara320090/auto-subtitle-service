@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_12228",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.292,
+        "format": "MP4",
+        "date": "2020-04-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대역전 드라마를 펼치면서 @이름1을 다시 국회로 보내주신 공주, 부여, 청양 유권자 여러분들에게 깊이 감사드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.904
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유독 초박빙 지역이 많았던 이번 총선 1000표차 안에서 희비가 엇갈린 지역이 네 곳이나 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.914,
+                "end": 18.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 총선 때도 가장 근소한 교차를 기록했던 인천에서는 이번에도 171표 가장 적은 표차로 승패가 갈렸습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.197,
+                "end": 26.292
+            }
+        ]
+    },
+    "summary": "이번 총선에서는 초박빙 지역이 많았고 1000표차 안에서 희비가 엇갈린 지역이 네 곳이나 된다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12228_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_08322",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.366,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이거 했더니 서브퀘가 또 나왔어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원래 한 단락에 서브퀘 한 2개씩밖에 안 떴었는데 이번에는 거짓 10개 뜬 듯.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.778,
+                "end": 10.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헤이 내가 왔다 대화하도록 하자 요테.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.047,
+                "end": 18.366
+            }
+        ]
+    },
+    "summary": "게임 한 단락에 서브 퀘스크가 보통 2개씩 떴던거 같은데 이번엔 10개정도 뜬 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08322_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYB_09933",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.333,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스팀으로 할 수 있다고 하시네요 저번에 얘기 들어보니. 감사합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.847
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.857,
+                "end": 6.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 너무 멋있어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.630,
+                "end": 9.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맨날 막 방송 일찍 키고 싶거든요? 근데 맨날 유튜브 올리느라고 랜더링 하고 뭐 하고 잠을 못 자가지고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.590,
+                "end": 15.612
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.612,
+                "end": 18.336
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.346,
+                "end": 20.333
+            }
+        ]
+    },
+    "summary": "매일 방송을 일찍 키고 싶지만 유튜브 올린다고 잠을 못 자서 일찍 못 켰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09933_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 73,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

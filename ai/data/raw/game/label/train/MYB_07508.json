@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_07508",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.2,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.461
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당연히 그러시겠지 어휴",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.471,
+                "end": 3.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.932,
+                "end": 8.704
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으휴 이 못마땅",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.714,
+                "end": 23.200
+            }
+        ]
+    },
+    "summary": "30대 여성은 게임 속 설정이 마음에 안 들어서 못마땅해하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07508_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

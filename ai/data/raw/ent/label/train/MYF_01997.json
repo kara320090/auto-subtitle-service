@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYF_01997",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.266,
+        "format": "MP4",
+        "date": "2022-11-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조러브스는 뭐 아시겠지만, 조말론 여사님이 조말론을 에스티 로더에 매각을 하시고 계약기간을 인제 끝내시고 나서 이제 만드신 향수 시니까요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 기회가 되실 때 핑크 베티버, 네 핑크 베티버 한번 시향해 보셔도 좋을 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.720,
+                "end": 21.266
+            }
+        ]
+    },
+    "summary": "조러브스는 조말론 여사가 조말론을 에스티 로더에 매각하고 만든 향수 브랜드이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01997_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_01997_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

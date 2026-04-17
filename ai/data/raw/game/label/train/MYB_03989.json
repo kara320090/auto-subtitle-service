@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_03989",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.019,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "들려줄 이야기라면 잔뜩 있는데 역시 얼음성으로 먼저 가는 게 좋겠지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서리여왕 쿠키 님이 이렇게 급하게 찾으신 적은 별로 없으니까 말이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.276,
+                "end": 13.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금만 기다려줘 목화 맛 쿠키 금방 다녀올게",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.432,
+                "end": 19.019
+            }
+        ]
+    },
+    "summary": "쿠키가 서리여왕 쿠키가 찾는 얼음성으로 먼저 가려고 하며 목화 맛 쿠키에게 조금 기다려 달라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03989_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

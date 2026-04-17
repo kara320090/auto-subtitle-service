@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_03905",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.194,
+        "format": "MP4",
+        "date": "2021-05-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국세 지방세 여러 종류가 있지요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금융 공급 대책 어 또 규제 다른 예 주택 규제 대책 이런 것들이 다 하나로 어 폴리시 믹스를 이루어서 발표되어야만 국민들이 이해도 하고 정책 효과도 생길 수가 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.651,
+                "end": 17.512
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재산세 감면 개편안은 주말 고위 당정을 거쳐 다음 주 월요일 의원총회의 추인 절차를 거칠 것으로 예상됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.522,
+                "end": 25.191
+            }
+        ]
+    },
+    "summary": "다양한 대책이 폴리시 믹스를 이루어서 발표되어야만 국민들이 이해도 하고 정책 효과도 생길 수가 있다고 발언하였고 재산세 감면 개편안은 의원총회의 추인 절차를 거칠 것으로 예상된다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03905_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03905_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYF_03969",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.577,
+        "format": "MP4",
+        "date": "2021-04-12",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "반짝거리네요 어 진짜 조 러브스의 거의 아이코닉 한 게 또 붓으로 향수를 이렇게 바르는 게 있다고 해요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저도 너무 궁금했거든요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.198,
+                "end": 11.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이제 경험해 볼게요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.285,
+                "end": 14.268
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시그니처 향기로 도와드릴게요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.278,
+                "end": 14.888
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.898,
+                "end": 17.566
+            }
+        ]
+    },
+    "summary": "조 러브스의 거의 아이코닉 한 게 또 붓으로 향수를 바르는 게 있는데 직접 한번 경험해본다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_03969_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 23
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_03969_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

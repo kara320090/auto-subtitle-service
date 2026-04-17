@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_00338",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.13,
+        "format": "MP4",
+        "date": "2022-02-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박 전 대통령이야말로 경제 사회 혁명을 이뤄냈다고 치켜세웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 민주당 정부는 경제도 부동산도 코로나 방역도 무능했다며 정권 심판론을 강조했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.200,
+                "end": 12.117
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "위기에 강한 유능한 경제 대통령이라고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.127,
+                "end": 17.117
+            }
+        ]
+    },
+    "summary": "박 전 대통령을 치켜세우고, 민주당 정부를 비난하며 정권 심판론을 강조하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00338_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_02036",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.866,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저도 홀리베리 쿠키님과 함께 가겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.944
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 도시를 수호하고 주민들을 도와줄 쿠키가 꼭 필요해.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.954,
+                "end": 8.796
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 할 일을 대신해 준다고 생각해 줘.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.806,
+                "end": 11.957
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금의 드래곤 시티라면 주변 몬스터들의 표적이 될 테니까.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.967,
+                "end": 17.866
+            }
+        ]
+    },
+    "summary": "드래곤 시티는 몬스터들의 표적이 될 테니 와일드쿠키에게 드래곤 시티에 남으라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02036_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

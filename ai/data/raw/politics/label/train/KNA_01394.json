@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNA_01394",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 34.567,
+        "format": "MP4",
+        "date": "2022-06-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "백 전 장관은 오늘 오전 10 시 반 출석해서 3 시간여 영장 심사를 받았고 현재 동부 구치소에서 결과를 기다리고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 백 전 장관이 산업부 직원들로 하여금 13 개 산하 기관장들의 사표를 받아내도록 하고 그 가운데 한 곳인 한국 지역 난방 공사 후임 사장 인선에도 부당 개입한 것으로 보고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.936,
+                "end": 21.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한명숙 전 총리 측근으로 알려진 황창화 현 사장이 선출될 수 있도록 면접 질문지를 사전에 넘겨줬다는 혐의 구속 영장에서 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.030,
+                "end": 30.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 다른 기관에선 전임 기관장이 낸 임직원 인사를 취소하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.450,
+                "end": 34.567
+            }
+        ]
+    },
+    "summary": "검찰은 백 전 장관이 산업부 직원들로 하여금 산하 기관장들의 사표를 받아내도록 하고 한국 지역 난방 공사 후임 사장 인선에도 부당 개입한 것으로 보고 있다며 영장 심사를 받고 현재 동부 구치소에서 결과를 기다리고 있다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01394_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01394_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 91
+                }
+            ]
+        }
+    ]
+}

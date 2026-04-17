@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_00567",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.61,
+        "format": "MP4",
+        "date": "2022-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤 당선인은 오늘 오후 응우옌 쑤언 푹 베트남 국가 주석과 통화를 갖고 양국 관계 발전을 논의했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어제 윤 당선인이 코로나19 피해 복구를 위한 추경과 소상공인 금융 지원을 강조한 만큼 인수위에는 이에 대한 업무 보고도 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.490,
+                "end": 17.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안철수 대통령직 인수 위원장은 관계 부처 공무원들과 회의를 할 것이라고 했는데 소상공인 대출 만기 연장에 대한 논의가 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.331,
+                "end": 27.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인수위는 또한 정부 조직 개편과 부동산 티에프 등을 새롭게 구성했는데 정부 조직 개편 티에프에서는 여가부 폐지 등을 다루게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.273,
+                "end": 36.942
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인수위는 여가부 폐지에 대한 당선인의 공약은 일관되게 유지되고 있다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.952,
+                "end": 43.610
+            }
+        ]
+    },
+    "summary": "안철수 위원장은 소상공인 대출 만기 연장에 대해 논의하고 인수위는 티에프에서 여가부 폐지 등을 다루게 될 것이라고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00567_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00567_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

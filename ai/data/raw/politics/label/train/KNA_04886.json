@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_04886",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2022-07-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "별로 유념치를 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.063
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "별로 의미가 없는 것이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.073,
+                "end": 4.724
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령은 공정 거래 위원장 후보로는 사법 연수원 동기인 @이름1 서울대 교수를 지명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.734,
+                "end": 11.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 청문회가 열리지 않고 있는 @이름2 금융 위원장 후보자의 인사 청문 보고서를 8일까지 보내달라고 국회에 요청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.363,
+                "end": 19.919
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.929,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "윤 대통령은 공정 거래 위원장 후보로 사법 연수원 동기인 서울대 교수를 지명했고 또 청문회가 열리지 않고 있는 @이름2 금융 위원장 후보자의 인사 청문 보고서를 보내달라고 국회에 요청했다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04886_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_30821",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.9,
+        "format": "MP4",
+        "date": "2016-11-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "검찰총장이 출석하지 않은 것을 심히 유감스럽게 생각한다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더불어민주당과 국민의당 등 야당 의원들은 김 총장의 불출석은 수사와 재판을 이유로 조사에 응하지 않을 수 없도록 한 특검법 규정을 위반한 것이라며 강하게 반발했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.514,
+                "end": 18.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일부 여당 의원도 검찰총장의 불출석 사실을 사전에 알지 못했다며 수용할 수 없다고 지적했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.042,
+                "end": 25.900
+            }
+        ]
+    },
+    "summary": "야당 의원들은 김 총장의 불출석은 특검법 규정을 위반한 것이라며 강하게 반발했고 일부 여당 의원도 불출석 사실을 사전에 알지 못했다며 수용할 수 없다고 지적했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30821_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 153
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30821_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

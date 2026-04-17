@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_10583",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.466,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저것 때문이었나 보다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새로운 물건이 나오면은 점이 뜬다고 했는데 그것 때문인가 봐요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.212,
+                "end": 8.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 표시 뭐지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.495,
+                "end": 13.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 퀘스트 있나?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.297,
+                "end": 15.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.573,
+                "end": 27.466
+            }
+        ]
+    },
+    "summary": "여자는 새로운 물건이 나오면 점이 뜬다고 했는데 그것 때문인가 보다며 여기 퀘스트가 있나 이 표시가 뭐냐고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10583_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

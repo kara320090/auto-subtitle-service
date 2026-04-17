@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYB_01658",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.733,
+        "format": "MP4",
+        "date": "2023-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 이런 식으로 한방덱이 만들어진다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 들어간다 해도 레전드 쿠키 이거 하나 블랙펄 하나만 들어가서 이렇게 풀초월을 다 이긴다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.684,
+                "end": 10.299
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와베는 현재 안 먹히는 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.309,
+                "end": 12.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와베로 하면은 확실히 아",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.501,
+                "end": 15.733
+            }
+        ]
+    },
+    "summary": "남성이 레전드 쿠키 하나, 블랙펄 하나만 들어가서 풀초월을 다 이긴다고 하며 와베는 현재 안 먹히는 거 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01658_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

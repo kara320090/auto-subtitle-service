@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_10627",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.966,
+        "format": "MP4",
+        "date": "2023-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령 발언 생중계를 늘렸고 비공개 발언까지 상세히 전하는가 하면 발언을 많이 퍼뜨릴 수 있는 SNS 영상 제작에도 힘을 쏟고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부분 일방형적 소통 방식입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.603,
+                "end": 12.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 출근길 문답 중단 이후 한 번도 언론 공개 질문을 받지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.655,
+                "end": 18.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관례처럼 열려 왔던 신년 기자 회견도 올해는 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.373,
+                "end": 22.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령은 언론에 자주 나와서 기자들로부터 귀찮지만 자주 질문을 받아야 되고 솔직하게 답을 해야 된다 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.492,
+                "end": 32.966
+            }
+        ]
+    },
+    "summary": "윤 대통령은 출근길 문답 중단 이후 일방형적 소통을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10627_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

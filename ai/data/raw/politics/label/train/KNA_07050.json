@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNA_07050",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 39.172,
+        "format": "MP4",
+        "date": "2022-04-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령이 임기 마지막 국민 청원 7개에 직접 답변자로 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령 집무실 용산 이전에 반대하는 청원 2건에 75만 여 명이 동의한 데 대해 개인적으로 청원 내용에 공감한다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.681,
+                "end": 15.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "많은 비용을 들여 광화문이 아닌 다른 곳으로 꼭 이전해야 하는 것인지 안보가 엄중한 시기에 국방부와 합참 외교부 장관 공간 등을 연쇄 이전 시키는 방식으로 추진하는 것이 맞는지 의문이라고 했습니다.",
+                "sound_type": [
+                    1
+                ],
+                "start": 15.626,
+                "end": 30.929
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국가의 백년대계를 토론 없이 밀어 붙이면서 소통을 위한 것이라고 하니 무척 모순적이라고 느껴집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.939,
+                "end": 39.172
+            }
+        ]
+    },
+    "summary": "문재인 대통령이 대통령 집무실 용산 이전에 반대하는 청원 2건에 공감한다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07050_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

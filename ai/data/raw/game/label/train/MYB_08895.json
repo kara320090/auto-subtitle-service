@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYB_08895",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.8,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 아유 @이름1도 죽을까 봐 걱정돼.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 하고 말지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.472,
+                "end": 4.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난 안 죽었으면 좋겠어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.507,
+                "end": 8.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.322,
+                "end": 11.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 여기서 어떻게 되겠어요. 여러분",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.498,
+                "end": 13.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분이 예상하는 그대로겠죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.003,
+                "end": 16.893
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분이 무슨 생각을 하든 어쩔 수 없이.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.903,
+                "end": 23.800
+            }
+        ]
+    },
+    "summary": "@이름1도 죽을까 봐 걱정된다고 안 죽었으면 좋겠다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08895_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

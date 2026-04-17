@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_09630",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.056,
+        "format": "MP4",
+        "date": "2023-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 조사냐 사찰이냐 이 경계선에서 왔다 갔다 하는 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.415
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "언론사 그 사찰이라는 말씀을 하셨는데 어 제가 전혀 모르는 내용입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.425,
+                "end": 11.047
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희들이 언론사에 대해서 보안 조사한 적도 없고",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.057,
+                "end": 13.544
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 장관은 국방보안 업무규정에 따라 현역 장교와 국방부 직원만 조사 대상이라고 거듭 해명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.554,
+                "end": 20.904
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.914,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "이 장관은 현역 장교와 국방부 직원만 조사 대상이라고 거듭 해명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09630_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYF_00150",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.429,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저만 그런지 모르겠는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세차하고 레이 트렁크 열면 이상하게 고압수를 꼼꼼히 쏴도 요 부분에 거품 남지 않아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.230,
+                "end": 9.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저만 그래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.789,
+                "end": 11.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무튼 그래서 저는 매번 맨 마지막에 여기를 닦아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.021,
+                "end": 16.382
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거듭 말씀드리지만 트렁크 안 정리는 아직 안 됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.392,
+                "end": 21.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 생에 정리하긴 할 거예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.517,
+                "end": 24.041
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 레이 밴을 괜히 뽑았나 처음에 그런 생각 했거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.051,
+                "end": 29.429
+            }
+        ]
+    },
+    "summary": "세차 후 트렁크를 열면 고압수를 쐈는데도 이상하게 이 부분에 거품이 남아있다며 그래서 맨 마지막에 여기를 닦고 거듭 말하지만 트렁크는 아직 정리가 안 됐다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00150_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 100
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00150_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 133
+                }
+            ]
+        }
+    ]
+}

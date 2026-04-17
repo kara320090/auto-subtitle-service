@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "filename": "MYB_10628",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.9,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "건방진 아 밑에 퀘스트 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.784
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.794,
+                "end": 9.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 아 식물원 너무 먼데 아 그런데 이거 좀 너무 넓어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.713,
+                "end": 18.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.419,
+                "end": 22.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "길이 불편해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.380,
+                "end": 24.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "숏컷 뚫고 싶어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.220,
+                "end": 25.286
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.296,
+                "end": 30.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내려갈 수 있는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.610,
+                "end": 32.900
+            }
+        ]
+    },
+    "summary": "식물원은 너무 멀고 여기 너무 넓고 길이 불편하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10628_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10628_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 28
+                }
+            ]
+        }
+    ]
+}

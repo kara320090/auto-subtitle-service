@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_32687",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.819,
+        "format": "MP4",
+        "date": "2023-10-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "매수자를 단 한 명도 찾을 수 없을 정도로 적자 구조에 빠져 있었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.571
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소셜 뉴스는 그해 자본 잠식 상태에 놓여 있긴 했지만 영업 이익은 흑자를 낸 것으로 나타났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.581,
+                "end": 12.294
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김 후보자는 이후 2018년 소셜 뉴스 주식을 다시 사들일 당시 주식이 휴지 조각이 될 상황이었다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.304,
+                "end": 19.819
+            }
+        ]
+    },
+    "summary": "소셜 뉴스는 그해 자본 잠식 상태에 놓여 있긴 했지만 영업 이익은 흑자를 냈던 상태였고 김 후보자는 이후 2018년 소셜 뉴스 주식을 다시 사들였는데 그때 당시에 주식이 휴지 조각이 될 상황이었다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32687_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

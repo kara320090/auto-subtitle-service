@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYB_11583",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.866,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 금방 금방 할 수 있겠네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.363
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장비가 여깄다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.373,
+                "end": 7.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아. 아. 장비도 간단하네. 팔찌 목걸이 반지 이게 끝인가 봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.315,
+                "end": 13.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아. 아 이렇게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.812,
+                "end": 18.969
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아. 내가 이걸 끼고 있어 가지고 공격을 오는 걸 알고 있었던 거고. 아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.979,
+                "end": 26.866
+            }
+        ]
+    },
+    "summary": "팔찌 목걸이 반지로 장비도 간단하고 장비를 끼고 있어서 공격이 오는 걸 알 수 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11583_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

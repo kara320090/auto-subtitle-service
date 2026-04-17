@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_10911",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 104.2,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.307
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엥 아이 씨 얘가 불인데 불이 속성 상관없겠지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.317,
+                "end": 42.922
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 잠깐 잘못 눌렀다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 42.932,
+                "end": 54.715
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아이 잘못 눌렀어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 54.725,
+                "end": 101.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올라 가지네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 101.124,
+                "end": 104.200
+            }
+        ]
+    },
+    "summary": "여성은 불의 속성이 상관없는지 의문을 품으며 잘못 눌렀다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10911_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

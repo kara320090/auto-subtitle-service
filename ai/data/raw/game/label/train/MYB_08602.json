@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "filename": "MYB_08602",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.566,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어딘지 알 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러게 그 유전자 보면은 완전히 얘는 왕을 닮았고 조슈아은 왕비를 닮았죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.715,
+                "end": 16.774
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 서브 캐가 3개네 어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.784,
+                "end": 21.556
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.566,
+                "end": 22.854
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직도 먹고 있구만.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.864,
+                "end": 23.994
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 잠깐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.004,
+                "end": 27.462
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.472,
+                "end": 31.566
+            }
+        ]
+    },
+    "summary": "화자가 게임 속에서 길을 돌아다니면서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08602_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYF_07322",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.233,
+        "format": "MP4",
+        "date": "2022-12-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 아유타야 투어 갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모기가 많다 그래가지고 긴 청바지를 입었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.016,
+                "end": 5.715
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 좀 이거 이거 프리 사이즈여서 같이 입으려고 샀는데 저한테는 너무 커가지고 못 입고 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.725,
+                "end": 12.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 어울리네 에까마이 예쁘죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.446,
+                "end": 16.401
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘도 날씨가 되게 좋 좋네요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.411,
+                "end": 20.233
+            }
+        ]
+    },
+    "summary": "화자가 아유타야 투어를 간다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_07322_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 49,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYB_09017",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.4,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 맞나 싶어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.945
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아주 놀았네 놀았어. 제일 신났구만. 근데 예전에 방송보시던 수수 분들 중에도 실제로 코로나 걸린 다음에 식욕이 없다고 했던 사람들이 있었는데 저도 그렇고 그 분도 그렇고 과자를 그렇게 먹었어 그 사람은.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.955,
+                "end": 15.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 사람도 과자 때문에 몇 킬로 쪘다 그랬어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.989,
+                "end": 18.356
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "입맛이 도는 사람도 있는 것 같더라고. 정상입니다 삐빅. 감사합니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.366,
+                "end": 25.400
+            }
+        ]
+    },
+    "summary": "화자2는 코로나에 걸려도 입맛이 도는 사람이 있으니 정상이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09017_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

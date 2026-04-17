@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "MYF_21387",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 70.578,
+        "format": "MP4",
+        "date": "2022-02-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물 속에 이런 것들이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 바람 더 불기 전에 쓰레기도 차에 갖다 놓고 평강 안경도 좀 쓰고요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 2.314,
+                "end": 12.944
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커피도 1잔 타오겠습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 12.954,
+                "end": 54.432
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "입질 입질 입질 또 사팔 칸 그렇지 야 수심이 이렇게 낮은데 손맛이 와 힘 좋다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 54.442,
+                "end": 68.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야",
+                "sound_type": [
+                    2
+                ],
+                "start": 68.603,
+                "end": 70.578
+            }
+        ]
+    },
+    "summary": "물 속에 이런 것들이 있고 바람 더 불기 전에 쓰레기는 차에 갖다 놓고 평강 안경도 쓰고 커피도 1잔 타오겠고 사팔 칸에서 입질이 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21387_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_21387_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

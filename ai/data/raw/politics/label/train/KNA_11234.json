@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_11234",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2023-05-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "18대 국회에서 법사위원으로 일하면서 10건이 넘는 소송의 변호인단에 이름을 올려 겸직 금지를 위반했다는 지적에 대해선 여당에서도 질타가 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.211
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "변호사 활동을 안 해도 이름이 있다면 거기에 대해서 불찰이고 사과를 해야 될 부분이거든요. 왜?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.221,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "법사위원으로 일하면서 변호인단에 이름을 올려 겸직 금지를 위반했다는 지적에 대해선 여당에서도 질타가 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11234_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

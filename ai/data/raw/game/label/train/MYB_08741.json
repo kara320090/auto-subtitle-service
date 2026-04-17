@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYB_08741",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.133,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "형만 한 아우 없다는데 아우가 진도는 빠르네 본받아라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.680
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 아유 형이 돼 가지고선 아유 으유 으 본받아라 좀 으유유 휴휴",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.746,
+                "end": 14.349
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "의미심장하네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.359,
+                "end": 19.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 되게 시원하다 이거 땅콩 볼 등에 대고 문 대고 있는데 엄청난 시원함.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.510,
+                "end": 25.133
+            }
+        ]
+    },
+    "summary": "영상에서는 형만 한 아우 없다는데 아우가 진도는 빠르다면서 본받으라고 언급했고 땅콩 볼을 등에 대고 있는데 시원하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08741_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_08741_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

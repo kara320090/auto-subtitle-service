@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_08601",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.2,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.361
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두근두근 문예부요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.371,
+                "end": 12.577
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 추가 됐나 아 하나 추가 됐네 아 타브로에서 코라마 방목추로 향하는 도중 막다른 길에는 들어가지 않도록",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.587,
+                "end": 27.200
+            }
+        ]
+    },
+    "summary": "화자가 게임 플레이 화면의 글들을 읽고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08601_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

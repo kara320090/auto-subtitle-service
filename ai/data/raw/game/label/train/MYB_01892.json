@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_01892",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.233,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 타르트타탕맛 쿠키 같은 경우에는 사격형 쿠키다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.708
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일반 공격 시 본인 쿨타임을 감소 시키며 추가로 일정 횟수 마다 속박을 건다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.718,
+                "end": 9.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스킬 사용 시 중앙에 위치한 적 방향으로 포탄을 일직선 발사한다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.006,
+                "end": 15.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맞은 적은 피해와 화상이 걸리며",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.350,
+                "end": 18.233
+            }
+        ]
+    },
+    "summary": "남자가 타르트타탕맛 쿠키에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01892_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

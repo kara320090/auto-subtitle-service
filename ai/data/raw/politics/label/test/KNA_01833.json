@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01833",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.75,
+        "format": "MP4",
+        "date": "2022-03-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당명 등을 훑은 뒤 저녁에 다시 서울로 이동해 청계광장에서 집중 유세를 펼칩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.992
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보는 마지막일정으론 자정까지 서울 홍대거리에서 청년들에게 지지를 호소할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.002,
+                "end": 13.635
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보는 선거 막판 인물론을 내세우고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.635,
+                "end": 16.750
+            }
+        ]
+    },
+    "summary": "이 후보는 마지막일정으론 자정까지 서울 홍대거리에서 청년들에게 지지를 호소할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01833_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

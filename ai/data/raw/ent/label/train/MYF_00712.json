@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYF_00712",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.411,
+        "format": "MP4",
+        "date": "2023-08-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올라왔다. 오케이. 잡았다. 잡았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 아 뜰채. @이름1 아 뜰채. 여기 있어. 여기 있어. 조심해 저기 또 왔다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 4.840,
+                "end": 20.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 어 왜 안 와.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.180,
+                "end": 23.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘했어 @이름1. @이름1 가 살림망에다가 넣어줘.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.820,
+                "end": 27.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 누군데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.700,
+                "end": 28.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "붕어. @이름2 도 아빠가 자고 나서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.441,
+                "end": 34.409
+            }
+        ]
+    },
+    "summary": "지금 붕어를 잡았다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00712_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

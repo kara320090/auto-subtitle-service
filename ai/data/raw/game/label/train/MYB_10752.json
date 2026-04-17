@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYB_10752",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.833,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "옷이 좀 볼 만하지 않네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "19금 게임이라면서 아 의상 팔면 사고 싶을 정도로 답답한 옷을 입었네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.084,
+                "end": 9.804
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.814,
+                "end": 15.480
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.490,
+                "end": 18.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 역시 이래서 사람은 기술이 있어야 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.553,
+                "end": 20.838
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.848,
+                "end": 22.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.812,
+                "end": 26.833
+            }
+        ]
+    },
+    "summary": "화자1은 19금 게임이라면서 여자의 옷이 마음에 들지 않고 의상을 팔면 사고 싶을 정도로 답답한 옷을 입었다고 했고 목수가 다리를 고친다는 것을 보고 이래서 사람은 기술이 있어야 된다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10752_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

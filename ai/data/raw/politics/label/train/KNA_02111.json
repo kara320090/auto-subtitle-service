@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_02111",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.255,
+        "format": "MP4",
+        "date": "2022-04-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "복잡한 나이 셈법에 부모조차 헷갈릴 때가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.897
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희가 티켓팅을 비행이 이렇게 보다 보면 뭐 만 0세에서 2세 뭐 이거 기준도 헷갈려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.907,
+                "end": 10.418
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만 몇 살인 거지 이게 그래서 이제 조금 잘못되면 어찌 됐건 요금이 나오고 아니고 이 차이가 있는 건데",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.428,
+                "end": 17.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "12월 생인 경우엔 태어난 지 한 달 만에 두 살이 되는 셈입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.351,
+                "end": 22.255
+            }
+        ]
+    },
+    "summary": "복잡한 나이 셈법에 부모조차 헷갈릴 때가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02111_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

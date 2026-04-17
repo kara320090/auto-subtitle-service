@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYF_02483",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.67,
+        "format": "MP4",
+        "date": "2022-05-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 정말 그 많은 매니아들을 가지고 있는 에딴리블의 그 도란투라는 브랜드가 있잖아요 그 브랜드에서 나오는 더 구스티너 쉐리라고 하는 향수가",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.898,
+                "end": 17.666
+            }
+        ]
+    },
+    "summary": "에딴리블의 도란투는 많은 매니아들을 가지고 있고 그 브랜드에는 구스티너 쉐리라는 향수가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_02483_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_02483_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00027",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.33,
+        "format": "MP4",
+        "date": "2022-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "막판 고심 중인 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 위원장은 늦어도 내일까진 개편안을 매듭지어 달란 뜻을 윤 후보에게 전했다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.365,
+                "end": 8.769
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후보가 자기 나름대로의 최종 결심을 안 한 모양이니까 이제 기다려 보면은 뭐 결과가 나오겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.779,
+                "end": 16.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당내에선 이준석 대표 책임론이 공개적으로 터져 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.042,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "김 위원장은 내일까지는 개편안을 매듭지어 달라고 후보에게 전했고 당내에서는 대표의 책임론이 제기됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00027_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00027_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

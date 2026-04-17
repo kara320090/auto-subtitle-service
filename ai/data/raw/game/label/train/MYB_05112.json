@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_05112",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.266,
+        "format": "MP4",
+        "date": "2022-09-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단은 어 요거는 쳇. 오. 일단 평타 자체가 보이죠 차이가?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.392
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전 석상이 80레벨이고 64레벨이에요. 평타 자체가 이거 치명타 안 뜨는 딜 자체가 벌써부터 차이가 나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.402,
+                "end": 22.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이게.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.062,
+                "end": 25.266
+            }
+        ]
+    },
+    "summary": "한 남자가 본인 석상이 80레벨이고 상대방은 64레벨이라서 평타 자체가 벌써부터 차이가 난다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05112_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

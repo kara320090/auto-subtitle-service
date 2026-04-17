@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_00923",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.5,
+        "format": "MP4",
+        "date": "2023-08-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 뽀록으로 퓨바가 뜨면은 인생 역전 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이거 진 퓨바 한번 뜨면은 로또 맞은 건데 진짜 아 든든하다 딸기 크레페 아 역시 딸크 사기지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.455,
+                "end": 15.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 좋아 너무 좋아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.703,
+                "end": 18.500
+            }
+        ]
+    },
+    "summary": "퓨바가 나오면 완전 인생 역전이고 딸기 크레페도 든든하고 너무 좋다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_00923_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

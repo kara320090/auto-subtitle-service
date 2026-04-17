@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYB_07554",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.033,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.077
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밖에서 무슨 일이 난 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.087,
+                "end": 3.788
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바깥에서 이제 아카시아로 변하나 보다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.798,
+                "end": 7.067
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정신 차리게 도와줘야겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.077,
+                "end": 8.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마을 사람들이 어떻게 됐는지 보여줘야 될 때가 왔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.654,
+                "end": 17.517
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에텔 웅덩이 임영웅인가 아주머니들이 좋아하는 소리가 났는데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.527,
+                "end": 33.033
+            }
+        ]
+    },
+    "summary": "이제 아카시아로 변하는 것 같고 정신 차리게 도와주고 마을 사람들이 어떻게 됐는지 보여줄 때가 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07554_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

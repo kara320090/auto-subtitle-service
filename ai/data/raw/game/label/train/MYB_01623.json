@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_01623",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.0,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단은 와일드베리를 쓰면은 어떤 게 좋나 네 아군 전체의 치명타 피해를 30강 하면은 20퍼센트나 높여주기 때문에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 보시면 아시겠지만 올 아몬드라 해도 와일드베리가 생존이 그렇게 엄청나게 단단하지는 않아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.455,
+                "end": 17.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 앞에 벌써 죽어버렸죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.390,
+                "end": 23.000
+            }
+        ]
+    },
+    "summary": "와일드베리는 치명타 피해를 높여주지만 생존이 단단하지는 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01623_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

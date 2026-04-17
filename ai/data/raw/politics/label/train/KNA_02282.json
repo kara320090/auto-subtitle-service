@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_02282",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.498,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단상 아래 좌석에 추첨 등으로 뽑힌 일반 국민과 각계 대표 등 4만 명이 앉습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.963
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 자유 인권 시장 공정 연대의 기반 위에 새로운 대한민국을 만들자는 내용으로 25분간 취임사를 발표할 예정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.973,
+                "end": 16.188
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취임식엔 주한 외교 사절을 포함해 300여 명의 외빈도 참석합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.198,
+                "end": 21.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시진핑 중국 국가 주석의 측근인 왕치산 국가 부주석 카멀라 해리스 미 부통령의 남편 더글러스 엠호프 하야시 요시마사 일본 외무상 등입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.174,
+                "end": 31.498
+            }
+        ]
+    },
+    "summary": "일반 국민과 각계 대표를 비롯해 주한 외교 사절과 300여 명의 외빈이 참석한 가운데 윤 대통령은 새로운 대한민국을 만들자는 내용의 취임사를 발표할 예정이라고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02282_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02282_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

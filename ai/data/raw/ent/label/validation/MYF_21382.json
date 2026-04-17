@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "MYF_21382",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 35.938,
+        "format": "MP4",
+        "date": "2022-02-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 야 그렇지 야 바람이 많이 불고 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 19.907
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 쓰레기 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.917,
+                "end": 21.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "완전 깨끗한 것이 어제오늘 밤 낚시 한 사람이 버리고 간 것 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.389,
+                "end": 26.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와따 많이도 마셨다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.643,
+                "end": 28.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대 편성 먼저 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.916,
+                "end": 29.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 쓰레기는 다 치우겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.983,
+                "end": 34.104
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.114,
+                "end": 34.848
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.858,
+                "end": 35.938
+            }
+        ]
+    },
+    "summary": "이 쓰레기를 보니 깨끗한 것이 어제오늘 밤 낚시 한 사람이 버리고 간 것 같고 대 편성하고 쓰레기를 치우겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21382_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_21382_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

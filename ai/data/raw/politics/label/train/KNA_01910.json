@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01910",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.554,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최신의 F35C 스텔스 전투기와 주력 FA18 호넷 전투기가 출격합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.097
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스텔스기 탐지 기능이 있는 호크아이 조기 경보기도 이륙합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.107,
+                "end": 10.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한반도 등 동북아를 담당하는 미 7함대가 서해에서 항공모함을 동원한 공중 훈련을 벌인 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.768,
+                "end": 17.613
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이례적으로 훈련 영상을 보도자료와 함께 공개했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.623,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "최신의 스텔스 전투기와 호크아이 조기 경보기가 출격하는 등 동북아를 담당하는 미 7함대가 서해에서 항공모함을 동원한 공중 훈련 영상을 이례적으로 공개했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01910_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01910_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 4,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

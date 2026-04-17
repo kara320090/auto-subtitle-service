@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_03018",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.859,
+        "format": "MP4",
+        "date": "2022-12-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 조 전 장관이 자녀의 인턴 활동 확인서를 허위로 발급받고 아들의 대학교 시험을 같이 보는 등 입시와 학사업무에 부정 개입했다고 보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.540
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 딸이 부산대 의학전문대학원을 다닐 당시 받은 장학금 600만 원에 뇌물 혐의를 적용했고 청와대 민정수석으로 일할 때 유재수 전 부산시 경제부시장의 감찰을 무마한 혐의도 포함 시켰습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.550,
+                "end": 25.859
+            }
+        ]
+    },
+    "summary": "검찰은 조 전 장관이 자녀의 입시와 학사업무에 부정 개입했다고 보고 있고 딸의 장학금에 뇌물 혐의를 적용했으며 청와대 민정수석으로 일할 때 부산시 경제부시장의 감찰을 무마한 혐의도 포함 시켰다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03018_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03018_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

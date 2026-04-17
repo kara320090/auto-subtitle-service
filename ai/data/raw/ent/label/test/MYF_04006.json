@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYF_04006",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.1,
+        "format": "MP4",
+        "date": "2021-03-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요 한참 이렇게 걸리나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 요리라는 게 뚝딱 만들어지는 게 아니구나.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.230,
+                "end": 4.470
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요리 많이 안해 봤는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.470,
+                "end": 6.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소리 봐 소리 봐 뜨거운 거 아니야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.210,
+                "end": 10.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오호 마늘 내가 엄청나네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.309,
+                "end": 13.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그냥 제가 할까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.770,
+                "end": 15.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네? 으흐흐흐 제가, 제가 그래도 한번 해보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.601,
+                "end": 20.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요리 유튜브",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.329,
+                "end": 23.100
+            }
+        ]
+    },
+    "summary": "여자가 요리가 간단한 일이 아니지만 다른 사람에게 맡기지 않고 완성하겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04006_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": null,
+                    "act": 7
+                }
+            ]
+        }
+    ]
+}

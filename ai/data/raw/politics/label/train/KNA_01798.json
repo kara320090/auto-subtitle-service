@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "filename": "KNA_01798",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.267,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 눈에는 견적이 나옵니다 그냥",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.083
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 후보는 사전 투표 유엔 기념 공원을 참배하고 지지세가 강한 대구 경북 등 영남 지역을 잇따라 방문합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.093,
+                "end": 11.799
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당 심상정 후보는 남편과 함께 사전 투표를 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.809,
+                "end": 15.797
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "덜 나쁜 대통령한테 주시겠습니까 아니면 내 삶을 바꾸는 미래에 투자하시겠습니까 여러분",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.807,
+                "end": 23.360
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심 후보는 경남 창원과 대구 대전을 차례로 방문해 기득권 정치 대신 다당제에 투표를 달라고 강조할 전망입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.370,
+                "end": 31.769
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 문예슬입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.779,
+                "end": 34.267
+            }
+        ]
+    },
+    "summary": "윤 후보는 지지세가 강한 대구 경북 등을 방문하고 심 후보는 대구 대전 등을 차례로 방문해 투표를 달라고 강조할 전망이라고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01798_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01798_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

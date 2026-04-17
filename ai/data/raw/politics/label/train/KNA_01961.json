@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01961",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2022-03-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘기들이 막 나오는데 그건 좀 근거가 없구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "496억의 예비비를 신청할 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.620,
+                "end": 6.738
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러나 496억원이라는 비용에는 연쇄 이동이 불가피해진 합참의 이전 비용등은 전혀 포함되지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.748,
+                "end": 14.620
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 국방부의 방호시설 재구축이나 전산망 이전 비용 등은 담기지 않은 상태입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.630,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "496억원이라는 비용에는 연쇄 이동이 불가피해진 합참의 이전 비용등은 전혀 포함되지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01961_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

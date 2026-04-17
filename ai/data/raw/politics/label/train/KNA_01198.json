@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01198",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 허향진 후보 31.6으로 오 후보가 앞섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 임종빈입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.655,
+                "end": 5.986
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번에는 전국 17곳에 시도 교육감 선거 여론 조사 결과도 살펴보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.996,
+                "end": 12.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현 교육감들이 대체로 우세를 보이는 가운데 아직 지지 후보를 정하지 못했다는 유권자의 비율도 높게 나타났는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.375,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "시도 교육감 선거 여론 조사 결과 중 현 교육감들이 대체로 우세를 보이는 가운데 아직 지지 후보를 정하지 못했다는 유권자의 비율도 높게 나타났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01198_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01198_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

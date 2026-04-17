@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_09106",
+        "category": "정치뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.258,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 국립 용산공원이 엄청나게 큰 규모로 만들어져 조성이 될 수가 있고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.741
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 관련 예산 303억 원이 오늘 국토위 예산소위에서 민주당 단독으로 전액 삭감됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.751,
+                "end": 12.632
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 해당부지에 다이옥신이 검출됐는데 정화작업도 끝나지 않아 공원 조성은 시기상조라는 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.642,
+                "end": 19.401
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대신 정부 예산안에 빠졌던 공공임대 주택 관련 예산을 3조 원 이상 증액했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.411,
+                "end": 25.258
+            }
+        ]
+    },
+    "summary": "예산 303억 원이 오늘 국토위 예산소위에서 민주당 단독으로 전액 삭감됐고 해당부지에서 다이옥신이 검출됐는데 정화작업이 끝나지 않아 공원 조성은 시기상조라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09106_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_09106_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

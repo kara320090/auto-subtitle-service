@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYF_23149",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.436,
+        "format": "MP4",
+        "date": "2018-12-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "데리고 저희가 배웠던 걸 고어보드하고 시험 준비도 해주는 디스커션 클래스가 무조건 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그건 의무로 수강을 해야 되는 건가요?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 7.374,
+                "end": 10.023
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같이 수강을 해야 그 클래스에 들어갈 수가 있어요. 처음에 이제 등록을 할 때",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.033,
+                "end": 15.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "존 브리디 프라워 홀",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 15.450,
+                "end": 18.433
+            }
+        ]
+    },
+    "summary": "남성은 디스커션 클래스가 어떤 것인지 설명해 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23149_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

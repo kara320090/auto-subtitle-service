@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_06401",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 31.666,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이구 트수야.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.295
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꿀꿀 야 이마 하는 좋은 말이 있잖아.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.305,
+                "end": 9.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마빡이 뭐야.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.629,
+                "end": 10.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기 이제 몰래 숨어 들어가서 옥수수밭인 거 같애요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.763,
+                "end": 19.858
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인터스텔라가 생각이 나네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 19.868,
+                "end": 22.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 죽어가면서 외치는 게 가오가 이거야?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 22.371,
+                "end": 31.666
+            }
+        ]
+    },
+    "summary": "한 여성이 옥수수밭에 몰래 숨어 들어가서 인터스텔라 생각난다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06401_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

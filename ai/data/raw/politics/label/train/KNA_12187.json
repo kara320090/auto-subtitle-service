@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_12187",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.389,
+        "format": "MP4",
+        "date": "2020-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불평등을 갈아 엎으라고 포크레인을 몰고 왔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.582
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지역구 59곳의 후보를 낸 민중당 비례 대표 8명 냈는데 1, 2번 비정규직 노동자와 농민입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.592,
+                "end": 13.663
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전 국민 고용 보험제를 도입해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.673,
+                "end": 17.475
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "특수 고용 노동자나 자영업자의 보험료를 정부가 지원해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.485,
+                "end": 22.389
+            }
+        ]
+    },
+    "summary": "민중당은 비례 대표 후보 8명을 냈는데 1번과 2번이 비정규직 노동자와 농민이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12187_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32608",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.554,
+        "format": "MP4",
+        "date": "2023-08-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "표결 결과는 3 대 3 동수 민주당 의원 3명이 모두 반대표를 던진 거로 보입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 여전히 계류 중인 윤미향, 박덕흠 의원 제명안과의 형평성 그리고 지난주 김 의원의 총선 불출마 선언을 이유로 들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.680,
+                "end": 16.791
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "구속된 상태에서 계속 급여까지",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.801,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "민주당은 계류 중인 윤미향, 박덕흠 의원 제명안과의 형평성과 김 의원의 총선 불출마 선언을 이유로 3명 의원 모두 반대표를 던졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32608_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 101
+                }
+            ]
+        }
+    ]
+}

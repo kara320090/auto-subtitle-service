@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_06400",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 23.6,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차 문 닫히는 게 보이네?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.509
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 이렇게 진행 속도에 맞춰서 저 위쪽에도 뭔가 액션이 있네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.519,
+                "end": 7.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 트수가 세 마리나 여러분 괜찮아요?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 7.932,
+                "end": 14.742
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 비 많이 오는데 돌아다니지 말라 그랬잖아요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.752,
+                "end": 19.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 참 정말 꿀 꿀꿀",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 19.785,
+                "end": 23.600
+            }
+        ]
+    },
+    "summary": "한 여성이 뭔가 위쪽에도 액션이 있고 트수가 세 마리 있다며 비 오는데 돌아다니지 말라했다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

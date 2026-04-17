@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_03407",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.672,
+        "format": "MP4",
+        "date": "2023-01-19",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 일단 봅시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결과를",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.675,
+                "end": 19.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.154,
+                "end": 31.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 이게 이렇고 되나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.990,
+                "end": 39.672
+            }
+        ]
+    },
+    "summary": "발화자가 게임을 지켜보며 일단 결과를 보자고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03407_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

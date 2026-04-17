@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYB_11122",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.0,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세계를 지키는 나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.810,
+                "end": 4.165
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.175,
+                "end": 5.525
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 세계의 영웅",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.535,
+                "end": 6.793
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.803,
+                "end": 14.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭘 얼마나 대단한 걸 하길래 효과를 이렇게 대단한 효과를 주냐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.662,
+                "end": 20.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "목재 갖고오기를 그죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.449,
+                "end": 24.000
+            }
+        ]
+    },
+    "summary": "화자는 캐릭터를 이 세계의 영웅이라고 하고 캐릭터를 주인공 캐릭터에게 목재 작업소에 있는 녀석에게 물어보면 필요한 걸 알려 줄 것이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11122_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

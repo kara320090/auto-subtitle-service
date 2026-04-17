@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_04049",
+        "category": "정치뉴스",
+        "sub_category": 14,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2021-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19 피해 지원은 오늘도 주요 쟁점이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.207
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김부겸 국무 총리는 법으로 손실 보상을 소급해서 적용해야 한다는 야당 주장에 개별 업소별로 따져서 정산하는 방식은 안 된다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.217,
+                "end": 13.064
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나이트 클럽이다 그럼 예를 들어 그분들이 어 보상을 하게 되면 그럼 몇억씩 할 텐데 지금 국민들이 그런 어떤 상황을 납득을 할 수 있겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.074,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "김부겸 국무 총리는 법으로 손실 보상을 소급해 적응해야 한다는 야당의 주장에 대해 안 된다고 설명하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04049_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

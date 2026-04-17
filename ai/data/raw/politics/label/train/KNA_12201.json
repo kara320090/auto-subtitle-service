@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_12201",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.194,
+        "format": "MP4",
+        "date": "2020-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아울러 경찰의 수사 결과에 따라 피해 상황 조사 및 법률 검토를 거쳐 구상권을 청구할 방침이며",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.484
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이에 대해 신천지 교회 측은 아직까지 상황을 파악 중이라며 정리되는 대로 공식 입장을 내놓겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.494,
+                "end": 15.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.243,
+                "end": 17.183
+            }
+        ]
+    },
+    "summary": "정부는 경찰의 수사 결과에 따라 구상권을 청구할 방침이며 신천지 교회 측은 상황을 파악 중이라며 입장을 밝히지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12201_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

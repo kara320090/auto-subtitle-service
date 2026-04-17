@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_10006",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.994,
+        "format": "MP4",
+        "date": "2023-04-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중국이 반발해 사드 배치 때처럼 경제적 보복에 나설 수 있다는 우려가 나오는 대목입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.171
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근에 그 판호도 좀 풀고 게임도 풀면서 하려던 것을 지연시키거나 그게 통과가 쉽게 안 되게 방법을 써서 시간적 장벽을 둘 수 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.181,
+                "end": 21.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우크라이나 무기 지원에 대한 언급은 빠져 그나마 러시아와의 관계에 부담은 덜었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.685,
+                "end": 27.994
+            }
+        ]
+    },
+    "summary": "중국이 반발해 경제적 보복에 나설 수 있다는 우려가 나오는 대목이며 우크라이나 무기 지원에 대한 언급은 빠져 그나마 러시아와의 관계에 부담은 덜었다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10006_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_07795",
+        "category": "정치뉴스",
+        "sub_category": 21,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.292,
+        "format": "MP4",
+        "date": "2022-06-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "17년 전 루게릭병 진단을 받은 60대 환자는 몸을 움직일 수 없고 호흡 근육도 마비됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수시로 가레를 뽑아 내야 하고 소독도 해야 합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.799,
+                "end": 10.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돌보는 일이 만만치 않다 보니 활동 지원사 구하기는 쉽지 않습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.490,
+                "end": 15.704
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쉬운 분 케어나 이런 어려운 분 케어나 그거는 똑같기 때문에 다 쉬운 일하려고 그러죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.714,
+                "end": 23.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결국 가족이 직접 환자를 돌보는 경우가 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.227,
+                "end": 26.292
+            }
+        ]
+    },
+    "summary": "루게릭병 환자를 케어하기가 쉽지 않아 결국 가족이 돌보는 경우가 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": 40,
+                    "act": 47
+                }
+            ]
+        }
+    ]
+}

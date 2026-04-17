@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00182",
+        "category": "정치뉴스",
+        "sub_category": 41,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.551,
+        "format": "MP4",
+        "date": "2022-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 의원은 이 밖에도 이스타 항공과 관련해 배임 횡령을 저지른 혐의로 지난 12일 1심에서 징역 6년을 선고받고 현재 교도소에 수감 중입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당이 최근 이 의원에 대한 제명안을 국회 본회의에서 신속 처리하겠다고 밝혀 의원직을 잃을 위기에 놓여 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.560,
+                "end": 17.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.247,
+                "end": 18.551
+            }
+        ]
+    },
+    "summary": "이 의원은 이 밖에도 이스타 항공과 관련해 배임 횡령 혐의로 지난 12일 1심에서 징역 6년을 선고받고 현재 교도소에 수감 중이며 민주당이 최근 이 의원에 대한 제명안을 신속 처리하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00182_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 28
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00182_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

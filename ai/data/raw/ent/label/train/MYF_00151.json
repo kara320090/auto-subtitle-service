@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_00151",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.192,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 짐이 끝도 없이 실리다 보니까 사실 밴 없었으면 이 짐들 어떻게 가지고 다녔지 싶은 순간이 한두 번이 아닙니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "레이 밴은 사랑입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.157,
+                "end": 11.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 세차를 마무리하고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.657,
+                "end": 14.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘의 아이템을 정리해드릴게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.055,
+                "end": 16.784
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "프리워시에는 요거 빨간 통 바인더 중성 프리워시고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.794,
+                "end": 22.125
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "희석할 압축 분무기도 꼭 함께 사세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.135,
+                "end": 26.192
+            }
+        ]
+    },
+    "summary": "이 짐들 어떻게 가지고 다녔지 싶은 순간이 많아 밴이 있어 다행이라며 이쯤에서 세차는 마무리 하고 오늘의 아이템을 정리한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00151_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 133
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00151_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": 2,
+                    "act": 2
+                }
+            ]
+        }
+    ]
+}

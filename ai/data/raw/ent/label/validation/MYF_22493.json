@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYF_22493",
+        "category": "엔터테인먼트",
+        "sub_category": 9,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.153,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 되게 어떤 부분은 이 중년 운이 제일 안 좋아 되게 외롭고 힘든데 말년에는 되게 안정되서 널 사랑하는 사람들과 안정적인 일을 하고 세상의 인정 받는 쪽으로 가고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "살기만 조금 더 빠지면 이 해보세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.529,
+                "end": 15.719
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이도 봐 이 위에가 이게 지금 막",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.729,
+                "end": 20.153
+            }
+        ]
+    },
+    "summary": "지금 현재는 힘든데 말년에는 사랑하는 사람과 안정된 삶을 살게 될 거라고 얘기해준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22493_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 38,
+                    "act": 46
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22493_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 38,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

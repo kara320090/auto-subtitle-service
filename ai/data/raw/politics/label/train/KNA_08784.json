@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "KNA_08784",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.803,
+        "format": "MP4",
+        "date": "2022-10-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 씨는 지난 3월 과태료 고지서를 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강원도 춘천에서 주정차 단속에 걸렸단 건데 임 씨는 그날 거기에 간 적이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.520,
+                "end": 11.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고지서 속 번호판은 분명 임 씨의 것과 똑같았지만 차종 자체가 달랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.318,
+                "end": 17.236
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 차량이 아니에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.246,
+                "end": 18.813
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "차량 색깔도 틀리고 차종도 조금씩 틀리고 그 회사 메이커도 틀리고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.823,
+                "end": 24.841
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 차 넘버는 동일해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.851,
+                "end": 27.538
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지자체와 경찰에 신고했는데 벌써 7개월째 깜깜무소식입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.548,
+                "end": 32.306
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러는 사이 문제의 차량은 같은 장소에서 반복적으로 단속에 걸렸고",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.316,
+                "end": 36.803
+            }
+        ]
+    },
+    "summary": "@이름1 씨가 주차 단속에 걸렸다는 과태료 고지서를 받았는데 고지서 속 차량은 번호판만 같은 다른 차량이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08784_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 7,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

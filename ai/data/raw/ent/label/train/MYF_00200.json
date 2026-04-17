@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYF_00200",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2023-04-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 엔진 룸 열어 보면요 엔진 커버하구요 흡기 덕트 도색해 놨구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "룩손 스트럿바하고요 스트럿바 포인트 랩핑까지 해서 강성도 좀 강화를 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.202,
+                "end": 9.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세티코 스마트 3구 접지에다가 토콘 블로우 밸브 해놨구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.256,
+                "end": 13.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 블로우 밸브 해 놓으면 은근히 이 악셀에서 발을 딱",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.187,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "엔진 룸의 엔진 커버와 흡기 덕를 도색 했고 룩손 스트럿바 포인트 랩핑과 세티코 스마트 3구 접지에다 토콘 블로우 밸브까지 소개를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00200_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01505",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.482,
+        "format": "MP4",
+        "date": "2022-06-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대선 지선 이후에 에 그 어떤 위기의식에서 나온 거다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.595
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 의원은 홍 의원의 요구에 계속 고민해 보겠다고 답한 것으로 알려졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.605,
+                "end": 12.344
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전당대회 출마 여부를 묻는 기자들의 질문에도",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.354,
+                "end": 15.482
+            }
+        ]
+    },
+    "summary": "이 의원은 홍 의원의 요구에 계속 고민해 보겠다고 답한 것으로 알려졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01505_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

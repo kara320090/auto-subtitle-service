@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYB_02248",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.6,
+        "format": "MP4",
+        "date": "2023-04-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마들렌이 미쳐 날뜁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공덱으로 내가 볼 때는 어 현재 나온 것 중에 가장 이상적이고 되게 원덱으로 쓰기에 좋지 않을까?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.211,
+                "end": 12.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 지금 현재 여러분들 공격덱이 막 3개, 4개 운영해야 승률이 막 90퍼센트 이상 나오거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.768,
+                "end": 18.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "덱 하나만 써도 지금 엄청난 승률이 나오고 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.553,
+                "end": 24.600
+            }
+        ]
+    },
+    "summary": "공격덱을 3개, 4개 써야 승률이 좋은데 마들렌은 하나만 써도 승률이 높다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02248_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

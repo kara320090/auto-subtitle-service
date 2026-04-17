@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_30853",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.733,
+        "format": "MP4",
+        "date": "2016-12-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 청와대 민정수석과 @이름2 대통령 경호실장 등이 국정 조사에 불출석한 것에 대한 여야 의원들의 비판도 잇따랐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "황영철 새누리당 의원은 세월호 7시간 진실 규명을 위해 증인 출석이 꼭 필요하다고 강조했고 김한정 민주당 의원은 동행 명령장을 발부해서라도 출석시켜야 한다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.473,
+                "end": 19.733
+            }
+        ]
+    },
+    "summary": "여야 의원들은 청와대 민정수석과 대통령 경호실장 등이 국정 조사에 불출석하자 세월호 7시간 진실 규명을 위해 증인 출석이 꼭 필요하다고 강조했고 동행 명령장을 발부해서라도 출석시켜야 한다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30853_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 154
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30853_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

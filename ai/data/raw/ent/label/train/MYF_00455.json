@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYF_00455",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.033,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마 그래서 그분하고 촬영하고 점심먹고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 주말에는 이제 네 팀 정도를 찍는데, 이게 시간을 나눠서 찍구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.443,
+                "end": 8.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오신 분들을 위해서 미리 도시락도 준비하고, 간식도 준비하고, 약간 전원도 힐링도 하시고 진짜 시골에 놀러 오세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.699,
+                "end": 16.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 주변에 관광지도 좀 많고, 세차장도 있고 그래서 놀러들 많이 오시더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.174,
+                "end": 22.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찾아주신 분들 너무 감사드리구요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.343,
+                "end": 24.648
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대구에서 오신 우리 테슬라 차주님께도 이아나티비",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.658,
+                "end": 28.033
+            }
+        ]
+    },
+    "summary": "주말에는 네 팀 정도 시간을 나눠서 찍는데 오신분들 위해 도시락, 간식등 준비하고 오시는 분들도 주변에 관광지나 세차장이 있어 시골에 놀러오는 듯 힐링하러 오신다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00455_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00455_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 154
+                }
+            ]
+        }
+    ]
+}

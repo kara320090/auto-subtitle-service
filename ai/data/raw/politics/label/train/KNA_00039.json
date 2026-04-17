@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00039",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2022-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단결된 힘으로 위기를 기회로 만들자고 했고 공동 위원장인 이낙연 전 대표를 거론하며 민주당은 점점 단결되고 있다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.025
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리는 힘을 합치고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.035,
+                "end": 12.032
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경쟁했던 모든 후보들이 정말로 혼신을 다해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.042,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "민주당 이재명 후보는 이낙연 전 대표를 거론하며 민주당이 점점 단결되고 있다고 발언한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00039_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

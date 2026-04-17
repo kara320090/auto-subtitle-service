@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_04555",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.558,
+        "format": "MP4",
+        "date": "2021-10-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한국 은행은 먼저 3분기 주춤한 성장률이 전망 경로에서 크게 벗어나지는 않았다는 평가를 내놨습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.935
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크게 우려할 수준은 아니라고 생각됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.945,
+                "end": 9.424
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "0.3퍼센트 성장을 한 것은 이제 코로나 19 재확산으로 민간 소비가 좀 감소하고 차량용 반도체 공급 차질 그런 건설 자재 수급 불균형 등 글로벌 공급망 쪽에서 병목 현상이 발생한 데 따른 그런 영향이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.434,
+                "end": 25.558
+            }
+        ]
+    },
+    "summary": "한국 은행은 먼저 3분기 주춤한 성장률이 전망 경로에서 크게 벗어나지는 않았다는 평가를 내놓으며 크게 우려할 수준은 아니라고 생각된다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04555_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_04001",
+        "category": "게임",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.085,
+        "format": "MP4",
+        "date": "2022-12-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "엄청 오랜만에 듣는 얘기인데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그딴 걸 아직도 신경쓰는 쿠키가 있나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.631,
+                "end": 5.636
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "난 아닌데 말이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.646,
+                "end": 7.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서리여왕 쿠키님의 얼음성에 조금씩 균열이 생기고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.721,
+                "end": 13.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용의 협곡에도 혹시 비슷한 일이 있나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.083,
+                "end": 19.085
+            }
+        ]
+    },
+    "summary": "쿠키가 서리여왕의 얼음성에 조금씩 균열이 생기고 있다고 전달하고 불꽃정령 쿠키는 본인은 아니라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

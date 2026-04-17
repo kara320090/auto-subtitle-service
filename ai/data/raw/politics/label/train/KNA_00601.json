@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_00601",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.483,
+        "format": "MP4",
+        "date": "2022-03-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에프35에이는 최첨단 5세대 전투기로 스텔스 성능과 전자적 능력 등을 갖췄고 최대 속도 마하 1.6으로 비행합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북한도 상당한 취약점을 가지고 있다는 것을 그들에게 인식시킬 필요가 있습니다 그런 점에서 스텔스 전투기를 통한 대북 무력시위가",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.456,
+                "end": 16.483
+            }
+        ]
+    },
+    "summary": "에프35에이 전투기는 최고 성능을 가진 스텔스 전투기다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00601_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 4,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

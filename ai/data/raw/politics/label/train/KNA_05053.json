@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "KNA_05053",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 37.137,
+        "format": "MP4",
+        "date": "2022-07-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대구시가 지원하는 금액이 월 40만 원 정도여서 모텔 업주들은 사업 참여에 소극적입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.695
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어쩔 수 없어서 내 받아들였고 방세가 우리가 갈 땐 70만 원씩 하는 거 40만 원에 줬는데 그래 내가 좀 많이 손해를 볼 순 없잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.705,
+                "end": 14.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "애초 대구시는 폭염 기간 냉방 설비를 갖춘 빈 임대주택을 제공하기로 했지만 물량이 없어 한 건도 추진하지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.477,
+                "end": 24.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이달 들어 부랴부랴 쪽방촌 폭염 대책으로 모텔을 대안으로 내 놨지만 미숙한 준비로 반쪽짜리 정책이라는 비판을 피할 수 없게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.038,
+                "end": 34.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.416,
+                "end": 37.137
+            }
+        ]
+    },
+    "summary": "대구시는 쪽방촌 폭염 대책으로 냉방 설비를 갖춘 빈 임대주택을 제공하기로 했지만 물량이 없어 한 건도 추진하지 못했고 모텔을 대안으로 내 놨지만 미숙한 준비로 반쪽짜리 정책이라는 비판을 피할 수 없게 됐다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05053_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05053_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

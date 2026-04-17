@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_06097",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.79,
+        "format": "MP4",
+        "date": "2022-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이재명 후보는 경로당을 찾아 어르신 공약을 발표했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "60살에 퇴직한 뒤 국민 연금을 받는 65살까지 공백을 메우기 위해 1달에 10만 원씩 장년 수당을 약속했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.530,
+                "end": 13.108
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "노인 복지를 계속 확대해야 된다는 것은 여야 간에 이론이 없기 때문에 이 문제를 두고 포퓰리즘이라고 지적하는 것은 정치적 공세다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.118,
+                "end": 23.790
+            }
+        ]
+    },
+    "summary": "민주당 이재명 후보는 경로당을 찾아 어르신 공약으로 60살에 퇴직한 뒤 국민 연금을 받는 65살까지 공백을 메우기 위해 1달에 10만 원씩 장년 수당을 약속했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06097_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

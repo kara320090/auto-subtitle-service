@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_00377",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.622,
+        "format": "MP4",
+        "date": "2022-03-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정치 보복하겠다 이런 말 공언하는 정치 세력이 과연 이 나라의 미래를 책임질 수 있겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.529
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 후보는 유세 뒤 김동연 후보와 만나 정치 교체 통합 정부 운영과 구성에 대해 뜻을 같이하고 사실상 단일화에 합의했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.539,
+                "end": 18.538
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘 윤석열 후보는 서울 신촌에서 유세를 펼쳤습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.548,
+                "end": 22.622
+            }
+        ]
+    },
+    "summary": "이재명 후보는 단일화에 합의했고 윤석열 후보는 서울 신촌에서 유세를 펼쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00377_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

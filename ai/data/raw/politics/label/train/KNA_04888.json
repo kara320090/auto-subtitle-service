@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_04888",
+        "category": "정치뉴스",
+        "sub_category": 24,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.584,
+        "format": "MP4",
+        "date": "2022-07-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국회 부의장에는 국민의힘 5선의 정진석 의원이 민주당에선 4선 김영주 의원이 헌정사상 두 번째 여성 국회 부의장으로 선출됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당초 민주당은 오늘 오후 국회 의장단 단독 선출을 예고했으나 본회의 직전 여야는 합의 선출로 선회했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.717,
+                "end": 17.584
+            }
+        ]
+    },
+    "summary": "국회 부의장에는 정진석 의원과 헌정사상 두 번째 여성 국회 부의장으로 김영주 의원이 선출됐는데 당초 민주당은 국회 의장단 단독 선출을 예고했으나 본회의 직전 여야는 합의 선출로 선회했다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04888_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04888_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

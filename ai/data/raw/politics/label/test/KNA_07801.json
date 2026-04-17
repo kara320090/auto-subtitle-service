@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_07801",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.199,
+        "format": "MP4",
+        "date": "2022-06-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "만나면 결과가 있어야 하는데 일본 참의원 선거를 앞두고 한일 간 풀어야 할 문제에 대해 이야기를 나눈 게 없다는 설명입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 나토 정상회의 연설에서 북핵 문제에 대한 관심과 지지를 요청하고 유럽 주요 정상들과 원자력과 반도체 등 경제 협력을 위한 아홉 차례 양자 회담도 갖습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.565,
+                "end": 21.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리나라에 뭐 다양한 현안들 또 뭐 수출과 관련된 문제라든지 이런 것도 필요하면 이야기할 수 있을 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.510,
+                "end": 33.199
+            }
+        ]
+    },
+    "summary": "일본과 이야기할 게 없다고 하며 북핵 문제에 대해 유럽 정상들과 아홉 차례 양자 회담도 갖는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

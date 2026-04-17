@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_00272",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.125,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청와대의 비공개 결정이 타당하지 않다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재판부는 국가 안보와 사생활 침해 등이 우려된다는 청와대 측 비공개 사유는 인정하기 어렵다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.380,
+                "end": 10.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 청와대 측이 갖고 있지 않다고 주장한 의전 비용 관련 정보 역시 청와대가 보유 관리하고 있을 상당한 개연성이 있다고 봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.710,
+                "end": 19.762
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국방 외교 안보 이외에는 모든 것이 공개돼야 한다는 입장이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.772,
+                "end": 24.009
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그것이",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.019,
+                "end": 25.125
+            }
+        ]
+    },
+    "summary": "재판부는 청와대가 의전 관련 비용을 관리하고 있다고 보고 비공개 사유는 인정하기 어렵다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00272_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

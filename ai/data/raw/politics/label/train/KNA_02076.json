@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_02076",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.615,
+        "format": "MP4",
+        "date": "2022-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부처마다 두세 명 또는 5 명까지 추천 명단이 올라왔다고 장제원 당선인 비서실장은 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.938
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부 조직 개편안이 아직 마련되지 않아 일단은 지금 정부 조직에 맞춰 인선을 할 예정이라고도 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.948,
+                "end": 15.615
+            }
+        ]
+    },
+    "summary": "부처마다 추천 명단이 올라왔다고 장제원 당선인 비서실장은 설명했고 정부 조직 개편안이 마련되지 않아 일단은 지금 정부 조직에 맞춰 인선을 할 예정이라고도 했다며 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02076_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02076_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

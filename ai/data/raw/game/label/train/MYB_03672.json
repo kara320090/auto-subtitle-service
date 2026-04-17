@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_03672",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.833,
+        "format": "MP4",
+        "date": "2023-01-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 그다음에 블베 눌러주고 다시 네 마카롱 예약하고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "써 주자마자 벚꽃 그다음에 블베 예약",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.656,
+                "end": 8.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "블베 예약하고 나서 네 여기서는 블베 스킬 쓰자마자 호밀 호밀 쓰자마자 벚꽃",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.960,
+                "end": 17.833
+            }
+        ]
+    },
+    "summary": "화자가 스킬의 예약 순서를 알려주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03672_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

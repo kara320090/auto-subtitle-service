@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYF_21565",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.062,
+        "format": "MP4",
+        "date": "2022-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "밥, 야채실에는 무랑 마늘, 배추, 사과인 것 같고 레몬 야 뭐 씨 탄산수가 뭐 이렇게 많아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계란은 당연히 없고 채소랑 파도 없고 양파도 없고 냉동실은 마늘 다진 거 떡볶이 떡, 모차렐라 치즈, 김치만두, 고기는 등심, 닭가슴살인 것 같고 이건 음식물 쓰레기인가?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.681,
+                "end": 26.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새우",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.112,
+                "end": 29.062
+            }
+        ]
+    },
+    "summary": "냉장고에는 야채나 파, 양파, 계란 등은 없고 고기도 등심과 닭가슴살 뿐이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21565_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 52,
+                    "act": 100
+                }
+            ]
+        }
+    ]
+}

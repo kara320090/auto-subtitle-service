@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01225",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.219,
+        "format": "MP4",
+        "date": "2022-05-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 생각하고 최선을 다하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령은 김건희 여사와 점심 무렵 서울 용산 대통령실 인근에서 사전 투표에 참여했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.950,
+                "end": 9.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "퇴임한 문재인 전 대통령 역시 김정숙 여사와 경남 양산에서 사전 투표를 마쳤습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.939,
+                "end": 16.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여야 지도부는 전국 각지에서 유세를 이어가며",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.080,
+                "end": 19.219
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 서울 용산 대통령실 인근에서 퇴임한 문재인 전 대통령은 경남 양산에서 사전 투표를 마쳤습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01225_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYB_09090",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.366,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네가 그 참게인가 그거니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 이렇게 가가지고 잘 구워졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.987,
+                "end": 15.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 바닥에 떨어졌는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.760,
+                "end": 22.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 맞아 @이름1 같네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.177,
+                "end": 28.302
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반역자를 체포하는 거래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.137,
+                "end": 33.875
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저기서 만나기로 했구나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.137,
+                "end": 39.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 나 @이름2 죽을까 봐 걱정된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 39.912,
+                "end": 41.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빨리 가야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 42.320,
+                "end": 45.366
+            }
+        ]
+    },
+    "summary": "여성이 참게가 잘 구워졌다고 하다가 바닥에 떨어졌다고 하며 반역자를 체포하는 거라고 하고 만나기로 한 곳을 보며 이름2가 죽을까 봐 걱정돼서 빨리 가야 겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09090_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

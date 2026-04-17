@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_08631",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.533,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.199
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 싸움은 내가 끊는다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.209,
+                "end": 3.162
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.172,
+                "end": 4.679
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아무튼 오늘 강의 수고 많으셨어요 교수님 감사합니다 아리가또.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.689,
+                "end": 8.252
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러니까 그런데 이거는 진짜는 게임값은 하는 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.262,
+                "end": 15.020
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "플스는 솔직히 비싸긴 해 그런데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.030,
+                "end": 17.533
+            }
+        ]
+    },
+    "summary": "화자가 게임 캐릭터들을 보면서 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08631_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

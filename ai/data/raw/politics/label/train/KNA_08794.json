@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNA_08794",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.435,
+        "format": "MP4",
+        "date": "2022-10-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이들의 정박 사실은 군과 경찰 등 유관 기관 20여 곳에 전파됐고 무단 상륙에 대비한 순찰과 감시 조치도 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.897
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희들이 상륙을 못 하게 감시를 하고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.907,
+                "end": 11.801
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "상륙을 못 하게 부두에 접안을 안 시키고 부두 중앙 부분에 통행에 방해되지 않는 위치에서 앵커를 같이 내렸죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.811,
+                "end": 20.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 요트는 울릉도 사동항에서 해경의 감시를 받다가 오늘 오후 떠났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.078,
+                "end": 25.432
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이들은 해경에 당초 출항지였던 블라디보스토크로 돌아간다고 밝혔지만 다른 행선지로 향할 가능성도 배제할 순 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.442,
+                "end": 33.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 33.958,
+                "end": 35.435
+            }
+        ]
+    },
+    "summary": "이 요트는 울릉도 사동항에서 해경의 감시를 받다가 오늘 오후 떠났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08794_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

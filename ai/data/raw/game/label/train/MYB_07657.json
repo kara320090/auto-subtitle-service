@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_07657",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.9,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 20.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 도클리 슨 시온 다 죽을 건가 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.780,
+                "end": 23.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진짜 죽나 디온?",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.070,
+                "end": 24.399
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 돼.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.409,
+                "end": 27.532
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 돼 디온 게이게이야 죽지 마.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.542,
+                "end": 29.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죽을 것 같아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.570,
+                "end": 30.357
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무서워.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.367,
+                "end": 32.900
+            }
+        ]
+    },
+    "summary": "여자가 영상 속 남자 캐릭터가 죽을 것 같다고 하면서 죽지 말라고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07657_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

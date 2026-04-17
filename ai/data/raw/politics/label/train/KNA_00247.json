@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_00247",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.904,
+        "format": "MP4",
+        "date": "2022-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "위증 혐의 등이 인정되기 어렵다고 결론 난 점 등을 볼 때 윤 후보의 혐의를 인정하기 어렵다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공수처가 수사하고 있는 윤 후보 관련 사건 중에서 마무리가 된 건 이번이 처음입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.933,
+                "end": 12.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보 측은 당시 조치에 위법성이 없음이 재확인됐다는 입장을 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.862,
+                "end": 17.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 임 담당관은 법원에 기소 여부를 판단해 달라는 재정 신청을 낼 계획이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.578,
+                "end": 24.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 김민철입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.320,
+                "end": 27.157
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직원을 강제 추행한 혐의로 구속돼 재판을 받아 온 오거돈 전 부산시장이 항소심에서도 징역 3년을 선고받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.167,
+                "end": 35.902
+            }
+        ]
+    },
+    "summary": "윤 후보 측은 당시 조치에 위법성이 없음이 재확인됐다는 입장을 냈지만 임 담당관은 법원에 기소 여부를 판단해 달라는 재정 신청을 낼 계획이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00247_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00247_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09857",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.266,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "말을 해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아 가죽 갑옷.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.526,
+                "end": 6.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 대장장이 생긴 것만은 다르게 이름이 가시자두라니.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.600,
+                "end": 10.464
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박가시자두, 김가시자두 발음에 주의 하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.460,
+                "end": 19.266
+            }
+        ]
+    },
+    "summary": "대장장이가 생긴 것과 다르게 이름이 가시자두이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09857_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

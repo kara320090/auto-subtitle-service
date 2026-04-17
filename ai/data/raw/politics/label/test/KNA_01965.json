@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNA_01965",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.281,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 청와대 입장을 인수인계 업무에 대한 협조 거부로 규정했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.047
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문재인 대통령이 가장 대표적인 정권 인수인계 업무에 필수 사항에 대해서 협조를 거부하신다면 강제할 방법이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.057,
+                "end": 15.281
+            }
+        ]
+    },
+    "summary": "청와대 입장을 인수인계 업무에 대한 협조 거부로 규정했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01965_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_02200",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.616,
+        "format": "MP4",
+        "date": "2022-04-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "독여갈 수 있지 않겠는가",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.727
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 보상에는 한일 변호사 간의 공조가 큰 역할을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.737,
+                "end": 6.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러 과거사를 놓고 정부 대 정부 간 해법이 좀처럼 나오지 않는 상황에서 민간의 교류 협력이 성과를 보인 사례로도 평가 받습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.722,
+                "end": 15.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.440,
+                "end": 16.616
+            }
+        ]
+    },
+    "summary": "한일 변호사 간의 공조가 큰 역할이 되었고 민간의 교류 협력이 성과를 냈다고 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02200_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

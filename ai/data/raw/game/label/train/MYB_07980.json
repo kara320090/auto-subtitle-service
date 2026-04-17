@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_07980",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.533,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 얘 자꾸 튕기네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쌍검 됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.667,
+                "end": 9.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 색깔 진짜 멋있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.672,
+                "end": 12.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "리니지랑 좀 안 어울린다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.163,
+                "end": 18.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 미치광이 느낌은 아니였는데 딱 봤을 때 진짜 포스 느낌이었는데 말이 너무 많아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.600,
+                "end": 28.533
+            }
+        ]
+    },
+    "summary": "게임 캐릭터가 말이 너무 많아서 리니지랑 안 어울리는 느낌이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07980_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 48,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYB_08041",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 55.2,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쩔어 하이 포션 나중에 퀘스트 주려나 보다 여기 아무것도 없는데?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 여기는 아예 아예 진짜 마을이 망했네 어떻게 먹는 거야",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.539,
+                "end": 25.626
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "포션",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.636,
+                "end": 42.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 두 발짝 더 걸어나가야 탈 수 있는 거 그렇지",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 42.507,
+                "end": 47.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 코딩되어 있겠지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 47.352,
+                "end": 55.200
+            }
+        ]
+    },
+    "summary": "한 여성은 게임에서 방문한 망한 마을에서 포션을 얻었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08041_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

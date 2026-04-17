@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYF_00201",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.625,
+        "format": "MP4",
+        "date": "2023-04-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뗐을 때 그 후시 하는 이게 느낌이 온다니까 그리고 본넷을 좀 열 일이 많으신 분들은 본넷 안쪽에다가 LED 작업등 작업을 하기도 하거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "차 주분 같은 경우에는 고기까지 해놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.610,
+                "end": 12.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이렇게 해서 엔진 룸 살펴봤고요 옆으로 가시죠 뿅",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.607,
+                "end": 16.616
+            }
+        ]
+    },
+    "summary": "엔진의 느낌을 소개하고 본넷을 많이 열일이 있으면 안쪽에 LED 작업등을 하는데 차량에 달려 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00201_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

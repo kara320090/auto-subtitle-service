@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_01302",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.561,
+        "format": "MP4",
+        "date": "2022-06-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기 성남 분당 갑에 당선돼 국회에 첫 출근한 국민의 힘 안철수 의원 여러 의원들을 만나 이야기를 나누겠다면서도 당권 도전에는 거리를 뒀습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 어 이 우리 국민의 힘에 있어서는 신인 멤버 아니겠습니까",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.825,
+                "end": 18.648
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그래서 가능하면 또 많은 사람들을 만나서 어 서로가 가진 생각들을 공유를 하려고 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.658,
+                "end": 28.561
+            }
+        ]
+    },
+    "summary": "국회에 첫 출근한 국민의 힘 안철수 의원 여러 의원들을 만나 이야기를 나누겠다면서도 당권 도전에는 거리를 뒀다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01302_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 2,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

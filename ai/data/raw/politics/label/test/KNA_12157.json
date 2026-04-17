@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_12157",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.123,
+        "format": "MP4",
+        "date": "2020-04-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 방송된 선관위 주관 경기 부천 병 후보자 토론회 미래통합당 차명진 후보는 지난해 세월호 관련 막말에 대한 입장을 묻는 상대 후보의 질문에 이렇게 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혹시 사건이라고 아세요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.650,
+                "end": 14.662
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그야말로 세월호 자원봉사자와 세월호 유가족이 텐트 안에서 말로 표현할 수 없는 문란한 행위를 했다는 기사를 이미 알고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.672,
+                "end": 23.123
+            }
+        ]
+    },
+    "summary": "오늘 방송된 선관위 주관 경기 부천 병 후보자 토론회 미래통합당 차명진 후보는 지난해 세월호 관련 막말에 대한 입장을 묻는 상대 후보의 질문에 이렇게 답했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12157_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

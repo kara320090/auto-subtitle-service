@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_32821",
+        "category": "정치뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.568,
+        "format": "MP4",
+        "date": "2023-10-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 8월 국회 보건복지위원회 전체 회의 @이름1 당시 질병관리청장에게 의원들의 질타가 쏟아집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.408
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 얼마나 한가한 윤리 의식입니까 질병청장 취임하신 지가 넉 달이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.418,
+                "end": 13.684
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "백신 제조 기업 등 직무 관련성이 의심돼 이해 충돌 논란이 제기된 백 전 청장 소유 주식 때문이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.694,
+                "end": 21.554
+            }
+        ]
+    },
+    "summary": "국회 보건복지위원회 전체 회의에서 당시 백 질병관리청장의 주식 관련 의원들의 질타가 쏟아졌다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32821_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_10809",
+        "category": "정치뉴스",
+        "sub_category": 23,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 43.009,
+        "format": "MP4",
+        "date": "2023-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 국회의장이 @이름2 행정 안전부 장관 탄핵 소추안을 오늘 열리는 본회의 표결에 붙이겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금까지의 의정 관행을 고려하고 양당 원내 교섭단체들과 충분히 협의한 결과라고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.042,
+                "end": 14.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 국민의 힘 @이름3 원내대표가 김 의장을 찾아 탄핵안을 상정하지 말아줄 것을 요청했지만 이를 받아들이지 않은 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.301,
+                "end": 22.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 이 장관 탄핵 소추안은 참사 희생자는 외면하고 장관 방탄만 일삼는 윤석열 정권이 스스로 만든 결과라며 반드시 처리하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.272,
+                "end": 33.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "참회도 없이 눈앞의 정치적 이득이라면 국민의 생명과 안전도 정쟁의 도구로 삼는 정권의 정략에 국민은 분노하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.071,
+                "end": 43.009
+            }
+        ]
+    },
+    "summary": "국회의장은 행정 안전부 장관 탄핵 소추안을 본회의 표결에 붙이겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10809_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

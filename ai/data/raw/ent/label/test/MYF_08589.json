@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_08589",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.261,
+        "format": "MP4",
+        "date": "2019-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "노랑이 꿀떡 잘 먹었어? 잘했어 우리 노랑이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 큰 아기들은 알약을 잘 먹을 수 있지만 아기 고양이들은 어떨까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.614,
+                "end": 11.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아기 고양이들은 이렇게 주사기에 담긴 물약을 투여해야 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.118,
+                "end": 17.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 물약은 어 역시 마찬가지로 어금니 노랑아 잠깐만 어금니 뒤쪽으로 이 구멍으로",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.284,
+                "end": 28.261
+            }
+        ]
+    },
+    "summary": "여성은 아기 고양이들은 주사기에 담긴 물약을 투여해야 된다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08589_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

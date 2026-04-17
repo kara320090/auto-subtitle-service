@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYF_05994",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.249,
+        "format": "MP4",
+        "date": "2020-03-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "봤어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.578
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그냥 다 똑같아 달라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.588,
+                "end": 3.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니야 그리고 웃으면 안 돼 무표정으로 하고 있어야 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.233,
+                "end": 8.670
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무표정으로?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.680,
+                "end": 12.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 영화 본 것좀 평가좀 해봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.220,
+                "end": 15.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "되게 무서웠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.359,
+                "end": 16.889
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무서웠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.899,
+                "end": 19.233
+            }
+        ]
+    },
+    "summary": "오늘 본 영화는 무서웠다고 여자는 평가합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_05994_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": 38,
+                    "act": 18
+                }
+            ]
+        }
+    ]
+}

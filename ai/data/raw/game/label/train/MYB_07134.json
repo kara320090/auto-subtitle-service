@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_07134",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 46.8,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소환수가 메카닉스러웠다면 난 이미 플스 5 샀다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.710
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "난 환불했다 그러면 난 환불했다 그러면 감사합니다. 아 개쩐다. 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.710,
+                "end": 19.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제 안 하면 안 돼서 뭔데 저게? 피닉스 상징 아니에요? 펜던트? 아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.374,
+                "end": 46.800
+            }
+        ]
+    },
+    "summary": "여성은 소환수가 메카닉스러웠다면 환불했고 펜던트를 궁금해합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07134_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

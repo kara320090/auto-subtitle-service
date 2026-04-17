@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "filename": "MYB_09228",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.866,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.523,
+                "end": 5.224
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "좋아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.234,
+                "end": 6.583
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "코르",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.593,
+                "end": 14.242
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 근데 견과류 먹는 소리 시끄러워요 혹시?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.252,
+                "end": 17.248
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.258,
+                "end": 26.612
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "괜찮아요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.622,
+                "end": 28.967
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 28.977,
+                "end": 32.599
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.609,
+                "end": 35.866
+            }
+        ]
+    },
+    "summary": "발화자가 시청자들에게 견과류 먹는 소리가 시끄러운 지 묻고 있는 엉상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09228_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

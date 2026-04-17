@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYF_03462",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.4,
+        "format": "MP4",
+        "date": "2021-12-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 우디한 향수들은 계속 등장을 하더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쟈스민 향이랑 네 매대에서 시향을 할 수 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.612,
+                "end": 27.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고맙습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.816,
+                "end": 31.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오드떼 진저 날카롭지 않은 시트러스 향이 네 편안하게 오네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.835,
+                "end": 45.400
+            }
+        ]
+    },
+    "summary": "우디향은 계속 등장을 하고 매대에서 시항을 할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_03462_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_03462_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

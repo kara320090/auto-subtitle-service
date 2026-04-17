@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_06080",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.298,
+        "format": "MP4",
+        "date": "2022-01-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.891
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령은 석유와 원전 등 기존 에너지 분야에서의 두 나라 협력이 탄소 중립 시대에도 이어져야 한다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.901,
+                "end": 17.542
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조금 전부터는 두바이 엑스포 한국의 날 공식 행사도 시작됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.552,
+                "end": 22.546
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국과는 증강 현실과 한국 문화를 보여주는 콘텐츠를 내세웠는데 코로나19 상황 속에서도 50만 명 넘는 관람객이 찾았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.556,
+                "end": 32.298
+            }
+        ]
+    },
+    "summary": "문 대통령은 석유와 원전 등 기존 에너지 분야에서의 두 나라 협력이 탄소 중립 시대에도 이어져야 한다고 강조했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

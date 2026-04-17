@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYB_01964",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.433,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더 얘기할 거 없지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.520,
+                "end": 3.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 그렇게 순순히 협조하겠다고?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.173,
+                "end": 7.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "순순히 협조하는 게 아니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.985,
+                "end": 10.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거래를 하자는 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.157,
+                "end": 12.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 몸과 어차피 지금 상태로는 내가 아무리 도와주고 싶어도 도와줄 힘이 없지 않느냐 말이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.845,
+                "end": 20.433
+            }
+        ]
+    },
+    "summary": "용과드래곤 쿠키가 더 얘기할 것 없이 제안을 받아 드린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01964_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

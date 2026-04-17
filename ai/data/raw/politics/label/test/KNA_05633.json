@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_05633",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.859,
+        "format": "MP4",
+        "date": "2122-11-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정치 장사를 하는 건 잘못된 거라고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 발언으로 예결위는 파행을 빚었는데 여파는 오늘도 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.827,
+                "end": 7.944
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "황운하 의원은 해당 주장이 사실에 기초한 것이고 참사 원인 규명을 위한 합리적인 의문 제기라고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.954,
+                "end": 16.081
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 장관의 발언은 완벽한 모욕죄로 소영웅주의와 관중에 매몰돼 틈만 나면 튀는 발언을 한다며 서울경찰청에 고소장을 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.091,
+                "end": 25.859
+            }
+        ]
+    },
+    "summary": "한 장관의 발언으로 고소장을 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05633_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

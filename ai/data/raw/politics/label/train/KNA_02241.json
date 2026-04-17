@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_02241",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.448,
+        "format": "MP4",
+        "date": "2022-05-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "검증된 내용이라 맞섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문제가 됐었다면 그때 총무 총무 내에서 문제가 됐어야 되고 지금 또 다시 문제를 삼는 것은 저는 일사부재리라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.490,
+                "end": 10.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화가인 배우자의 그림이 고가에 판매된 것도 쟁점이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.958,
+                "end": 15.448
+            }
+        ]
+    },
+    "summary": "화가인 배우자의 그림이 고가에 판매된 것도 쟁점이 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02241_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

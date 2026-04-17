@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_06711",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.933,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "묘지기?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.236
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시체는 안 보이는 거 같은데 누구 묻으러 오신 게 아닌가 봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.246,
+                "end": 5.406
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다행이네요 지금도 업무 과중이거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.416,
+                "end": 7.960
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마을에서 발생하는 시체는 전부 제가 모두 묻고 있다고 해도 과언이 아닐걸요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.970,
+                "end": 12.482
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 눈으로 보지 마세요 저라고 이렇고 싶은 게 아니니까 저도 제대로 묻어드리고 싶다구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.492,
+                "end": 19.933
+            }
+        ]
+    },
+    "summary": "묘지기가 마을에서 발생하는 시체를 전부 묻고 있어서 업무 과중이고 제대로 묻고 싶다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06711_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

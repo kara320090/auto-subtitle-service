@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_08055",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.966,
+        "format": "MP4",
+        "date": "2022-07-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "상부의 지시에 위반해서 인위적으로 모여서 정부의 시책을 반대하는 것은 대단히 위험합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.543
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "금지나 해산 명령이 없었던 평검사 회의와는 명백히 다르다며 위법성이 있는지 경찰청이 엄정 조사할 것이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.553,
+                "end": 17.319
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰청은 회의를 주도한 @이름1 총경을 대기 발령 조치하고 참석자 50여 명을 감찰하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.329,
+                "end": 25.276
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 경찰청장 직무 대행 겸 청장 후보자는 대기 발령 조치를 유지할 것임을 분명히 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.286,
+                "end": 32.966
+            }
+        ]
+    },
+    "summary": "상부의 지시에 위반해 정부의 시책을 반대하는 것은 위험하고 위법성이 있는지 경찰청이 조사할 것이라고 했으며 경찰청은 회의를 주도한 @이름1 총경을 대기 발령 조치하고 참석자들을 감찰하고 있다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08055_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

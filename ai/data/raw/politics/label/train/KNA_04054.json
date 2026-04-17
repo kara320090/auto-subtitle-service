@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_04054",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.191,
+        "format": "MP4",
+        "date": "2021-06-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정권 교체를 위한 한 알의 밀알이 되도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당 지도부는 현재 9월로 예정된 대선 경선을 미룰지 그대로 치를지를 내일 최종 결정합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.646,
+                "end": 13.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "송영길 대표는 9월 경선 의지가 강한데 그대로 내일 결정되면 경선 연기를 주장하는 의원들은 별도로 당무 위원회를 소집해 결정을 뒤집는 방안도 검토하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.261,
+                "end": 25.191
+            }
+        ]
+    },
+    "summary": "정권 교체를 위한 한 알의 밀알이 되도록 하겠다고 하며 민주당 지도부는 대선 경선 일정에 대해 최종 결정하는데 경선 연기를 주장하는 의원들은 당무 위원회를 소집해 결정을 뒤집는 방안도 검토하고 있다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04054_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04054_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

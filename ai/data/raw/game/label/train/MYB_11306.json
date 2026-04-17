@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYB_11306",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.933,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.881
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아우 댕댕이 영리해",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.891,
+                "end": 12.693
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요건 관종이라서?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.703,
+                "end": 24.863
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.873,
+                "end": 26.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.896,
+                "end": 31.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "짜란 접니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 31.173,
+                "end": 33.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 33.036,
+                "end": 38.933
+            }
+        ]
+    },
+    "summary": "여성은 게임 속 강아지가 영리하다고 하며 캐릭터들이 적을 무찌르는 것을 봅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11306_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

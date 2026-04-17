@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "filename": "MYB_01974",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.666,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좋다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.562
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 그래도 배고파 죽는 줄 알았다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.572,
+                "end": 3.323
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쿠키 몸은 왜 이렇게 쉬지 않고 배가 고픈거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.333,
+                "end": 7.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "싫어 이사 가기 싫어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.266,
+                "end": 12.973
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "언제 용이 몰지 모른다잖니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.983,
+                "end": 16.311
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "착하지 응?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.321,
+                "end": 18.711
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안전해지면 다시 돌아올 꺼야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.721,
+                "end": 21.316
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "몇 밤 자면 오는데 으으 가",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.326,
+                "end": 25.666
+            }
+        ]
+    },
+    "summary": "모험가 마을 주민이 마을을 떠나면서 우는 아이에게 다시 돌아온다고 달랜다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01974_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

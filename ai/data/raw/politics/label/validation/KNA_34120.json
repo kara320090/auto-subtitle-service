@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "KNA_34120",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.733,
+        "format": "MP4",
+        "date": "2017-11-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 전 청와대 비서관이 영장 실질 심사를 받기 위해 법원에 도착합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어 @이름2 전 비서관도 후송차에서 내려 법원으로 향합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.999,
+                "end": 9.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울 중앙 지검 특수3부는 긴급 체포했던 @이름1 전 비서관에 대한 피의자 조사 과정에서 박근혜 전 대통령의 지시로 돈을 받았다는 진술을 확보했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.291,
+                "end": 19.733
+            }
+        ]
+    },
+    "summary": "서울 중앙 지검 특수3부는 박근혜 전 대통령의 지시로 돈을 받았다는 진술을 확보했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_34120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

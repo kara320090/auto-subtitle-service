@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_31013",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.933,
+        "format": "MP4",
+        "date": "2016-12-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한민구 국방장관이 국방망 해킹에 대한 합동 조사를 마치고 수사로 전환했다고 밝힌 지 하루만입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.936
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일어나게 한 그 실수가 고의성이 있느냐 대공용의점이 있느냐 이렇게 따져야 되는 거 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.946,
+                "end": 11.885
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그걸 지금 수사하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.895,
+                "end": 13.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기무사 요원들은 해킹의 직접적인 원인이 된 통합데이터센터 서버를 구축한 외부 용역 자료를 비롯해 해킹된 3200여 개 컴퓨터의 사용자 현황 등을 확보한 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.458,
+                "end": 26.933
+            }
+        ]
+    },
+    "summary": "기무사는 통합데이터센터 서버를 구축한 용역 자료와 해킹 컴퓨터들을 분석하는 등 해킹 관련 조사에 착수했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31013_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

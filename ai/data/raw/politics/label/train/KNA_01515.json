@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_01515",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.352,
+        "format": "MP4",
+        "date": "2022-06-27",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 간부 회의를 주재한 직후였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이상민 행정 안전부 장관의 경찰 통제안 발표가 예고된 상태에서 2시간 반 전에 미리 사퇴 카드를 던진 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.627,
+                "end": 11.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이후 행안부 발표가 끝나길 기다렸다 취재진 앞에 선 김 청장은 이렇게 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.423,
+                "end": 17.709
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 입장에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.719,
+                "end": 19.352
+            }
+        ]
+    },
+    "summary": "이상민 행정 안전부 장관의 경찰 통제안 발표가 예고된 상태에서 2시간 반 전에 미리 사퇴 카드를 던진 겁니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

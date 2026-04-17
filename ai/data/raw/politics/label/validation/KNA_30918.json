@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNA_30918",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.833,
+        "format": "MP4",
+        "date": "2015-05-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사면은 결코 비리사슬의 새로운 고리가 되어서는 안되고 국민들의 공감대가 형성되는 한계를 벗어나는 무리한 사면을 해서는 안될 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박 대통령은 아베 총리의 미 의회 연설에 대해 진실한 사과로 이웃 국가들과 신뢰를 강화할 기회를 살리지 못했다고 비판했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.649,
+                "end": 22.833
+            }
+        ]
+    },
+    "summary": "박근혜 대통령은 국민적 공감대가 없는 무리한 사면과 아베 총리의 미 의회 연설에 대해서 비난했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30918_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

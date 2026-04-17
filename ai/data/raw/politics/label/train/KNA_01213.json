@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01213",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.387,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "투표는 어떻게 하는지 또 주의할 점은 뭔지 조지현 기자가 짚어드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.199
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제8회 전국 동시 지방 선거 국회 의원 보궐 선거에 사전 투표가 내일과 모레 이틀간 전국 3500여 개 투표소에서 실시됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.209,
+                "end": 16.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유권자는 오전 6시부터 오후 6시까지",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.812,
+                "end": 20.387
+            }
+        ]
+    },
+    "summary": "제8회 전국 동시 지방 선거 국회 의원 보궐 선거에 사전 투표가 내일과 모레 이틀간 전국 3500여 개 투표소에서 실시됩니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01213_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01213_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

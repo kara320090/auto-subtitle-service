@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_00415",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.186,
+        "format": "MP4",
+        "date": "2022-03-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보는 선거 운동 마지막 날인 내일은 제주와 부산을 거쳐 경부선을 타고 서울로 이동하는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일도 유세 현장에서 소식 전해 드리겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.143,
+                "end": 10.108
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금까지 KBS 뉴스 강푸른입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.118,
+                "end": 12.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당 심상정 후보는 경기도와 충복을 돌며 2030 청년층 표심 잡기에 집중했습",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.949,
+                "end": 20.186
+            }
+        ]
+    },
+    "summary": "정의당 심상정 후보는 경기도와 충복을 돌며 2030 청년층 표심 잡기에 집중하고 있다고 아나운서가 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00415_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 32
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00415_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

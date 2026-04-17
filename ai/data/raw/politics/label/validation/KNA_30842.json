@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "KNA_30842",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 57.566,
+        "format": "MP4",
+        "date": "2016-12-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 선광 의료 재단 이사장 등이 포함됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.517
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 게이트를 수사하게 될 @이름3 특별 검사가 특검보 인선에 어려움을 겪고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.527,
+                "end": 11.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수사에 속도를 내기 위해서 특별 수사 본부에 참여한 부장 검사들을 일부 참여시킬 뜻도 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.064,
+                "end": 17.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름4 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.783,
+                "end": 21.144
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름3 특별 검사는 특검보를 일부 추천했지만 사양하는 분들이 꽤 있다며 특검보 후보 8명을 아직 정하지 못했다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.154,
+                "end": 31.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박 특검은 공소 유지를 위해 오랜 기간 근무해야 하는 점과 사건이 중대한 점 등이 이유로 작용한 것 같다고 설명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 31.216,
+                "end": 39.467
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박 특검은 기존 특별 수사 본부에 소속된 부장 검사 급 검사들 가운데 일부도 특검팀에 합류하게 될 것이라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 39.477,
+                "end": 47.551
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전혀 모르는 사람들이 보면 기록 검토하고 분기하고 그러려면 상당히 시간이 오래 걸릴 수밖에 없으니까 수사에 속도를 내기 위해서 그렇게 할 수밖에 없어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 47.561,
+                "end": 57.566
+            }
+        ]
+    },
+    "summary": "박 특검은 특검보 후보 8명을 아직 정하지 못했다고 밝히면서 오랜는 기간 근무해야 하는 점과 사건이 중대한 점이 이유로 작용한 것 같다며 기존 특별 수사 본부에 소속된 부장 검사 급 검사의 일부도 특검팀에 합류하게 될 것이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30842_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30842_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

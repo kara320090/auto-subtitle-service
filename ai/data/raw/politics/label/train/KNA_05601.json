@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_05601",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.322,
+        "format": "MP4",
+        "date": "2122-11-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현재 우리 군이 운용 중인 지대공 요격 미사일들이 발사 뒤에 폭발하거나 오류로 아예 발사되지도 못한 것으로 드러났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.204
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼마 전에도 공격용 미사일인 현무 미사일이 비정상적으로 떨어지고 에이태큼스는 추적에 실패했던 사례들이 있었는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.214,
+                "end": 16.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 군의 미사일이 정상적으로 운용되지 못하는 사고가 잇따르고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.136,
+                "end": 20.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보도에 @이름1 기자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.266,
+                "end": 22.322
+            }
+        ]
+    },
+    "summary": "최근 우리 군의 미사일이 정상적으로 운용되지 못하는 사고가 잇따르고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05601_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

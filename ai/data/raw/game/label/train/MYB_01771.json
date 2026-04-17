@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_01771",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.266,
+        "format": "MP4",
+        "date": "2023-06-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐라고 그게 무슨 소리야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소울잼을 부수라니 결국 그게 니 목적이었던 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.814,
+                "end": 14.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "널 속이려는 게 아니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.219,
+                "end": 16.126
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그는 녀석이 틸덴트의 힘을 가지고 있는 이상 내가 힘을 되찾을 유일한 방법은 계약을 되돌리는 것 뿐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.136,
+                "end": 26.266
+            }
+        ]
+    },
+    "summary": "게임 속 인물들이 서로 대화를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01771_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

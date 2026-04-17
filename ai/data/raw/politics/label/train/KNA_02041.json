@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_02041",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.724,
+        "format": "MP4",
+        "date": "2022-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최준경 전 지식경제부 장관 등이 우선 거론됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정치인 중엔 선대본부를 이끌었던 권영세 인수위 부위원장 또 국민통합 차원에서 민주당 출신 박주선 전 국회부의장과 김완길 전 대표 이름도 나오지만 순위는 뒤쳐지는 분위기도 읽힙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.565,
+                "end": 17.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 당선인 측은 물망에 오르는 인사들을 먼저 5배 수로 압축해 곧 당선인에게 보고할 예정이라고 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.243,
+                "end": 24.724
+            }
+        ]
+    },
+    "summary": "최준경 전 지식경제부 장관 권영세 인수위 부위원장 민주당 출신 박주선 전 국회부의장 김완길 전 대표 등 윤 당선인 측은 물망에 오르는 인사들을 압축해 당선인에게 보고할 예정이라고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02041_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02041_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

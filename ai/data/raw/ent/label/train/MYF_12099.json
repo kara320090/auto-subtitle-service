@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_12099",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.189,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 연예인들 향수를 한번 입어보시면 어떨까 또 이 생각을 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연예인 분들의 이미지라는 게 좀 존재를 하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.890,
+                "end": 10.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 이미지에 맞게 어 그들의 뭐 라이프스타일이나 이런 걸 한번 연상하면서 상상하면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.070,
+                "end": 17.189
+            }
+        ]
+    },
+    "summary": "연예인들의 라이프스타일이나 이미지를 상상하면서 그들의 향수를 한번 입어보는 걸 추천한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12099_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_09800",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.833,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 듣도록 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.877
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.887,
+                "end": 6.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 너무 예뻐 나 닮았어",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.151,
+                "end": 9.146
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.156,
+                "end": 12.926
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나도 날개가 있어요 날아갈 수 있겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.936,
+                "end": 15.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "날아올라 저 하늘 귀여워 달려 아 야 가 갑옷 잘 만들었지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.817,
+                "end": 27.833
+            }
+        ]
+    },
+    "summary": "캐릭터가 너무 예쁘다며 본인 닮았다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09800_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "KNA_04514",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 37.203,
+        "format": "MP4",
+        "date": "2021-10-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "학부모들 반응은 엇갈립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조금 불편한 점은 있을 거 같은데 아이들 안전을 생각하면 올바른 시행이 아닐까 싶어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.003,
+                "end": 11.119
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이가 길을 건너서 이제 차량이 있는 곳까지 이동을 해야 되는 상황이 많이 생기다 보니까 학부모님들이 걱정을 많이 하시더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.129,
+                "end": 17.920
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울시는 시민 불편을 줄이기 위해 일부 보호 구역에서는 통학 차량이 5분간 차를 정차할 수 있는 안심 승하차 존을 운영하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.930,
+                "end": 27.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시도 경찰청장이 안전 표지로 허용하는 구역에서는 정해진 시간에 한해 어린이 승하차를 위한 주정차는 가능합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.345,
+                "end": 35.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.259,
+                "end": 37.203
+            }
+        ]
+    },
+    "summary": "학부모들의 반응은 엇갈리고 있으며 서울시는 시민 불편을 줄이기 위해 일부 보호 구역에서는 안심 승하차 존을 운영하기로 했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04514_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04514_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": 12,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

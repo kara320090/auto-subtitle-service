@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32832",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.429,
+        "format": "MP4",
+        "date": "2023-10-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 달 만에 제작 의뢰해 가지고 제작을 해서 대통령 참석하시는 육사 임관식에 졸업식에 그 흉상이 있는 곳에서 모자 날리기 행사를 거기에 맞춰서 급하게 흉상을 제작한 게 아닌가",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.368
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 육군은 흉상 이전 장소로 거론되는 독립기념관 관장이 이전에 부정적 의견을 밝힌 데 대해 관장이 흉상 설치에 직접적으로 관여했다며 객관적이라 보지 않는다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.378,
+                "end": 26.438
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.448,
+                "end": 29.429
+            }
+        ]
+    },
+    "summary": "육군은 흉상 이전 장소로 거론되는 독립기념관 관장이 부정적 의견을 밝힌 데 대해 관장이 흉상 설치에 직접 관여했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32832_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

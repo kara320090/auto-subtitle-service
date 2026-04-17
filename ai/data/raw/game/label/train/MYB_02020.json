@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYB_02020",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.066,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "멋진 영웅이 되고 싶었는데 나 같은 작고 하찮은 겁쟁이는 영웅따위 될 수 있을리가",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.713
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모든 쿠키는 다 작고 하찮아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.723,
+                "end": 18.749
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇게나 쉽게 바스라지는데 용한테 벌벌 떠는게 당연하지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.759,
+                "end": 24.066
+            }
+        ]
+    },
+    "summary": "멋진 영웅이 되고 싶었던 로얄마가린쿠키에게 모든 쿠키는 다 작고 하찮다고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02020_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

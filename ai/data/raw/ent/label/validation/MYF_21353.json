@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYF_21353",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 109.666,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 좋 좋습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 자 가라 어 입질 입질 입질 입질 입질 그렇지 어휴 차 한 여섯 치 1마리 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.188,
+                "end": 63.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 물색에 이 날씨에 그냥 가는 것도 꾼이요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 63.369,
+                "end": 68.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반칙이고 붕어가 안 나오는 것도 반칙이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 68.833,
+                "end": 73.585
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 지금은 소강 상태이긴 한데가 아니라 올라온다 올라온다 올라온다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 73.595,
+                "end": 102.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 소강 상태이긴 한데가 아니라 올라온다 올라온다 올라온다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 102.805,
+                "end": 106.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇지 아이고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 106.518,
+                "end": 109.666
+            }
+        ]
+    },
+    "summary": "입질이 와서 여섯 치 1마리를 잡았고 이 물색에 이 날씨에 그냥 가는 것도 꾼이고 반칙이고 소강 상태인 줄 알았는데 올라왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_21353_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_21353_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

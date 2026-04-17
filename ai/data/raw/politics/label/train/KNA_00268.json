@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00268",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.182,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주어와 목적어가 없는 사과 쇼 피해자 코스프레라고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.154
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘 청년 본부는 이른바 김혜경 방지법을 발표하며 공세를 이어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.164,
+                "end": 10.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 후보는 태양광 풍력 등 재생 에너지 기술과",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.985,
+                "end": 16.182
+            }
+        ]
+    },
+    "summary": "국민의 힘 청년 본부는 김혜경 방지법을 발표했고 정의당 심 후보는 재생 에너지 기술을 공약했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00268_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00268_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 32
+                }
+            ]
+        }
+    ]
+}

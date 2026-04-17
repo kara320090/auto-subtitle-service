@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNA_30529",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.573,
+        "format": "MP4",
+        "date": "2016-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 박 대통령과 시진핑 중국 국가주석과의 정상회담 개최 여부가 주목되는 가운데 청와대는 참가국들과의 별도 양자 회담 여부는 현재 검토 중에 있다고 설명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.063
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어 다음 달 7일부터 이틀 간 박 대통령은 라오스 비엔티안에서 개최되는 아세안 관련 정상회의에 참석해 역내 국가들 간의 협력 증진 방안을 논의할 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.073,
+                "end": 23.566
+            }
+        ]
+    },
+    "summary": "박 대통령과 중국 국가주석과의 정상회담 개최 여부가 주목되며 박 대통령은 다음 달 7일부터 이틀 간 아세안 관련 정상회의에 참석해 역내 국가들 간의 협력 증진 방안을 논의할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30529_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30529_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYF_00441",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.3,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선셰이드를 팔아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.032
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "테슬라 홈페이지에서도 팔고 아니면 애프터 마켓에서도 만들어서 팔고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.042,
+                "end": 5.716
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그럼 선셰이드를 어떻게 지금 없는 거 같은데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.726,
+                "end": 9.099
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이게 클립으로 떼었다 붙였다 할 수 있는 그런 타입이라가지고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.109,
+                "end": 13.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 여름에는 해 놓고 이제 여름 지나면은 빼 놓고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.378,
+                "end": 17.300
+            }
+        ]
+    },
+    "summary": "테슬라 홈페이지나 애프터 마켓에서 선셰이드를 판다고 답하자 지금 없는데 어떻게 하냐고 묻자 클립으로 떼었다 붙였다 할 수 있는 타입이어서 여름에는 장착하고 여름이 지나면 빼 놓는다고 답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00441_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_09799",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.118,
+        "format": "MP4",
+        "date": "2023-04-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실 입장이 나오자 국민의 힘도 발을 맞췄습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "언론 보도 외에는 사실 관계가 확인된 게 없는데도 야당이 근거 없는 정치 공세를 한다고 목소리를 높였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.443,
+                "end": 11.546
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용산 이전 그걸 자꾸 이렇게 그거하고 연관을 지어서 주장을 하고 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.556,
+                "end": 18.118
+            }
+        ]
+    },
+    "summary": "언론 보도 외에는 사실 관계가 확인된 게 없는데도 야당이 근거 없는 정치 공세를 한다고 목소리를 높였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09799_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

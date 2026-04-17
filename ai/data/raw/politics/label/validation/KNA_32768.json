@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_32768",
+        "category": "정치뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.252,
+        "format": "MP4",
+        "date": "2023-10-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한달 평균 직원 1명이 대여섯 건을 담당하다 보니 조사가 끝난 사례는 3건 중 1건꼴에 불과합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문체부의 사건 조사 인력 확충이 필요하고 수사권 강화 또 예술인권리보장위원회에 문화 예술인의 참여 확대 등이 필요하다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.462,
+                "end": 19.252
+            }
+        ]
+    },
+    "summary": "문체부 위원은 조사 인력의 확충이 필요하며 수사권 강화와 함께 문화 예술인의 참여 확대가 필요다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32768_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

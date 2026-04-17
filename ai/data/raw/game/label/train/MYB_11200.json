@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_11200",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 45.033,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "체력재가 뭐지 피 채워주는 건가 마법재 전투 끝났나요 아저씨 아 이거 성인용 게임이에요 어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 38.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어린이들은 볼 수 없다 뭐 그런 뜻",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.566,
+                "end": 45.033
+            }
+        ]
+    },
+    "summary": "마법재 얻고 전투 끝난 건가 이 게임은 성인용이라서 어린이들은 볼 수 없어요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11200_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

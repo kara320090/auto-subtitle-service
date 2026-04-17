@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_06000",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2022-01-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 후보는 여가부를 더 강화하겠다면서 윤 후보를 비판했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.607
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가뜩이나 어려운 청년들을 이렇게 성별로 갈라치게 해서 차별과 혐오를 조장하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.617,
+                "end": 11.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 당 안철수 후보 측은 양성 평등을 추진하도록 여가부를 개편해야 한다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.308,
+                "end": 17.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.039,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "정의당 심상정 후보는 여가부를 더 강화하겠다면서 여가부 폐지를 주장한 윤 후보를 비판했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06000_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

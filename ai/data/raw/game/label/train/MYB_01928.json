@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01928",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.766,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 누구도 용의 협곡에서 돌아오지 못했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러던 어느 날 하얀 꽃을 닮은 작은 쿠키가 용의 협곡으로 향했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.152,
+                "end": 14.212
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모두가 작은 쿠키를 말렸지만 단호한 미소를 지으며",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.222,
+                "end": 19.766
+            }
+        ]
+    },
+    "summary": "하얀 꽃을 닮은 쿠키가 용의 협곡으로 향했다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01928_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

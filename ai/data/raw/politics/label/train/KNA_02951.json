@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_02951",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.987,
+        "format": "MP4",
+        "date": "2022-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공원 한쪽에 역기가 등장했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고양시가 기부 문화 확산을 위해 마련한 행사로 참가자가 든 역기 무게 10킬로그램당 쌀 1킬로그램이 취약 계층에 전달되는 방식입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.701,
+                "end": 12.723
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고양시 역도팀 선수들이 안전을 확보하면서 진행했는데 20여 명이 참여해 쌀 300여 킬로그램을 기부하게 됐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 12.733,
+                "end": 20.987
+            }
+        ]
+    },
+    "summary": "고양시 역도팀 선수들이 안전을 확보하면서 진행했는데 20여 명이 참여해 쌀 300여 킬로그램을 기부하게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02951_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02951_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

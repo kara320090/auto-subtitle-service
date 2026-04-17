@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_12200",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2020-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대구시는 또 31번째 확진자가 교회에서 예배를 본 날짜에 대해 사실과 다른 진술을 한 점과 @이름1 총회장이 지난 1월 대구와 청도를 다녀간 사실도 추가로 확인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.935
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역학 조사상 허위 진술 등의 건에 대해서는 경찰에 추가 수사 의뢰할 방침입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.945,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "대구시는 31번째 확진자가 사실과 다른 진술을 한 점에 대해 경찰에 추가 수사 의뢰를 할 방침이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12200_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

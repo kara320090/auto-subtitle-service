@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYB_04951",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.366,
+        "format": "MP4",
+        "date": "2022-09-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "벚꽃 휘낭시에 같은 경우에는 아레나에서 대체 불가능한 완전 0티어거든요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 문제가 뭐냐 다른 콘텐츠에서 단 하나도 안 쓰여 수호의 성전 토벌 다른 데에서 다 안 쓰입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.163,
+                "end": 19.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 그렇게 하나 콘텐츠만 보고 티어를 매기면 안 되고 신전효과로 뱀파 50랩을 넘으면 마탕 열수 있나요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.102,
+                "end": 25.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "별사탕을 투자해서 실제로 50랩을 찍어야만 그래야만 마법 사탕이 열려요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 25.830,
+                "end": 31.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "별사탕 직접 투자를 해야 됩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 31.150,
+                "end": 34.366
+            }
+        ]
+    },
+    "summary": "휘낭시에 같은 경우 아레나에서 0티어지만 다른 데서는 안 쓰이고 신전효과로 뱀파 50을 넘으면 마탕 열려면 별사탕을 직접 투자해서 50랩을 찍어야만 마법 사탕이 열린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04951_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 32
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_04951_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

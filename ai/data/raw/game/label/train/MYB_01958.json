@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYB_01958",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.866,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "설마 이 몸의 힘을 끌어다 쓴 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.720
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그치만 어떻게 누가 단번에 그렇게 많은 힘을 용의 힘을 쥐고 흔드는 자 용언의 계약자",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.730,
+                "end": 18.318
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용언의 계약자 그게 뭔데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.328,
+                "end": 23.866
+            }
+        ]
+    },
+    "summary": "단번에 용의 힘을 쥐고 흔드는 자는 용언의 계약자이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01958_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

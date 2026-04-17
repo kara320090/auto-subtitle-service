@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYF_14025",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.024,
+        "format": "MP4",
+        "date": "2020-02-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희 시루 정말 머리가 너무 똑똑한 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도대체 시루는 어떻게 하고 있는 걸까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.592,
+                "end": 8.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보미야 그래서 이길 수 있겠니?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.571,
+                "end": 13.831
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "굳이 저기로 공격을 해야 저게 방어막 삼는 건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.841,
+                "end": 18.602
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시루 똑똑해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.612,
+                "end": 24.024
+            }
+        ]
+    },
+    "summary": "여자가 박스 안에서 대치 중인 두 마리 고양이를 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_14025_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

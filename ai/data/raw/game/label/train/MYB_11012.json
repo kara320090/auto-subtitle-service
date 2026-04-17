@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_11012",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.4,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올해의 고티는 무조건 파판입니다 너무 잘 나왔죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래픽 스토리 완벽하고 액션 좋고 몰입감 개 쩔고 뭐 빠지는 게 없어요 너무 좋네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.556,
+                "end": 14.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 왜요 지금 딴 게임 하시는 거 때문에?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.521,
+                "end": 27.400
+            }
+        ]
+    },
+    "summary": "한 여자가 지금 하는 게임이 그래픽이나 스토리 등이 빠짐없이 완벽하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11012_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

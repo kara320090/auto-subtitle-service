@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYF_00399",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.3,
+        "format": "MP4",
+        "date": "2022-03-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자전거 토냉 통행이 많은 지점?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정답.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.830,
+                "end": 2.343
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오, 오 자전거를 타고 다니니까 우리 @이름1가.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.353,
+                "end": 5.859
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자, 다음 문제.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.869,
+                "end": 7.308
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다음 안전표지에 대한 설명으로 맞는 것은?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.318,
+                "end": 10.863
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1 차의 우회전 할 것을 지시하는 표지이다, 2 차의 직진을 금지하는 주의 표지다, 3 전방 우로 굽은 도로에 대한 주의표지이다, 4 차의 우회전을 금지하는 주의표지이다 정답은?",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.873,
+                "end": 25.923
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.933,
+                "end": 28.300
+            }
+        ]
+    },
+    "summary": "자전거 통행이 많은 지점이 정답이고, 다음 문제는 안전표지에 대한 설명으로 맞는 것을 고르시오.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00399_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

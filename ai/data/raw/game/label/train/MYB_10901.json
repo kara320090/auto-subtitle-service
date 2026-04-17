@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_10901",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 64.266,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박자 이상하다요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 와 박자 이상하네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.841,
+                "end": 13.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이씨 진짜 박자 이상하다. 그죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.472,
+                "end": 20.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 번 쓰네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.286,
+                "end": 51.534
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 연속으로 쓰는 거 봐. 낫",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 51.544,
+                "end": 59.325
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 망했다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 59.335,
+                "end": 64.266
+            }
+        ]
+    },
+    "summary": "여성은 박자가 이상하고 연속으로 낫을 쓰는 상대 때문에 망했다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10901_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

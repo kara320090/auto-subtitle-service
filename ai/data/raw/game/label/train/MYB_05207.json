@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_05207",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.148,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 오랜만이라 잘 모르겠어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.493
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오랜만이라니 이 근처를 지나간 배가 몇 척 있었을 텐데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.503,
+                "end": 9.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부서진 조각끼리 떠내려온 것도 발 들인 거라고 할 수 있니?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.230,
+                "end": 14.458
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 살아남은 쿠키는 없었다는 뜻이로군.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.468,
+                "end": 19.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아하하 배도 쿠키도 쉽게 부서지는 걸.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.127,
+                "end": 24.133
+            }
+        ]
+    },
+    "summary": "지나간 배가 몇 척 있었을 텐데 오랜만이라는 걸로 보아 살아남은 쿠키는 없는 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05207_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

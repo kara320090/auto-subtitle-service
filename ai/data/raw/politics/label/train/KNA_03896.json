@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_03896",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.556,
+        "format": "MP4",
+        "date": "2021-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "감사원은 지난 달 23일 특체의혹에 대한 감사 결과를 발표하고 조 교육감을 경찰에 고발하면서 공수처에 참고 자료를 보냈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.196
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이후 공수처는 경찰에 사건이첩을 요구했고 출범이후 첫 사건번호를 부여해 정식 수사에 착수했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.206,
+                "end": 16.724
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공수처는 압수수색을 통해 확보한 자료를 분석하는대로 관련자들을 잇따라 불러 조사할 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.734,
+                "end": 23.556
+            }
+        ]
+    },
+    "summary": "조 교육감을 경찰에 고발하면서 공수처에 참고 자료를 보냈고 첫 사건번호를 부여해 정식수사에 착수했다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03896_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03896_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

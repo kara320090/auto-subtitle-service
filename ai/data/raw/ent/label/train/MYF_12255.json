@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYF_12255",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.28,
+        "format": "MP4",
+        "date": "2019-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 여기는 정말 포토존이네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 여기 뒤에다 이렇게 포즈를 딱 딱 똑같이 해가지고 사진 찍으시고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.738,
+                "end": 7.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 디제잉 존입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.139,
+                "end": 10.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 지속 가능한 패션을 위한 환경을 생각하는 원단을.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.289,
+                "end": 20.280
+            }
+        ]
+    },
+    "summary": "포토존에서 포즈를 똑같이 해서 찍기도 하고 디제잉 존도 있으며 지속 가능한 패션을 위한 원단도 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12255_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 41,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

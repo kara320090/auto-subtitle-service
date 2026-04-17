@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYB_08000",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.7,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.764
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "디용",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.774,
+                "end": 8.351
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.361,
+                "end": 17.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.531,
+                "end": 20.911
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.921,
+                "end": 22.235
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "되게 감동받고 지금 되게 멋있다고 생각했거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.245,
+                "end": 24.491
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걸음걸이부터 근데 저 옷을 찾아서 성에 가가지고 다시 저 옷을 갖춰 입었을 걸 생각하니까 좀 짠하기도 하고 귀엽기도 해서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.501,
+                "end": 34.700
+            }
+        ]
+    },
+    "summary": "게임 캐릭터가 성에 가서 옷을 갖춰 입고 왔을 걸 생각하니 짠하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08000_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

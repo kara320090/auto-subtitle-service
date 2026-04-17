@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_10765",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.394,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사흘 전 서울 서초구청을 압수수색한 검찰 이번엔 사회복무요원이 브로커와 짜고 병역 회피를 시도했던 정황을 포착했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 9.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해당 요원은 32살 래퍼 @이름1였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.916,
+                "end": 14.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 분할 복무 제도를 이용해 병역 회피를 시도했던 것으로 검찰은 보고 있는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.271,
+                "end": 20.387
+            }
+        ]
+    },
+    "summary": "사흘 전 서울 서초구청을 압수수색한 검찰 이번엔 사회복무요원이 브로커와 짜고 병역 회피를 시도했던 정황을 포착했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_02367",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2022-05-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인천시 계양구 계산동에서 유세 중이던 이재명 후보를 향해 철제 그릇을 던진 혐의를 받고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이재명 후보 캠프는 이 후보가 철제 그릇에 머리를 맞았지만 다행히 큰 부상은 없었다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.502,
+                "end": 13.236
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 지방 선거에서 최대 격전지는 수도권입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.246,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "이재명 후보가 인천시에서 선거 유세를 하던 중 철제 그릇에 머리를 맞았지만 큰 부상을 입지는 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02367_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

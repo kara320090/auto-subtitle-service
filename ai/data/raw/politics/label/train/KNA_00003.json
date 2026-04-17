@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00003",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.957,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선거를 제대로 치를 수 있다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 윤석열 후보를 향해 태도를 바꿔 선대위가 해 준 대로만 연기를 해 달라고 요청하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.774,
+                "end": 10.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "메세지 같은 거도 제대로 전달하려면은 우리가 해 준 대로 후보가 그걸 그대로 소화를 해 줘야 된다고 그런 의미에서 얘기하는 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.080,
+                "end": 19.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 즉각 후보 무능을 감추기 위해 연기를 해서라도",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.566,
+                "end": 23.957
+            }
+        ]
+    },
+    "summary": "민주당이 윤석열 후보에게 선대위가 해 준 대로만 연기를 해 달라고 요청했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

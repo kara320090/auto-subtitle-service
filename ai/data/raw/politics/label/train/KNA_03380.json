@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_03380",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.728,
+        "format": "MP4",
+        "date": "2021-02-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서로를 칭찬하는 분위기에서 토론을 시작한 두 예비 후보",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.098
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 용기와 결단 저는 높이 평가하고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.108,
+                "end": 7.955
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "꾸준하고 성실한 점에 대해서 말씀을 드리고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.965,
+                "end": 11.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현안에 대한 문제의식에는 공감대를 보이면서도 자신의 공약을 내세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.953,
+                "end": 17.811
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "코로나19 방역을 위해서는 저는 민관 합동 방역 대책 위원회를 통해서 어 서울형 사회적 거리 두기 방법을 만들 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.821,
+                "end": 28.728
+            }
+        ]
+    },
+    "summary": "토론을 시작한 두 예비 후보는 현안에 대한 문제의식에는 공감대를 보이면서도 자신의 공약을 내세웠는데 안 후보는 코로나19 방역을 위해서 민관 합동 방역 대책 위원회를 통해서 서울형 사회적 거리 두기 방법을 만들 거라고 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03380_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03380_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

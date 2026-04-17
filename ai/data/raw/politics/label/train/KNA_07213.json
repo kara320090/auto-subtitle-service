@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "KNA_07213",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.491,
+        "format": "MP4",
+        "date": "2022-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "카이스트 서울 캠퍼스의 교수 사택입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.971
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 산업통상자원부 장관 후보자는 교수시절이었던 2000년부터 16년 동안 이 곳에 살았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.981,
+                "end": 10.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거주 기한인 5년을 3배 가량 넘긴 건데 거주 기한 초과를 위한 위원회 심의와 총장의 허가 등 관련 서류는 현재 남아 있지 않다고 카이스트측은 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.537,
+                "end": 21.740
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청문회에서 이 문제가 논란이 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.750,
+                "end": 24.491
+            }
+        ]
+    },
+    "summary": "@이름1 후보자가 거주 기한을 초과해 살고 있는 사택에 대해 청문회에서 논란이 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07213_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

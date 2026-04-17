@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_09510",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.398,
+        "format": "MP4",
+        "date": "2023-01-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지인들하고 같이 오죠. 선거할 때 아마 그럴",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "취재 결과 법인 카드 결제 시기였던 2020년과 21년 해당 건설사와 임 의원 지역구 사무실이 같은 건물 안에 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.881,
+                "end": 13.208
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰은 그 무렵 건설사 임원이 법인 카드를 건넸고 임 의원이 그걸로 수천 만 원어치를 결제했다고 보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.218,
+                "end": 21.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "따라서 부정 청탁 금지법 이른바 김영란법 위반 혐의를 적용해 오늘 국회 의원실과 자택 등 5곳을 압수수색했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.419,
+                "end": 31.398
+            }
+        ]
+    },
+    "summary": "취재 결과 해당 건설사와 임 의원 지역구 사무실이 같은 건물 안에 있던 시기에 법인 카드를 주고 받았고 따라서 부정 청탁 금지법 위반 혐의를 적용해 오늘 국회 의원실과 자택 등을 압수수색했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09510_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 7,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYB_11214",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.2,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "날아다니는.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.930
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아하.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.940,
+                "end": 18.200
+            }
+        ]
+    },
+    "summary": "일본 아바타가 대화를 나누는 걸 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11214_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

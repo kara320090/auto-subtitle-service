@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_04246",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.817,
+        "format": "MP4",
+        "date": "2021-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "군악대의 독립군가 연주 속에 홍범도 장군의 유해가 행사장으로 들어옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추모화환은 우리나라의 조화인 국화와 카자흐스탄의 추모화인 빨간색 카네이션으로 만들어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.543,
+                "end": 12.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헌화와 분향에 이어 조포 21발이 발사되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.960,
+                "end": 17.817
+            }
+        ]
+    },
+    "summary": "홍범도 장군의 유해가 행사장에 도착한 후 상황을 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04246_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04246_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

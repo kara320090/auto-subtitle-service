@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "KNA_01881",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.629,
+        "format": "MP4",
+        "date": "2022-03-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일부 의원들은 눈문을 흘리기도 했다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.942
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 내부에선 상당히 어 마음적으로는 그 성찰을 해야 한다라는 부분이 크게 작용을 했던 거 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.952,
+                "end": 10.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤호중 원내대표가 비상대책위원장을 맡게 된 걸 두고는 쇄신이 부족하다는 이유로 반대하는 의견도 다수 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.888,
+                "end": 18.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3시간 넘는 격론 끝에 윤호중 비대위 추인이 이뤄진 건 내부 분열상으로 비춰질 수 있다는 우려가 더 컸기 때문입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.985,
+                "end": 27.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비대위 체제 전환은 서두르기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.210,
+                "end": 29.629
+            }
+        ]
+    },
+    "summary": "윤호중 원내대표가 비상대책위원장을 맡게 된 걸 두고는 쇄신이 부족하다는 이유로 반대하는 의견이 나왔고 내부 분열상으로 비춰질 수 있다는 우려가 컸기 때문이라고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01881_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01881_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

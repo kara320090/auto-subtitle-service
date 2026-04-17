@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "filename": "MYB_08724",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.9,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.933
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그러게요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.946,
+                "end": 4.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.960,
+                "end": 5.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오래하실 거 같은데",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.053,
+                "end": 7.126
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.186,
+                "end": 10.278
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.288,
+                "end": 17.913
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.921,
+                "end": 19.146
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.233,
+                "end": 20.893
+            }
+        ]
+    },
+    "summary": "영상 속 여자는 상대의 말에 동의하며 오래할 거 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08724_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

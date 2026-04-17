@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_10263",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.84,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미숫가루",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 14.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마약인가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.642,
+                "end": 19.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마약같은데 뭘 주고 받는 걸까 나 이런 일해도 되는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.020,
+                "end": 27.833
+            }
+        ]
+    },
+    "summary": "화자가 게임에서 이런 일을 해도 되는 건가 의문을 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10263_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

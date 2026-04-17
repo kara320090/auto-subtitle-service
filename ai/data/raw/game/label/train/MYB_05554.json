@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_05554",
+        "category": "게임",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.166,
+        "format": "MP4",
+        "date": "2022-08-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이렇게 베타 딱지가 떼어서 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 영상을 같이 조금만 보게 되면 이번에 새롭게 나온 신규 보스죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.804,
+                "end": 8.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기 뭐 비석 같은 게 떨어지고 딜이 엄청나게 들어오는 거 같아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.037,
+                "end": 16.166
+            }
+        ]
+    },
+    "summary": "한 남자가 게임의 영상에 나오는 신규 보스를 알려 주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05554_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

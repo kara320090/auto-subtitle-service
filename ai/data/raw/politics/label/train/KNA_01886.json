@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_01886",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.335,
+        "format": "MP4",
+        "date": "2022-03-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "N번방 추적단을 맡았던 20대 박지현 부위원장을 민주당은 대선패배를 추스릴 비상대책위원회 투톱에 전격 발탁했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "성범죄 대책 및 여성정책은 물론 사회적 약자에 역과 청년의 편에서 어 정책 전반을 이끌어 주실 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.219,
+                "end": 20.093
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 선거에서의 2 30대 여성표심을 반영한 결과로 해석됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.103,
+                "end": 25.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박위원장은 민주당 내 권력형 성범죄와 2차 가해 등에 무관용 원칙을 세우고 여성공천 비율을 높이겠다며 앞으로의 역할을 예고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.380,
+                "end": 35.335
+            }
+        ]
+    },
+    "summary": "N번방 추적단을 맡았던 박지현 부위원장을 민주당 투톱에 발탁했고 민주당 내 권력형 성범죄와 2차 가해 등에 무관용 원칙을 세우고 여성공천 비율을 높이겠다며 앞으로의 역할을 예고했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01886_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01886_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 149
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01851",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.915,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정치를 통째로 바꿔야 합니다 여러분.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.266
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주4일 근무제 등 사회 변화를 이끌 화두를 던졌지만 이번 대선에선 기대했던 돌풍은 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.276,
+                "end": 11.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정체된 지지율에 한때 선거 운동을 중단하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.883,
+                "end": 15.915
+            }
+        ]
+    },
+    "summary": "심상정 후보는 사회 변화를 이끌 화두를 던졌지만 기대했던 돌풍이 없어 한때 선거 운동을 중단하기도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01851_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

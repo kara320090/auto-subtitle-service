@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_03605",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.888,
+        "format": "MP4",
+        "date": "2021-03-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 한국 국토 정보 공사에 측량 관련 보고서를 정보 공개 청구했다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누가 의뢰했고 누가 입회했는지가 모두 기록돼 있을 거라며 서류가 나오면 모든 해명이 끝날 거라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.879,
+                "end": 13.101
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 해명 과정에서 했던 얘기 중에 사실 관계가 다른 게 나타나면 저를 거짓말쟁이로 몰고 싶어서 하는 건데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.111,
+                "end": 19.820
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그건 본질이 아닙니다 이 사건의 본질",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.830,
+                "end": 21.888
+            }
+        ]
+    },
+    "summary": "측량 관련 보고서를 정보 공개 청구했다고 밝히며 서류가 나오면 모든 해명이 끝날 거라고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03605_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

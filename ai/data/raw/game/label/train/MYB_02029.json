@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYB_02029",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.533,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "절반도 안 되는군.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나머지는",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.793,
+                "end": 4.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "흑흑 으흑흑",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 4.464,
+                "end": 9.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모두들 힘든 밤을 보냈을 테지.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 9.790,
+                "end": 15.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드래곤을 사냥하지 않으면 드래곤에게 사냥 당한다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 15.937,
+                "end": 22.533
+            }
+        ]
+    },
+    "summary": "드래곤에게 습격 받아 절반도 안 남았고 드래곤을 사냥하지 않으면 사냥 당한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02029_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

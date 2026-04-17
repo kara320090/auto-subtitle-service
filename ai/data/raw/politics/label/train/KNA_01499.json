@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNA_01499",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2022-06-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령은 일단 말을 아꼈습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이준석 대표 징계된 당내 갈등이 좀 심한 상황인데요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.364,
+                "end": 7.180
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "당무에 대해서는 대통령이 언급할 사안이 아니고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.180,
+                "end": 11.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 당 내홍은 갈수록 깊어지고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.526,
+                "end": 14.836
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번엔 윤핵관 핵심으로 꼽히는 장제원 의원이 직접 등판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.846,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "이준석 대표와 관계된 당내 내부 갈등에 대해 윤석열 대통령은 일단 말을 아꼈고 당 내홍은 갈수록 깊어지고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01499_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01499_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 68,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

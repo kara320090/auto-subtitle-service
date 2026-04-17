@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_01272",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.73,
+        "format": "MP4",
+        "date": "2022-06-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새로운 경제 거점을 만들겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.138
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시민들과 함께 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.148,
+                "end": 3.907
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용인시장 선거에서는 국회 의원 출신 국민의 힘 후보가 현역 시장의 재선을 저지했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.917,
+                "end": 10.812
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이상일 후보는 55.4퍼센트의 득표율로 5만 1000여 표 차이로 승리를 거머쥐었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.822,
+                "end": 17.101
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "국가 전략 산업인 반도체가 이 용인에서 더 꽃을 피울 수 있도록 그 기반을 제가 닦도록 하겠다. 그걸 하기 위해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.111,
+                "end": 26.726
+            }
+        ]
+    },
+    "summary": "용인시장 선거에서는 국회 의원 출신 국민의 힘 후보가 현역 시장의 재선을 저지하며 55.4퍼센트의 득표율로 승리했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01272_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_07881",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.466,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맞아 맞아 너무 걱정돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.464
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.474,
+                "end": 16.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "분산도 위험하고 뭔가 위기를 주려고 하는 게 아닐까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.540,
+                "end": 30.466
+            }
+        ]
+    },
+    "summary": "한 여성은 게임 방송을 시청자들과 함께 하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07881_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

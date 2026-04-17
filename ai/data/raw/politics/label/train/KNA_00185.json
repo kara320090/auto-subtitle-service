@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00185",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.32,
+        "format": "MP4",
+        "date": "2022-01-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "블랙리스트다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.546
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰 수사 끝에 김은경 전 환경부 장관은 직권남용 등 혐의로 재판에 넘겨졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.556,
+                "end": 7.934
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "환경부 공무원들을 동원해 박근혜 정부에서 임명된 산하 기관 임원 13명에게 사표를 받아낸 뒤 그 자리에 청와대와 환경부가 내정한 인사를 채용하도록 했다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.944,
+                "end": 19.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김 전 장관은",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.164,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "검찰 수사 끝에 김은경 전 환경부 장관은 직권남용 등 혐의로 재판에 넘겨졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00185_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00185_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

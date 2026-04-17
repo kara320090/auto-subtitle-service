@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00065",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.715,
+        "format": "MP4",
+        "date": "2022-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최근에 지지율 상승세 속에 중도층을 공략하기 위한 행보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 강나루입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.626,
+                "end": 6.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북한이 그제 발사한 미사일에 대해 우리 군 당국이 속도를 마하 6수준으로 평가하면서 이 사거리와 성능 등에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.924,
+                "end": 15.715
+            }
+        ]
+    },
+    "summary": "북한이 그제 발사한 미사일에 대해 우리 군 당국이 속도를 마하 6수준으로 평가하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00065_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

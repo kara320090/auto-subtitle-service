@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_01046",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.192,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나라다운 나라를 요구한 촛불 광장의 열망에 우리 정부가 얼마나 부응했는지 숙연한 마음이 듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청와대를 떠난 문 대통령 오늘 자정까지는 국방부 등과 한 라인을 유지하며 군통수권자 역할을 수행합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.757,
+                "end": 18.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일 윤석열 당선인의 대통령 취임식에 참석한 뒤 경남 양산으로 내려갑니다. .",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.363,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "문 대통령은 오늘 자정까지 군통수권자 역할을 수행하고 내일 윤석열 당선인의 취임식에 참석한 뒤 경남 양산으로 내려간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01046_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

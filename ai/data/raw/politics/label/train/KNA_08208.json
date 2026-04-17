@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_08208",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.03,
+        "format": "MP4",
+        "date": "2022-08-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실은 윤석열 대통령이 지난 5월 정상회담에서 바이든 미 대통령과 약속한 글로벌 포괄적 전략동맹을 발전시키는 데 미 의회와 긴밀히 협력하겠다 했다고 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.852
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 윤 대통령은 펠로시 의장 일행의 판문점 공동경비구역 JSA 방문에 의미를 부여했습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 12.862,
+                "end": 20.377
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령은 이번 펠로시 일행의 방문이 한미 간에 강력한 대북 억지력의 징표가 될 것이다라고 언급을 하였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.387,
+                "end": 30.030
+            }
+        ]
+    },
+    "summary": "대통령실은 윤석열 대통령이 지난 5월 정상회담에서 바이든 미 대통령과 약속한 글로벌 포괄적 전략동맹을 발전시키는 데 미 의회와 긴밀히 협력하겠다 했다고 전했으며 이번 펠로시 일행의 방문이 한미 간에 강력한 대북 억지력의 징표가 될 것이다라고 언급했다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08208_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

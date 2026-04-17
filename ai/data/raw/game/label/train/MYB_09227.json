@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_09227",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.966,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.249
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.259,
+                "end": 4.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.547,
+                "end": 12.884
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본인들도 베어라였기 때문에 고통을 아는 거지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.894,
+                "end": 17.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.430,
+                "end": 22.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모또 모또.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.770,
+                "end": 23.966
+            }
+        ]
+    },
+    "summary": "발화자가 시청자와 함께 영상을 보며 이야기 하는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09227_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

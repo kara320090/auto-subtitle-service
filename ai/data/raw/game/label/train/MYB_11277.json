@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYB_11277",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.666,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 이 마을 자꾸 졸리게 브금 졸린 거 틀어놓고 새까맣게 해 놨더니 졸려 죽겠네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.211,
+                "end": 11.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자 빨리 가자 이 마을 벗어나야 돼 여기 잠의 요정님이 살고 있나봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.537,
+                "end": 26.666
+            }
+        ]
+    },
+    "summary": "이 마을에 잠의 요정님이 살고 있는지 브금도 졸린 거 틀어놔서 졸러 죽겠다며 빨리 이 마을을 벗어나야 한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11277_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

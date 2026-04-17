@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_11038",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.066,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 악기 이름이 뭘까 소리 너무 좋아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.948
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "류트에요 오 류트 하니까 왜 그거 생각나지 데스노트 아무튼 오늘은 여기까지 하겠어요 여러분.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.958,
+                "end": 24.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일은 저 집에 갔다 와야 돼 가지고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.708,
+                "end": 28.066
+            }
+        ]
+    },
+    "summary": "한 여자가 게임 속 악기 소리가 좋다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11038_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

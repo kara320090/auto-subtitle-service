@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_34011",
+        "category": "정치뉴스",
+        "sub_category": 33,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.2,
+        "format": "MP4",
+        "date": "2017-09-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "도로 양쪽을 한 차로씩 줄이고 교통 혼잡이 예상되는 일부 구간은 한쪽 차로만 줄일 계획이지만 우려도 큽니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.421
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 이 차선 가지고도 애매한데 조금 줄이면 조금 더 혼잡해질 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.431,
+                "end": 14.691
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주말 같은 경우에는요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.701,
+                "end": 16.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 그래서 별로 안 좋을 것 같아요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.637,
+                "end": 18.200
+            }
+        ]
+    },
+    "summary": "도로 양쪽 한 차로씩, 교통이 혼잡한 구간은 한쪽 차로만 줄일 계획에 지금도 애매한데 더 혼잡해질 것이라는 우려가 크다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_34011_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 5,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

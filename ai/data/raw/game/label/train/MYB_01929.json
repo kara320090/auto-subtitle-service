@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "MYB_01929",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.533,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 쿠키는 홀연히 용의 협곡 깊숙한 곳으로 사라졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모든 쿠키를 위해서라는 말만 남긴 채 하얀 꽃을 닮은 쿠키는 협곡의 가장 높은 화산을 오르고 또 올랐습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.581,
+                "end": 18.533
+            }
+        ]
+    },
+    "summary": "여자 쿠키는 모든 쿠키를 위해서라는 말만 남긴 채 협곡으로 사라졌다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01929_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

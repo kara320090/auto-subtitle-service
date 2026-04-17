@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYF_04002",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.066,
+        "format": "MP4",
+        "date": "2021-03-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 좋다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올리브오일, 오일을 두른다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.850,
+                "end": 6.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 저와 같은 요린이들은 네 요리가 무엇인가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.750,
+                "end": 13.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 다 재료가 준비가 되어서도 네, 이제 넣기만 하면 되는 걸로",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.600,
+                "end": 20.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "브유를 팬에 두르라고 해서요 둘러보았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.920,
+                "end": 26.066
+            }
+        ]
+    },
+    "summary": "여자가 요리재료를 설명하고 파스타를 만들기 위해 올리브오일을 팬에 두르고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04002_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": 54,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

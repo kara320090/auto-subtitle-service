@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_33230",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.933,
+        "format": "MP4",
+        "date": "2018-12-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세계와 함께 걸어가되 우리가 중심을 잃지 말아야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청와대는 연내가 아니더라도 김 위원장의 답당 의지가 확실하다고 보고 관련 준비는 계속해 나갈 방침입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.233,
+                "end": 13.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.930,
+                "end": 16.933
+            }
+        ]
+    },
+    "summary": "청와대 측은 답당에 대한 김 위원장의 확고한 의지를 확인하고 보고 관련 준비를 계속해 나갈 것이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33230_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_22902",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.066,
+        "format": "MP4",
+        "date": "2023-03-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 출근을 지금 했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회사에서 체크인이 3시인데 제가 거의 퇴근하는 게 딱 얼추 비슷하더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.614,
+                "end": 7.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "따로 휴가 내지 않고 그냥 가면 될 것 같아가지고 일단 회사에 도착했고 지금은 10시가 조금 넘은 시간이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.920,
+                "end": 17.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같이 올라가 보면 될 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.228,
+                "end": 20.066
+            }
+        ]
+    },
+    "summary": "화자는 퇴근 시간이랑 체크인 시간이 비슷해서 따로 휴가 내지 않고 호캉스를 즐길 예정이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22902_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

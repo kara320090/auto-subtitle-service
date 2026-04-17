@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01044",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.116,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성공하는 대한민국의 역사를 계속 이어나가길 기대합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 국민 통합을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.770,
+                "end": 8.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선거 과정에서 더욱 깊어진 갈등의 골을 메우며 국민 통합의 길로 나아갈 때",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.566,
+                "end": 16.116
+            }
+        ]
+    },
+    "summary": "문 대통령은 국민 통합을 강조하며 대한민국의 성공 역사를 이어나가길 기대한다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01044_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

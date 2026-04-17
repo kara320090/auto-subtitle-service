@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_01153",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.323,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "세계 가스 총회 개회식에 윤석열 대통령이 참석했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.536
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취임 후 참석하는 첫 민간 국제 행사입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.546,
+                "end": 6.724
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 축사에서 최근과 에너지와 원자재 수급 불확실성으로 에너지 안보 중요성이 커지고 있다고 진단했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.734,
+                "end": 14.013
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 만큼 수입선 다변화를 통한 자원 비축 확대와 민간 주도의 해외 자원 개발이 필요하다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.023,
+                "end": 21.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민간이 중심이 돼서",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.076,
+                "end": 23.323
+            }
+        ]
+    },
+    "summary": "대통령 취임 후 참석한 첫 민간 국제 행사인 세계 가스 총회 개회식에서 윤 대통령은 에너지 안보 중요성과 민간 주도의 해외 자원 개발 필요성에 대해 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

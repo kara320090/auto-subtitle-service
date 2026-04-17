@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_04050",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.333,
+        "format": "MP4",
+        "date": "2022-12-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 5초월 되면은 빨간 색깔이 뜨거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빨강 물약이 뜰 때까지 이렇게 빨강 물약이 뜰 때까지 가야 돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.710,
+                "end": 5.993
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 나 이번에 최악의 뽑기다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.003,
+                "end": 8.950
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "슈퍼 에픽이랑 고대 레전드 통틀어서 5초월 갈 때까지 지금 하나밖에 안 나왔거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.960,
+                "end": 16.333
+            }
+        ]
+    },
+    "summary": "남성이 게임을 하고 있으며 5초월이 되면 빨강색 물약이 뜨는데 뜰 때까지 할 거고 이번이 최악의 뽑기라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04050_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

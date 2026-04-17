@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_08970",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.178,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 거기 애들 많더만.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 못됐다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.559,
+                "end": 11.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아니요 드래곤 못잡았어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.088,
+                "end": 20.166
+            }
+        ]
+    },
+    "summary": "화자는 시청자의 댓글에 드래곤을 못잡았다고 답한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08970_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

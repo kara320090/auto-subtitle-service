@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_12060",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.789,
+        "format": "MP4",
+        "date": "2020-03-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 방역과 경제 양면에서 아주 엄중한 상황 전 산업 분야의 위기 상황이라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.937
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 세계가 함께 겪고 있는 문제라 경제위기가 장기화될 가능성이 큽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.947,
+                "end": 14.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 과거 경제위기 사례와 양상이 전혀 다르기 때문에 전례 없는 대책이 필요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.440,
+                "end": 22.789
+            }
+        ]
+    },
+    "summary": "문 대통령은 방역과 경제 양면에서 아주 엄중한 상황 전 산업 분야의 위기 상황이라고 강조했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12060_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

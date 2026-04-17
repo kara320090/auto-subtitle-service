@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_10000",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.6,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 내가 이걸 왜 갖고 있지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 천하의 효녀네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.351,
+                "end": 4.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돌겠네 정말 그리고 무슨 미스릴 리스트라는 거 있어 더 좋은 거",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.689,
+                "end": 10.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 화속성이네. 아 못쓰겠네 나 자신",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.171,
+                "end": 15.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "됐고 아 조금 모자라다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.831,
+                "end": 32.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 화속성이야 어쩔 수 없어 나도",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.574,
+                "end": 36.600
+            }
+        ]
+    },
+    "summary": "여성은 미스릴리스트라는 더 좋은 거 갖고 있었는데 화속성이라고 했고 조금 모자라지만 어쩔 수 없이 화속성이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10000_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

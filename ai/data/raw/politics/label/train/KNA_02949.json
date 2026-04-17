@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_02949",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.616,
+        "format": "MP4",
+        "date": "2022-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그제 정부는 이런 경우에 긴급하게 통신사에서 연락처를 제공받는 대책을 동원하겠다고 발표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 법이 개정된 이후에 실행할 수 있는 대책이어서 이미 고립된 모녀의 죽음을 막기엔 때 늦은 조치였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.212,
+                "end": 16.616
+            }
+        ]
+    },
+    "summary": "그제 정부는 이런 경우에 긴급하게 통신사에서 연락처를 제공받는 대책을 동원하겠다고 발표했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02949_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02949_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

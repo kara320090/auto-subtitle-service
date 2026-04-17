@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_11697",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.666,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.396,
+                "end": 10.122
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "누굴까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.122,
+                "end": 10.525
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그 불의 도미넌트가",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.535,
+                "end": 11.714
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.724,
+                "end": 18.666
+            }
+        ]
+    },
+    "summary": "플레이어는 게임 캐릭터 상의 대화에서 나온 불의 도미넌트를 궁금해 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11697_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 7,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

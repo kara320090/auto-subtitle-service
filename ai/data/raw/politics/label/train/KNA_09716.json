@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_09716",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.256,
+        "format": "MP4",
+        "date": "2023-04-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부디 지역색을 배제하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.498
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘과 진보당 그리고 무소속까지 모두 6명의 후보가 출마했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.508,
+                "end": 7.633
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재선거 원인을 제공한 민주당은 후보를 내지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.643,
+                "end": 11.616
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘은 새 지도부 출범 첫 현장 최고회의를 전주에서 열고 호남 표심을 공약하고 있지만 최근 김재원 최고위원의 오일팔 정신 헌법 수록 불가 발언 등은 부담입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.626,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "재선거 원인인 민주당은 후보를 내지 않고 국민의힘은 공약하고 있지만 김재원 최고위원의 발언이 부담이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09716_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

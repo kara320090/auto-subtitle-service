@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_03507",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.317,
+        "format": "MP4",
+        "date": "2021-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 야당이 전수 조사에 동의하지 않는다는 것도 사실과 다르다고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.603
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회의원 102명에 찬성동의 의사를 확보한 상태입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.613,
+                "end": 11.137
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당 의원 전원에 정보공개 동의 서명부와 함께 진짜 검증대로 나오십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.147,
+                "end": 17.317
+            }
+        ]
+    },
+    "summary": "야당이 전수 조사에 동의하지 않는다는 것도 사실과 다르다고 반박했고 민주당 의원 전원에 정보공개 동의 서명부와 함께 검증대로 나오라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03507_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03507_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_03132",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.127,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정녕 떠나고 싶지 않았지만 떠나야만 하게 되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 캠프 준비 작업에 착수한 것으로 알려졌는데 다음 주 공식 출마를 선언할 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.798,
+                "end": 12.125
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞서 제3 후보로 거론됐던 김동연 전 경제 부총리가 출마 의사가 없다 밝혔고 박주민 의원도 불출마 선언을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.135,
+                "end": 21.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이로써 나 홀로 선거전을 펼쳐온 우상호 의원과 박 전 장관의 맞대결이 펼쳐지게 되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.197,
+                "end": 27.127
+            }
+        ]
+    },
+    "summary": "박 전 장관은 다음 주 공식 출마를 선언할 것으로 보이며 김동연 전 경제 부총리와 박주민 의원이 불출마 선언을 함으로써 나 홀로 선거전을 펼쳐온 우상호 의원과 박 전 장관의 맞대결이 펼쳐지게 됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03132_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 153
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03132_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

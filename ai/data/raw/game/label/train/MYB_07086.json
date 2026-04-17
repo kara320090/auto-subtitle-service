@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_07086",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.7,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "간지 난다. 멋있다. 저 여자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 누나도 에이치 오티 팬이었나 보네 머리 칼 머리한 거 봐봐 문희준 머리했네",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.434,
+                "end": 22.700
+            }
+        ]
+    },
+    "summary": "여성은 여왕을 보고 에이치 오티 팬인 거 같다며 문희준 머리했다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07086_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

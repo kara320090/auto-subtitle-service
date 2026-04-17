@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01300",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.486,
+        "format": "MP4",
+        "date": "2022-06-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국회가 공백 상태가 됐기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 일단 후반기 국회 의장단부터 선출해 청문회 등 현안을 처리하자는 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.420,
+                "end": 8.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘은 국회 공백을 지켜보기만 하려는 것이 아니라면 하루빨리 의장단 선출을 통해 국회 정상화에 협조해야 할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.881,
+                "end": 19.486
+            }
+        ]
+    },
+    "summary": "민주당은 일단 후반기 국회 의장단부터 선출해 청문회 등 현안을 처리하자는 입장이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01300_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01300_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

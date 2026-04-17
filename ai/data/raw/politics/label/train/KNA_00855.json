@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNA_00855",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.387,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부실 수사로 피해자의 구제가 미흡한 것은 아닌지 등을 밝히고 이를 시정하여 국민의 권익을 보호해 주는 것입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 12.285
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 어제 저녁부터 열렸던 평검사들의 밤샘 토론에선 어떤 결론이 나왔는지도 좀 전해주시죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.295,
+                "end": 20.387
+            }
+        ]
+    },
+    "summary": "검찰은 부실 수사로 피해자의 구제가 미흡한 것은 아닌지 등을 밝히고 이를 시정하여 국민의 권익을 보호해 주는 것이라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00855_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

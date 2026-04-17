@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYF_23109",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.466,
+        "format": "MP4",
+        "date": "2023-05-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 우츄우츄 우츄우츄 물은 더 차가울 텐데 지금 바람 불고 추운데 사람들 수영하고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.232
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허이 여기 사람 왜 이렇게 많아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.242,
+                "end": 13.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 무슨 경기하는 거 아냐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.276,
+                "end": 15.869
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런가 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.879,
+                "end": 18.466
+            }
+        ]
+    },
+    "summary": "여성은 바람이 불고 추운데 수영하는 사람이 있다며 경기도 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23109_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_01599",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.366,
+        "format": "MP4",
+        "date": "2023-06-27",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 마지막에 줄라고 진짜 그래 이 마지막에 줄라고 지금 장난치는 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.835
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 오케이 이제 장난 그만 치고요 자 줄 때 줍시다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.845,
+                "end": 11.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영상각을 좀 알아가지고 또 그만 장난쳐 이제.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.996,
+                "end": 17.366
+            }
+        ]
+    },
+    "summary": "남성이 그만 장난치라고 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01599_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

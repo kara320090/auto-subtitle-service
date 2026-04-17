@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_00050",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.158,
+        "format": "MP4",
+        "date": "2022-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수상한 점을 찾지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.092
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 사이 A 씨는 비무장 지대 안 갈대밭으로 모습을 감췄는데 이게 감시 카메라 3대에 다섯 차례나 찍혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.102,
+                "end": 9.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감시병은 이를 실시간으로 확인하지 못했고 현장 조사 뒤 중대원들이 녹화 영상을 돌려봤지만 이번에도 역시 특이점을 찾지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.738,
+                "end": 19.365
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "실제 촬영 시간과 서버에 저장된 영상 시간이 4분 30초가량 차이 났기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.375,
+                "end": 25.158
+            }
+        ]
+    },
+    "summary": "A 씨가 모습을 감추는 것이 감시 카메라에 찍혔으나 감시병이 이를 실시간으로 확인하지 못했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00050_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

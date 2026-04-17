@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_08671",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.758,
+        "format": "MP4",
+        "date": "2022-10-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘 @이름1 의원이 이스타 항공 취업 청탁 의혹을 제기했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 전 총리와 민주당 @이름3 @이름4 의원이 연루돼 있다며 내부 문건이나 서류도 내보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.880,
+                "end": 12.551
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만일 잘못된 자료라고 하면은 이스타 항공 상대로 문제를 삼으시면 되고 제대로 된 그런 일이 있다면은 사과를 하셔야 될 일이 아닌가 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.561,
+                "end": 24.758
+            }
+        ]
+    },
+    "summary": "국민의 힘 @이름1 의원이 이스타 항공 취업 청탁 의혹을 제기했고 이에 대해 잘못된 자료라면 이스타 항공을 상대로 문제 삼으시면 되고 제대로 된 자료라면 사과를 하셔야 될 일이 아닌가라며 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08671_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

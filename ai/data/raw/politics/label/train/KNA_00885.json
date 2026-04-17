@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNA_00885",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주무 장관 지명자인 한동훈 후보자의 생각이 입법부 생각과 다르다면 이 법은 적용 단계에서부터 상당한 부침이 있을 것이기에",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "합의를 이끌었던 권성동 원내 대표도 지방 선거를 앞두고 정치인이 수사받기 싫어 짬짜미한 것 아니냐는 여론이 많다며 재논의에 응해 달라고 촉구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.003,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "주무 장관 지명자인 한동훈 후보자의 생각이 입법부 생각과 달라 이 법은 적용 단계에서부터 상당한 부침이 있을 것이고 권성동 원내 대표도 지방 선거를 앞두고 재논의에 응해 달라고 촉구했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00885_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00885_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

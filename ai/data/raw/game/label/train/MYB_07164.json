@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "MYB_07164",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.733,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.806
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.816,
+                "end": 3.148
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 디옹이라고 불러 달래.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.158,
+                "end": 4.607
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 디옹 게이게이 마음에 드노 아 진짜 디옹 게이게이 아 디옹 게이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.617,
+                "end": 10.490
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.500,
+                "end": 14.404
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.414,
+                "end": 15.587
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.597,
+                "end": 17.212
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "고츠도 왔네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.222,
+                "end": 19.733
+            }
+        ]
+    },
+    "summary": "한 여성이 디옹이라고 불러 달라고 한 것에 대해서 디옹이 마음에 든다고 하고 있고 고츠도 왔다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07164_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

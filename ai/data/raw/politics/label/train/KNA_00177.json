@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNA_00177",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.272,
+        "format": "MP4",
+        "date": "2022-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네거티브 당과 또 그 지지 세력들에 의해서 수도 없이 하지 않았습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.274
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당 심상정 후보는 물류 노동자들과의 새벽 컵라면 간담회에 이어 오세훈 서울 시장을 만나 현대 산업 개발에 대한 면허 취소를 촉구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.284,
+                "end": 18.638
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의당 안철수 후보는 반기문 전 유엔 사무총장을 만났는데 외교의 중요성을 정치권이 잘 알아야 한다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.648,
+                "end": 27.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 노태영입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.490,
+                "end": 30.060
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "코로나19 소식 살펴봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.061,
+                "end": 32.400
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 오미크론 변이가 급격히 확산되면서 신규 확진자 수가 만 3000명을 넘기며 최대치를 경신했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.420,
+                "end": 39.272
+            }
+        ]
+    },
+    "summary": "정의당 심상정 후보는 물류 노동자들과 간담회 후 오세훈 서울 시장을 만나 현대 산업 면허 취소를 촉구했고 국민의당 안철수 후보는 반기문 전 유엔 사무총장을 만나 외교의 중요성에 대해 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00177_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00177_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

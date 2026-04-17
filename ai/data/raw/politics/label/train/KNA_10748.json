@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_10748",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2023-02-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한미가 확고한 그런 신뢰를 바탕으로 한 능력을 가지고 있고 또 미국은 그러한 능력뿐만 아니라 의지를 갖고 있다고 하는 점에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.699,
+                "end": 13.817
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "하지만 이번 회담에서 나온 방안들은 기존 합의를 재확인하는 수준에 그쳤다는 지적도 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.827,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "이번 회담에서 나온 방안들은 기존 합의를 재확인하는 수준에 그쳤다는 지적도 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10748_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

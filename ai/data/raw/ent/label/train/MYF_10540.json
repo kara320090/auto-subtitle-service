@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_10540",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.533,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 작년에 쌍꺼풀 수술 후기 영상을 올렸었는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.685,
+                "end": 4.890
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 많은 분들이 영상을 봐 주셨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.900,
+                "end": 7.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 당시에는 잔 붓기도 좀 많이 남아있었고 수술한 지 얼마 안 돼서 정확한 상태를 알려드릴 수가 없었는데 마침 거의 1년이 다 되기도 했고",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.597,
+                "end": 17.533
+            }
+        ]
+    },
+    "summary": "20대 여성이 작년에 쌍꺼풀 수술을 했으며 그 당시에는 잔 붓기가 남아 있어서 정확한 상태에 대해 설명하지 못했음을 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10540_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_08934",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.633,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뒷조사했나 진짜 얄밉다 그쵸?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.045
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러게 애도 싸가지가 없고 애 엄마도 싸가지가 없네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.055,
+                "end": 9.079
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선 씨게 넘누",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.089,
+                "end": 11.367
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.377,
+                "end": 26.722
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "날아라 꼬꼬 돌진 야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.732,
+                "end": 30.633
+            }
+        ]
+    },
+    "summary": "애도 싸가지가 없고 애 엄마도 싸가지가 없다고 진짜 얄밉다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08934_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_04233",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 26.1,
+        "format": "MP4",
+        "date": "2022-11-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왈 좋아요 좋아요 나쁘지 않고만 아 여러분들 이 덱 어디서 많이 본 것 같지 않아요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 16.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 아레나에서 리뷰한 덱이잖아요 여러분들.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.001,
+                "end": 21.854
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 아레나에서 방금 전에 리뷰하고 온 덱이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.864,
+                "end": 26.100
+            }
+        ]
+    },
+    "summary": "어디서 많이 본 덱인가 했더니 방금 전에 아레나에서 리뷰하고 온 덱이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04233_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_08402",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.821,
+        "format": "MP4",
+        "date": "2019-04-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 예뻐 진짜 정말 틱톡 박스랑 즐겁게 노는 달래의 모습이 너무 기쁘단다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 달래 오늘도 즐겁게 놀고 또 우리 달래가 어떤 장난감을 좋아할까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.272,
+                "end": 19.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄마가 한번",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.516,
+                "end": 21.821
+            }
+        ]
+    },
+    "summary": "여성이 틱톡 박스와 즐겁게 노는 고양이의 모습을 기쁘게 생각하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08402_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

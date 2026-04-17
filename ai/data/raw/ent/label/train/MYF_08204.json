@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYF_08204",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2019-07-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "애견 푸로 목욕하는 거는 나쁘지 않아요 선생님? 근데 발 때문에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.318
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 지금은 조금 피하시는 게 나을 것 같고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.328,
+                "end": 8.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기본적으로 세수만",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.199,
+                "end": 9.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 초기라서 밖에 있다 온 거라서 애견 샴푸를 쓰시면 좋긴 한데 지금 오히려 이런 때에 더 탈락시키고 그럴 수 있어서 가급적이면",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.300,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "밖에 있다 온 거라 애견 샴푸를 쓰면 좋긴 한데 지금은 조금 피하는 게 나을 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08204_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 14,
+                    "act": 23
+                }
+            ]
+        }
+    ]
+}

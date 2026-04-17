@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_33497",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.517,
+        "format": "MP4",
+        "date": "2023-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "회의를 마치고 귀국한 @이름1 국가안보실장은 북한이 정찰 위성 재발사를 예고한 것과 관련해서도 한미일은 이걸 장거리 미사일 발사로 보고 있다며 경고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "장거리 미사일 발사는 유엔 안보리 결의 위반이고 한미일을 포함해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.912,
+                "end": 17.517
+            }
+        ]
+    },
+    "summary": "@이름1 국가안보실장이 한미일은 북한의 정찰 위성 재발사 예고에 대해 장거리 미사일 발사로 보고 있다고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33497_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_10418",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.233,
+        "format": "MP4",
+        "date": "2019-12-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "햇살이 잔뜩 들어오는 이 시간에 아틀리에를 보는 기분이 참 좋답니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드디어 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.941,
+                "end": 8.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1의 제품들을 설명할 수 있는 엽서이자 설명문이 프린트가 완료되어서 네 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.822,
+                "end": 17.557
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이걸 받은 김에 간단한 설명을 좀 드리면 어떨까 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.567,
+                "end": 22.233
+            }
+        ]
+    },
+    "summary": "제품들을 설명할 수 있는 엽서이자 설명문이 프린트가 완료되어서 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10418_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 39,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_10418_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

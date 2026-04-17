@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYB_10622",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.533,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 선생님은 이미 돌아가셨지만 선생님이 누구였을까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.440,
+                "end": 14.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 봤나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.760,
+                "end": 15.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 은신처에서 전에 그 마을에서 누구였을 지가 너무 궁금해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.459,
+                "end": 29.703
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오랜만입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.713,
+                "end": 30.198
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 선생님",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.208,
+                "end": 32.533
+            }
+        ]
+    },
+    "summary": "선생님은 이미 돌아가셨는데 전 은신처에서 마을에서 누구였을지 궁금하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10622_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

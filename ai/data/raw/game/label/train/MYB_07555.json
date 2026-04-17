@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_07555",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.566,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.776
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "팬클럽들이 환호하는 소리가 나서 소리를 잘못 쓴 거 아니야?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.786,
+                "end": 10.865
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "되게 좋아하는 소리였는데 비명 지르는 소리가 아니라 카 잘생겼네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.875,
+                "end": 24.707
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 또 밑으로 내려가",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.717,
+                "end": 26.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 오래 걸릴 것 같은데 이거 내려갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.449,
+                "end": 33.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "올라갑니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 33.280,
+                "end": 35.566
+            }
+        ]
+    },
+    "summary": "팬클럽들이 환호하는 소리가 나서 소리를 잘못 쓴 거 같고 비명이 아니라 되게 좋아하는 소리였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07555_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

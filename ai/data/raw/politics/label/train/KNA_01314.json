@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01314",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2022-06-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인사 정보 관리단의 첫 검증 대상은 새로 내정될 경찰청장 후보자가 될 전망입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 오승복입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.666,
+                "end": 9.070
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공군 성폭력 피해자인 고 이예람 중사 사망 사건을 재수사하게 된 특별 검사팀이 오늘 본격 가동에 들어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.080,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "인사 정보 관리단의 첫 검증 대상은 경찰청장 후보자가 될 전망이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01314_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 153
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01314_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

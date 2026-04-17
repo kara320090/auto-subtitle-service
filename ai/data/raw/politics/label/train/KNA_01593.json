@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "KNA_01593",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.218,
+        "format": "MP4",
+        "date": "2022-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "50인 100인 사업장까지 확대 적용하겠다 약속했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.361
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심 후보는 오늘 국회에서 교육 공약을 발표한 뒤 대구 지하철 참사 19주기 추모식에 참석합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.371,
+                "end": 12.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토론회에 참석한 국민의당 안철수 후보에게는 단일화 질문이 집중됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.396,
+                "end": 18.218
+            }
+        ]
+    },
+    "summary": "심 후보는 오늘 국회에서 교육 공약을 발표한 뒤 대구 지하철 참사 19주기 추모식에 참석한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01593_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

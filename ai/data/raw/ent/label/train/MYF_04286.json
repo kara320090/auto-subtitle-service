@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYF_04286",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.337,
+        "format": "MP4",
+        "date": "2020-12-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이집카는요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인스틱투 슈페리어 인터네셔널 드 퍼퓸의 이제 약자이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.010,
+                "end": 6.138
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베르사유에 있는 정말 전 세계 최고의 조향 스쿨이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.148,
+                "end": 9.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 번쯤은 들어 봤을 마스터 조향사분들은 이제 이 학교 출신들이 많으시고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.431,
+                "end": 14.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 요즘 불어를 좀 공부하려고 하는 데 불어로 읽게 되면은 &외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.536,
+                "end": 22.333
+            }
+        ]
+    },
+    "summary": "이집카는 베르사유에 있는 전 세계 최고의 조향 스쿨이고 마스터 조향사분들은 이 학교 출신들이 많습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04286_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04286_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

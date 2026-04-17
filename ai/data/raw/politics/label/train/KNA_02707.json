@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02707",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.653,
+        "format": "MP4",
+        "date": "2022-11-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "1달 뒤 브리핑에서도 이같은 주장을 거듭했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "치안 업무에 대한 지휘 또 필요하다는 감독 업무를 당연히 할 수 있다고 저는 개인적으로 해석을 하고 제 해석이 맞다고 그렇게 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.018,
+                "end": 15.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "적어도 경찰국을 통해서는 그러한 업무를 하지 않겠다는 그런 말씀입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.188,
+                "end": 20.653
+            }
+        ]
+    },
+    "summary": "치안 업무에 대한 지휘 또 필요하다는 감독 업무를 당연히 할 수 있다고 저는 개인적으로 해석을 하고 적어도 경찰국을 통해서는 그러한 업무를 하지 않겠다고 주장했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02707_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02707_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

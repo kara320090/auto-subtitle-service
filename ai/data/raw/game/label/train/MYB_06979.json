@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_06979",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 60.966,
+        "format": "MP4",
+        "date": "2023-08-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 5시에 걸어 봅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "5시 내가 5시에 끝났다고 방송이 그러면 내일 휴방이겠다 그렇죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.686,
+                "end": 10.848
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 어떻게든 다 방향이 이렇게 되어 있어서 나갈 수가 없어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.858,
+                "end": 41.228
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그런데 그러기가 쉽지 않지 않나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 41.238,
+                "end": 57.246
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밀 수가 없잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 57.256,
+                "end": 60.966
+            }
+        ]
+    },
+    "summary": "화자가 게임을 하면서 시청자들과 소통하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06979_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

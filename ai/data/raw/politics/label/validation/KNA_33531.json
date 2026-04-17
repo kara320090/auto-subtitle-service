@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_33531",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.257,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이를 위해 군은 저가형 소형 무인기 100대를 이달 말까지 순차적으로 제작, 배치할 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고고도에서 장거리 정찰이 가능한 무인기는 이미 확보했고 스텔스 형상의 소형 무인기도 연말까지 개발합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.260,
+                "end": 14.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 사령부 창설 전까지 공군 항공기 등과의 공역 배분 향후 전략사령부가 창설될 경우 지휘 구조 정리 등이 풀어야 할 과제로 꼽힙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.113,
+                "end": 24.257
+            }
+        ]
+    },
+    "summary": "군은 장거리 정찰이 가능한 무인기와 스텔스 형상의 무인기 등 소형 무인기 100대를 순차적으로 제작, 배치할 예정이고 사령부 창설 시 공군과 공역을 배분하고 지휘 구조 체계를 정리하는 문제 등이 남아있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33531_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 19,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33531_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

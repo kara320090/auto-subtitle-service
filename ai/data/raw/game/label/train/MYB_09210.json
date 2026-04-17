@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_09210",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.766,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.596
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.606,
+                "end": 1.846
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.856,
+                "end": 10.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모스의 저서가 있으면 뭔가 알 수 있을 것 같대요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.319,
+                "end": 13.477
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소재가 불분명한 물건이고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.487,
+                "end": 15.496
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.506,
+                "end": 17.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.607,
+                "end": 18.766
+            }
+        ]
+    },
+    "summary": "발화자가 영상을 보며 시청자와 함께 상황에 대해서 이야기하는 모습이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09210_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

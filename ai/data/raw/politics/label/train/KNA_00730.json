@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_00730",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.496,
+        "format": "MP4",
+        "date": "2022-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘에선 유승민 전 의원에 김은혜 의원까지 가세하며 판이 커졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.644
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가장 경쟁있는 후보가 나와서 선거에 이기는 것이 가장 중요합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.654,
+                "end": 8.720
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "정책적인 또 정치적인 어떤 그런 경쟁력 인물 경쟁력 그거 하나 가지고 진짜 승부를 할라 그럽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.730,
+                "end": 16.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 지사 출마를 선언한 강용석 변호사는 국민의 힘 복당이 거부됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.157,
+                "end": 21.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울에선 국민의 힘 소속 오세훈 시장에 맞서 민주당에선 송영길 전 대표와 박주민 의원이 시장 후보로 등록했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.357,
+                "end": 29.496
+            }
+        ]
+    },
+    "summary": "국민의 힘에선 유승민 전 의원에 김은혜 의원까지 가세하며 판이 커졌으며 경기 지사 출마를 선언한 강용석 변호사는 국민의 힘 복당이 거부됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00730_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00730_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

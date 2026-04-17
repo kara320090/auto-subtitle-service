@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01710",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.616,
+        "format": "MP4",
+        "date": "2022-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보의 선거법 재판 무죄 판결이 나와 이걸 지칭한 것으로 본다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명이 날아갈 줄 알았는데 이재명이 무죄 받아서 타 살아난 바람에라는 식으로 해석한 것입니다. 저희는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.266,
+                "end": 10.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰 수사가 지지부진한 상황에서 녹취록이 조각조각 공개돼",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.997,
+                "end": 15.615
+            }
+        ]
+    },
+    "summary": "이 후보의 선거법 재판 무죄 판결이 나왔고 이재명이 날아갈 줄 알았는데 이재명이 무죄 받아서 타 살아난 바람에라는 식으로 해석했다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01710_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

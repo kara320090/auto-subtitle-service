@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYF_23124",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.636,
+        "format": "MP4",
+        "date": "2018-12-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 알드리치 파크입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 보시면은 학생들이 자유롭게 걸어다닐 수 있는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.277,
+                "end": 12.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "걸어다닐 수 있는",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.120,
+                "end": 13.641
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공원이 있어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.651,
+                "end": 14.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 처음 1년만 보고 좋아하고 나머지 3년 후에는 그냥 지나치는 그런 그런 장소",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.763,
+                "end": 24.633
+            }
+        ]
+    },
+    "summary": "남성은 여성에게 공원에 관해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23124_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

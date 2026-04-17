@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_06789",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 36.0,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 나 죽일 거야 진짜.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋아 필드 조금 채워 주네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.250,
+                "end": 20.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "넷 남았다 넷.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.321,
+                "end": 22.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빨리 하나 죽이는 게 핵심인 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.622,
+                "end": 24.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 그러면 사람 자꾸 때릴 때 약하게 때리는 게 없으니까 1번 난쟁이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.920,
+                "end": 36.000
+            }
+        ]
+    },
+    "summary": "여성이 빨리 적을 하나 죽이는 게 유리하다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06789_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

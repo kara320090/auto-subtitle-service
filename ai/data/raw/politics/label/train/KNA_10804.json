@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_10804",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.83,
+        "format": "MP4",
+        "date": "2023-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그동안 일부 지입 전문회사들은 화물차 면허 총량이 묶여 있는 점을 악용해 왔는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "화주로부터 일감은 따오지 않고 화물차주들에게 2000에서 3000만 원씩 받으며 번호판만 빌려주던 관행을 깨겠다는 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.469,
+                "end": 15.527
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일하는 차주들에게 돌아가야 될 노동의 몫을 중간에서 뽑아가고 이를 화주와 소비자인 국민에게 전가하고 있는 이 비정상인 기생 구조를 타파해야 되겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.537,
+                "end": 30.830
+            }
+        ]
+    },
+    "summary": "화주로부터 일감은 따오지 않고 화물차주들에게 2000에서 3000만 원씩 받으며 번호판만 빌려주던 관행을 깨겠다는 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10804_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

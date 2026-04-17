@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_14045",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2020-02-11",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 밥을 먹고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 보미 많이 먹어",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.358,
+                "end": 7.166
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 후로 봉투 전쟁은 끝났을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.176,
+                "end": 12.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보미가 밥을 먹고 있는 동안 달래가 보이지 않는 거예요 달래를 찾아봤죠. 아니 달래가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.083,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "여성이 밥을 먹고 있는 고양이를 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_14045_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

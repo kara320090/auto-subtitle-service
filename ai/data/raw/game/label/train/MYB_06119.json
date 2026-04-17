@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_06119",
+        "category": "게임",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.035,
+        "format": "MP4",
+        "date": "2022-07-02",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대성공하면은 일정량 돌려받으며 다음 단계 강화를 100퍼센트 성공하게 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.673
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강화 실패 시 강화에 소모된 재료들이 일정량 돌려받으며 강화 성공률이 상승하게 된다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.683,
+                "end": 10.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마법사탕 강화 10단계 구간마다 마법사탕의 외형이 변화되며 10단계 20단계 30단계 강화 시 스킬에 지정된 추가 효과를 적용됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.899,
+                "end": 22.033
+            }
+        ]
+    },
+    "summary": "대성공하면 일정량 돌려받아 다음 단계 강화를 100퍼센트 성공하며 실패 시 강화에 소모된 재료들 일정량 돌려받고 강화 성공률이 상승되며 단계는 10에서 30단계까지 있고 마법사탕 외형이 변화된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06119_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

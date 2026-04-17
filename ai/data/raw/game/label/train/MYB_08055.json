@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_08055",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.366,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미드가 처음으로 만든 그거 오케스트론이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.031
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 오르골같은 건가본데 ?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.041,
+                "end": 12.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 라운지에 있대요 가보자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.847,
+                "end": 19.366
+            }
+        ]
+    },
+    "summary": "한 여성은 게임 속의 미드가 처음 만든 것은 오케스트론임을 알고 그것을 찾으러 라운지로 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08055_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

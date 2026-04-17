@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_06412",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 61.866,
+        "format": "MP4",
+        "date": "2023-08-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어림도 없고 살짝 돌릴 수 있나?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돌릴 수 있네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.372,
+                "end": 13.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 참새는 그냥 배경인가 봐요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.559,
+                "end": 18.774
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 정도면 올라갈 수 있겠죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.784,
+                "end": 24.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "매달리구 아아 쒯 올라가고 이건 누가 봐도 떨어트리는 거 같애요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.897,
+                "end": 51.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저거 떨어뜨리고 개 개빨리 돌아와야 되나 보다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 51.571,
+                "end": 61.866
+            }
+        ]
+    },
+    "summary": "한 여성이 참새는 그냥 배경이고 이 정도면 올라가겠다 말하며 이건 떨어뜨리고 빠르게 돌아와야 된다고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06412_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

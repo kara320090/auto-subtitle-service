@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_01053",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "격차가 더 커졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기는 초박빙 양상입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.793,
+                "end": 4.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 김동현 후보 37.3퍼센트 국민의힘 김은혜 후보가 36.1퍼센트로 1.2퍼센트 포인트 차였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.437,
+                "end": 13.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당선 가능성도 김동현 40.3 김은혜 36.8로 역시 오차범위 안이였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.125,
+                "end": 20.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인천은 현 시장인 민주당 박남춘 후보 30.4퍼센트",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.910,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "김동현 후보와 김은혜 후보가 1.2퍼센트 포인트 차였고 당선 가능성도 김동현 40.3 김은혜 36.8로 오차 범위안이였다고 설명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01053_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01053_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_11021",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 19.786,
+        "format": "MP4",
+        "date": "2022-08-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시간당 100밀리미터의 폭우가 내리던 어제 저녁 윤석열 대통령은 서초동 사저로 퇴근했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 퇴근하면서 보니까 벌써 다른 아파트들도 아래쪽에 있는 아파트들은 벌써 어 침수가 시작이 되더라고요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 6.419,
+                "end": 14.296
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이후 윤 대통령은 사저에서 머물며 피해 상황을 보고받고 대책을 지시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.306,
+                "end": 19.786
+            }
+        ]
+    },
+    "summary": "폭우가 내리던 저녁 윤석열 대통령은 서초동 사저로 퇴근한 후 사저에서 머물며 피해 상황을 보고받고 대책을 지시했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11021_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 17
+                }
+            ]
+        }
+    ]
+}

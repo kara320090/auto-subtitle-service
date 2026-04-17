@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_30834",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.766,
+        "format": "MP4",
+        "date": "2016-11-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "산업부는 아울러 신재생 에너지 사업자의 안정적인 수익 보장을 위해 계약 기간을 12년에서 20년으로 늘리기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 따라 태양광 발전 사업에 대한 금융 기관의 자금 지원도 보다 수월해질 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.374,
+                "end": 16.766
+            }
+        ]
+    },
+    "summary": "산업부는 신재생 에너지 사업자의 안정적인 수익 보장을 위해 계약 기간을 늘려 태양광 발전 사업에 대한 금융 기관의 자금 지원이 수월해질 것으로 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30834_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 38,
+                    "act": 46
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30834_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 20,
+                    "object": null,
+                    "act": 51
+                }
+            ]
+        }
+    ]
+}

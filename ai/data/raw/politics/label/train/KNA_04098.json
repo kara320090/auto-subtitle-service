@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_04098",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.995,
+        "format": "MP4",
+        "date": "2021-07-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이낙연 후보는 중산층 비율을 70 퍼센트까지 늘리겠다면서 중산층 경제와 신복지 문화강국 등을 정책 비전으로 제시했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.390
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보는 정체된 지지율을 다시 끌어올리고 단일화 국면이 펼쳐지면 이재명 후보에 맞서 다른 후보들의 지지를 이끌어내야 하는 과제를 안고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.390,
+                "end": 19.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정세균 후보와의 단일화 가능성에 이낙연 후보는 두 사람이 민주정부 계승 책임이 있고 그 책임을 이행하기 위해 협력한다고 설명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.586,
+                "end": 28.995
+            }
+        ]
+    },
+    "summary": "이낙연 후보는 중산층 경제와 신복지 문화강국 등을 정책 비전으로 제시했으며 이재명 후보에 맞서 다른 후보들의 지지를 이끌어내야 하는 과제를 안고 있고 정세균 후보와의 단일화 가능성에 민주정부 계승 책임을 위해 협력해야 한다고 설명했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04098_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04098_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

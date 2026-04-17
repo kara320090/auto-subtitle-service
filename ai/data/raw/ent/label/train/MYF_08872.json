@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_08872",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.866,
+        "format": "MP4",
+        "date": "2022-12-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사이즈가 37 살짝 넘네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "37.5입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.254,
+                "end": 13.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아주 멋있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.717,
+                "end": 16.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 녀석 살림망에 넣어 놓고 계속 낚시 이어가겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.562,
+                "end": 21.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 자 부산에서 만난 멋진 붕어입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.639,
+                "end": 32.866
+            }
+        ]
+    },
+    "summary": "남성이 부산에서 37.5인 붕어를 잡아 살림망에 넣어 놓고 낚시를 계속한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08872_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

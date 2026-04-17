@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00078",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.083,
+        "format": "MP4",
+        "date": "2022-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차질 없이 건설하겠다 공약했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.826
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보는 오후엔 직접 방호복을 입은 채 코로나 현장 간호사들의 고충을 듣고 간호 인력 확보 등 현안 해결을 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.836,
+                "end": 12.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 후보는 한국노총과 정책 간담회를 열고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.562,
+                "end": 17.083
+            }
+        ]
+    },
+    "summary": "윤 후보는 직접 방호복을 입은 채 코로나 현장 간호사들의 고충을 듣고 간호 인력 확보 등 현안 해결을 약속했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00078_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 144
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00078_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 7,
+                    "object": null,
+                    "act": 152
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_05476",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.994,
+        "format": "MP4",
+        "date": "2122-10-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "협업을 해야 되는 기업들이 서울에 대부분 있기 때문에 그래서 그런 비효율을 감당하면서까지 부산으로 옮기는 것이 과연",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.958
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부의 공공 임대 주택 예산 삭감에 대한 야당 지적에 오 시장은 공공 임대 주택 확대를 정부에 건의하겠다며 서울시 자체적으로도 노력하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.968,
+                "end": 19.949
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.959,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "협업 기업들이 서울에 대부분 있기 때문에 비효율을 감당하면서까지 부산으로 옮기는 것은 힘들고 정부의 공공 임대 주택 예산 삭감에 대한 야당 지적에 오 시장은 주택 확대를 정부에 건의하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05476_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

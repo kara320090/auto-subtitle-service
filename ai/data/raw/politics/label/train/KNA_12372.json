@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_12372",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.954,
+        "format": "MP4",
+        "date": "2020-03-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고용 유지 지원금 규모를 현재 1000억 원 수준에서 4000억 원을 늘려 총 5000억 원 규모로 지원할 예정이며",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.259
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 고용보험에 가입돼 있지 않은 자영업자와 특수고용 노동자 등 1200만 명은 혜택을 받을 수 없어 고용 불안의 불씨는 남아있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.269,
+                "end": 18.469
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.479,
+                "end": 20.954
+            }
+        ]
+    },
+    "summary": "정부는 고용 유지 지원금 규모를 5000억 원으로 늘려 지원할 예정이라고 밝혔지만 고용보험에 가입돼 있지 않은 자영업자와 특수고용 노동자 등 1200만 명은 혜택을 받을 수 없어 고용 불안의 불씨는 남아있다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12372_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

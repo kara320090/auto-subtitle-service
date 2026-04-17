@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01194",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.315,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 김태흠 43.8로 김 후보 우세였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세종은 민주당 이춘희 38.5 국민의힘 최민호 40.4 오차 범위 내 1.9퍼센트 포인트 차 접전입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.822,
+                "end": 12.602
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강원은 민주당 이광재 34",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.612,
+                "end": 15.315
+            }
+        ]
+    },
+    "summary": "국민의 힘 김태흠 43.8로 김 후보 우세였으며 세종은 민주당 이춘희 38.5 국민의 힘 최민호 40.4 오차 범위 내 1.9퍼센트 포인트 차 접전입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01194_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01194_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

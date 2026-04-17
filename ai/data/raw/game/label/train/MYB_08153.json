@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "MYB_08153",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.4,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미쳤다 액션 계의 새로운 지평선을 열었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.227
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기서 이제 메인 퀘스트가 남았는데 이 불 들어와 있는 거 한 번씩만 끌게요 음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.237,
+                "end": 15.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "PC 버전은 최적화만 잘 되면 진짜 좋겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.723,
+                "end": 20.379
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.389,
+                "end": 21.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "넘어가고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.497,
+                "end": 24.400
+            }
+        ]
+    },
+    "summary": "여자는 메인 퀘스트가 남았지만 지도에 불이 들어와 있는 곳에 가서 한 번씩만 끄고 간다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08153_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

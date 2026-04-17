@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNA_32300",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.6,
+        "format": "MP4",
+        "date": "2016-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최고 속도가 시속 3060킬로미터 작전 반경은 2000킬로미터가 넘습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 오전 미 공군의 F21 랩터 전투기 4대가 오산 공군 기지 상공에 전개됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.963,
+                "end": 13.242
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 2010년 천안함 피격 사건 이후 처음입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.252,
+                "end": 17.600
+            }
+        ]
+    },
+    "summary": "천안함 피격 사건 이후 처음으로 미 공군의 F21 랩터 전투기 4대가 오산 공군 기지 상공에 전개됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32300_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 4,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

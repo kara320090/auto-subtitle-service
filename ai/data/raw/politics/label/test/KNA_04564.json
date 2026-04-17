@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_04564",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2021-10-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현명한 결정을 내려주신 사법부에 감사 감사드립니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.793
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공수처는 어제 영장심사 과정에서 제보자 @이름1 씨와 김웅 국민의힘 의원 간 통화 녹취를 틀며 손 검사를 구속해야 한다고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.803,
+                "end": 13.837
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이에 손 검사는 본인까지 직접 나서서 고발장 작성 등에 관여한 적이 없다고 반박했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.847,
+                "end": 20.674
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2 보냄이라고 표시된 텔레그램 메시지에 대해서도 해명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.684,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "공수처는 손 검사를 구속해야 한다고 주장했고 손 검사는 고발장 작성 등에 관여한 적이 없다고 반박했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04564_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": null,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

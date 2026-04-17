@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_05703",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.4,
+        "format": "MP4",
+        "date": "2022-07-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오케이",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "클레어 하고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.469,
+                "end": 3.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 지금 제가 이 쓰는 덱도 완벽하게 세팅은 해놓은 게 아니에요. 다른 덱도 하다가 어 좀 해놓은 거기는 해서",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.319,
+                "end": 14.056
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "퍼레이드를 시작할게.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.066,
+                "end": 17.400
+            }
+        ]
+    },
+    "summary": "화자가 덱을 완벽하게 세팅해 놓은 게 아니라고 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05703_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

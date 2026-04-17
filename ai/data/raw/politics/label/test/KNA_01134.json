@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_01134",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.254,
+        "format": "MP4",
+        "date": "2022-05-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "압수된 돈의 출처와 사용처 등을 수사하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.522
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장수 군수 후보 경선 이후 대리 투표 의혹이 불거지면서 경선 결과는 무효가 됐고 재 경선이 이뤄졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.532,
+                "end": 12.213
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 조선우입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.223,
+                "end": 14.955
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 전국 노래 자랑의 진행자 송해 씨가 기네스북에 올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.965,
+                "end": 21.254
+            }
+        ]
+    },
+    "summary": "대리 투표 의혹이 불거지면서 결과는 무효가 되고 재경선이 이뤄졌으며 돈의 출처와 사용처 등을 수사하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01134_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01134_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

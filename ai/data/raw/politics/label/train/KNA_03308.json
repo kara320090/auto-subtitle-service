@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNA_03308",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.132,
+        "format": "MP4",
+        "date": "2021-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국가 정보원은 오늘 국회 정보위 전체 회의에서 북한이 하루 평균 150만 건의 사이버 공격을 시도하고 있다고 보도했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "첨단 기술 기업이나 지방자치단체는 물론 개인에게도 해킹 메일을 보내고 있는데 코로나19 백신과 관련한 공격도 늘고 있는 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.315,
+                "end": 18.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 코로나19 백신 개발에 성공한 화이자의 경우 일부 자료를 북한에 해킹당한 것으로 국정원은 보고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.468,
+                "end": 26.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19로 북한 내부 경제가 어려워지자 사회 기강 잡기에 나선 정황도 파악됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.212,
+                "end": 32.132
+            }
+        ]
+    },
+    "summary": "국정원은 북한이 하루 평균 150만 건의 사이버 공격을 시도하고 있으며 기업이나 단체는 물론 개인에게도 해킹 메일을 보내고 있으며 화이자의 경우 일부 자료를 북한에 해킹당한 것으로 보고했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03308_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03308_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 47,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

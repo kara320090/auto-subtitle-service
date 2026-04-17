@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_32742",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.29,
+        "format": "MP4",
+        "date": "2023-10-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "번호판도 달지 않은 새 차들로 모두 7대입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "통관 절차를 마친 SUV 차량들은 단둥 북한 영사 사무소 차량의 인도로 압록강 철교를 통해 북한으로 향했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.010,
+                "end": 13.737
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "30분 뒤엔 선도 차량만 다시 단둥으로 되돌아왔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.747,
+                "end": 19.852
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞에는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.862,
+                "end": 21.287
+            }
+        ]
+    },
+    "summary": "번호판도 달지 않은 새 차 7대의 SUV 차량들은 통관 절차를 마치고 단둥 북한 영사 사무소 차량의 인도로 압록강 철교를 통해 북한으로 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32742_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

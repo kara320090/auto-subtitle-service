@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_06476",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.802,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령 후보로 선출한 당이 어느 당입니까 여러분?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.385
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘이 1년 전 검찰 총장에서 사퇴한 날임을 강조하며 정권 교체를 호소했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.395,
+                "end": 11.864
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안철수 대표에 대해선 철수가 아니라 진격한 것이라 추켜세웠고 국민 통합 정부를 꾸리겠다고 약속했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.874,
+                "end": 20.538
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전문성 있는 사람들 발탁해서 이 사람들과 함께 국민 여러분 깍듯하게 모시겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.548,
+                "end": 29.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대구와 경북에선 자신을 정치적으로 키워줬다며 기대에 부응하겠다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.959,
+                "end": 35.802
+            }
+        ]
+    },
+    "summary": "대구와 경북에선 자신을 정치적으로 키워줬다며 기대에 부응하겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06476_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

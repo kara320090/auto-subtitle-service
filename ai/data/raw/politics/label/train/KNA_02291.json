@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_02291",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.051,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "헌법 제10조 누구나 행복하게 살 권리는 가장 기본적이지만 가장 절실한 소망입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.410
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민 모두가 평등하게 행복할 수 있는 차별을 느낀다라고 느끼지 않는 느끼는 국민이 많이 줄어들었으면",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.420,
+                "end": 14.562
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저는 사람이 키워드가 됐으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.572,
+                "end": 18.051
+            }
+        ]
+    },
+    "summary": "누구나 행복하게 살 권리가 있다는 헌법 제10조에 의해 장애인도 차별 없이 평등하고 행복할 살 기회가 많아졌으면 좋겠다는 일반 시민의 인터뷰 내용을 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02291_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02291_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

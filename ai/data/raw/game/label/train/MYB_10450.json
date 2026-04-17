@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYB_10450",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.166,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.138
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 이거 약간 크툴루인가 봐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.148,
+                "end": 9.569
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐야 재수 없어 저거.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.579,
+                "end": 12.666
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시드가 죽었어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.676,
+                "end": 14.057
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.067,
+                "end": 20.157
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그러면 그때 조슈아가 죽은 게 아니었나 봐 진짜로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.167,
+                "end": 24.705
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대박",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.715,
+                "end": 25.409
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.419,
+                "end": 29.166
+            }
+        ]
+    },
+    "summary": "시드는 죽었는데 조슈아는 그때 죽은 게 아니었던 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10450_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

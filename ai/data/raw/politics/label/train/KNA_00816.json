@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_00816",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 43.977,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령은 김오수 검찰총장의 사표를 반려하고 오늘 중으로 면담을 하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.414
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령과 김 총장과의 면담은 오후 다섯시부터 청와대에서 진행됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.424,
+                "end": 13.829
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김 총장에 대한 사표 반려와 면담을 두고 청와대 핵심 관계자는 임기가 보장된 검찰총장이 사표를 제출해 행정부 수반으로서 의견을 듣기 위해서라고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.839,
+                "end": 25.243
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞서 오늘 오전 박범계 법무부 장관은 김 총장의 사표 제출과 관련해 김 총장의 고뇌를 잘 알고 있다며 사표는 자신이 가지고 있겠다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.253,
+                "end": 35.904
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이와 관련 청와대 핵심 관계자는 문 대통령이 박범계 법무부 장관으로부터 김 총장이 사표를 제출했다는 구두 보고를 받고",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.914,
+                "end": 43.977
+            }
+        ]
+    },
+    "summary": "대통령은 김 총장에 대한 사표 반려와 면담을 했고 청와대 관계자는 행정부 수반으로서 의견을 듣기 위해서라고 설명했으며 법무부 장관은 김 총장의 고뇌를 잘 알고 사표는 자신이 가지고 있겠다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00816_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00816_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

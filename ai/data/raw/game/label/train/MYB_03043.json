@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "filename": "MYB_03043",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.033,
+        "format": "MP4",
+        "date": "2023-02-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "책 같은데 어때?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도서관의 책에 함부로 손을 대서는 안 됩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.942,
+                "end": 6.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 이 도서관을 지키는 블루파이맛 쿠키 당신들은 누구죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.610,
+                "end": 12.696
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "블루파이맛 쿠키 목소리 처음 들어봐.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.706,
+                "end": 14.785
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "킨드웨이 아니 옴브라크에서는 워낙 많이 봤는데 오",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.795,
+                "end": 19.809
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "책의 봉인이 풀려버렸어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.819,
+                "end": 21.453
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.463,
+                "end": 23.136
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "저와 함께",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.146,
+                "end": 25.033
+            }
+        ]
+    },
+    "summary": "남성이 영상을 보면서 블루파이맛 쿠키의 목소리는 처음 들어본다고 하며 감탄하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03043_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": 69,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

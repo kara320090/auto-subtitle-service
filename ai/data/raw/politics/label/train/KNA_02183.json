@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_02183",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.569,
+        "format": "MP4",
+        "date": "2022-04-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신용현 인수위 대변인은 오늘 오전 인수 위원 전체 회의에서 국정 과제 3차 선정안이 보고될 예정이고 거의 최종안이 나올 거라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신 대변인은 마지막 확정안은 오는 30일에 나오며 예산 규모나 이행 계획 검토가 필요한 부분은 더 뒤에 발표될 것 같다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.213,
+                "end": 19.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이와 별도로 안철수 인수 위원장은 오늘 오후 국정 과제 중 미래 먹거리 관련 분야를 설명할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.617,
+                "end": 36.569
+            }
+        ]
+    },
+    "summary": "신용수 대변인은 오늘 최종안이 나올 거라고 했으며 예산 규모나 이행 계획 검토가 필요한 부분은 더 뒤에 발표될 것이라고 하는 한편 안철수 위원장은 미래 먹거리 관련 분야를 설명할 예정이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02183_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02183_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

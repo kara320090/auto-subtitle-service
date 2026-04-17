@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "KNA_11985",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.501,
+        "format": "MP4",
+        "date": "2020-03-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비례 대표 무공천 주장도 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 비례 대표 후보를 아예 내지 말고 대신 범진보 진영에 몰아주자는 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.115,
+                "end": 9.592
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비례한국당의 이 저 정말 이 무도한 어 행위에 대해서 어 막아야 된다고 하는 정치 세력이나 아 정당들은 그것대로 존중을 해 줘야 되",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.602,
+                "end": 25.187
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "범진보 진영의 연합 정당 제안을 정의당은 거절했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.197,
+                "end": 29.574
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어떻게든 미래통합당의 의석 확보를 막아보자는 그 마음은 이해합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.584,
+                "end": 34.501
+            }
+        ]
+    },
+    "summary": "민주당의 비례 대표 무공천 주장도 나왔고 정의당은 범진보 진영의 연합 정당 제안을 거절했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11985_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11985_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

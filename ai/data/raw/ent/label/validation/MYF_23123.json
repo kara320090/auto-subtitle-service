@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYF_23123",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.766,
+        "format": "MP4",
+        "date": "2018-12-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "들어갈 수가 들어갈 수가 없네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안에 오 여기는 분위기가 어때요? 좀 조용해요? 아니면 약간 소음이 있는 정도",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.912,
+                "end": 12.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 한 완전 조용하지는 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.659,
+                "end": 16.307
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람들이 얘기하는 것도 있고 움직이는 소리도 다 들리고 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.317,
+                "end": 20.359
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 거 하면 좋겠다. 팀 과제 하기",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.369,
+                "end": 22.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇죠. 팀 과제 하기 방들이 있어 가지고 이렇게 방을 예약을 하면은 이 방을 일정 시간 동안 빌릴 수 있었어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.716,
+                "end": 30.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.048,
+                "end": 30.870
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇습니다. 이제 이쪽 링스 링로드 아래",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 30.880,
+                "end": 34.766
+            }
+        ]
+    },
+    "summary": "남성과 여성은 도서관의 분위기에 관해서 이야기 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_23123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

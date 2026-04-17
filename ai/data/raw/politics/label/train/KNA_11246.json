@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNA_11246",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.429,
+        "format": "MP4",
+        "date": "2023-02-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1를 격광하라.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당이 2016년 국정 농단 사태 이후 6년여 만에 거리로 나섰습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 3.770,
+                "end": 9.120
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지도부는 물론 소속 의원의 절반이 넘는 90여 명이 총출동해 윤석열 정부의 실정과 검찰의 편파 수사를 부각했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.130,
+                "end": 17.789
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대장동 수사는 작년에 이재명 당 대표뿐만 아니라 윤석열 대통령까지 의혹에 접점이 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.799,
+                "end": 29.429
+            }
+        ]
+    },
+    "summary": "민주당이 2016년 국정 농단 사태 이후 6년여 만에 거리로 나섰는데 지도부는 물론 소속 의원의 절반이 넘는 90여 명이 총출동해 윤석열 정부의 실정과 검찰의 편파 수사를 부각했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11246_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

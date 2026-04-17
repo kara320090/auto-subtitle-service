@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_00489",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.08,
+        "format": "MP4",
+        "date": "2021-06-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 콩이 얼굴 보여준다 형아가 오니까 얼굴 보여주는 거 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 고양이들은 @이름1이를 엄청 좋아하는 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.895,
+                "end": 9.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 형아한테 갈 거야 아직 못가 너무 애기야 콩이 너무 애기라서 아직 형아한테 못 가요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.108,
+                "end": 18.080
+            }
+        ]
+    },
+    "summary": "콩이가 형아가 오니 얼굴을 보여준다 고양이들이 형아를 좋아한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00489_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

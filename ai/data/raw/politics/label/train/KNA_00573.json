@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00573",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.817,
+        "format": "MP4",
+        "date": "2022-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특활비 예산 집행 투명성을 전제로 검찰의 예산 편성권 독립에는 찬성한다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.177
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박진수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.187,
+                "end": 7.971
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이달 말에 퇴임하게 되는 이주열 한국은행 총재가 송별 기자 간담회에서 기준 금리 추가 인상 필요성을 재차 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.981,
+                "end": 17.817
+            }
+        ]
+    },
+    "summary": "박 장관은 특활비 예산 집행 투명성을 전제로 검찰의 예산 편성권 독립에는 찬성한다고 하였고 이달 말에 퇴임하게 되는 이주열 한국은행 총재는 송별 기자 간담회에서 기준 금리 추가 인상 필요성을 재차 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00573_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00573_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

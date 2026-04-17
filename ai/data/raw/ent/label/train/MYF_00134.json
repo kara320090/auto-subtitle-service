@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYF_00134",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.761,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재미와 간편함 둘 다 갖고 있죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 세차 카드 찍고 프리워시를 시작할게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.185,
+                "end": 7.018
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 지금 매우 매우 매우 매우 배가 고픈 상태이므로 고압수 자동 코스로 힘을 좀 아껴봅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.028,
+                "end": 16.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기계야 일해라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.307,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "재미와 간편함 둘 다 갖고 있다며 이제 세차 카드 찍고 프리워시를 시작할 건데 지금 배가 고프니 고압수 자동 코스로 힘을 아껴본다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00134_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 102
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00134_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYB_04919",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.266,
+        "format": "MP4",
+        "date": "2022-09-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아까 5만 개에 꽝 나와서 열 받아서 그냥 질러 버릴랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.021
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "5초월까지 못 받고 달립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.031,
+                "end": 8.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무지성으로 달린다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.111,
+                "end": 9.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누가 이기나 해보자 와 그런데 어떻게 진짜 1도 안 기쁘냐 저런 올리베리 나와도 오 아 그런데 완품 하나만 주면은 진짜 좋을 것 같은데 완품 하나 받으면은 네 4초월",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.266,
+                "end": 25.266
+            }
+        ]
+    },
+    "summary": "5만 개에 꽝 나와서 열 받아서 질렀고 5초월까지 무지성으로 달리는데 올리베리가 나와도 안 기쁘고 완품 하나만 주면 진짜 좋을 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04919_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 31
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_04919_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_07520",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.9,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사내고만 사내야 참 사내.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.017,
+                "end": 5.024
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "목석같은 사나이 네 맞아요 엔딩 볼라고 열심히 하는 중이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.034,
+                "end": 11.696
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도와주마.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.706,
+                "end": 17.900
+            }
+        ]
+    },
+    "summary": "게임을 하고 있는 30대 여성은 엔딩 보려고 열심히 게임하는 중이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07520_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

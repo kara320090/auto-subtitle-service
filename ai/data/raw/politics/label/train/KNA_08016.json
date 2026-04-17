@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_08016",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.49,
+        "format": "MP4",
+        "date": "2022-07-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지명 직후부터 불거졌던 과거 성희롱성 발언 논란을 넘지 못한 건데 대통령실 측은 검증에 문제가 없었다는 입장을 되풀이했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실 관계자는 본인이 사과했고 이후 징계도 없었고 일단락된 걸로 봤다면서 일을 맡아 능력을 발휘해 주길 기대했다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.199,
+                "end": 19.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전문성과 역량이 저는 가장 중요하다고 보고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.842,
+                "end": 23.490
+            }
+        ]
+    },
+    "summary": "지명 직후부터 불거졌던 과거 성희롱성 발언 논란을 넘지 못한 건데 대통령실 측은 검증에 문제가 없었다는 입장을 되풀이했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08016_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

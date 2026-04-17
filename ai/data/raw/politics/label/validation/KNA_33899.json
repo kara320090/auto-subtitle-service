@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_33899",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.736,
+        "format": "MP4",
+        "date": "2018-06-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 1999년과 2003년 서울과 평양에서 번갈아 개최된 통일 농구 대회 남과 북의 화해 협력 분위기 속에 15년 만에 다시 부활합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "판문점에서 열린 남북 체육 회담에서 양측 실무진은 7월 초 평양에서 통일 농구 대회를 개최한 뒤 가을에는 서울에서 또 한차례 교류전을 갖기로 합의했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.517,
+                "end": 24.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남측은 남녀 선수단을 북측에 파견하며 경기는 남북 선수 혼합 경기와 남북한 친선 경기 형식으로 진행하기로 하였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.460,
+                "end": 36.733
+            }
+        ]
+    },
+    "summary": "판문점에서 열린 남북 체육 회담에서 양측 실무진은 7월 초 평양에서 통일 농구 대회를 개최한 뒤 가을에는 서울에서 또 한차례 교류전을 갖기로 합의했는데 이는 2003년 통일 농구 대회 이후 15년만이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33899_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33899_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

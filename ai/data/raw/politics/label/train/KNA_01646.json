@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNA_01646",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.219,
+        "format": "MP4",
+        "date": "2022-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "역선택 뭐 자꾸 이야기하는데 역선택 방지 조항이 없는 게 국민의힘의 방식이고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.965
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이삼 일이라는 구체적인 시한도 제시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.975,
+                "end": 9.013
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "윤석열 후보의 답변을 기다리고 있는 중입니다. 진정성이 있으시다면 어 저는 그 제안을 수용하실 거라고 그렇게 생각합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.023,
+                "end": 19.219
+            }
+        ]
+    },
+    "summary": "역선택 방지 조항이 없는 것이 국민의힘의 방식이라고 하였고 안 후보는 윤 후보의 답변을 기다리고 있는 중이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01646_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

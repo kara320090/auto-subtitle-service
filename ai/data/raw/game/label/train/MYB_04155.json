@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_04155",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.166,
+        "format": "MP4",
+        "date": "2022-11-28",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "따스한 등불을 보러 가야겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.026
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 마음은 언제나 설원 속 오두막 그 곳에 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.036,
+                "end": 10.034
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쿠키런 킹덤",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.044,
+                "end": 18.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 이렇게 소르베바 쿠키와 음유시인이 나오는 그런 영상입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.000,
+                "end": 22.915
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "상세한 건 공지를 통해서 보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.925,
+                "end": 27.166
+            }
+        ]
+    },
+    "summary": "한 남성이 쿠키런 출시 영상을 보면서 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04155_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYF_06330",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.918,
+        "format": "MP4",
+        "date": "2018-11-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "드래곤 푸르투기스 키 뭐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "퀴진, 퀴진",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.640,
+                "end": 3.840
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "드래곤 푸르투기스 퀴진 앞에서 기다리고 있습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.840,
+                "end": 7.010
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.010,
+                "end": 10.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대기가 있는 건 아닌데 저희가 아직 배가 안 고파 가지고 식당이 엄청 커요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.710,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "배가 안 고파서 드래곤 푸르투기스 퀴진 앞에서 기다리고 있고 식당이 크다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_06330_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

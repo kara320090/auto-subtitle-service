@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_09009",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.966,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 찾아왔는데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 15.876
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아리가또.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.886,
+                "end": 18.654
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아가리또.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.664,
+                "end": 24.233
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "좋아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.243,
+                "end": 27.966
+            }
+        ]
+    },
+    "summary": "화자는 캐릭터가 찾아온 것을 보며 감탄한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09009_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

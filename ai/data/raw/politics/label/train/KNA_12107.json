@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_12107",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.331,
+        "format": "MP4",
+        "date": "2020-04-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "총선이 끝나는 대로 사삼 특별법을 개정하는 데 적극 협조해 줄 것을 요청합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어제 출발한 민주당과 더불어시민당의 이른바 쌍둥이 버스는 하루 만에 모습을 감추게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.942,
+                "end": 14.304
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "버스에 적힌 숫자 1와 5가 민주당의 정당 기호 1 더불어시민당의 정당 기호 5번을 연상시켜서입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.314,
+                "end": 22.772
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선관위는 선거 차량이 아닌 정당 업무용 버스는 정당과 후보자를 유추할 수 있는 내용을 명시할 수 없다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.782,
+                "end": 31.331
+            }
+        ]
+    },
+    "summary": "어제 출발한 민주당과 더불어시민당의 이른바 쌍둥이 버스는 하루 만에 모습을 감추게 됐는데 선관위는 선거 차량이 아닌 정당 업무용 버스는 정당과 후보자를 유추할 수 있는 내용을 명시할 수 없다고 밝혀서이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12107_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 5,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

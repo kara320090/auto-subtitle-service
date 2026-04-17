@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_09864",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.633,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떻게 된 고노.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사보텐더 사보텐더 맞아 그러네 사보텐더를 못 봤네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.763,
+                "end": 11.498
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 전작을 안 해봤지만 모논에서 사보텐더를 봤거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.508,
+                "end": 15.806
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 어떤 투수 분이 영도 보내주셔 가지고 영상도 내에서 사보텐더 보고서 어 이게 뭐야 이게 여기 나오는 거였어요 이래서 그래서 기억이 났어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.816,
+                "end": 26.633
+            }
+        ]
+    },
+    "summary": "여자가 사보텐더를 못 봤다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09864_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

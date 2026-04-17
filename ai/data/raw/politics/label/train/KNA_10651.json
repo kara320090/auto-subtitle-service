@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_10651",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.866,
+        "format": "MP4",
+        "date": "2023-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국내 현안에는 어떤 목소리를 냈을까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.709
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전국 장애인 차별 철폐 연대의 지하철 시위는 과반이 중단해야 한다고 답했고 북한 무력 도발에 상응하는 수위로 대응해야 한다는 답이 역시 절반을 넘겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.719,
+                "end": 14.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연장 근로 시간을 주 52시간에서 최대 69시간까지로 변경하는 것에는 절반 가까이 반대했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.552,
+                "end": 21.855
+            }
+        ]
+    },
+    "summary": "국내 현안에 대한 질문을 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10651_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10651_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 4,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00361",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.018,
+        "format": "MP4",
+        "date": "2022-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모두 22만 6000여 명입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 투표는 오는 28일까지 계속 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.370,
+                "end": 5.616
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베이징에서 KBS 뉴스 조성원입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.616,
+                "end": 8.923
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 푸틴 러시아 대통령이 의회 상원으로부터 해외 파병과 관련해 승인을 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.923,
+                "end": 15.018
+            }
+        ]
+    },
+    "summary": "투표자 수는 22만 6000여 명으로 투표는 28일까지 계속 되며 푸틴 러시아 대통령은 의회 상원으로부터 해외 파병과 관련해 승인을 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00361_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00361_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

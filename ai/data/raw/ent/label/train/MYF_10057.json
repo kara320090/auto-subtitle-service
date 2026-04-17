@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYF_10057",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 42.733,
+        "format": "MP4",
+        "date": "2021-07-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "몸이 가장 우선 순위라는 거",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 집에 있을 때도 자외선 차단제를 발라주면 좋거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.561,
+                "end": 7.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 사실 아침에 발랐어야 되는데 까먹었네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.835,
+                "end": 11.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 제가 화장품 이야기 할 때 말했던 윤작 윤작 자외선 차단제 순하고 눈에 자극도 안 주고 약간의 컬러감이 좀 있어서 물론 그 결점 커버가 되진 않지만 그렇지만 그래도 안색을 조금 밝게 만들어 주는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.942,
+                "end": 42.733
+            }
+        ]
+    },
+    "summary": "한 여성이 특정 제품의 장점을 이야기하고 자외선 차단제를 바르고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10057_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

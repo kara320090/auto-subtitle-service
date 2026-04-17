@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNA_09715",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.228,
+        "format": "MP4",
+        "date": "2023-04-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더불어민주당 이상직 전 의원이 공직선거법 위반으로 의원직을 상실하면서 재선거를 치르게 된 전주시 을 지역구 일자리 부족 등으로 청년들이 떠나며 매년 인구가 줄고 있어 이곳도 관심은 경제입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.543
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 나이대나 아니면 청년들을 위한 정책을 이렇게 많이 내세우시는 분들에게 좀 관심이 갈 거 같아요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.553,
+                "end": 22.465
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "비록 코로나가 풀리고 비대면으로 전환이 됐다고는 하지만 상당히 지금 살기가 어렵습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.475,
+                "end": 28.228
+            }
+        ]
+    },
+    "summary": "전주시가 재선거를 하며 시민들은 경제에 관심이 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09715_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

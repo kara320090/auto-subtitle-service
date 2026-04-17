@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_08288",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 36.766,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "애가 아주 그냥 일도 열심히 하네.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 25.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다 죽었어 이제 지 아버지도 죽고 남자 친구도 안보이는 거 보니까 죽은 거 아닐까 기사였잖아요 싸우다 죽었겠지?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 25.151,
+                "end": 36.766
+            }
+        ]
+    },
+    "summary": "게임 속에 남자 주인공의 아버지도 죽고 남자 친구도 기사였는데 안 보이는 걸로 보아 죽은 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08288_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

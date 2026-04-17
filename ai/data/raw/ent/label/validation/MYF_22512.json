@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYF_22512",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.231,
+        "format": "MP4",
+        "date": "2022-12-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "귀엽지?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.359
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "포장을 되게 잘해준다 이쁘게.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.369,
+                "end": 3.754
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "귀여운데 이거?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.764,
+                "end": 6.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 원래 자라 키즈 2번 사이즈 입는데 이거 작게 나왔다고 계속 알람이 뜨는 거예요 자라에서.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.629,
+                "end": 14.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 큰 거 샀는데 안 맞기만 해봐라 여름에 입기 좋아 이거 혹시 품절이면 추천",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.795,
+                "end": 23.231
+            }
+        ]
+    },
+    "summary": "여자가 주문한 옷을 받고 좋아하며 주변인에게 추천하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22512_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYB_04998",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 38.4,
+        "format": "MP4",
+        "date": "2022-09-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쿠키런 킹덤을 PC에서 즐길 때 녹스 앱플레이어를 추천드립니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윈도우와 맥 버전에서 가상키 설정과 멀티 지원도 가능합니다 더보기 및 고정 댓글 전용 링크를 통해서 녹스 앱플레이어 다운로드 가능합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.985,
+                "end": 10.189
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크탈 뽑기로 자 진행을 해보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.199,
+                "end": 14.007
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 스킨 뽑기 갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.017,
+                "end": 15.822
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 하나 요거는 어떤 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.832,
+                "end": 27.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 마라 중복 자 단뽑 2번 빠르게 진행하고 쿠키 뽑기로 가도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.016,
+                "end": 38.400
+            }
+        ]
+    },
+    "summary": "남자는 크탈 스킨 뽑기로 진행을 해보도록 한다며 하나는 마라 중복이 나와서 단뽑 2컨 빠르게 진행하고 쿠키 뽑기로 가겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04998_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_04998_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 45,
+                    "act": 102
+                }
+            ]
+        }
+    ]
+}

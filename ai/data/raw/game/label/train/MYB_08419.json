@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_08419",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.433,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 방송을 시작한 지 딱 3년 정도 됐거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3년 4개월 정도 됐는데 그때가 딱 코로나 때잖아요 그래서 그때는 게임 나오는 게 별로 없어서 온갖 똥 게임을 다했어요 시청자들이 사주는 거.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.477,
+                "end": 14.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 해보자 하면 그냥 하고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.560,
+                "end": 17.433
+            }
+        ]
+    },
+    "summary": "한 여자가 방송을 시작한 지 3년 4개월 되었다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08419_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

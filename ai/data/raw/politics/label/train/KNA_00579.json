@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00579",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.316,
+        "format": "MP4",
+        "date": "2022-03-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 오늘 참모 회의에서 당선인이 대통령을 예방하는 데 협상과 조건이 필요했단 말을 들어보지 못했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 윤 당선인을 향해 다른 이들의 말을 듣지 말고 직접 판단해 주길 바란다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.112,
+                "end": 14.775
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 사람이 만나",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.785,
+                "end": 16.316
+            }
+        ]
+    },
+    "summary": "문 대통령은 참모 회의에서 윤 당선인을 향해 다른 이들의 말을 듣지 말고 직접 판단해 주길 바란다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00579_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

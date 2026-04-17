@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01059",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.485,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "추경 예산 59조 4000억 원 가운데 36조 4000억 원이 코로나 손실 보상을 위해 사용된다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어 손실 보상은 법치 국가의 당연한 책무라며 추경의 조속한 처리를 촉구했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.814,
+                "end": 12.041
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민생 안정이 그 어느 때보다 시급하다는 점을 고려하여 추경이",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.051,
+                "end": 18.485
+            }
+        ]
+    },
+    "summary": "코로나 손실 보상을 위해 추경 예산이 사용된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01059_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYB_09004",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.969,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쩔어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.422
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "30살까지 속성을 유지하면 마법사가 되는데 그 전에 속성이 변질되면 흑마법사가 됩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.432,
+                "end": 7.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그리고 내일도 출근인 관계로 흑마법사는 자러 가봅니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.287,
+                "end": 11.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 잘자요 흑마법사님. 오늘도 너무 감사했어요. 굿밤 되세요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.538,
+                "end": 15.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다. 안녕. 잘자요. 내일 봐요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.451,
+                "end": 19.966
+            }
+        ]
+    },
+    "summary": "화자는 흑마법사에게 오늘 감사했다며 잘자라고 인사한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09004_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

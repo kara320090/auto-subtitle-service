@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/ent/validation/MYF_21821.wav",
+  "prediction": "여러분 제가 돌아왔습니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "여러분 제가 돌아왔습니다."
+    },
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "제가 마지막으로 영상을 올렸던 게 8월 14일이었어요."
+    },
+    {
+      "start": 0.0,
+      "end": 5.54,
+      "text": "오늘이 10월 23일이니까 두 달하고도 조금의 시간이 더 흘렀는데"
+    },
+    {
+      "start": 5.54,
+      "end": 12.24,
+      "text": "오늘은 어떤 얘기를 해볼 거냐면 올해 1월 2월 그쯤부터 팀원들과 함께 창업"
+    }
+  ]
+}

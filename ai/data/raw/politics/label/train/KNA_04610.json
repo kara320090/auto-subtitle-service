@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_04610",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.525,
+        "format": "MP4",
+        "date": "2021-11-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "토지임대부 주택은 토지는 공공이 보유하고 건물만 분양해 분양가를 낮추는 방식입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.860
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나머지 절반은 주변 전세 시세의 80퍼센트 이하로 20년까지 거주할 수 있는 장기 전세 주택으로 공급됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.870,
+                "end": 13.411
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울시는 또 재개발 재건축 사업에 대한 각종 심의와 인허가를 신속하게 처리해 약 8만 가구 공급을 확정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.421,
+                "end": 21.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부의 부동산 규제는 재개발 재건축 사업을 크게 지연시켜",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.330,
+                "end": 25.525
+            }
+        ]
+    },
+    "summary": "토지임대부 주택에 관해 설명하며 서울시는 재개발 재건축 사업을 신속하게 처리하겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04610_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_10871",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-02-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법무부는 정순신 후보자를 자신들이 검증했는지조차 확인해 줄 수 없다며 처음부터 모호한 입장을 고수해 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.235
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인사 검증의 투명성과 전문성을 높이겠다며 법무부에 인사정보관리단을 신설했던 지난해와는 사뭇 다른 모습입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.245,
+                "end": 14.943
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로는 인사 검증이라는 업무 영역이",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.953,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "법무부는 모호한 입장을 고수하며 인사 검증의 투명성과 전문성을 높이겠다던 지난해와는 다른 모습을 보였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10871_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

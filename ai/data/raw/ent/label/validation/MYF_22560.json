@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_22560",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.261,
+        "format": "MP4",
+        "date": "2021-03-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.297
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 그 유명한 사각 김밥 하려고 준비했어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.307,
+                "end": 7.405
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 이 김, 참치 마요, 볶음 김치, 스팸, 달걀, 밥도 간 좀 했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.415,
+                "end": 28.261
+            }
+        ]
+    },
+    "summary": "여성이 사각 김밥을 하려고 사각 김밥의 재료인 김, 볶음 김치, 참치 마요, 밥을 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22560_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": 31,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

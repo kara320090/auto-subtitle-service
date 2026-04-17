@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_06800",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.796,
+        "format": "MP4",
+        "date": "2022-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "친구들과 만날 기회가 줄면서 전체 응답 학생 10명 중 3명 이상이 친구 관계가 나빠졌다고 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대화가 많이 없었으니까 그만큼 안 맞는 만큼 친해지는데 시간이 좀 많이 걸리기도 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.577,
+                "end": 14.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10명 중 7명 이상이 인터넷과 스마트폰 사용 시간이 늘었는데 특히 초등학생 저학년은 8명 이상이 늘었다고 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.260,
+                "end": 23.881
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "핸드폰 13시간 14시간 했었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.891,
+                "end": 26.216
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "핸드폰 사용량도 진짜 많이 늘고 공부 진짜 안 하고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.226,
+                "end": 29.796
+            }
+        ]
+    },
+    "summary": "10명 중 3명은 친구 관계가 나빠졌다고 말했고 10명 중 7명 이상이 인터넷과 스마트폰 사용 시간이 늘었다고 답했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06800_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대",
+                    "gender": "여성",
+                    "place": 1,
+                    "object": 64,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

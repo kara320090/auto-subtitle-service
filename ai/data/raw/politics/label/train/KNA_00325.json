@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00325",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.185,
+        "format": "MP4",
+        "date": "2022-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재개발 재건축 다 틀어막고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.915
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당 심상정 후보는 울산에서 조선업종 노동자들을 만나 대우조선에 불공정 내각 문제와 노동자 처우를 해결하겠다고 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.925,
+                "end": 11.813
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의당 안철수 후보는 유세버스 사고로 숨진 지역 위원장과 버스 운전기사에 빈소를 잇따라 조문하는 등",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.823,
+                "end": 19.185
+            }
+        ]
+    },
+    "summary": "정의당 심상정 후보는 대우조선에 불공정 내각 문제와 노동자 처우를 해결하겠다고 약속했고 안철수 후보는 유세버스 사고로 숨진 지역 위원장과 버스 운전기사에 빈소를 잇따라 조문했다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00325_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00325_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 37
+                }
+            ]
+        }
+    ]
+}

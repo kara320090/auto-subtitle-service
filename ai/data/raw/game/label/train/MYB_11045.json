@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_11045",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.733,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 우리 제부한테 시켰더니 이러고 있는 거예요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.673
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모니터 안으로 들어 가려고 너무 즐겁게 하더라고 아 선택 받은 사람 나도 투수라는 바카모노에게 선택받은 사람인데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.683,
+                "end": 16.622
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오자마자 한대 맞은 거 같은 거 기분이래 어서에요 히메야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.632,
+                "end": 24.733
+            }
+        ]
+    },
+    "summary": "한 여자가 게임을 플레이 하면서 시청자들과 이야기를 나눈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11045_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYB_01650",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.033,
+        "format": "MP4",
+        "date": "2023-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "글쎄요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홀리베리를 대체 완벽하게 대체하기는 힘들거 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.279,
+                "end": 3.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 이유가 뭐냐면은 홀리베리를 완전 대체해서 와일드베리를 넣으면은 첫 타이밍이 시작하자마자 스타더스트가 죽어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.370,
+                "end": 13.448
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 스타더스트나 첫 턴에 아군이 그냥 시작하자마자 죽는 상황이 나오더라고요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.458,
+                "end": 20.530
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 제가 볼 때는 완벽한 대체라기는 조금 힘들 거 같고요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.540,
+                "end": 28.033
+            }
+        ]
+    },
+    "summary": "남성이 홀리베리를 완벽하게 대체하기 힘든 이유는 대체해서 와일드베리를 넣으면 첫 타이밍 시작하자마자 스타더스트나 아군이 죽는다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01650_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 70,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

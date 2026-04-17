@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09905",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.333,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계속해서 진행을 해보도록 하겠겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 동생이 이거 나 닮았다고 사줬어 짱나 안 닮았는데 하나도 안 닮았는데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.526,
+                "end": 11.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 그럼 계속해서 가보도록 하겠겠어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.426,
+                "end": 13.376
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 질하고 대화를 해볼게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.386,
+                "end": 29.333
+            }
+        ]
+    },
+    "summary": "여자가 질과 대화해 본다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09905_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

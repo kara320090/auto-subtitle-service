@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_01450",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.3,
+        "format": "MP4",
+        "date": "2023-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 다르다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 무화과 샤글 2개면은 진짜 잠 다 잤지.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.225,
+                "end": 8.265
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 진짜 안 나왔어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.275,
+                "end": 11.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "벰파 그래도 마일리지 야무지게 쌓았어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.133,
+                "end": 15.941
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 마일리지 얼마나 쌓은 거야?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.951,
+                "end": 20.300
+            }
+        ]
+    },
+    "summary": "캐릭터 중 무화과 샤글 2개면 잠은 다 잔 것이라고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01450_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

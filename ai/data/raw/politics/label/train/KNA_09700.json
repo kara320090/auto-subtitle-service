@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_09700",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-01-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 자리에 이재명 대표가 참석했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음에 한 번 와달라는 주최 측 덕담에 이 대표가 직접 가서 축사를 하겠다고 한 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.939,
+                "end": 9.076
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 대표는 정당은 다양성이 본질이라고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.086,
+                "end": 12.906
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자유로운 의견 개진 진지한 토론 그리고 의견 수렴을 통해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.916,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "이재명 대표는 민주당 모임에 참석해 정당은 다양성이 본질이라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09700_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

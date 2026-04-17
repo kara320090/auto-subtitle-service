@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYF_08728",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.568,
+        "format": "MP4",
+        "date": "2019-01-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1이 거기로 들어갈 거야 이제?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1아 @이름1아 @이름1이 딱꿍 찾았어 못 찾았어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.848,
+                "end": 11.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름 2가 찾을 것 같은데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.592,
+                "end": 17.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1가 찾아봐 @이름1이 좋아하는 딱 오 어딨는지 알았어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.429,
+                "end": 25.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꺼낼 수 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.175,
+                "end": 35.568
+            }
+        ]
+    },
+    "summary": "화자가 @이름1보다 @이름2가 찾을 것 같다고 하는데 결국 @이름1이 찾았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08728_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

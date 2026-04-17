@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01596",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.789,
+        "format": "MP4",
+        "date": "2022-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 후보 간 2대2 구도가 만들어집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2030년까지 23퍼센트대의 원자력에너지 비중을 제시한 이재명 심상정 후보",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.629,
+                "end": 9.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "10년 이내에 원전 발전 단가보다 재생에너지 풍력 태양광 발전 단가가 더 떨어진다는 게 모두의 예측입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.052,
+                "end": 17.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 윤석열 안철수 후보는 이 비중 35퍼센트대로 올라갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.860,
+                "end": 22.789
+            }
+        ]
+    },
+    "summary": "2030년까지 이재명 심상정 후보는 23퍼센트대의 원자력에너지 비중을 제시한 반면 윤석열 안철수 후보는 35퍼센트대로 올라간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01596_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

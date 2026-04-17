@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_01938",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.233,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 그게 주스 한잔 하러 성 밖에 나간다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.573
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주스 한잔을 하러 사냥에 필요한 무기를 그렇게나 챙기셨습니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.583,
+                "end": 10.942
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 베리 숲속이 워낙 험악하잖아 가다가 몬스터라도 만나면 열심히 잡을 생각이었지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.952,
+                "end": 20.233
+            }
+        ]
+    },
+    "summary": "홀리베리맛 쿠키가 와일드베리맛 쿠키에게 몰래 가다가 걸렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01938_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

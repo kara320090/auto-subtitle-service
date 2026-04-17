@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "filename": "MYB_10008",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.1,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 일이 있었군요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "완전 위쪽 옛날에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.856,
+                "end": 6.304
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.314,
+                "end": 7.717
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "택틱스오우거 왜 들어 본 거 같지? 어디서 들어 본 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.727,
+                "end": 10.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭐야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.974,
+                "end": 18.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "넓고 넓은 바닷가에",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.993,
+                "end": 22.849
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.859,
+                "end": 27.604
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노래가 계속 바뀌어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.614,
+                "end": 28.858
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.868,
+                "end": 31.100
+            }
+        ]
+    },
+    "summary": "여성은 게임 속에서 본 편지를 읽고 이런 일이 있었다고 했고 택틱스오우거를 들어 본 거 같다고 했고 노래가 계속 바뀐다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10008_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

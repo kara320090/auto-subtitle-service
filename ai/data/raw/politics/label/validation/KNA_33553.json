@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_33553",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보호출산제는 출산과 아이에 대한 출생신고를 실명이 아닌 익명으로 할 수 있는 제도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의료기관에서 출산을 꺼리는 산모와 신생아를 위한 대안인데 그동안은 신생아 유기가 많아질 수 있단 이유로 제대로 된 논의가 이뤄지지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.706,
+                "end": 14.873
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보호출산제는 아동 유기를 조장하는 것이 아니라 생명을 지키는 것이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.883,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "보호출산제는 출산과 아이에 대한 출생신고를 익명으로 할 수 있는 제도이고 의료기관을 꺼리는 산모를 위한 대안인데 신생아 유기가 많아질 수 있단 우려가 있어 제대로 논의가 이뤄지지 못했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33553_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 7,
+                    "object": 40,
+                    "act": 112
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33553_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

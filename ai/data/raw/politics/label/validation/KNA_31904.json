@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "KNA_31904",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.866,
+        "format": "MP4",
+        "date": "2015-05-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "위안부 피해자 쉼터인 나눔의 집에 배달된 국제 우편물 상자에서 나온 것들입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 모형들은 한국 정신대 문제 대책 협의회에도 배달됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.577,
+                "end": 10.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보낸 사람은 스즈키 노부유키 2012년 일본 대사관 앞 소녀상에 말뚝 테러를 했던 일본 극우 정치인입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.821,
+                "end": 19.858
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 놈들 하는 행태가 할매들 다 죽고 하나도 안 남으면 끝인가 알지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.868,
+                "end": 28.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지 않지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.280,
+                "end": 29.728
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스즈키 씨는 자신의 블로그에 한국에 물품을 증정했다며 자신의 행위라고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.738,
+                "end": 36.866
+            }
+        ]
+    },
+    "summary": "2012년 소녀상에 말뚝 테러를 했던 일본 극우 정치인 스즈키 노부유키는 위안부 피해자 쉼터와 한국 정신대 문제 대책 협의회에 모형이 든 국제 우편물 상자를 보냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31904_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_31904_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYB_09928",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.986,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다시 찍기에는 좀 뭐하고 그냥 써야겠다. 일단 쓰고 돈 모아서 저거 찍어야지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고객님 변심에 의한 환불은 어렵습니다만.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.660,
+                "end": 6.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 아 그렇군요 죄송합니다. 제가 좀 진상 같았죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.890,
+                "end": 9.738
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "죄송해요. 미안합니다. 긁적 감사해요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.740,
+                "end": 16.890
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 개별 환불이 안 되고 부분은 되고? 아 근데 저 번개 너무 개 쩔어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.900,
+                "end": 23.966
+            }
+        ]
+    },
+    "summary": "시청자가 변심에 의한 환불은 어렵다고 말하자 화자1이 죄송하다며 사과한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09928_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 73,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

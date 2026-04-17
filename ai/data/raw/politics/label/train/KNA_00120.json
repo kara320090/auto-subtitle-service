@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_00120",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.315,
+        "format": "MP4",
+        "date": "2022-01-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 임기 내 청년 고용률 5퍼센트 포인트 향상을 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중견 기업인들을 만나선 규제 합리화를 강조했지만 주 52시간제 완화는 당장은 어렵다고 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.514,
+                "end": 11.850
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래도 제도는 뭐 만들었다가 또 금방 바꾸고 금방 바꾸고 하면",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.840,
+                "end": 15.315
+            }
+        ]
+    },
+    "summary": "임기 내 청년 고용률 5퍼센트 포인트 향상을 약속하고 중견 기업인들을 만나 규제 합리화를 강조했지만 주 52시간제 완화는 당장은 어렵다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

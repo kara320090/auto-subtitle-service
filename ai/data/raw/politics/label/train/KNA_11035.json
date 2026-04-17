@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_11035",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.023,
+        "format": "MP4",
+        "date": "2022-11-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 참사 책임을 가리기 위한 수사가 진행되고 있다면서 무한 책임론을 거듭 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.827
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 안전을 무한대로 책임을 지는 것이 우리의 정부이기 때문에 책임을 면하는 그런 것은 있을 수 없다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.837,
+                "end": 13.779
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령에게 공식 사과를 건의할 생각이 없냐는 질문에는 안전 정책 주무 부처인 @이름1 장관이 사과했다는 말로 답을 대신했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.789,
+                "end": 23.023
+            }
+        ]
+    },
+    "summary": "참사 책임을 가리기 위한 수사가 진행되고 있다면서 무한 책임론을 거듭 강조했고 대통령에게 공식 사과를 건의할 생각이 없냐는 질문에는 행안부 장관이 사과했다는 말로 답을 대신했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11035_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

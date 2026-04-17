@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_05999",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.433,
+        "format": "MP4",
+        "date": "2022-07-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "쿠키와 코코아가 아 코코아 파르페 기절만요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이, 확인.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.190,
+                "end": 6.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코코아 써라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.962,
+                "end": 10.164
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코코아 올 쿨로 쓰면 될까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.174,
+                "end": 13.998
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코코아 올 쿨로 쓸까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.008,
+                "end": 21.433
+            }
+        ]
+    },
+    "summary": "코코아 파르페 기절만 쓰면 된다는 이야기를 듣고 코코아는 올 쿨로 써야 되는지 묻는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05999_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

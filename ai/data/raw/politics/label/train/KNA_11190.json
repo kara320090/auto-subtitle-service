@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_11190",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.536,
+        "format": "MP4",
+        "date": "2023-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국무회의가 열린 대통령실에 모인 간호사들 간호법에 대한 재의요구가 의결되자 즉각 반발했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령이 대선후보 시절 간호협회를 찾은 일을 꺼내 들며 정치적 책임을 묻겠다 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.301,
+                "end": 17.334
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령이 간호법을 제정하겠다는 약속은 증거와 기록이 차고 넘치는데도 대통령은 언제 그랬냐는 듯이 간호법 제정 약속과 공약을 파기한 것이다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.344,
+                "end": 33.533
+            }
+        ]
+    },
+    "summary": "간호법에 대한 재의요구가 의결되자 즉각 반발하며 윤석열 대통령이 대선후보 시절 간호협회를 찾은 일을 꺼내 들며 정치적 책임을 묻겠다 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11190_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

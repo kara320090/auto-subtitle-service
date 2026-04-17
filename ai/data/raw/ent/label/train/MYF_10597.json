@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYF_10597",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.069,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 뭐야 여러분 딱 들어오니까 이런 이런 느낌이에요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 저 햇빛 봐. 와우",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.796,
+                "end": 17.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옷을 좀 갈아입었고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.504,
+                "end": 20.424
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이히히히 여러분 지금 저희가 가려는 데가",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.434,
+                "end": 28.069
+            }
+        ]
+    },
+    "summary": "화자1은 방에 들어오면 이런 느낌이라며 햇빛이 들어오는 것을 보고 감탄했고 나가기 위해 옷을 갈아입었다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10597_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 38,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_10597_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 39,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

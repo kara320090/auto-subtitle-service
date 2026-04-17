@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00190",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2022-01-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대한민국 민주주의의 심장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광주의 자부심을 대한민국의 자부심이 되도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.920,
+                "end": 8.143
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 후보는 광주 화정 아이파크 붕괴 사고 현장도 찾아 재해 사고가 반복되는 기업은 건설 면허를 취소하는 게 마땅하다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.153,
+                "end": 17.426
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘 윤석열 후보는 청와대 조직을 해체하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.436,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "이 후보는 광주의 자부심을 대한민국의 자부심이 되도록 하겠다며 광주 화정 아이파크 붕괴 사고 현장도 찾아 재해 사고가 반복되는 기업은 건설 면허를 취소하는 게 마땅하다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00190_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00190_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

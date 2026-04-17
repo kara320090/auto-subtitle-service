@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_03508",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 37.804,
+        "format": "MP4",
+        "date": "2021-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거제에서도 확진자가 22명이 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이들 확진자는 애초 거제 목욕탕 관련 집단 감염으로 파악됐지만 목욕탕 방문객이 유흥시설 종사자로 확인되면서 감염경로가 수정됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.091,
+                "end": 14.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거제시 역학조사 결과 확진자 대부분이 유흥업소 종사자들로 확인되면서 지역 유흥업소 종사자와 이용자에 검사를 진행하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.229,
+                "end": 23.721
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2월 26일부터 3월 14일까지 거제시 관내 유흥주점 단란주점 노래연습장 이용자와 영업주 종사자께서는 거제시 체육관 선별진료소에",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.731,
+                "end": 37.804
+            }
+        ]
+    },
+    "summary": "거제 목욕탕 관련 집단 감염으로 파악됐지만 목욕탕 방문객이 유흥시설 종사자로 확인되면서 감염경로가 수정되어 유흥업소 종사자와 이용자에 검사를 진행하고 있다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03508_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 12,
+                    "object": 41,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_11948",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.856,
+        "format": "MP4",
+        "date": "2020-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "올해는 국민이 체감하는 확실한 변화를 만들겠다고 했던 문 대통령.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19 사태로 엄중한 상황을 맞았다고 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.907,
+                "end": 8.416
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "코로나19의 경제적 피해는 지난 2015년의 메르스 사태 때 보다 더 크게 체감이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.426,
+                "end": 19.165
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그야말로 비상하고 엄중한 상황입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.175,
+                "end": 22.856
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 코로나19 사태로 인한 경제적 상황이 엄중한 상황을 맞았다고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11948_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNA_11981",
+        "category": "정치뉴스",
+        "sub_category": 16,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.996,
+        "format": "MP4",
+        "date": "2020-03-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대구 현장을 지휘하는 정세균 총리가 불참한 가운데 열린 국회 대정부 질문.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방역 지역 지휘로 이 자리에 나오지 못하셨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.287,
+                "end": 10.517
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저 개인적으로는 심히 유감이라고 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.527,
+                "end": 14.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19 방역 대책에 질의가 집중됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.444,
+                "end": 17.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여야를 막론하고 당장 대구, 경북 지역의 병상과 의료 지원 마스크 공급 대책이 필요하다고 지적했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.635,
+                "end": 25.145
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "재난 지역에서는 방역품 자체를 배급제로 하는 방안 검토할 수 있습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.155,
+                "end": 29.996
+            }
+        ]
+    },
+    "summary": "대구 현장을 지휘하는 정세균 총리가 불참한 가운데 열린 국회 대정부 질문에서 코로나19 방역 대책에 질의가 집중됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11981_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11981_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

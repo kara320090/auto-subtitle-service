@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32743",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2023-10-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영사관 차인데 그 영사관에서 차를 아마 사 가지고 나가는 모양이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.735
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어제 오전에도 단둥 세관을 통해 아우디 승용차 1대와 중국산 SUV 차량 5대가 북한으로 반출됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.745,
+                "end": 16.054
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 차량들 역시 번호판을 달지 않은 새 차였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.064,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "어제 오전에도 단둥 세관을 통해 아우디 승용차 1대 등 SUV 차량 5대가 북한으로 반출됐는데 모두 새 차였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32743_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 2,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

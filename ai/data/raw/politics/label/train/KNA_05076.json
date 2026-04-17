@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNA_05076",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2022-07-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "카페 직원이 로봇 안에 음료와 빵을 넣자 로봇이 입구를 닫은 뒤 목적지로 이동합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "로봇을 활용한 배달 서비스입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.581,
+                "end": 8.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 자율주행 로봇은 현행법상 자동차로 분류되기 때문에 이렇게 사람이 다니는 인도나 횡단보도를 건너는 건 불법입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.817,
+                "end": 17.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실상 배달이 불가능한 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.678,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "카페 직원이 로봇 안에 음료와 빵을 넣으면 배달 서비스를 하는데 자율주행 로봇은 현행법상 자동차로 분류되기 때문에 사람이 다니는 인도나 횡단보도를 건너는 건 불법으로 사실상 배달이 불가능하다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05076_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 73
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05076_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_01379",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.817,
+        "format": "MP4",
+        "date": "2022-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "북한 방사포 발사는 철저한 대비가 필요하지만 호들갑 떨 일은 아니라면서도 윤 대통령의 말이 바뀌었다고 꼬집었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방사포는 9.19 위반 아닙니까?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.678,
+                "end": 11.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이건 명확한 위반이죠?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.909,
+                "end": 13.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안보 사항에 대해서 아 빈틈없이 좀 잘 챙겨주시",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.757,
+                "end": 17.817
+            }
+        ]
+    },
+    "summary": "윤 대통령이 한 북한 관련 발언이 바뀌었다며 윤 의원이 비난하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01379_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

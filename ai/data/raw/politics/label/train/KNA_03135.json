@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_03135",
+        "category": "정치뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.428,
+        "format": "MP4",
+        "date": "2021-01-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김해 공항에서 처리가 되지를 않아서 연간 한 7000억 이상의 물류비용을 감당하면서 인천 공항으로 오고 있습니다. 그 화물차들이 내뿜는 어 온실가스라든지 미세 먼지 역시 국가적인 부담이기도",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.222
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후보자는 탄소 중립 이행 기반 마련과 포용적인 환경 안전망 구축을 임기 주요 과제로 꼽았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.232,
+                "end": 20.859
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 청문회에선 문재인 정부 들어 가장 잘 된 인사라는 야당의 평가가 나오는 등 이례적 덕담이 오가기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.869,
+                "end": 28.428
+            }
+        ]
+    },
+    "summary": "후보자는 김해 공항에서 처리가 되지 않아 연간 7000억 이상의 물류비용을 감당하면서 인천공항으로 오는데 이 과정에서 화물차들이 내뿜는 온실가스라든지 미세먼지 역시 국가적인 부담이라며 탄소중립 이행 기반 마련과 포용적인 환경 안전망 구축을 임기 주요 과제로 꼽은 한편 오늘 청문회에선 문재인 정부 들어 가장 잘 된 인사라는 야당의 평가가 나오는 등 이례적 덕담이 오가기도 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03135_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 21
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03135_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "MYB_11116",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.7,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저녁 때 여동생의 생존 확인 중 기침이 심하다고 하길래 혹시 모르니 병원 가 보라고 했는데 답장 온게 역시 코로나 키윽 키윽 키윽 나고 한약 챙겨 먹으라고 했음",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.523,
+                "end": 16.311
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 진짜 아프겠다 물도 많이 드시라고 전해 주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.321,
+                "end": 18.603
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "코로나 목이 너무 아프니까 그죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.613,
+                "end": 20.301
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아이고 아이고 이런",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.311,
+                "end": 21.128
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.138,
+                "end": 23.700
+            }
+        ]
+    },
+    "summary": "시청자의 동생이 아파서 병원을 가봤더니 코로나여서 시청자가 약을 챙겨 먹으라고 얘기했고 화자는 안타까워 하며 물을 많이 먹으라고 전해 달라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11116_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

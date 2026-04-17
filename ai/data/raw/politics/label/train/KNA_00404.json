@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00404",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.783,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4월부터 6월까지 3달 분이 유예 대상입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.437
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부총리는 코로나19 관련 소상공인과 취약계층 지원 조치에 대부분이 이번 달 또는 다음 달 말이 기한이라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.447,
+                "end": 12.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대표적인 게 소상공인 대출 만기 연장과 상환 유예",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.607,
+                "end": 16.783
+            }
+        ]
+    },
+    "summary": "부총리는 3달 분이 유예 대상이며 대부분이 다음 달 말이 기한이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00404_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

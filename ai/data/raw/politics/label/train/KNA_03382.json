@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNA_03382",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.225,
+        "format": "MP4",
+        "date": "2021-02-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "백신 접종 첫날 현장을 방문한 문 대통령은 대상자에게 양해를 구하고 접종 모습을 직접 지켜봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하십니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.341,
+                "end": 8.597
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.607,
+                "end": 9.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역사적인 1호 접종이신데 접종하는 것 좀 지켜봐도 되겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.665,
+                "end": 14.609
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "예 영광입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.619,
+                "end": 17.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 @이름1 질병 관리 청장으로부터 향후 백신 접종 계획을 들은 뒤 본인은 접종 차례를 물어보기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.599,
+                "end": 25.225
+            }
+        ]
+    },
+    "summary": "문 대통령은 백신 접종 첫날 현장을 방문해 대상자에게 양해를 구하고 접종 모습을 직접 지켜봤고 @이름1 질병 관리 청장으로부터 향후 백신 접종 계획을 들은 뒤 본인은 접종 차례를 물어보기도 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03382_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 7,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03382_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 7,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

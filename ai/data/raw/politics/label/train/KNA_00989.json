@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_00989",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.962,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 어 도덕적으로나 윤리적으로나 어 문제 될 것이 없다고 제가 생각하기 때문에 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.065
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이상민 행정안전부 이종오 과기정통부 장관 후보자에 대한 청문회도 오전부터 진행되고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.075,
+                "end": 13.885
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일로 예정됐던 한동훈 법무부 장관 후보자 청문회는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.895,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "이상민 행정안전부 이종오 과기정통부 장관 후보자에 대한 청문회도 오전부터 진행되고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00989_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00989_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 64,
+                    "act": 26
+                }
+            ]
+        }
+    ]
+}

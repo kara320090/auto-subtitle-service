@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_00200",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.521,
+        "format": "MP4",
+        "date": "2022-01-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "디지털 분야 100만 인재 양성을 위해 초중등 교육 과정 내 보편적인 소프트웨어 교육을 확대하고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘은 오는 3월 9일 대선과 함께 치러질 국회의원 재보궐 선거 지역 중 대구 중남구엔 공천하지 않기로 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.633,
+                "end": 17.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "해당 지역구 의원이었던 곽상도 전 의원이",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.922,
+                "end": 21.521
+            }
+        ]
+    },
+    "summary": "국민의 힘은 오는 3월 9일 국회의원 재보궐 선거 지역 중에 대구 중남구엔 공천하지 않을 것이라는 견해를 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00200_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

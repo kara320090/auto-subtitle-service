@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYB_07313",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.0,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "왔다 왔어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.718
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우 눈나 얘네들 좀 보세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.728,
+                "end": 15.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 징해 죽겠네요 정말.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.989,
+                "end": 31.000
+            }
+        ]
+    },
+    "summary": "한 여성이 게임을 하면서 내용을 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07313_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

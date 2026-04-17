@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_07835",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.3,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.233,
+                "end": 9.819
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "누나를 부탁한다. 야레야레 어쩔 수 없군. 내가 봐 줘야겠구만.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.829,
+                "end": 15.199
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "스트링얄로 고맙겠습니다. 오늘 왜 이렇게 살 쪄 보이지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.209,
+                "end": 22.733
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "뭐야 이거 왜 이래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.743,
+                "end": 25.300
+            }
+        ]
+    },
+    "summary": "20대 여성이 게임 속 인물들의 대사를 따라 읽어 주면서 내용에 대해 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07835_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

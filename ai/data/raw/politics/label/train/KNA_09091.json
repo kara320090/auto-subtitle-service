@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNA_09091",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.896,
+        "format": "MP4",
+        "date": "2022-11-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "재역 주민들 아쉬움이 큽니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "댐 규제를 풀어달라 경찰서를 지어달라 민원성 질의는 다양합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.243,
+                "end": 7.844
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이렇게나 많이 중첩돼가지고 어 지역에 상당히 이 경제적인 피해를 많이 보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.854,
+                "end": 15.808
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "왜 이 동작 경찰서 신축을 향한 기금은 기금운용 계획안에 이번에 담기지 않았습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.818,
+                "end": 23.577
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "질의했다는 것 자체가 홍보효과로 비춰지다 보니 국무위원들도 딱 잘라 거절 못할 때가 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.587,
+                "end": 29.896
+            }
+        ]
+    },
+    "summary": "댐 규제를 풀어달라 경찰서를 지어달라 민원성 질의는 다양하며 질의했다는 것 자체가 홍보효과로 비춰지다 보니 국무위원들도 거절을 못할 때가 많다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09091_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_09091_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

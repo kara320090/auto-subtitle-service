@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_05360",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.667,
+        "format": "MP4",
+        "date": "2022-08-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 뭐야 에픽 에스프레소",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 뭐야 3연속 3연속 레전드 야 4연속이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.520,
+                "end": 14.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 또 이어서 5연속 야 이거 뭐 있다 5연속이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.795,
+                "end": 22.667
+            }
+        ]
+    },
+    "summary": "남성은 5연속이라면서 이거 뭐 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05360_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": 43,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

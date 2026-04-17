@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "MYB_05209",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.4,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하 내 앞에서는 의미 없는 명성이야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 바다에선 나만큼 전지전능한 존재는 없으니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.580,
+                "end": 9.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 네 배도 그렇게 부수려 했지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.563,
+                "end": 13.197
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 안 부서졌네?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.207,
+                "end": 16.131
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 준 상이 마음에 안 들었나 봐?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.141,
+                "end": 18.991
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물론이지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.001,
+                "end": 20.400
+            }
+        ]
+    },
+    "summary": "바다에서 전지전능한 나한테는 의미없는 명성이고 네 배도 그렇게 부수려했는데 안 부서졌네.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_05209_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

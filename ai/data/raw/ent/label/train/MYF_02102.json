@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "filename": "MYF_02102",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2022-10-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "까 반전을 선사할 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이까 뭐 꼭 향수 때문이 아니라 까 우리가 인제 사람이 사람이 멋있는 사람이 되면 뭐 어떤 옷을 입고 어떤 가방을 들고 어떤 향수를 입어도 본인이 원하는 그런 그 이미지를 선사할 수 있거든요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.152,
+                "end": 17.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.435,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "향수 때문이 아니라 멋있는 사람이 되면 어떤 옷이나 가방, 향수를 입어도 본인이 원하는 이미지를 선사할 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_02102_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": 69,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

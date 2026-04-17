@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "MYB_08053",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.133,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 눈물 날 것 같아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하하 순간 표정이 6개 나왔대",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.181,
+                "end": 20.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 눈물 참느라고 아 시드만 나오면 눈물벨이네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 20.229,
+                "end": 25.133
+            }
+        ]
+    },
+    "summary": "한 여성은 게임 속 시드의 편지를 보고 눈물이 날 것 같다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08053_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_00340",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.997,
+        "format": "MP4",
+        "date": "2022-02-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "탄소 기반의 포항을 녹색 도시로 대전환시키겠다고 약속했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의당 안철수 후보는 선거 유세 버스에서 숨진 지역 선대위 위원장의 영결식에서 어떤 풍파에도 굴하지 않고 더 좋은 정권 교체를 꼭 이루겠다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.142,
+                "end": 16.382
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 후보는 내일 오전부터 선거운동을 재개하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.392,
+                "end": 20.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 노태영입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.438,
+                "end": 23.004
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "베이징 동계 올림픽 피겨 여자 싱글에 나선 유영이 6위에 오르며 김예림과 함께 동반 톱 텐에 진입했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.014,
+                "end": 30.997
+            }
+        ]
+    },
+    "summary": "심 후보는 포항을 탄소 기반의 녹색 도시로 재전환시키겠다고 약속했고, 안 후보는 선대위 위원장의 영결식에서 정권 교체를 꼭 이루겠다고 밝혔고 또한 베이징 동계 올림픽에서 유영이 김예림과 함께 피겨 여자 싱글 톱 텐에 진입했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00340_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00340_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

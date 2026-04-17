@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYF_12341",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 53.684,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우와 뭐야 우와 아이 빠졌다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 방금 피아노줄 소리를 들으셨나요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.630,
+                "end": 9.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빠져버렸습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.754,
+                "end": 10.869
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "재밌네요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 10.879,
+                "end": 30.998
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이 우와 우와 붕어다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 31.008,
+                "end": 45.830
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이 오우 좋다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 45.840,
+                "end": 53.678
+            }
+        ]
+    },
+    "summary": "40대 남성이 다리 밑에서 붕어 낚시를 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

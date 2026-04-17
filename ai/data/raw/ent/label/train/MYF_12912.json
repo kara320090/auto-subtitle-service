@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYF_12912",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.469,
+        "format": "MP4",
+        "date": "2022-05-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 지금 아침장 한번 보고 있습니다 7시 정도 됐고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.240
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이게 적벽 28대입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.240,
+                "end": 13.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 글루텐 사용하고 있고 저쪽 아 저 수초 앞에 바짝 붙여놨는데 찌",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.427,
+                "end": 27.460
+            }
+        ]
+    },
+    "summary": "영상에서는 7시 아침장 보고 있으며 적벽 28대 수초 앞에 바짝 붙여놨는데 나왔다면서 글루텐 사용했다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12912_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_12912_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

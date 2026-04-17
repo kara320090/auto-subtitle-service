@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_11550",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.233,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사이드 메뉴는 치즈스틱으로 바꿔주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.630
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음. 소꿉친구인데 오래된 끈끈한 사이 뭐 이런건가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.640,
+                "end": 11.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "섬녀?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.478,
+                "end": 14.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 그런느낌?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.119,
+                "end": 20.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여사친이 저렇게 나긋나긋하고 착하기 쉽지 않은데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.369,
+                "end": 29.233
+            }
+        ]
+    },
+    "summary": "게임 캐릭터로 등장하는 여자가 오래된 소꿉친구인지 섬녀인지 파악하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11550_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

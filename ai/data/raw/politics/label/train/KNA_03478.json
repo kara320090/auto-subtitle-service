@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_03478",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.69,
+        "format": "MP4",
+        "date": "2021-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "21대 국회들어 처음 열린 대통령과 민주당 원내 지도부 간담회는 차분한 분위기 속에 열렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령은 먼저 격려로 말문을 열였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.493,
+                "end": 9.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "21대 국회가 이룬 성과가 매우 큽니다 무엇보다도 예산과 입법 활동에서 역대 최고의 성과를 거두고 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.704,
+                "end": 20.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 곧이어 엄정 대응을 당부했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.968,
+                "end": 23.690
+            }
+        ]
+    },
+    "summary": "21대 국회들어 처음 열린 대통령과 민주당 원내 지도부 간담회는 차분한 분위기 속에 열렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03478_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

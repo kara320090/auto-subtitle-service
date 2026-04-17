@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_03596",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.15,
+        "format": "MP4",
+        "date": "2021-03-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지하철 차량 기지에서 첫 일정을 시작한 국민의힘 오세훈 후보.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.593
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.603,
+                "end": 5.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "은평구와 서대문구 노원 또 도봉 등 서울 강북권 9개 구를 돌았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.431,
+                "end": 11.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강북에서도 민주당의 상대적 강세 지역인데 공격적으로 표를 끌어모으려는 전략입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.256,
+                "end": 17.150
+            }
+        ]
+    },
+    "summary": "오세훈 후보는 지하철 차량 기지에서 첫 일정을 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03596_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": 38,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

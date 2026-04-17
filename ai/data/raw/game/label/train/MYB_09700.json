@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_09700",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.5,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭔가 느낌이 그래",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대충해",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.296,
+                "end": 4.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 잘못 본 거겠지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.272,
+                "end": 5.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 마음이 꼬였나 봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.820,
+                "end": 7.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방종하고 싶어서 아 뭐야 여기잖아",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.326,
+                "end": 10.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이 사람 상부리크에서 비단 팔고 있던 사람이랑 옷을 똑같이 입었는데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.945,
+                "end": 25.500
+            }
+        ]
+    },
+    "summary": "여성이 게임을 하고 있으며 방종을 하고 싶어 마음이 꼬인 거 같다고 말을 하고 찾는 캐릭터를 찾고 여기라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09700_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

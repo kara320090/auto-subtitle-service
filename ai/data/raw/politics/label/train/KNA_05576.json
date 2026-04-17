@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_05576",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.227,
+        "format": "MP4",
+        "date": "2122-11-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국회 행정안전위원회 현안 보고에 참석한 @이름2 행안부 장관 경찰 인력 배치로 해결될 문제가 아니었다는 등의 발언에 대해 국민의 마음을 세심하게 살피지 못했다며 깊은 유감을 표했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.785
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 사고 발생에 대해서도 처음으로 공식 사과했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.795,
+                "end": 16.698
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민 안전을 책임지는 주무 부처 장관으로서 이 자리를 빌려 국민 여러분께 심심한 사과의 말씀을 드립니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.708,
+                "end": 27.227
+            }
+        ]
+    },
+    "summary": "행안부 장관은 국민의 마음을 세심하게 살피지 못했다며 사고 발생에 대해 깊은 유감을 표하며 공식 사과했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05576_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

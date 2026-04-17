@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_10016",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.7,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래 위험한 일을 앞두고 있으니 자손은 만들고 가라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.441
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 클리시네. 자손 자손 만드는 거 19금 게임인데 히히 뽀뽀라도 해주면 안될까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.451,
+                "end": 13.556
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뽀뽀라도 해주라 히히 정말 주책이야 그죠? 아줌마 아저씨들이 주책바가지야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.566,
+                "end": 22.700
+            }
+        ]
+    },
+    "summary": "여성은 자손 만드는 19금 게임인데 뽀뽀라도 해주면 안 되냐고 했고 아줌마 아저씨들이 주책바가지라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10016_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

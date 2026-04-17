@@ -1,0 +1,17 @@
+{
+  "domain": "ent",
+  "split": "validation",
+  "num_samples": 7306,
+  "avg_val_loss": 0.4295226963063054,
+  "wer": 0.34086028610129177,
+  "cer": 0.18208855990425957,
+  "loss_evaluated_count": 7306,
+  "loss_skipped_count": 0,
+  "audio_missing_count": 0,
+  "invalid_range_count": 0,
+  "empty_segment_count": 0,
+  "max_label_length": 448,
+  "adapter_dir": "/home/user/SWPJ3/auto-subtitle-service/ai/data/results/ent_lora/adapter",
+  "active_adapter_name": "default",
+  "model_id": "openai/whisper-large-v3"
+}

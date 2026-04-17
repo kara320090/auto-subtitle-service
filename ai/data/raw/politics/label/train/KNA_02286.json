@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_02286",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.421,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당장 이전 결정부터 충분한 의견 수렴 없이 이루어졌다는 지적이 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.037
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "단 하루도 현재 청와대에 들어갈 수가 없다라고 하는 그 고집과 억지 때문에 여기까지 온 것이거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.047,
+                "end": 11.442
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민들도 반대를 하고 왜 돈도 그렇게 낭비해 가면서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.452,
+                "end": 16.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 집무실 반경 100미터 내에선 집회 시위도 금지한다는 방침입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.667,
+                "end": 21.421
+            }
+        ]
+    },
+    "summary": "윤 대통령 집무실 이전 결정부터 의견 수렴 없이 이루어졌다는 지적이 나오는 가운데 경찰은 집무실 반경 100미터 내에선 집회 시위도 금지한다는 방침이라고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02286_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 7,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02286_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

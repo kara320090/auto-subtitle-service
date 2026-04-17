@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYB_04987",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.866,
+        "format": "MP4",
+        "date": "2022-09-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기에서는 상위 품목이 잘 안 나와요 근데 이제 대무역이라고 해서 상위 품목을 이제 교환하면 점수를 더 많이 주는 개인 대무역이 나올 때가 있거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럴 때 이벤트에서 상위 퍼센트를 어 좀 더 쉽게 얻을 수 있게 테크를 높여 놓으면은 또 이득 볼 수가 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.105,
+                "end": 15.890
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 키워야 될 쿠키가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.900,
+                "end": 19.866
+            }
+        ]
+    },
+    "summary": "여기서는 상위 품목이 잘 안 나오는데 상위 품목을 교환하면 점수를 많이 주는 개인 대무역이 나올 때가 있어서 그럴 때 테크를 높여 놓으면 또 이득을 볼 수가 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04987_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_04987_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "10대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

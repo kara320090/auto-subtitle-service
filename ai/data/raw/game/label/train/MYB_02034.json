@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYB_02034",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.108,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오랜만에 만나서 반가웠습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 많은 활약을 보여드리지 못해 아쉽지만요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 2.720,
+                "end": 7.336
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아쉬워 할 거 없어.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 7.346,
+                "end": 9.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제부터 제대로 보여달라구 우리도 함께 용의 협곡으로 갈 테니까",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.649,
+                "end": 16.389
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네가 없었어도 어차피 갈 거기도 했고 말야.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 16.399,
+                "end": 20.100
+            }
+        ]
+    },
+    "summary": "홀리베리 쿠키가 타르트타탕맛 쿠키와 함께 용의 협곡으로 간다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02034_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

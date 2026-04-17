@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01197",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.616,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 주기환 9.2였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전북은 민주당 김관영 60.2 국민의힘 조배숙 13.4 전남은 민주당 김영록 57.2 국민의힘 이정현 12.9 순입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.256,
+                "end": 13.396
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제주는 민주당 오영훈 후보 42.3",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.406,
+                "end": 16.616
+            }
+        ]
+    },
+    "summary": "전북은 민주당 김관영 60.2 국민의힘 조배숙 13.4 전남은 민주당 김영록 57.2 국민의힘 이정현 12.9 순입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01197_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01197_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

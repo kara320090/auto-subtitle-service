@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "MYB_03625",
+        "category": "게임",
+        "sub_category": 6,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.25,
+        "format": "MP4",
+        "date": "2023-01-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새로운 이벤트 같은 거죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.618
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞날을 알고 싶다면 지금이 기회라네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.628,
+                "end": 6.647
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 닥초 번개 아 닥초 번개",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.657,
+                "end": 9.078
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나아가게나.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.088,
+                "end": 11.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "쿠키런 킹덤",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.686,
+                "end": 15.266
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 능력을 같이 보게 되면은 아까 잘 못 봤는데. 자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.276,
+                "end": 23.250
+            }
+        ]
+    },
+    "summary": "화자가 새로운 이벤트도 있고 일단 능력을 같이 보자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03625_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

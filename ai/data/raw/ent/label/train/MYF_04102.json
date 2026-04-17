@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYF_04102",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.366,
+        "format": "MP4",
+        "date": "2021-02-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 생각을 하시면서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "처음부터 미르 그러니까 영어로 이제 머 라고 하는 몰약이 등장을 하구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.217,
+                "end": 6.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 클로브가 함께 등장을 해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.570,
+                "end": 8.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 향수 수업할 때 인제 보여드리는 그 향신료들이 있는데 향신료로 많이 쓰구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.652,
+                "end": 14.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 육류, 가공 된 육류들을 요리를 할 때 그 냄새를 없애기 위해서 사용하는 클로브",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.088,
+                "end": 20.366
+            }
+        ]
+    },
+    "summary": "화자가 향수 수업할 때 보여주는 향신료로 몰약과 클로브를 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04102_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04102_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "filename": "MYF_00237",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.566,
+        "format": "MP4",
+        "date": "2023-04-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 사실 복장이 너무 봄 느낌 좋긴 한데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.292
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "복실복실 털이 너무 가려워요.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 3.302,
+                "end": 5.693
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아우 아우 불편해 어우 츄리닝 마려워 아우 츄리닝 입고 싶다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.703,
+                "end": 10.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 재규어 랜드로버 코리아는 랜드로버 공식 리텔사인 브리티시 오토가 동대문 지역에 랜드로버 전시장을 오픈을 했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.388,
+                "end": 18.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 왔는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.882,
+                "end": 20.431
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 동대문 전시장 오픈을 기념해서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.441,
+                "end": 23.566
+            }
+        ]
+    },
+    "summary": "털이 있는 복장이 불편하다고 얘기하며 재규어 랜드로버 코리아에 대해 소개하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00237_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00237_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

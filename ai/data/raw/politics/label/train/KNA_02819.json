@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_02819",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.992,
+        "format": "MP4",
+        "date": "2022-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 이태원 지구촌 축제와 핼러윈을 앞두고 기동대 배치를 요청했지만 서울 경찰청이 거부했다고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.025
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울 청장이 2번이나 검토한 결과에서 더 이상 요청하지 못했다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.035,
+                "end": 13.606
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당일 집회 시위가 많기 때문에 지원이 어렵다는 그런 답변이 들어왔었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.616,
+                "end": 19.277
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재차 검토가 있었으나 그때도 다시 집회 시위 때문에 어려운 걸로.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.287,
+                "end": 25.992
+            }
+        ]
+    },
+    "summary": "전 용산 경찰청장은 이태원 지구촌 축제와 핼러윈을 앞두고 기동대 배치를 요청했지만 서울 경찰청이 거부했다고 주장했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02819_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

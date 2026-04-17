@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01825",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.284,
+        "format": "MP4",
+        "date": "2022-03-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.828
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "코로나19 확진자 사전 투표 혼란을 두고는 지지층에 대한 공작이라며 음모론을 제기하기도 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.838,
+                "end": 8.335
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공작의 능한 사람들이 우리 국민의 힘 지지층을 분열시킬려는 획책입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.345,
+                "end": 18.284
+            }
+        ]
+    },
+    "summary": "코로나19 확진자 사전 투표 혼란을 두고 지지층에 대한 공작이라며 음모론을 제기했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01825_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

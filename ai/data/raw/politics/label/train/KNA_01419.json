@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_01419",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.825,
+        "format": "MP4",
+        "date": "2022-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 예 실망과 이런 슬픔이 매우 큰데 에 하여튼 진실이 곧 규명이 될 거니까 어 믿음을 가지고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.966
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안보실 김태우 1차장이 고인의 형과 통화해 취하 결정 등을 직접 설명했다고 대통령실은 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.976,
+                "end": 18.360
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일부 자료 공개 판결이 확정되고 정부도 의지를 갖고 있지만 실제 공개는 쉽지 않습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 18.370,
+                "end": 25.825
+            }
+        ]
+    },
+    "summary": "대통령실은 안보실 김태우 1차장이 고인의 형과 통화해 취하 결정 등을 직접 설명했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01419_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

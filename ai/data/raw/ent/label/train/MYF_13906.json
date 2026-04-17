@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYF_13906",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.064,
+        "format": "MP4",
+        "date": "2020-02-19",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "집고양이 같은 참참이의 모습이지요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.864
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.874,
+                "end": 9.322
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 소리는 뭐지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.332,
+                "end": 10.648
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참참아 어디 누구 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.658,
+                "end": 15.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아무도 없는데 무슨 소리지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.482,
+                "end": 21.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거기 누구세요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.340,
+                "end": 23.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.810,
+                "end": 31.064
+            }
+        ]
+    },
+    "summary": "화자는 참참이의 소리를 듣고 누가 있는지를 찾고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13906_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 52
+                }
+            ]
+        }
+    ]
+}

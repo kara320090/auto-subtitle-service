@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYB_07903",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.466,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "혼자서 위험한데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.828,
+                "end": 6.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.297,
+                "end": 12.888
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그런가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.898,
+                "end": 14.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.369,
+                "end": 18.921
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 토르가 소리 너무 좋아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.931,
+                "end": 23.466
+            }
+        ]
+    },
+    "summary": "한 여성은 게임 방송을 시청자들과 함께 하고 있음.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07903_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

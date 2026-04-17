@@ -1,0 +1,201 @@
+{
+    "metadata": {
+        "filename": "MYF_10575",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 58.475,
+        "format": "MP4",
+        "date": "2021-12-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐예요?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "큰 차이가 없다면 패스하겠어.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.529,
+                "end": 4.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이름은 자막으로 써야겠다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.597,
+                "end": 10.486
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약간 밀키스같기도 하면서 좀 상콤한 맛인데 그지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.496,
+                "end": 18.205
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청량하진 않아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.215,
+                "end": 19.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청량하지 않아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.280,
+                "end": 20.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "달아. 그냥",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.090,
+                "end": 20.749
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 그냥 흑임자 맛 나는 고소한 우유 맛이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.759,
+                "end": 24.321
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "되게 맛이 연해요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.331,
+                "end": 27.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 와야 된다 그지?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 27.266,
+                "end": 34.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 진짜 멋있어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 34.997,
+                "end": 37.159
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 멋있다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 37.169,
+                "end": 42.044
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 반대편 저녁 먹으러 갑니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 42.054,
+                "end": 58.475
+            }
+        ]
+    },
+    "summary": "화자1은 스타벅스에 가서 제주도에서만 마실 수 있는 제주 스노잉 백록담과 까망라떼를 먹었는데 제주 스노잉 백록담은 밀키스같으면서도 상콤한 맛이고 까망라떼는 흑임자 맛이 나는 고소한 우유 맛이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10575_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": 49,
+                    "act": 24
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_10575_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 26,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

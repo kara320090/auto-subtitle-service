@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_11938",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 36.636,
+        "format": "MP4",
+        "date": "2020-02-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일반 유권자들의 거부감 저항감을 어떻게 극복할 것인지 어 이렇게 질문하셨고 시원하게 답변은 못할 거 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "황교안 대표는 종로구 예비 후보로 등록하고 종로구 내 거주지를 알아보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.829,
+                "end": 17.460
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "문재인 정권의 심판을 위해서 이번 종로에서 꼭 승리하도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.470,
+                "end": 25.036
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 한국당 공관위는 홍준표 전 대표와 김태우 전 경남 지사 험지 차출을 오늘 결론 내리려다 추가 논의를 이어가기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.046,
+                "end": 35.121
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.131,
+                "end": 36.636
+            }
+        ]
+    },
+    "summary": "황교안 대표는 종로구 예비 후보로 등록하고 종로구 내 거주지를 알아보고 있으며 한국당 공관위는 홍준표 전 대표와 김태우 전 경남 지사 험지 차출에 대해 추가 논의를 이어가기로 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11938_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11938_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYF_22886",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.0,
+        "format": "MP4",
+        "date": "2023-03-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "편집을 제가 어떻게 할지 모르겠는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 3시부터 낚시를 해서 지금 7시 정도 됐거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.537,
+                "end": 11.463
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10마리가 넘었어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 11.473,
+                "end": 13.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몇 마리를 제가 편집할 지 모르겠는데 아무튼 이 정도면 거의 타닥 수준 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.437,
+                "end": 18.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 우스갯소리로 @이름1 보고 있나 했지만 정말 지금 고맙게",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 18.669,
+                "end": 24.000
+            }
+        ]
+    },
+    "summary": "화자가 낚시를 시작한 지 4시간이 넘었는데 10마리를 낚았다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22886_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_10337",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.089,
+        "format": "MP4",
+        "date": "2023-05-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 전 대통령은 권양숙 여사 옆에 자리했고 정부 대표로 한덕수 총리가 참석했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.287
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 어떤 강도 바다로 가는 것을 포기하지는 않는다고 하셨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.297,
+                "end": 11.856
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 말씀대로 소외된 약자를 보듬고 민생에 온기를 더하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.866,
+                "end": 17.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추도식에는 여야 지도부와 시민 추도객 등 4500여 명이 모였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.804,
+                "end": 23.089
+            }
+        ]
+    },
+    "summary": "추도식에서 문재인 전 대통령은 권양숙 여사 옆에 자리했고 정부 대표로 한덕수 총리가 참석했으며 여야 지도부와 시민 추도객 등 4500여 명이 모였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10337_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

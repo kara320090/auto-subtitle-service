@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYB_01553",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.066,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "축하드립니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 제일 필요한 거 나왔다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.863,
+                "end": 3.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 진짜 필요해 필수 0티어야 모든 아레나, 수호성전 대난투에서 진짜 얘는 그냥 무조건 필요한 건데 축하드리고요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.452,
+                "end": 18.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈 벌었다 돈 벌었어.야",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.321,
+                "end": 25.066
+            }
+        ]
+    },
+    "summary": "화자가 진짜 필요한 것이 나왔다고 하며 축하한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01553_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

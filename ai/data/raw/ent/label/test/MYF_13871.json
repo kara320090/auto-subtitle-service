@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_13871",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.792,
+        "format": "MP4",
+        "date": "2020-02-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "꼬리만 남기고 사라진 시루",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.187
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.197,
+                "end": 8.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 우리 친구들 유채하고 참참이 스크린 초이 하나씩 차지하고 누워서 우와 그치 유채씨 유채씨 자요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.822,
+                "end": 25.792
+            }
+        ]
+    },
+    "summary": "화자는 여러 고양이 친구들을 보고 말을 걸고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13871_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

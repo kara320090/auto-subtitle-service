@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_07837",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.966,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.573
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뜯고 나니네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.583,
+                "end": 11.778
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.788,
+                "end": 17.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "옷이나 똑바로 입고 말하시지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.129,
+                "end": 18.943
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.953,
+                "end": 29.966
+            }
+        ]
+    },
+    "summary": "20대 여성이 게임 속 내용과 대사를 대신 읽어주면서 상세하게 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07837_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "filename": "MYF_00127",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.898,
+        "format": "MP4",
+        "date": "2023-04-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 햇살 눈부셔.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 비가 안 오는구나 그렇다면 고독한 세차.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.048,
+                "end": 7.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 고독한 세차 시작해볼까",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.492,
+                "end": 11.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 물론 오늘 복장이 좀 이상합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.106,
+                "end": 14.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일 끝나고 바로 와서 그래요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.843,
+                "end": 17.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 키즈카페 촬영을 했는데 어 유아용 미끄럼틀만 10번 탔어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.185,
+                "end": 22.928
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 더.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.938,
+                "end": 24.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 지금부터는 힐링의 시간.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.093,
+                "end": 27.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치열함을 벗고 세차 복장으로 변신해볼게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.304,
+                "end": 31.898
+            }
+        ]
+    },
+    "summary": "일 끝나고 바로 와서 복장이 좀 이상하고 키즈카페 촬영을 하던 중 유아용 미끄럼틀만 10번 탔으며 지금부터는 세차 복장으로 변신한다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00127_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00127_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 49,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_00401",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.383,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제20대 대통령 선거 사전 투표가 내일과 모레 이틀 동안 전국 3550여 개 사전 투표소에서 실시됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.078
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사전 투표 유권자는 별도 신고 없이 오전 6시부터 오후 6시까지 전국 사전 투표소 어디서나 투표할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.088,
+                "end": 16.383
+            }
+        ]
+    },
+    "summary": "선거 사전 투표가 이틀 동안 실시되며 별도 신고 없이 어디서나 할 수 있다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00401_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00401_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 91
+                }
+            ]
+        }
+    ]
+}

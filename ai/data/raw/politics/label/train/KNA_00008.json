@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_00008",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.489,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "적은 것으로 보고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.922
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "A 씨의 생사는 아직 확인되지 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.932,
+                "end": 5.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국방부 관계자는 두 차례 대북 통지문을 보냈는데 북측은 받았다는 반응만 보였을 뿐 우리 측의 신변 보호 요구에 대한 답신은 없다고 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.129,
+                "end": 15.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 월북 당시 비무장 지대에서 북한군 3명이 A 씨에게 다가와 데려간 정황이 포착된 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.311,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "A 씨의 생사는 확인되지 않고 있고 북측에 대북 통지문을 보내보았지만 신변에 대한 답신은 오지 않은 것으로 전해졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00008_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 46,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

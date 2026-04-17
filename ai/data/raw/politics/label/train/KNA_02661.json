@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNA_02661",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.259,
+        "format": "MP4",
+        "date": "2022-11-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "용산구청 상황실이 소방으로부터 사고 사실을 전달받은 건 밤 10시 29분 하지만 박희영 용산 구청장은 그로부터 또 22분이 지난 뒤에야 참사 사실을 인지합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.897
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그마저도 공식 보고가 아닌 다른 경로로 알게 됐다고 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.907,
+                "end": 17.486
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이태원에 난리가 났다는 이야기를 구청장님 언제 알았습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.496,
+                "end": 21.689
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "주민으로부터 10시 51분에 문자를",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.699,
+                "end": 26.259
+            }
+        ]
+    },
+    "summary": "용산 구청장은 상황실이 사고 사실을 전달받고 22분이 지난 뒤에야 공식 보고가 아닌 주민으로부터 문자를 받고 나서야 참사 사실을 인지했다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02661_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02661_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

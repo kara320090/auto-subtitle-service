@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_03042",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.52,
+        "format": "MP4",
+        "date": "2021-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령은 새해 통합을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.788
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 코로나19 상황에 마음의 통합이 중요하다고 역설했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.798,
+                "end": 7.574
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 이런 성과를 함께 인정하고 자부하며 더 큰 발전을 계기로 삼을 때 우리 사회는 더욱 통합된 사회로 나아갈 할 수 있을 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.584,
+                "end": 19.519
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 코로나19 상황에 마음의 통합이 중요하다고 역설했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03042_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_06633",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.0,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "주민들이 보입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이전의 경험을 토대로 최대한 조심히 접근하는 것이 좋아 보입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.084,
+                "end": 4.875
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우오 우오오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.885,
+                "end": 7.706
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물러나 주십시오.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.716,
+                "end": 9.339
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재 해당 마을 주민의 위험도는 고 단계로 책정되어 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.349,
+                "end": 13.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "접근하면 배제합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.101,
+                "end": 14.932
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아마 듣지 않을 거다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.942,
+                "end": 18.000
+            }
+        ]
+    },
+    "summary": "화자는 현재 해당 마을 주민의 위험도는 고 단계로 책정되어 있어 최대한 조심히 접근하는 것이 좋다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06633_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

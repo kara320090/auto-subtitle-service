@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_08367",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.395,
+        "format": "MP4",
+        "date": "2019-05-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소리가 생기는데요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 가보실까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.504,
+                "end": 4.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "달래야 달래야 강아지 패드에 시를 하고 있는 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.167,
+                "end": 18.341
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시를 하고 나서 모래로 묻듯이 발로 시 패드를 덮는구나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.351,
+                "end": 28.395
+            }
+        ]
+    },
+    "summary": "여성이 소리가 생긴 쪽으로 가서 패드에 시를 하는 고양이를 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08367_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

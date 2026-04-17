@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_02932",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.033,
+        "format": "MP4",
+        "date": "2023-02-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "블파덱 아니면은 비추해요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "블파덱 지는 그림을 보여줬죠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.570,
+                "end": 7.223
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 얘는 언제 쓰이냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.233,
+                "end": 8.278
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 직접적으로 보여드릴게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.288,
+                "end": 17.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 이런 식으로 상대가 강력하게 약간 어 딜로 들어오면은",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.327,
+                "end": 32.033
+            }
+        ]
+    },
+    "summary": "남성은 블파덱이 아니면 추천하지 않고 상대가 강력하게 딜로 들어오면 쓴다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02932_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 19,
+                    "object": 70,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

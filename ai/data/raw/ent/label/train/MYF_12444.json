@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYF_12444",
+        "category": "엔터테인먼트",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.991,
+        "format": "MP4",
+        "date": "2023-04-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 대박이네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "힘쓰는 거 보면 잉어였던 것 같은데 이 정도로 힘겨루기를 했으면 대가리가 물 밖으로 나왔어야 하는데 얼굴도 못 봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.260,
+                "end": 24.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방금 44칸 다시 한번 입질이 들어왔는데 목줄 날아갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.277,
+                "end": 32.991
+            }
+        ]
+    },
+    "summary": "한 남성이 힘겨루기를 하다가 물고기를 놓치고 다시 낚시를 하는데 또 한 번 입질이 왔으나 이번에는 목줄이 날아가버렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_12444_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "filename": "MYF_00225",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 48.5,
+        "format": "MP4",
+        "date": "2023-04-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뿅",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "글로브 박스를 딱 열어서 에어컨 필터를 쓱 빼고 아에르 필터를 쏙 넣으면 끝",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.414,
+                "end": 8.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 의상을 선택할 때 차랑 깔 맞춤해서 선택하는 거 아시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.669,
+                "end": 13.054
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘도 깔 맞춤해서 원피스를 입고는 왔는데 우와 추워서 진짜 겉옷을 벗을까 말까 벗을까 말까 한 100번 고민했어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.064,
+                "end": 20.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 오늘 촬영을 위해서 잠깐 벗고 추워 우리가 계속 코로나 기간 동안 마스크를 썼잖아요. 근데 이제 마스크를 벗었잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.818,
+                "end": 29.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갑자기 마스크를 벗다 보니까 이제 다양한 바이러스 만나면서 요즘 감기 환자가 급증하고 있다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.022,
+                "end": 35.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 감기 조심하시고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.691,
+                "end": 37.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이 차량은 @이름1에 원피스 색깔보다 조금 더 회색이죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 37.827,
+                "end": 42.586
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에이버리 락그레이 랩핑을 했는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.596,
+                "end": 45.391
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 색상을 선택한 이유는 시크하면서도",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.401,
+                "end": 48.500
+            }
+        ]
+    },
+    "summary": "코로나 이후 마스크를 벗어서 감기 환자가 많다고 얘기하고 차량의 색상은 회색, 에이이버리 락그레이 랩핑을 했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00225_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00225_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 73
+                }
+            ]
+        }
+    ]
+}

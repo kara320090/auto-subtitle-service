@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "filename": "MYF_00120",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.187,
+        "format": "MP4",
+        "date": "2023-08-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사람 죽겄네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더워 죽겄네 우와.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.116,
+                "end": 3.320
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 누나 뭐 이렇게 많이 싸왔어?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.330,
+                "end": 5.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 또 이 더위를 해치우기 위해 준비를 좀 해왔지만 그 전에 이거 뭐냐면 도시락통.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.699,
+                "end": 12.846
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 누나 엄마 도시락도 싸?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.856,
+                "end": 14.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 엄마가 싸 준 반찬 다 먹어서 빈 도시락통.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.405,
+                "end": 17.674
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇지 뭐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.684,
+                "end": 18.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헤헤 자",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.563,
+                "end": 21.187
+            }
+        ]
+    },
+    "summary": "여성이 자동차 안에 앉아서 도시락통을 들어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00120_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

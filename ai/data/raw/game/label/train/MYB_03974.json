@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYB_03974",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.565,
+        "format": "MP4",
+        "date": "2022-12-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "흩어진 가족들이 한데 모이는 시간 함께 웃고 놀다 보면 새로운 이야기와 추억이 생기기 마련이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.953
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가족 그게 뭐야 처음 들어보는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.963,
+                "end": 22.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 번 들어볼래?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.739,
+                "end": 25.558
+            }
+        ]
+    },
+    "summary": "쿠키가 가족에 대한 노래를 부르고 있으며 다른 쿠키가 가족이 뭔지 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03974_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYF_04381",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.633,
+        "format": "MP4",
+        "date": "2020-11-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우와",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 0.544
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "9번을 길게 이렇게 묻힌 후에 아까 찍지 마라고 하셨는데 저는 이걸 한 번 이렇게 찍어 가지고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.554,
+                "end": 8.803
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 하 세상에 없는 정말 너무 아름다운 향이 납니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.813,
+                "end": 16.136
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은 물론 다른 아이들이 섞여 있긴 한데 뭔가",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.146,
+                "end": 21.633
+            }
+        ]
+    },
+    "summary": "레이어드 할 롤 온 타입의 향수를 팔에 묻힌 후 양 팔을 가볍게 찍어 주면 세상에 없는 아름다운 향이 난다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04381_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04381_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

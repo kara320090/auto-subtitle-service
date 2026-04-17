@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYF_00475",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.6,
+        "format": "MP4",
+        "date": "2021-07-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어우야 콩아 너 정말 엄마 걱정돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 잘해 너무 너무 잘 내려왔어요 콩이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.530,
+                "end": 6.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우 콩이 대단해 대단 콩이 어구 잘했어 우리 콩이 또 올라갈 거야 궁둥이 보이네 콩이.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.770,
+                "end": 32.600
+            }
+        ]
+    },
+    "summary": "콩이가 캣 타워에서 혼자 내려와 대견해한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00475_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 44
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00475_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

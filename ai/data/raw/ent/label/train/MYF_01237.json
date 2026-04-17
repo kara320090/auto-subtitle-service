@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYF_01237",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.866,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불고기 좋아하시구요. 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우디 향수 계열",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.462,
+                "end": 3.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 플로럴 향수 계열이 머리 아프다고 하시네요. 네, 그러실 수 있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.945,
+                "end": 9.767
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "린넨 섬유 좋아하시고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.777,
+                "end": 12.475
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요즘 같은 날씨에 정말 어 사실 지금은 좀 장마철이라 눅눅하지만 네, 마른날 여름에",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.485,
+                "end": 20.866
+            }
+        ]
+    },
+    "summary": "40대 여성이 불고기와 린넨 섬유를 좋아하는데 플로럴 향수 계열은 머리가 아프다고 하신다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01237_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

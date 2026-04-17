@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYB_04630",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.466,
+        "format": "MP4",
+        "date": "2022-10-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 오 우유 뽑았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.195
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "놀라지 마라 초코크림",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.205,
+                "end": 4.739
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "망치맨 여러분들 추후에 찰스 같은 제 2의 쿠키가 아닌 게 나오는 거 뭐로 예상하나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.749,
+                "end": 16.331
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찰스 같은 애가 또 누가 나올까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.341,
+                "end": 19.466
+            }
+        ]
+    },
+    "summary": "화자가 찰스 같은 캐릭터가 또 무엇이 나올까 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04630_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

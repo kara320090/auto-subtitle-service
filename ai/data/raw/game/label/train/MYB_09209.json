@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_09209",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.408,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.668
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.668,
+                "end": 14.522
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "알테마랑 관련 있는 게 맞네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.532,
+                "end": 16.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 진짜요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.520,
+                "end": 18.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.380,
+                "end": 21.400
+            }
+        ]
+    },
+    "summary": "발화자가 영상을 보며 시청자와 함께 상황에 대해서 이야기하는 모습이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09209_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

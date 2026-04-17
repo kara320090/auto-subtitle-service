@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_03574",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.699,
+        "format": "MP4",
+        "date": "2021-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "확진자들이 방문하는 만큼 모든 과정에서 말하지 않고 손짓으로 안내해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특별 사전 투표소는 사전 투표 둘째 날인 다음달 삼일 여덟 시간 가량 운영 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.782,
+                "end": 12.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울에만 모두 다섯 곳 설치됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.271,
+                "end": 15.105
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방역 조치들을 강화했습니다 예를 들면은 투개표 종사원들이 사전 금 검사를 미리 받도록 했고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.115,
+                "end": 23.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 병원이나 요양원에 있어 거동이 불편한 사람과 코로나19 확진자에 대해서는 지난주에 미리 거소 투표 사전 신청을 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.298,
+                "end": 32.699
+            }
+        ]
+    },
+    "summary": "투표소에서는 확진자들이 방문하는 만큼 모든 과정에서 말하지 않고 손짓으로 안내한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03574_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

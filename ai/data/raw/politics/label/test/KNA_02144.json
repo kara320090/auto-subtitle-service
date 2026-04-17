@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02144",
+        "category": "정치뉴스",
+        "sub_category": 21,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.151,
+        "format": "MP4",
+        "date": "2022-04-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동조한 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.391
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김오수 검찰 총장의 대통령 면담 요청과 국민의 힘의 대통령 입장 표명 요구에 대해 청와대는 지금은 국회가 논의해야 할 입법의 시간이라면서 당분간 특별한 입장을 낼 계획이 없음을 분명히 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.401,
+                "end": 16.125
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 강나루입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.135,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "김오수 검찰 총장의 대통령 면담 요청과 국민의 힘의 대통령 입장 표명 요구에 대해 청와대는 지금은 국회가 논의해야 할 입법의 시간이라면서 특별한 입장을 낼 계획이 없음을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02144_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02144_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

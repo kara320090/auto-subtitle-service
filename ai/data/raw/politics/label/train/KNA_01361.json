@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_01361",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.49,
+        "format": "MP4",
+        "date": "2022-06-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민 대통합 사면을 대체적으로 실시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.424
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이명박 전 대통령을 사면할 경우 김경수 전 경남지사도 함께 사면할 가능성도 거론되는데 대통령실 관계자는 이에 대해 아직 들은 바 없다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.434,
+                "end": 15.174
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 강병수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.184,
+                "end": 17.532
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오늘 코로나19 신규 확진자 수는 1만 2,000여 명을 기록했는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.542,
+                "end": 23.490
+            }
+        ]
+    },
+    "summary": "대통령실은 김경수 전 경남지사 사면 가능성에 대해 들은 바 없다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01361_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

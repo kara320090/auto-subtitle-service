@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYB_03029",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.9,
+        "format": "MP4",
+        "date": "2023-02-14",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "10대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물러설 수 없어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.075
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "딜이 1900만이네",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.085,
+                "end": 3.253
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 호루라기 빼고 일단은 모노쿨 해서 달빛이랑 생존 좀 높여 보면서 해볼게요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.263,
+                "end": 9.536
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직 몰라요 여러분들 아직 덱이 뭐 바로 나오는 것도 아니기 때문에",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.546,
+                "end": 15.900
+            }
+        ]
+    },
+    "summary": "덱이 뭐 바로 나오는 게 아니기 때문에 호루라기 빼고 일단 모노쿨 해서 달빛이랑 생존 좀 높여 보면서 해볼게요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03029_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

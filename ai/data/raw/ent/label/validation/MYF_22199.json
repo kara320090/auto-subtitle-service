@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "filename": "MYF_22199",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 86.653,
+        "format": "MP4",
+        "date": "2021-02-06",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘 먹겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.952
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 고소해.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.962,
+                "end": 16.514
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 같이 먹자.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.524,
+                "end": 18.175
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오빠 너무 웃겨.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 18.185,
+                "end": 59.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 진지함 일할 때보다 진지해.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 59.589,
+                "end": 63.768
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 우리 내 영상에서 노른자 깨는 걸 되게 많이 나와.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 63.778,
+                "end": 69.752
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래? 워낙 좋아해서 그 장면을 놓치지 않아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 69.762,
+                "end": 72.761
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "완숙 좋아하는 사람들은 되게 기분이 나쁠 수 있어. 음",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 72.771,
+                "end": 79.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 하나를 위해서 계란을 이때까지 먹는 거 같애.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 79.628,
+                "end": 86.653
+            }
+        ]
+    },
+    "summary": "여성과 남성은 같이 음식을 먹으면서 얘기를 나누면서 여성은 반숙 계란을 좋아해 영상에 노른자 깨는 장면이 자주 나온다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22199_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_22199_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 67
+                }
+            ]
+        }
+    ]
+}

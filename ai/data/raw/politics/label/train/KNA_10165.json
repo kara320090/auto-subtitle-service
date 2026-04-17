@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_10165",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.123,
+        "format": "MP4",
+        "date": "2022-05-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기존에 나왔던 공약이란 지적엔 스스로 세운 정책이라고 말합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.569
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "의료 후불제 같은 것은 지금 제가 실현하지만 전국적으로 확산되고 세계적으로 확산될 걸 기대하고 하는 정책이기 때문에 남의 것을 베낄 겨를이 없고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.579,
+                "end": 15.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노 후보를 두고는 문재인 정부 부동산 정책 실패의 책임이 있다는 비판이 민주당 내에서 나오기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.684,
+                "end": 23.123
+            }
+        ]
+    },
+    "summary": "국민의힘 김 후보는 의료 후불제가 세계적으로 확산될 걸 기대하고 하는 정책이라고 말했으며 민주당 노 후보를 두고 문재인 정부 부동산 정책 실패의 책임이 있다는 비판이 당내에서 나오기도 했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

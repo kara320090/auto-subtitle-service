@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01687",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.515,
+        "format": "MP4",
+        "date": "2022-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "긴급 기자 회견을 자청한 국민의당 안철수 후보의 첫 언급은 무의미한 시간을 정리한다는 것이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.217
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "단일화 제안 딱 일주일 만에 결렬을 선언한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.227,
+                "end": 11.470
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이제부터 저의 길을 가겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.480,
+                "end": 15.515
+            }
+        ]
+    },
+    "summary": "단일화 제안 일주일 만에 안철수 후보는 결렬을 선언했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01687_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

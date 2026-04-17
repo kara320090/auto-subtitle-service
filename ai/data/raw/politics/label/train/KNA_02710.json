@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02710",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.056,
+        "format": "MP4",
+        "date": "2022-11-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘은 충분히 사과했다며 예산 심의에 집중하자고 맞섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.487
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "충분히 그 저 사과를 했다고 생각을 하고 계속 이 문제를 가지고 얘기를 하는 것은 정상적인 예산 심사의 의지가 없는 것으로 보여집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.497,
+                "end": 16.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 수석이 사과하기 직전 카메라에 담긴 사적 발언이라는 남자 목소리도 논란이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.615,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "국민의 힘은 충분히 사과했다며 예산 심의에 집중하자고 맞섰으며 두 수석이 사과하기 직전 카메라에 담긴 사적 발언이라는 남자 목소리도 논란이 됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02710_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02710_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

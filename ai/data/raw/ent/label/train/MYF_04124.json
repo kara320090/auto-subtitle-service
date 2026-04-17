@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "MYF_04124",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 164.002,
+        "format": "MP4",
+        "date": "2021-01-28",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 48.795
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네, 가운데 앉으세요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 48.805,
+                "end": 50.903
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주문 필요하시면",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 50.913,
+                "end": 55.271
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어발화&",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "start": 55.281,
+                "end": 164.000
+            }
+        ]
+    },
+    "summary": "방문한 식당과 카페에서 음식을 즐기고 초대한 프랑스인을 만났다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_04124_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 26,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_04124_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 43,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

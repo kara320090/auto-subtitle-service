@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01036",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.582,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사실 무근이라며 조 전 장관 수사는 과잉 수사가 아니었다고도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아울러 민주당이 강행 처리한 검찰 수사권 축소 법안에 대해선 위헌 소지가 있다고 거듭 주장했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.337,
+                "end": 12.978
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헌법에 보장된 수사 기관의 수사권을",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.988,
+                "end": 15.582
+            }
+        ]
+    },
+    "summary": "조 전 장관 수사는 과잉 수사가 아니라고 했으며 민주당이 강행 처리한 경찰 수사권 축소 법안은 위헌 소지가 있다고 주장했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01036_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 45,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

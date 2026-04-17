@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_07893",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2022-07-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나토 정상회의 참석 후 첫 출근길.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령은 여러 의혹이 제기된 복지부 교육부 장관 임명 여부를 빨리 결정하겠다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.315,
+                "end": 8.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "도덕성 면에서도 이 에 전 정부에서 밀어붙인 인사들을 보면은",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.927,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 여러 의혹이 제기된 복지부, 교육부 장관 임명 여부를 빨리 결정하겠다고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07893_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 2,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

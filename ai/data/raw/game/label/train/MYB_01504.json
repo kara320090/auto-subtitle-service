@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01504",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.966,
+        "format": "MP4",
+        "date": "2023-07-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전체 1등분하고 한 번 가보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.659
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 승급 자체가 2성으로 낮죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.669,
+                "end": 7.529
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "승급이 낮아도 상대방분은 풀 초월 스냅은 1초월",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.539,
+                "end": 16.966
+            }
+        ]
+    },
+    "summary": "화자가 자신은 승급이 2성으로 낮지만 상대는 풀 초월 스냅은 1초월이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01504_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 13,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

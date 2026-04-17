@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_10607",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.4,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1는 왜 죽이고 다니는 거야 그런데",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.735,
+                "end": 11.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.830,
+                "end": 19.960
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "굿굿 맞아 사진 찍으라고 혜놓고 사진찍기 안 해주고",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.970,
+                "end": 26.400
+            }
+        ]
+    },
+    "summary": "왜 죽이고 다니는 거고 사진 찍으라고 해 놓고 사진 찍기 안 해줬다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10607_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

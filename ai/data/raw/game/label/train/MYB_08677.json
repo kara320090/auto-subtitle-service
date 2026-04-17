@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_08677",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.0,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 방금 죽을 뻔 했다 목 막혀서.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.663
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 고구마 진짜 뻑뻑하네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.673,
+                "end": 8.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 고구마를 먹으면은 가슴이 막 답답하죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.133,
+                "end": 12.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뻑뻑한 게 막혔나?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.472,
+                "end": 16.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 잘못 먹었다간 죽을 수도 있겠는데?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.628,
+                "end": 20.387
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "타고 가자 멀다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.397,
+                "end": 23.000
+            }
+        ]
+    },
+    "summary": "왜 고구마를 먹으면 가슴이 답답하고 목이 막히고 그러는지 모르겠고 잘못 먹었다간 죽을 수도 있을 거 같습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08677_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

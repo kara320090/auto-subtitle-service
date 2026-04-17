@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYF_08785",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.357,
+        "format": "MP4",
+        "date": "2019-01-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 어딨어 @이름1 발견.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.416
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 발견 @이름1는 거기서 잘 거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.426,
+                "end": 10.473
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감히 못 들어 오고 잘못한 건 아나 보지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.483,
+                "end": 16.211
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 @이름1 눈을 감고 고개를 젓다니 @이름1.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.221,
+                "end": 24.357
+            }
+        ]
+    },
+    "summary": "화자가 밖에서 자는 @이름1를 보고 잘못한 건 아나 보다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_08785_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

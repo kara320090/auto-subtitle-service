@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_02935",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.966,
+        "format": "MP4",
+        "date": "2023-02-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "좀 힘들지만 특히나 이 덱은 허브방덱 아까 좋다고 했잖아요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허브 방덱 뚫 뚫을 때 정말 좋아서 이 덱도 많이 추천드립니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.444,
+                "end": 17.618
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 홀베가 순삭 당했네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 17.628,
+                "end": 23.966
+            }
+        ]
+    },
+    "summary": "남성이 소개하는 덱은 허브방덱에게 좋아서 추천을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02935_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 19,
+                    "object": 70,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

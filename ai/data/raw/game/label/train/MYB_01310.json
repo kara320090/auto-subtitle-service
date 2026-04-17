@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_01310",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.266,
+        "format": "MP4",
+        "date": "2023-07-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 이번 업데이트 스킨 주인공입니다. 가장 화려하게 많이 바꼈다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뽑으실 거면 많이 바뀐 걸 원하시는 분들은 파르페를 뽑아라 정말 많이 바뀌었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.811,
+                "end": 11.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파르페는 마지막 락스타 락스타는 회복",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.511,
+                "end": 18.266
+            }
+        ]
+    },
+    "summary": "많이 바뀐 걸 원하시는 분은 파르페를 뽑아야 한다. 가장 화려하게 정말 많이 바뀌었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01310_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_02402",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.155,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 상황에도 불구하고 핵 실험을 포함한 북한의 추가 도발 가능성이 있어서 북한 동향을 면밀히 감시하고 있다고 보고하였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.374
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미사일 발사에 이어 핵 실험 가능성까지 커지면서 장거리 폭격기 등 미국 전략 자산 전개를 포함한 한미 간 협의도 더욱 활발해질 전망입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.384,
+                "end": 20.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 송영석입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.399,
+                "end": 22.155
+            }
+        ]
+    },
+    "summary": "미사일 발사에 이어 핵 실험 가능성까지 커지면서 장거리 폭격기 등 미국 전략 자산 전개를 포함한 한미 간 협의도 더욱 활발해질 전망입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02402_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 4,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

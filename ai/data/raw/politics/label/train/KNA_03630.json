@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNA_03630",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.004,
+        "format": "MP4",
+        "date": "2021-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 후보는 40대를 제외한 모든 연령에서 @이름2 후보보다 앞섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이념 성향별로는 중도층이 오 후보를 57.1 박 후보를 22퍼센트가 지지해 중도표의 쏠림이 뚜렷했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.466,
+                "end": 14.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당선 가능성을 묻는 질문에선 @이름2 24.6 @이름1 62.3으로 격차가 더 커졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.066,
+                "end": 22.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 선거에서 반드시 투표할 것이라는 적극적 투표층은 78.7퍼센트였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.239,
+                "end": 28.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "연령대가 높아질수록 적극적 투표 의향 비율이 높았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.763,
+                "end": 33.141
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "60세 이상이 가장 높았고 20대 이하는 58.2퍼센트였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.151,
+                "end": 38.004
+            }
+        ]
+    },
+    "summary": "이념 성향별로는 중도층이 오 후보를 57.1 박 후보를 22퍼센트가 지지해 중도표의 쏠림이 뚜렷했으며 이번 선거에서 반드시 투표할 것이라는 적극적 투표층은 78.7퍼센트였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03630_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03630_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

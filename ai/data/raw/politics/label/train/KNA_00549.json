@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00549",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.062,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불편한 심기를 드러내기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.438
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집무실 이전 실무를 맡아 온 김용현 전 합참 본부장은 라디오 인터뷰에서 강경한 내부 분위기를 전하기도 했는데 청와대가 안보 우려를 표명한 데 대해 굉장히 역겹다고 강도 높게 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.448,
+                "end": 16.123
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 윤석열 당선인이 앞으로 협상의 여지가 있으니 계속 협의해 나가라고 했다고 김 전 본부장은 전 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.133,
+                "end": 24.032
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 오늘 국회 국방위에서도 이 집무실 용산 이전 문제가 다뤄졌다면서요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.042,
+                "end": 29.062
+            }
+        ]
+    },
+    "summary": "김용현 전 합참 본부장은 청와대가 안보 우려를 표명한 데 대해 굉장히 역겹다고 강도 높게 비판하며 다만 윤석열 당선인이 앞으로 협상의 여지가 있으니 계속 협의해 나가라고 했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00549_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00549_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

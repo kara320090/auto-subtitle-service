@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYB_03518",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.041,
+        "format": "MP4",
+        "date": "2023-01-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1는 요새 키울까요 하시는데 @이름1도 많이 쓰입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.830
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 공속덱한테도 너무 좋기 때문에 공덱으로 자 보면 @이름2덱한테 극강으로 저는 되게 유리하게 이기거든요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.840,
+                "end": 20.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.420,
+                "end": 22.041
+            }
+        ]
+    },
+    "summary": "크런치 캐릭터도 많이 쓰이고 있고 공속덱한테 좋기 때문에 클로티드 덱과 만났을 때 유리하게 이길 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03518_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

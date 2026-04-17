@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYB_09265",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.866,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 걸 아무튼 불만 가져 가지고 그렇게 하는 것 부터가 그러네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 17.546
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영화 같은 거면 모르겠긴 했어 사실.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.556,
+                "end": 23.866
+            }
+        ]
+    },
+    "summary": "발화자가 게임 안에서도 인종에 대해 불만을 가지는 것을 이야기하고 있는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09265_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

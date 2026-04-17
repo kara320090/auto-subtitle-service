@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09181",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.733,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 생각 안 하고 싶어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.562,
+                "end": 3.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 얘 나는 근데 얘가 말하는 거 너무 어려워",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.449,
+                "end": 16.962
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 자기 밥그릇은 자기가 알아서 챙겨야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.972,
+                "end": 22.733
+            }
+        ]
+    },
+    "summary": "발화자는 한 영상 속 인물이 말하는 것이 알아듣기 어렵다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09181_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

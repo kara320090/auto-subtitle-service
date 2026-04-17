@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_33927",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.333,
+        "format": "MP4",
+        "date": "2018-06-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동북아 다자 평화 안보 협력 체제로 발전할 수 있을 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.980
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한반도에 평화 체제가 구축되면 남북 경제 협력이 본격화되고 러시아와의 3각 협력으로 확대될 것이라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.990,
+                "end": 13.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "3국 간의 철도, 에너지, 전력 협력이 이뤄지면 동북아 경제 공동체의 튼튼한 토대가 될 수 있을 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.418,
+                "end": 23.333
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 한반도에 평화 체제가 구축되면 남북 경제 협력이 본격화되고 러시아와의 3각 협력으로 확대될 것이라고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33927_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 41,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33927_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

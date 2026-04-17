@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00025",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2022-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민들이 피해를 추가로 입고 있기 때문에 당연히 이에 상응하는 지원과 보상이 있어야 돼",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전 국민에게 지급되는 소비 쿠폰 형태의 재난 지원금을 포함해 추경 규모는 25조에서 30조 원 규모로 추산했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.079,
+                "end": 15.445
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 후보는 선거를 앞뒀다고 해서 정치권이 정략적으로 계산하지 말고",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.455,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "전 국민에게 지급되는 재난 지원금을 포함해 추경 규모를 25조에서 30조 원으로 추산했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00025_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00025_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 20,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

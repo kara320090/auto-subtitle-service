@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "KNA_04343",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.996,
+        "format": "MP4",
+        "date": "2021-09-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아주 골수 좌파들인기라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.008
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당에서 면접관을 저런 분들을 면접관으로 했죠?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.018,
+                "end": 7.152
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 후보는 또 고발 사주 의혹과 관련해선 윤석열 후보 책임론을 제기했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.162,
+                "end": 12.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일 국민면접에 참여하는 윤석열 후보는 강원도를 찾았습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.350,
+                "end": 17.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고발 사주 의혹과 관련한 공세에 정치를 늘 공작에 의존해서 하는 습성은 버릴 때가 되지 않았냐며 신속하게 진상을 확인해 결론 내달라고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.348,
+                "end": 27.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.827,
+                "end": 29.996
+            }
+        ]
+    },
+    "summary": "고발 사주 의혹과 관련해 두 후보는 윤석열 후보 책임론을 제기했고 윤석열 후보는 정치를 공작에 의존해서 하는 습성은 버릴 때가 되지 않았냐며 신속하게 진상을 확인해 결론 내달라고 말했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04343_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04343_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

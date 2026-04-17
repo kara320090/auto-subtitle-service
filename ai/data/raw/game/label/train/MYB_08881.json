@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYB_08881",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 17.866,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.659,
+                "end": 8.144
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래 아직 @이름1랑 뽀뽀도 제대로 못했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.154,
+                "end": 10.842
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.852,
+                "end": 15.111
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "크 멋있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.121,
+                "end": 17.866
+            }
+        ]
+    },
+    "summary": "아직 @이름1랑 뽀뽀도 제대로 못했다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08881_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

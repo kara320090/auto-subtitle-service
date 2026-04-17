@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_01648",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.8,
+        "format": "MP4",
+        "date": "2023-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 사실상 안 죽어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 32.661
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분들 그냥 무아 무적덱이야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 32.671,
+                "end": 35.621
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 35.631,
+                "end": 36.800
+            }
+        ]
+    },
+    "summary": "남성이 안 죽는 무적덱이라고 사람들에게 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01648_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 70,
+                    "act": 138
+                }
+            ]
+        }
+    ]
+}

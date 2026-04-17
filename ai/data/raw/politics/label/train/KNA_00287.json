@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00287",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.55,
+        "format": "MP4",
+        "date": "2022-02-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이승만, 박정희 전 대통령 묘역도 처음 참배하며 개인보단 국민의 입장을 생각하겠다 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.405
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이어진 기자회견에선 국민통합 더 선명히 강조하면서 정권 교체보다 정치 교체, 국민통합 정부를 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.415,
+                "end": 15.538
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정치 교체와",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.548,
+                "end": 17.550
+            }
+        ]
+    },
+    "summary": "이재명 후보는 정권 교체보다 정치 교체, 국민통합을 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00287_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

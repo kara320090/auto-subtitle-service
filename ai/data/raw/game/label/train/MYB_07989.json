@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_07989",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.1,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "게스 발목이 안 빠져.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.279
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 오내면 죽는 중이다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.289,
+                "end": 9.856
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그만 조용히해 힘을 주던지 말을 하던지 둘 중에 하나만 해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.866,
+                "end": 21.100
+            }
+        ]
+    },
+    "summary": "게임 캐럭터가 계속 말을 하니니까 둘 중에 하나만 하라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07989_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

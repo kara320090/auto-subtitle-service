@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_04438",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.455,
+        "format": "MP4",
+        "date": "2021-10-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이재명 후보의 서울지역 공약 발표에 이 후보는 먼저 @이름1 전 성남도시개발공사 기획 본부장의 구속에 대해 입을 열었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.228
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3000여 성남시 공무원과 그 1500여 명의 산하기관 소속 임직원에 대한 관리 책임은 당시 성남시장이던 제게 있는 것이 맞습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.238,
+                "end": 22.455
+            }
+        ]
+    },
+    "summary": "민주당 이재명 후보의 서울지역 공약 발표에 이 후보는 먼저 @이름1 전 성남도시개발공사 기획 본부장의 구속에 대해 입을 열었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04438_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYB_02810",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.583,
+        "format": "MP4",
+        "date": "2023-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 처음 비석 떨어질 때 블베 그다음에 3번째 떨어지고 나서 오먹 아 야 좀 늦었다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 저렇게 해주시고 자 그다음에 이제 마카롱 예약을 걸구요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.731,
+                "end": 12.875
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마카롱 걸고 이제 비석 깨질 때 됐을 때",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.885,
+                "end": 18.583
+            }
+        ]
+    },
+    "summary": "남성은 자신의 공격 방법을 자세히 설명하면서 게임을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02810_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 151
+                }
+            ]
+        }
+    ]
+}

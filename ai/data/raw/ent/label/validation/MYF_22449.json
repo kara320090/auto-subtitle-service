@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYF_22449",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.3,
+        "format": "MP4",
+        "date": "2022-06-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "달지는 않지?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 0.934
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.944,
+                "end": 1.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "달지도 않고 쓰지도 않고 느끼하지도 않아.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 1.289,
+                "end": 4.604
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "근데 괜히 피자에 야채 있으니까 되게 마음의 위로가",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.614,
+                "end": 10.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기 엄청 예뻐.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 10.850,
+                "end": 31.300
+            }
+        ]
+    },
+    "summary": "여성 2명이 음식점에서 피자를 먹고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_22449_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": 34,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

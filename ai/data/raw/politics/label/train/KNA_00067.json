@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_00067",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.018,
+        "format": "MP4",
+        "date": "2022-01-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "육아 문제 때문에 직장을 그만둬야 되는 일이 최소화될 수 있다고 하는 게 중요하겠고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.785
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근 여가부 폐지를 공약한 윤 후보를 향해선 폐지한다 반대한다를 넘어 대안을 말해달라고 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.795,
+                "end": 13.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘 윤석열 후보는 인천으로 향해 수도권 표심 잡기에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.590,
+                "end": 18.018
+            }
+        ]
+    },
+    "summary": "이재명 후보는 육아 문제로 인한 퇴사를 최소화해야 한다고 이야기하며 여가부 폐지를 공약한 윤석열 후보에게 대안을 요구했고 윤석열 후보는 수도권 표심 잡기에 나섰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00067_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00067_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

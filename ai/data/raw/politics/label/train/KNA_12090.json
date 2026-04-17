@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNA_12090",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.965,
+        "format": "MP4",
+        "date": "2020-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더불어민주당과 비례대표용 정당인 더불어시민당 첫 회의 나란히 앉아 더불어 한 집안임을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더불어시민당은 민주당의 정신과 뿌리를 공유하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.632,
+                "end": 12.877
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 승리를 끄는 말이고 시민당는 승리를 싣는 수레입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.887,
+                "end": 17.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미래통합당과 비례대표용 정당 미래한국당도 마찬가지",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.432,
+                "end": 22.497
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바꿔야 산다 바꿔야 미래가 있다 슬로건에 선거 운동복도 맞췄습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.507,
+                "end": 28.119
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "미래통합당과 미래한국당",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.129,
+                "end": 31.965
+            }
+        ]
+    },
+    "summary": "더불어민주당과 더불어시민당이 한 집안임을 강조했고 미래통합당과 미래한국당도 마찬가지라고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12090_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12090_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

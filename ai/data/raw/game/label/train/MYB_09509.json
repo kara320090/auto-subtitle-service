@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_09509",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.2,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.178
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무슨 레스토랑 이름 같지 않아요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.188,
+                "end": 12.184
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.194,
+                "end": 18.320
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.330,
+                "end": 18.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.929,
+                "end": 22.719
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국 뭣 때문에 이런 얘길 하고 있는 건지 뒤늦게 눈치 챘어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.729,
+                "end": 25.861
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.871,
+                "end": 28.200
+            }
+        ]
+    },
+    "summary": "한 여성이 영상을 보며 내용을 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09509_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

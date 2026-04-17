@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_02607",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.495,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김해시는 이날 오후 4시 반쯤 증상자 신고로 해당 식당에 위생상태를 확인했지만 식중독 원인균 확인을 위한 검체채취는 하지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "식중독으로 의심할만한 정황이 없었다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.049,
+                "end": 12.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "식중독이라 함은 다수에 인원이 발생하고 이제 병원에서 접수됐다던가 그렇게 접수되면 그렇게 식중독으로 판단을 하는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.260,
+                "end": 21.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김해시가 위생점검을 나가기 전인 같은 날 오후 3시 반쯤 올라온 행정안전부 안전신문고 신고 내역입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.246,
+                "end": 28.495
+            }
+        ]
+    },
+    "summary": "증상자 신고로 해당 식당에 위생상태를 확인했지만 식중독 원인균 확인을 위한 검체채취는 하지 않았는데 그 이유는 의심할만한 정황이 없었고 병원에서 다수에 식중독 신고가 들어와야 한다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02607_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02607_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 49,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_07934",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2022-07-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "후보자들을 만나본 결과 업무 능력과 리더십을 갖춘 @이름1 후보자를 적임자로 판단했다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.182
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치안감 승진 6개월 만에 치안정감이 된 윤 후보자에 대해 파격 인사 아니냐는 물음에 이렇게 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.192,
+                "end": 14.537
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 정권에서 임명되었던 치안정감들의 경우에 정치 권력하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.547,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "후보자들을 만나본 결과 업무 능력과 리더십을 갖춘 @이름1 후보자를 적임자로 판단했다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07934_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

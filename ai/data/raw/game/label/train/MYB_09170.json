@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_09170",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 37.9,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조정 당했네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 14.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 진짜 나쁜놈이네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.115,
+                "end": 27.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.152,
+                "end": 32.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 근데 저렇게 알테마가 조정한 거였어 다",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.666,
+                "end": 37.900
+            }
+        ]
+    },
+    "summary": "발화자는 게임 영상 속 알테마가 모든 걸 조정한 거였다고 이야기합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09170_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_03828",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.993,
+        "format": "MP4",
+        "date": "2021-05-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 3월 공수처는 수원지검에 이첩한 @이름1 전 법무부 차관 사건을 검찰로 다시 돌려보내면서 조건을 달았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "수사는 검찰이 하되 재판에 넘길지는 공수처가 판단하겠다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.916,
+                "end": 12.927
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만약 이게 전속적 관할이다 그러면 공소제기를 다른 수사가 한 한 것이 부적법하다고 판단될 수가 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.937,
+                "end": 20.986
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 해괴망측한 논리라며 사건 관련자인 @이름 2 검사 등의 기소를 강행했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.996,
+                "end": 26.993
+            }
+        ]
+    },
+    "summary": "공수처는 @이름1 전 법무부 차관을 검찰로 다시 보내며 수사는 검찰이 하되 재판에 넘길지는 공수처가 판단한다고 밝혔다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03828_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

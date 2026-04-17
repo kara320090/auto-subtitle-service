@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_07120",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 78.233,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "감사해요. 웃는 얼굴이 저렇게 매력이 터질 줄이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 8.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "징크스 같아 에어리얼 블래스트 못 들어가나? 뭐 어떻게 하란 말이야? 피하란 말 아니야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.878,
+                "end": 50.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쿠살다오라 여체아라니 먹퇴 이렇게 생긴 쿠살다오라였으면 이것만 했겠지 사람들이 티에이를",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 50.754,
+                "end": 78.233
+            }
+        ]
+    },
+    "summary": "여성은 게임을 어떻게 하라는 건가 생각했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07120_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

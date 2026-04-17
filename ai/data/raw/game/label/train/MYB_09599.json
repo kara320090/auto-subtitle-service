@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "filename": "MYB_09599",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.0,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신고 할아버지 저예요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.330
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.340,
+                "end": 10.726
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.736,
+                "end": 13.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 조합을 해볼까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.575,
+                "end": 16.199
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.209,
+                "end": 17.195
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.205,
+                "end": 18.166
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.176,
+                "end": 19.965
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오볼로스가 누구였지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.975,
+                "end": 21.796
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.806,
+                "end": 24.000
+            }
+        ]
+    },
+    "summary": "여자가 게임 속 영상을 보면서 게임 캐릭터 대사에 나오는 오볼로스가 누구였는지 묻고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09599_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

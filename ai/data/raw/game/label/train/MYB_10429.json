@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_10429",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.966,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.823
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 들어봤던 목소리.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.833,
+                "end": 15.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뮈토스가 뭔데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.272,
+                "end": 18.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "키사마.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.460,
+                "end": 23.966
+            }
+        ]
+    },
+    "summary": "여성이 혼잣말을 하며 게임 영상을 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10429_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

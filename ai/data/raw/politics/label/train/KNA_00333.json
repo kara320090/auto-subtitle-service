@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_00333",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.866,
+        "format": "MP4",
+        "date": "2022-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "굴레를 벗어나지 못했다며 마음 깊은 분노와 울분을 표하지 않을 수 없다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강원랜드에 채용청탁을 했다는 혐의로 기소된 국민의힘 권성동 의원은 6년 만에 무죄가 확정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.547,
+                "end": 14.251
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "권 의원은 2012년 11월부터 이듬해 4월까지 강원랜드 교육생 공개선발과정에서 인사팀에 압력을 넣어 의원실 인턴비서 등 11명을 채용하게 한 혐의를 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.261,
+                "end": 26.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "권 의원은 최흥집 전 강원랜드 사장으로부터 감사원 감사 관련 청탁을 받고",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.992,
+                "end": 32.866
+            }
+        ]
+    },
+    "summary": "강원랜드 채용 청탁 혐의로 기소된 권성동 의원은 무죄가 확정되었고 강원랜드 교육생 공개 선발 과정에서 인사팀에 압력을 넣어 11명을 채용하게 한 혐의를 받았다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00333_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 32
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00333_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 11,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

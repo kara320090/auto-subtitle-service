@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYB_09638",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.166,
+        "format": "MP4",
+        "date": "2023-06-28",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얼음 늑대 힘을 눈을 뜬 다음부터 간식에 시큰둥",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 그럴까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.997,
+                "end": 5.899
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.909,
+                "end": 12.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼음 늑대는 뼈에서 사냥잠의 힘을 흡수한대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.191,
+                "end": 15.403
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.413,
+                "end": 16.064
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평범한 뼈로는 이제 만족이 안 되는 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.074,
+                "end": 19.166
+            }
+        ]
+    },
+    "summary": "여자가 게임을 하면서 게임 속 캐릭터의 대사를 읽고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09638_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

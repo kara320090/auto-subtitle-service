@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYB_01961",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.666,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 이 몸이 용의 모습를 제대로 유지하기가 어렵단 말이지.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.885
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너희도 싸우면서 느꼈겠지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.895,
+                "end": 7.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 이전만큼 힘을 쓰지 못하고 있다는 거 말야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.116,
+                "end": 9.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 그걸 우리에게 말해주는 거지?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.881,
+                "end": 12.942
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜냐면 너희들이 날 죽일 거였으면 여기까지 데려와서 맛 좋은 베리주스를 먹여주진 않았을 테니까.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.952,
+                "end": 20.666
+            }
+        ]
+    },
+    "summary": "용과드래곤 쿠키가 자신이 힘을 제대로 쓰지 못하고 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01961_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

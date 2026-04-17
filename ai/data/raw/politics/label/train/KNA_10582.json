@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_10582",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.592,
+        "format": "MP4",
+        "date": "2023-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 이 대표가 대통령에게 차마 입에 담을 수 없는 막말을 했다며 반발을 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.998
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당을 사유화해 방탄막이로 삼으면 명백한 범죄 혐의자지 대표겠느냐며 이 대표의 말을 되돌려 줬습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.008,
+                "end": 14.084
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조급해지는 마음은 알겠습니다만 대통령을 향한 공격적인 수식어와 거친 막말이 남발할수록 의심만 더해질 뿐입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.094,
+                "end": 25.592
+            }
+        ]
+    },
+    "summary": "국민의힘은 이 대표가 막말을 했다며 반발했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10582_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

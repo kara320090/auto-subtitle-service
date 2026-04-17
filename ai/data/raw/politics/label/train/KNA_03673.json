@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNA_03673",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.534,
+        "format": "MP4",
+        "date": "2021-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사전 투표 현장에도 저는 많이 담겨있다",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.786
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 조직표 총동원에 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.796,
+                "end": 5.756
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이낙연 상임 선대 위원장은 2002년 대선 때 고향인 전남 영광까지 가 투표를 했다며 투표를 독려했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.766,
+                "end": 13.613
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "내가 아는 모든 사람들이 함께 투표소에 가서 우리의 의지를 결연하게 보이도록 여러분이 행동해주셔야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.623,
+                "end": 24.884
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박 후보는 홍대 거리에서 젊은 층을 만나고 촛불 집회가 열렸던 광화문 일대로 다시 돌아가 유세를 마무리합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.894,
+                "end": 32.465
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.475,
+                "end": 34.534
+            }
+        ]
+    },
+    "summary": "민주당은 조직표 총동원에 나섰고 이낙연 상임 선대 위원장은 투표 독려를 그리고 박 후보는 홍대 거리에서 젊은 층을 만나고 광화문 일대로 돌아가 유세를 마무리합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03673_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 149
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03673_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYF_01205",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.366,
+        "format": "MP4",
+        "date": "2023-07-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 첫 번째에 갔을 때가 이제 6월이어가지고 6월에 라벤더가 피어 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 라벤더는 그 발 발 이케 쪽에 땅에 피니까 요렇게 제가 밑에다가 또 라벤더 사진을 두기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.326,
+                "end": 17.366
+            }
+        ]
+    },
+    "summary": "영상에서는 첫 번째로 갔을 적에 라벤더가 피는 6월이었으며 땅에서 피기 때문에 사진을 밑에 두었다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_01205_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 19,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_01205_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 19,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

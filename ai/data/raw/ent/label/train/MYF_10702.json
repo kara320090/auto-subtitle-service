@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_10702",
+        "category": "엔터테인먼트",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.064,
+        "format": "MP4",
+        "date": "2023-07-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "리한나의 리얼 네임이 그거였여요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 저것도 잘 적었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.247,
+                "end": 8.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "클라운 피쉬.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.296,
+                "end": 13.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 28개가 있습니다만 32개인가 30 네 32개가 정답일 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.891,
+                "end": 23.064
+            }
+        ]
+    },
+    "summary": "남성은 리한나의 리얼 네임을 알게 되고 다음 문제는 32개가 정답일 거라고 예측한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10702_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

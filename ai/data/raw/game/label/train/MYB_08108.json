@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_08108",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.0,
+        "format": "MP4",
+        "date": "2023-07-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "브라쿠손",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 헐 안 만난대",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.849,
+                "end": 17.073
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손절했나 봐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.083,
+                "end": 25.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "불쌍한 베어러들",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.710,
+                "end": 28.000
+            }
+        ]
+    },
+    "summary": "한 여성의 게임에서 졸탄이 블랙손을 안 만난다고 얘기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08108_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

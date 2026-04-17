@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00993",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법인카드 부정 사용 의혹도 제기됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국 외대 총장 재임 시절 학생들에게 막말하는 등 총학생회와 갈등을 빚은 사실도 논란이 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.167,
+                "end": 11.258
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 같은 의혹이 제기됐던 김 후보자는 오늘 기자들의 질문에는 답하지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.268,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "감사위원 활동 때 사용했던 법인카드 부정 사용 한국 외대 총장 재임 시절 학생들에게 막말하는 행동 등에 대한 의혹에는 답하지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00993_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00993_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

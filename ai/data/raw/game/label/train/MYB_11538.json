@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYB_11538",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.8,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문이 열리나?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.544
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일로 가는 게 아닌가 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.554,
+                "end": 3.168
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방에는 어떻게 가는 걸까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.178,
+                "end": 5.722
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기도 아니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.732,
+                "end": 7.173
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저 안쪽에 계단 같은 게 있나 본데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.183,
+                "end": 11.864
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내 방은 어떻게 꾸며져 있을까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.874,
+                "end": 15.293
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 너무 어둡지 않나요 근데? 괜찮나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.303,
+                "end": 20.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여러분 보시기에 화면이. 어두우면 말씀 해주세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.260,
+                "end": 24.800
+            }
+        ]
+    },
+    "summary": "방에 가는 방법을 모르고 어떻게 꾸며져 있는지도 몰라서 찾고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11538_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 16
+                }
+            ]
+        }
+    ]
+}

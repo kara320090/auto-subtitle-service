@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_10605",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.897,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유부를 유무를 판단할 수 있을까 이런 우려가 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "위에서 지시가 내려와서 이런 전격적으로 압수수색을 하는 게 아닌가.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.974,
+                "end": 10.132
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞서 부 전 대변인은 자신의 책에서 역술인 천공이 대통령실 이전을 앞두고 육군 참모 총장 공관 등을 찾았다는 의혹을 제기해 대통령실부터 고발당한 상태입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.142,
+                "end": 21.211
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부 전 대변인은 오늘 기자들을 만난 자리에서 천공 관련 의혹은 자신의 기록에 근거해서 책에 담은 것이라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.221,
+                "end": 28.988
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.998,
+                "end": 30.897
+            }
+        ]
+    },
+    "summary": "부 전 대변인은 자신의 책에 천공 관련 내용을 담았고 기록에 근거했다고 주장한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10605_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00228",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.018,
+        "format": "MP4",
+        "date": "2022-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "출범식을 열고 민주당 이재명 후보에 대한 공개 지지를 선언했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 정부의 정책 중 일부는 실용주의적 노력이 부족했다는 쓴소리도 나왔는데 이재명 후보는 포용과 통합을 거듭 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.420,
+                "end": 12.760
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인재와 정책에 있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.770,
+                "end": 15.015
+            }
+        ]
+    },
+    "summary": "출범식에서 민주당 이재명 후보에 대한 공개 지지 선언이 있었고 이재명 후보는 포용과 통합을 거듭 약속했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00228_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

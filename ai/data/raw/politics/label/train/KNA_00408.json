@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00408",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "외화 유동성 커버리지 비율 규제 완화 외국인 근로자 취업 활동 기간 연장 등은 이달 중 따로 발표할 예정이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박예원입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.947,
+                "end": 11.917
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "러시아 군이 침공 1주일 만에 우크라이나의 주요 도시 가운데 처음으로 남부 유충지 헤르손을 점령 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.927,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "러시아 군이 우크라이나의 주요 도시인 헤르손을 점령했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00408_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00408_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

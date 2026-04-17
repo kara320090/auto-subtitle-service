@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "filename": "MYB_10629",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.266,
+        "format": "MP4",
+        "date": "2023-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "못 내려가던가?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "길 있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.914,
+                "end": 7.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 뭐야 이번엔 닭이랑 놀고 있네 아깐 쥐랑 놀고 있었는데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.269,
+                "end": 10.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.646,
+                "end": 15.062
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "닭 표정 보고 싶다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.072,
+                "end": 18.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 한심하게 바라보는 이 뒷모습 잘 논다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.831,
+                "end": 22.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘 놀아 아이고 잘한다 초코초코 아 막힌 길 나오면 미안해서 상자 보상 너무 친절한 거 아니에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.574,
+                "end": 35.266
+            }
+        ]
+    },
+    "summary": "아까는 쥐랑 놀고 있었는데 닭이랑 놀고 있고 막힌 길이 나오면 미안해서 상자 보상을 준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_10629_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYB_10629_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

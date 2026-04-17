@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_30616",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.7,
+        "format": "MP4",
+        "date": "2016-11-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마음에 상처를 드려서 너무나 가슴이 아픕니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.031
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박 대통령은 국가 경제와 국민의 삶에 도움이 될 것이라는 바람에서 추진한 일이었다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.041,
+                "end": 13.116
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 그 과정에서 특정 개인이 이권을 챙기고 여러 위법 행위까지 저질렀다고 하니 너무나 안타깝고 참담한 심정이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.126,
+                "end": 23.700
+            }
+        ]
+    },
+    "summary": "박 대통령은 국가 경제와 국민의 삶에 도움이 되길 바라는 마음에서 추진한 일이었으나 그 과정에서 특정 개인이 이권을 챙기고 위법 행위를 저질러 참담한 심정이라고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30616_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

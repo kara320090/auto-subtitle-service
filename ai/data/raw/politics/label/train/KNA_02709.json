@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02709",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.529,
+        "format": "MP4",
+        "date": "2022-11-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국정 감사장에서 웃기고 있네 라는 메모를 나눠 퇴장을 당한 대통령실 김은혜 홍보 수석과 강승균 시민 사회 수석 어제 대통령실 예산 심사 자리에서도 여야가 이 문제로 정면충돌했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 국회 차원의 고발과 대통령실의 중징계를 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.020,
+                "end": 18.984
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회의 자존심을 회복하기 위해서라도 김은혜 수석과 강승규 시민 사회 수석을 국회 차원에서 국회 모독죄로 어 고발해 주실 것을 강력하게 요청드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.994,
+                "end": 29.529
+            }
+        ]
+    },
+    "summary": "국정 감사장에서 웃기고 있네 라는 메모를 나눠 퇴장을 당한 대통령실 김은혜 홍보 수석과 강승균 시민 사회 수석 어제 대통령실 예산 심사 자리에서도 여야가 이 문제로 정면충돌했으며 민주당은 국회 차원의 고발과 대통령실의 중징계를 요구했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02709_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02709_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

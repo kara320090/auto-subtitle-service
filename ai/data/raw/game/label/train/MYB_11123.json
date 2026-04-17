@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYB_11123",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.1,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 맞다 복수하러 온 거였지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세계를 지키는 게 아니라?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.601,
+                "end": 3.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "온갖 세계관이 짬뽕이 돼 가지고는",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.296,
+                "end": 7.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "헤이 헤이 도움",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.739,
+                "end": 11.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.048,
+                "end": 15.348
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 근데 퀘스트 같은 거 하나하나 다 대화하는 씬이 있으니까 너무 좋다 그쵸?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.358,
+                "end": 21.832
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 21.842,
+                "end": 26.100
+            }
+        ]
+    },
+    "summary": "화자는 세계를 지키는 것이 아닌 복수하러 온 것이고 퀘스트마다 대화하는 씬이 있어서 좋다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

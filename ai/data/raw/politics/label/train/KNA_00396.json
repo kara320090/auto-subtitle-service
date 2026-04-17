@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_00396",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.151,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서울 시내 집중 유세에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.208
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야권 단일화를 견제하며 수도권 부동층 공략에 집중했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.218,
+                "end": 7.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 여성과 청년층을 배려하며 차별 없는 통합의 정치를 펼치겠다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.179,
+                "end": 13.360
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자신의 정치적 이익을 위해서 남녀를 편 가르고",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.370,
+                "end": 18.151
+            }
+        ]
+    },
+    "summary": "야권 단일화를 견제하며 수도권 부동층 공략에 집중하며 특히 여성과 청년층을 배려하며 차별 없는 통합의 정치를 펼치겠다고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00396_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

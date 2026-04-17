@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "MYB_02913",
+        "category": "게임",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.0,
+        "format": "MP4",
+        "date": "2023-02-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 블파 좋네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 뭐야 블파 넣으니까 바로 기갱했어.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.116,
+                "end": 4.744
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1퍼 보상은 그냥 이 조합 그대로 하면 될 것 같은데요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.754,
+                "end": 8.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "답정너가 벌써 나와버렸는데? 어?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 8.230,
+                "end": 11.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 야 잠깐만 아 근데 쿨타임은 저거 필요 없는데 아.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.439,
+                "end": 20.000
+            }
+        ]
+    },
+    "summary": "화자는 이 조합 그대로 하면 될 것 같다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_02913_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

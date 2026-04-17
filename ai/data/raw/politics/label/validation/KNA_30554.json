@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_30554",
+        "category": "정치뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.9,
+        "format": "MP4",
+        "date": "2016-08-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 NLL 지역 중국 불법 어업 방지 시설을 위해 올해 예산 20억 원에서 100억 원으로 5배를 증액하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당정은 이와 함께 추가 경정 예산안의 조속한 처리를 거듭 촉구했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.793,
+                "end": 14.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.555,
+                "end": 17.900
+            }
+        ]
+    },
+    "summary": "당정은 NLL 지역 중국 불법 어업 방지 시설을 위해 예산을 5배 증액하기로 했으며 이와 함께 추가 경정 예산안의 조속한 처리를 거듭 촉구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30554_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 8,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30554_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

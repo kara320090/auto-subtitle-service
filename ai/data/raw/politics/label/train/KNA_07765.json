@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNA_07765",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2022-06-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보고를 받지 못한 게 아침에 언론에 나와서 제가 아침에 확인을 해보니까 노동부에서 발표를 한 것이 아니고 아직 정부의 공식 입장으로 발표된 건 아닙니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "장관 발표 하루 만에 대통령이 말을 뒤집은 것처럼 비쳐졌는데 여당은 보고를 받았다고 하면서 혼선은 더 커졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.396,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "장관 발표과 대통령의 말이 어긋나면서 혼선이 빚어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

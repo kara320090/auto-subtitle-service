@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYF_05440",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.238,
+        "format": "MP4",
+        "date": "2022-01-22",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 나름 비데랑 있을 건 다 있네요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일본에서 1박을 한 적이 있는데 이런 느낌이었어.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.387,
+                "end": 6.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비행기 안에 있는 뭔가 화장실이랑 세면대 같은 느낌이거든요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.378,
+                "end": 12.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기도 이비스라는 문구가 딱 있고 여기도 어메니티 같은 경우에서도 배쓰, 샤워 젤이랑 그리고 로션 그리고 컨디셔너, 샴푸 있고요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.006,
+                "end": 23.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치약, 칫솔 그리고",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.433,
+                "end": 26.233
+            }
+        ]
+    },
+    "summary": "화장실에는 비데도 있고 어메니티로 샤워 젤, 로션, 컨디셔너, 치약, 칫솔 등이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_05440_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

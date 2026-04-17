@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "filename": "MYB_08946",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.1,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안 되겠다 내가 보호해 줘야겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.755
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1님 통장에 인감도장 뭐 다 가지고 오세요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.765,
+                "end": 6.746
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "카드도 갖고 오고 다 저한테 맡겨 놓으세요. 맡아줄게",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 6.756,
+                "end": 10.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 맡아 준다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.822,
+                "end": 13.403
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "믿으면 안 돼.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.413,
+                "end": 14.802
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.812,
+                "end": 18.656
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가자 힝",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.666,
+                "end": 21.100
+            }
+        ]
+    },
+    "summary": "여자가 보호해 주겠다고 @이름1님 통장 인감도장 다 가지고 오라고 맡아 준다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08946_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

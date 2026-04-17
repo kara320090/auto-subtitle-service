@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYF_07786",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.323,
+        "format": "MP4",
+        "date": "2020-02-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1야 지금 @이름2랑 숨바꼭질하고 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.696
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "숨었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.706,
+                "end": 7.253
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름1 숨었다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.263,
+                "end": 8.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 @이름1 @이름1 어디 있지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.921,
+                "end": 13.674
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "초록색 공을 잡아라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.684,
+                "end": 16.397
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1가 공을 노리고 있고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.407,
+                "end": 20.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2도 공을 노리고 있는 것 같애요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.553,
+                "end": 23.323
+            }
+        ]
+    },
+    "summary": "@이름1랑 @이름2가 숨바꼭질하고 있고 공도 서로 노리고 있다고 여자가 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_07786_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 4
+                }
+            ]
+        }
+    ]
+}

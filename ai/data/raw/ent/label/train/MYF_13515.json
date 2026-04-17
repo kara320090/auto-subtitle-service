@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYF_13515",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2020-03-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 친구들이 화장실에서 마음 편하게 있을 수 있겠어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나한테도 그랬는데 저 녀석 엄마 나도 쫓아다녀요 참이가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.708,
+                "end": 10.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참아 참아 그만 참이 그만 아까 누나 방 앞에서 노랑이랑 대치하던 것이 아직도 참이에게는 남아있나 봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.186,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "참이는 아직 노랑이랑 대치 중이며 여성이 말리고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 112
+                }
+            ]
+        }
+    ]
+}

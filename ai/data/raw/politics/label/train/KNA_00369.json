@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00369",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.583,
+        "format": "MP4",
+        "date": "2022-02-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "심상정 안철수 후보에 거듭 연대 손짓을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.858
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "통합의 정치하자 제3의 선택이 가능한 진짜 정치 교체하자.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.868,
+                "end": 9.707
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명의 주장이고 안철수의 꿈이고 시심상정의 소망 사항이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.717,
+                "end": 16.583
+            }
+        ]
+    },
+    "summary": "이재명 후보는 심상정 안철수 후보에게 진짜 정치 교체를 위한 연대 손짓을 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00369_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

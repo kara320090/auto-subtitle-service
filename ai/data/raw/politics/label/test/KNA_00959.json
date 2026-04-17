@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00959",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.015,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박진 외교부장관 후보자 인사 청문회에선 북핵 대응에 대한 질의가 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.592
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박 후보자는 한미동맹을 통한 대응을 강조하면서도 미국과의 전술핵 공유는 논의하지 않고 있다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.602,
+                "end": 13.229
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 확장 억제 전략 협의체를",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.239,
+                "end": 16.015
+            }
+        ]
+    },
+    "summary": "외교부장관 후보자의 인사 청문회에 대하여 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00959_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

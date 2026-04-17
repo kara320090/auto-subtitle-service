@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_33588",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.253,
+        "format": "MP4",
+        "date": "2023-06-29",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민 권익 구제라는 본연의 업무에 집중해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.976
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기재부와 외교부, 고용부 등 절반이 넘는 정부 중앙 부처의 차관급 13명도 교체됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.986,
+                "end": 10.931
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "체육, 관광 업무를 관할하는 문체부 2차관에는 역도 금메달리스트 출신의 장미란 용인대 교수가 깜짝 발탁됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.941,
+                "end": 20.253
+            }
+        ]
+    },
+    "summary": "정부 중앙 부처의 차관급 13명이 교체됐고 문체부 2차관에는 역도 금메달리스트 출신의 장미란 용인대 교수가 깜짝 발탁됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33588_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33588_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

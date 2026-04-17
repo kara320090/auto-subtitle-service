@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYF_13666",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.921,
+        "format": "MP4",
+        "date": "2020-03-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 @이름1 뭐 보고 있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 @이름1가 편안하게 바닥에 누워있죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.435,
+                "end": 7.994
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 전까지도 아빠가 하시는 작업에 @이름1가 엄청 방해를 했답니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.004,
+                "end": 13.829
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아빠는 어떤 작업을 하셨을까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.839,
+                "end": 16.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한번 가볼까요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.259,
+                "end": 17.755
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1야 아빠 뭐 하셨어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.765,
+                "end": 20.920
+            }
+        ]
+    },
+    "summary": "@이름1이 조금 전까지 아빠가 하시는 작업에 방해하고는 바닥에 편안하게 누워있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13666_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 41,
+                    "act": 47
+                }
+            ]
+        }
+    ]
+}

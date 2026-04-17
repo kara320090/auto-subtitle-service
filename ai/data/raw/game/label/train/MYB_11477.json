@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYB_11477",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.4,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관심 병사 관심 병사야.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.611
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "고문관 분위기 몰입은 전혀 없음.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 4.621,
+                "end": 9.792
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐야 수위가 낮아요 저 수위면 고기 잡기 힘든데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 9.802,
+                "end": 17.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "라고 오늘 밀치회를 먹으신 분이 말씀하셨어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.557,
+                "end": 20.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.702,
+                "end": 25.400
+            }
+        ]
+    },
+    "summary": "한 여성이 관심 병사, 고문관 분위기로 몰입이 전혀 없다고 말하고는 오늘 밀치회 먹은 분이 저 수위면 고기 잡기 힘들다고 말했다며 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11477_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

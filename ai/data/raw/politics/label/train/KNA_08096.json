@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_08096",
+        "category": "정치뉴스",
+        "sub_category": 16,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2022-07-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오해도 좀 있으신 것 같고 어 아니면은 어 또 보시고 어 싶은 부분만 어 보고 어 언론 등에서 일부에서 지적하는 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.539
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세금 인하에 따른 효과를 놓고 인식 차는 뚜렸했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.549,
+                "end": 12.575
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대기업 4조를 깎아 주면은 그러면 우리 저 힘들고 어려운 국민들한테 갈 재정 지출은 어떻게 됩니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.585,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "오해가 조금 있거나 보고 싶은 부분만 본다고 반박했지만 세금 인하에 따른 효과를 놓고 인식 차는 뚜렸했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08096_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

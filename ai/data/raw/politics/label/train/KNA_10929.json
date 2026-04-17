@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_10929",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.093,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일본에도 역대 내각에 역사인식을 계승하고 미래지향적 한일관계를 만들겠다는 뜻을 밝힌 만큼 이에 걸맞은 행동을 기대한다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한일정상은 정상회담 뒤 공동 기자회견을 열어 회담 결과를 설명할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.156,
+                "end": 16.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행동을 기대한다는 윤석열 대통령에 언급대로 일본 측이 얼마나 성의있는 호응을 내놓을지가 관건이 될 전망입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.090,
+                "end": 23.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일본 도쿄에서 KBS뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.667,
+                "end": 27.093
+            }
+        ]
+    },
+    "summary": "한일정상은 정상회담 뒤 공동 기자회견을 열어 회담 결과를 설명할 예정이며 윤 대통령에 언급대로 일본 측이 얼마나 성의있는 호응을 내놓을지가 관건이 될 전망이라고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10929_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10929_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

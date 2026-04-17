@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_33853",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.7,
+        "format": "MP4",
+        "date": "2018-06-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사상 처음으로 지방 선거와 동시에 치러진 국회의원 재보궐 선거 잠정 투표율도 60.7퍼센트로 지난해 412 재보선의 53.9퍼센트 보다 크게 올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.499
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인터넷에는 주위 투표를 독려하고 자신이 투표했음을 알리려는 인증 사진이 끊이지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.509,
+                "end": 18.700
+            }
+        ]
+    },
+    "summary": "사상 처음으로 지방 선거와 동시에 치러진 국회의원 재보궐 선거 잠정 투표율도 60.7퍼센트로, 지난해 4.12 재보선보다 크게 올랐고 인터넷에는 주위에 투표를 독려하고 자신이 투표했음을 알리려는 인증 사진이 끊이지 않고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33853_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33853_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

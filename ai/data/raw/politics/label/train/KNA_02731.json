@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNA_02731",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.784,
+        "format": "MP4",
+        "date": "2022-11-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령 출국을 이틀 앞둔 그젯밤 9시쯤.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실이 MBC 측에 전용기 탑승 불허를 문자로 통보했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.068,
+                "end": 8.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전용기 탑승은 취재 편의를 제공해 오던 것이라며 최근 MBC의 외교 관련 왜곡 편파 보도가 반복돼 온 점을 고려한 결정이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.891,
+                "end": 17.784
+            }
+        ]
+    },
+    "summary": "대통령실이 윤석열 대통령 출국 이틀 전 MBC 측에 전용기 탑승 불허를 문자로 통보했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02731_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 4,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

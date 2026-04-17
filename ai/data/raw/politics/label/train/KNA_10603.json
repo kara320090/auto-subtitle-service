@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_10603",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.888,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방첩사는 특히 한미 국방 장관 회담에서 전시 작전권 전환과 같은 양측이 주고받은 이야기 등이 책에 상세히 담겨 있는 점에 주목하는 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.436
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방첩사는 국방부 대변인실에서 부 전 대변인이 썼던 컴퓨터도 압수수색했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.446,
+                "end": 15.830
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 압수 수색물 PC 말고 또 다른 거 있습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.840,
+                "end": 18.713
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "군사기밀 보호법 위반 혐의 외 다른 혐의도 있나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.723,
+                "end": 21.888
+            }
+        ]
+    },
+    "summary": "방첩사는 컴퓨터도 압수수색을 했고 기자들은 질문한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10603_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

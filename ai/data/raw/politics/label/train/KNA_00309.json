@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00309",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.588,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비자금을 조성하고 일부는 횡령한 의혹을 받고 있는 김원웅 광복 회장이 회임 투표를 이틀 앞두고 자진 사퇴의 뜻을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 감독 관리 잘못으로 벌어진 일이라며 횡령 의혹은 부인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.405,
+                "end": 13.384
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홍진아 기자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.394,
+                "end": 15.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김원웅 광복 회장 사퇴를 요구하며 일부 회원들이 점거 농성을 예고한 날.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.890,
+                "end": 21.588
+            }
+        ]
+    },
+    "summary": "횡령 의혹 받고 있는 김원웅 광복 회장이 회임 투표를 이틀 앞두고 자신 사퇴의 뜻을 밝혔으며 감독 관리 잘못이라며 횡령 의혹은 부인했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00309_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

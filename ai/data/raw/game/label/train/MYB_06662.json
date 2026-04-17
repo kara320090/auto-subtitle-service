@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_06662",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.833,
+        "format": "MP4",
+        "date": "2023-08-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맞아요 킁킁 시켜볼 게 있어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.309
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그럼 지금부터 별빛 노래님이 하고 싶은 거를 실컷 하는 시간 가지면서 잠깐 이 막간을 이용해 어 화장실 좀 갔다 올게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.319,
+                "end": 11.103
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감사합니다 별빛 노래님 화이팅.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.113,
+                "end": 15.898
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맞아 마을이 미쳤다는 걸 잘 표현해 주죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.908,
+                "end": 18.184
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 화장실 참으면 또 신우신염 걸릴 수 있어 가지고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.194,
+                "end": 22.833
+            }
+        ]
+    },
+    "summary": "화자는 별빛 노래님이 하고 싶은 것을 실컷 하는 동안 화장실에 다녀 온다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_06662_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYB_03970",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.129,
+        "format": "MP4",
+        "date": "2022-12-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 쿠키들이 보내는 연말 이야기 모드 스토리를 같이 보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 어쩐지 같은 자리를 돌고 있는 거 같네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.206,
+                "end": 14.564
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "클로버맛 쿠키가 가르쳐준 대로 가고 있었는데 어차피 길도 잃은 거 잠깐 쉬면서 쿠키 왕국에서 들려줄 노래를 연습해볼까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.574,
+                "end": 25.829
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "라 라라라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.839,
+                "end": 29.129
+            }
+        ]
+    },
+    "summary": "남성이 쿠키들이 보내는 연말 이야기를 같이 보자고 하고 캐릭터는 노래를 부르고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03970_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 19
+                }
+            ]
+        }
+    ]
+}

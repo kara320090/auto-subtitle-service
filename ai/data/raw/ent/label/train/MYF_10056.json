@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYF_10056",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.266,
+        "format": "MP4",
+        "date": "2021-07-23",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "때문인 거 같애요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약을 꼭 먹는 것 때문이 아니라 약을 이렇게 눈에 넣는 그 시간 아직은 하루에 네 번 넣어야 되거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.179,
+                "end": 15.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "약 넣기 위해서 하던 일을 멈추고 식사를 하는 거 같애요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.475,
+                "end": 22.939
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 그러면은 그냥 일만 할 수도 있을 거 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.949,
+                "end": 28.107
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 그러면 안 된다는 걸 깨우쳤어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 28.117,
+                "end": 32.266
+            }
+        ]
+    },
+    "summary": "한 여성이 식사를 하는 이유에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10056_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 26,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

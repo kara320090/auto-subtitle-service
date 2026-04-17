@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYB_07115",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.7,
+        "format": "MP4",
+        "date": "2023-07-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래 넌 이 전쟁이 끝나면 소꿉친구에게 고백하렴",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.492
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 내 웃음벨이야 이 여자 너무 귀여워",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.502,
+                "end": 11.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 게임이 19금 게임이에요. 감사합니다. 맞아 돈이 없어서 안 돼 이사부터 가야 돼 저 여자 진짜 웃음벨이야",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.852,
+                "end": 23.700
+            }
+        ]
+    },
+    "summary": "여성은 내 웃음 벨이라며 여자 너무 귀엽다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07115_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

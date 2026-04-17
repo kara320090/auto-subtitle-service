@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_02021",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.693,
+        "format": "MP4",
+        "date": "2022-03-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 당선인은 정부부처 업무 보고 가운데 국토교통부 보고에만 참석했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부동산 규제 점검을 주문했는데 이 자리에선 임대차 3법을 폐지 또는 축소해야 한다는 의견이 제시됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.869,
+                "end": 14.544
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시장에 상당한 혼선을 주고 있다라는 그런 문제의식과 제도 개선에 대한 의지는 분명하다는 점은 다시 한번 말씀드리도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.554,
+                "end": 26.693
+            }
+        ]
+    },
+    "summary": "윤석열 당선인은 국토교통부 보고에만 참석했으며 임대차 3법을 폐지 또는 축소해야 한다는 의견이 제시됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02021_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

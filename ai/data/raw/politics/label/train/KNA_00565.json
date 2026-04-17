@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_00565",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 57.957,
+        "format": "MP4",
+        "date": "2022-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 사안이 진실 게임 양상을 보이고 있는 것 같은데 이 당선인 측의 설명에 대해서 청와대가 다시 반박했더군요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청와대는 오늘 지명한 이창용 후보자가 당선인 측에서 추천한 인물이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.607,
+                "end": 14.890
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청와대 고위 관계자는 언론에서 오르내리는 두 사람을 당선인 측에 물어봤더니 이창용이라는 답이 돌아왔다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.900,
+                "end": 23.973
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 후보자에 대한 검증 여부까지 물어 오길래 과거 금융 통화 위원 후보로 거론될 때 검증한 게 있다는 답변까지 했다고 설명을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.983,
+                "end": 33.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결과적으로 당선인 측이 원하는 바를 들어줬기 때문에 좋아할 줄 알고 오늘 발표 전에 전화를 했더니 이때 합의한 적 없다는 주장이 돌아왔다고 이 관계자는 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.230,
+                "end": 45.194
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문재인 대통령과 윤 당선인은 여러 이슈를 놓고 대립 중인데 그나마 이견이 덜했던 한국은행 총재 인선마저 진실 게임 양상으로 흐르면서 갈등이 더 커지는 분위기입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 45.204,
+                "end": 57.957
+            }
+        ]
+    },
+    "summary": "이창용 한은 총재 임명으로 청와대와 윤 당선인이 진실 게임 양상을 보이며 갈등이 더 커지고 있다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00565_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00565_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

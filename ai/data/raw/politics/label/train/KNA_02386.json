@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02386",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.048,
+        "format": "MP4",
+        "date": "2022-05-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 오세훈 후보는 약자와의 동행을 1 호 공약으로 내걸었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안심소득과 공공의료 확대 서울형 고품질 임대주택 등 취약 계층을 위한 맞춤형 정책에 방점을 찍었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.450,
+                "end": 12.922
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직도 그늘진 곳이 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.932,
+                "end": 15.048
+            }
+        ]
+    },
+    "summary": "국민의힘 오세훈 후보는 안심소득과 공공의료 확대 서울형 고품질 임대주택 등 약자와의 동행을 1 호 공약으로 내걸었다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02386_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02386_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "MYB_01949",
+        "category": "게임",
+        "sub_category": 8,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.633,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 용과 드래곤 쿠키 너 왜 이래?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "괜찮은 거야?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.565,
+                "end": 5.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으으으 으악 여기가 어디야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.010,
+                "end": 12.019
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "목소리 낮춰라.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.029,
+                "end": 13.749
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어때 정신이 드냐?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.759,
+                "end": 16.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너 너 홀리베리 쿠키 감히 잘도 이 나를 끌고 오다니",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.686,
+                "end": 25.633
+            }
+        ]
+    },
+    "summary": "홀리베리 쿠키가 용과드래곤쿠키를 데리고 와서 정신이 드냐고 물어본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_01949_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

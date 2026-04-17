@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYF_13696",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.384,
+        "format": "MP4",
+        "date": "2020-02-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 이제 엄마가 이렇게 봐도 도망 안 가네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "응? @이름1의 근황 궁금하셨죠?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.145,
+                "end": 7.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옆에 누가 있냐고요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.296,
+                "end": 8.831
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 큰 친구 조그맣고 큰 친구는 @이름2랍니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.841,
+                "end": 12.027
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 궁둥이 이거 @이름2 발이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.037,
+                "end": 17.384
+            }
+        ]
+    },
+    "summary": "@이름1은 엄마가 봐도 이제 도망가지 않는다고 하며 옆에는 @이름2가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13696_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

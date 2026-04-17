@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_09114",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.026,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 22개 공식일정 중 절반인 11개 일정을 대통령실 전속 촬영팀이 맡았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.931
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "양국 간 협의 결과라지만 한미회담 같은 핵심 일정에 기자단 취재가 허용되지 않은 건 과거엔 좀처럼 찾아볼 수 없는 일이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.941,
+                "end": 14.644
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 더해 윤 대통령이 전용기 안에서 기자 2명만 따로 만나면서 선택적 언론관이란 비판도 나왔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.654,
+                "end": 21.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 순방은 언론통제에 낯부끄러운 신기록을 썼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.884,
+                "end": 26.026
+            }
+        ]
+    },
+    "summary": "절반 일정을 대통령실 전속 촬영팀이 맡았고 전용기 안에서 기자 2명만 따로 만나면서 선택적 언론관이라는 비판도 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09114_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_09114_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 4,
+                    "act": 32
+                }
+            ]
+        }
+    ]
+}

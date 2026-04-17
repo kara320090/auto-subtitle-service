@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_03862",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.375,
+        "format": "MP4",
+        "date": "2022-12-15",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "딴딴하긴 하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그쵸?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.011,
+                "end": 4.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딴딴한 거는 확실히 보이기는 하네요 5초월 하니까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.826,
+                "end": 10.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 일단 딴딴함으로 승부하는 거는 최고긴 하네요 정말.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.058,
+                "end": 30.375
+            }
+        ]
+    },
+    "summary": "한 남성이 화면을 통해 게임 진행 상황에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_03862_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

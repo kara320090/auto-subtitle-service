@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYB_08511",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 16.466,
+        "format": "MP4",
+        "date": "2023-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.936
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "입지 탄탄하누아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.946,
+                "end": 4.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.988,
+                "end": 10.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.154,
+                "end": 12.991
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "은근슬쩍 고백하는데 마음을 뺏긴 여자?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.001,
+                "end": 16.466
+            }
+        ]
+    },
+    "summary": "게임을 하면서 게임 스토리를 보고 이야기한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_08511_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_30526",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.866,
+        "format": "MP4",
+        "date": "2016-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 김정철 등 김정은 일가에 대한 정보를 많이 갖고 있기 때문에 조사 기간은 더욱 길어질 수 있다고 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.813
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "태 공사의 귀순 사실이 알려진 이후 그의 가족들도 주목을 받고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.823,
+                "end": 13.347
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "태 공사와 함께 입국한 부인 오혜선 씨는 항일 빨치산 1세대인 오백룡의 일가로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.357,
+                "end": 20.866
+            }
+        ]
+    },
+    "summary": "태 공사는 김정은 일가에 대한 정보를 많이 갖고 있어 조사 기간이 더욱 길어질 수 있으며 태 공사와 함께 귀순한 부인은 항일 빨치산 1세대인 오백룡의 일가로 알려져 주목을 받고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30526_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30526_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 26,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

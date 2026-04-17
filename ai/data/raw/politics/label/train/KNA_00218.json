@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00218",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.524,
+        "format": "MP4",
+        "date": "2022-02-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안동으로 이전하겠다고 공약했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.495
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경북을 다시 일으켜 세우겠습니다 보수 정당이 하지 못한 일이지만 저는 할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.505,
+                "end": 10.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보는 SNS를 통해 반칙과 특권을 일하는 개혁 대통령이 되겠다 부패 기득권 카르텔을 깨겠다 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.726,
+                "end": 20.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘 윤석열 후보와 양자 토론이 무산된 가운데",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.321,
+                "end": 24.524
+            }
+        ]
+    },
+    "summary": "이재명 후보가 고향에서 공약을 얘기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00218_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

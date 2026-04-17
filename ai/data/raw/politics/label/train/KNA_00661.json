@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00661",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.517,
+        "format": "MP4",
+        "date": "2022-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또한 현 정부의 청와대 특활비는 역대 정부 최저라고도 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "계현우 기자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.701,
+                "end": 6.690
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근 제기되고 있는 김정숙 여사 의상비 논란과 관련해 청와대가 유감의 뜻을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.700,
+                "end": 15.162
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청와대 박수영 국민 소통 수석은",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.172,
+                "end": 17.517
+            }
+        ]
+    },
+    "summary": "청와대는 김정숙 여사 의상비 논란과 관련해 유감의 뜻을 밝혔고 현 정부의 청와대 특활비는 역대 정부 최저라고도 강조했다고 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00661_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00661_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

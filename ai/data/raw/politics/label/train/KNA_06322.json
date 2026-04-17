@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_06322",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2022-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 화천대유 대주주 @이름1 씨가 @이름2 회계사와 대화에서 윤석열 후보를 거론한 녹취록이 열린 공감 TV로 추가 공개되자 봉쇄로 전환한 모습입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.495
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 씨가 욕설도 나누면서 싸우는 사이이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.505,
+                "end": 16.041
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자기들 스스로 한 이야기 아니겠습니까? 녹음에서?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.051,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "특히 화천대유 대주주 @이름1 씨가 @이름2 회계사와 대화에서 윤석열 후보를 거론한 녹취록이 열린 공감 TV로 추가 공개되자 봉쇄로 전환한 모습이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06322_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

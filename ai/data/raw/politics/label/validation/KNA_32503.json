@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_32503",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.99,
+        "format": "MP4",
+        "date": "2023-08-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 방통위원장 후보자를 놓고 여당은 조속한 임명을 야당은 후보자 사퇴를 요구하며 오늘도 팽팽히 대립했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.353
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하마평에 오르기 시작한 때부터 5개월여 동안 수없이 많은 언론의 악의적인 비판 보도와 야당의 공세가 있었지만 그 무엇 하나 제대로 확인된 것이 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.363,
+                "end": 22.071
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자녀 특혜와 학폭",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.081,
+                "end": 23.990
+            }
+        ]
+    },
+    "summary": "@이름1 방통위원장 후보자를 놓고 여당과 야당은 오늘도 대립했고 여당은 수많은 비판들이 제대로 확인된 것은 없었다고 주장했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYB_04125",
+        "category": "게임",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.666,
+        "format": "MP4",
+        "date": "2022-11-30",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 뭔가 엄청 빨리 때리는 느낌이긴 하다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.608
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 얘가 얘가 스킬 쓸 때는 쿨타임 초기화 되는 거 아니야 쿨 되기 전에 맞죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.618,
+                "end": 14.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찰스를 한번 해볼까 얘가 스킬이 발동되면 2.5초가 줄어들어서 스킬을 일찍 쓰고 그런 개념 제가 음주시인이라 그랬어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.281,
+                "end": 23.171
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음유시인 음유시인 그러니까 잘 보세요 이거를 쓰면 봤죠 스킬 쓰는 순간 얘가 쿨타임이 줄어드는 느낌 그다음에 음유시인 쓰면은 아 얘 바로 쓰면 안 되네 와 잠깐만 얘",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.181,
+                "end": 40.666
+            }
+        ]
+    },
+    "summary": "스킬 쓰는 순간 음유시인의 쿨타임이 줄어든다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_04125_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00128",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.049,
+        "format": "MP4",
+        "date": "2022-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문제가 있었다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.999
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "투자자와 사업자 보호를 위해 법제화를 서두르고 증권형 가상 자산 발행 검토 뜻도 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.009,
+                "end": 9.630
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가상 자산을 사고 팔아서 1년에 250만 원 넘게 벌면 내년부턴 과세가 되는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.640,
+                "end": 16.049
+            }
+        ]
+    },
+    "summary": "투자자와 사업자 보호를 위해 법제화를 서두르고 증권형 가상 자산 발행 검토 뜻도 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00128_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

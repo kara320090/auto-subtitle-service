@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_30872",
+        "category": "정치뉴스",
+        "sub_category": 13,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.666,
+        "format": "MP4",
+        "date": "2016-12-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 세월호 사고 당시 대통령이 단골 미용사를 불러 머리 치장을 했다는 보도를 언급하며 대통령을 보고 싶지 않다는 국민의 마음이 헤아려진다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의당 박지원 원내대표는 반드시 세월호 7시간은 탄핵안에 포함된 대로 견지할 것이라며 세 야당의 동의 없이는 탄핵안 변경이 불가능하다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.991,
+                "end": 21.666
+            }
+        ]
+    },
+    "summary": "세월호 사고 당시 대통령이 머리를 치장 했다는 보도에 대해 국민의당 원내대표는 세월호 7시간은 탄핵안에 포함된 대로 견지할 것이며 변경이 불가능하다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30872_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30872_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

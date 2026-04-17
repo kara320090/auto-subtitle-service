@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYB_09927",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.1,
+        "format": "MP4",
+        "date": "2023-06-26",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 잠깐 흥을 깨서 미안한데 이거를 도저히 못 쓰겠거든요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.547
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 이거?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.557,
+                "end": 5.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이걸 해제하고 딴 걸 찍어봐야겠어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.785,
+                "end": 8.239
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "환불은 어떻게 하는 거지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.249,
+                "end": 12.214
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강화는 있는데 아 전체 초기화구나.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.224,
+                "end": 19.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 이걸 찍고 싶긴 한데 전체 초기화하면 좀 지금 돈이 너무 아깝고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.498,
+                "end": 27.100
+            }
+        ]
+    },
+    "summary": "해제하려면 전체 초기화를 해야 해서 지금 초기화를 하기에는 돈이 아깝다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_09927_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": 73,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

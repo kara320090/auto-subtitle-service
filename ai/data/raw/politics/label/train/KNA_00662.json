@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00662",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.725,
+        "format": "MP4",
+        "date": "2022-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청와대 특수 활동비 뿐 아니라 여사의 옷값 등에 제기되는 의혹 제기에 다시 한번 유감이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.150
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "임기 말 청와대의 특수 활동비 뿐만 아니라 김정숙 여사의 옷값과 액세사리까지 거론되는 무분별한 의혹 제기에 다시 한번 유감을 표합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.160,
+                "end": 20.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 여사 의상값이 특활비에서 나온 것 아니냐는 일부 추측을 겨냥해선",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.648,
+                "end": 25.725
+            }
+        ]
+    },
+    "summary": "청와대 측은 특수 활동비 뿐만 아니라 김정숙 여사의 옷값과 액세사리에 대한 무분별한 의혹 제기에 유감을 표한다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00662_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00662_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

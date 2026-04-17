@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNA_00399",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.815,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물타기라고 날을 세웠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.021
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정권 교체 열기가 치솟으니까 이거 물타기 할라고 정권 교체가 아니라 정치 교체라고 하는데 정권 교체 없이",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.031,
+                "end": 15.815
+            }
+        ]
+    },
+    "summary": "정권 교체의 열기가 치솟으니 물타기하려 한다며 날을 세웠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00399_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

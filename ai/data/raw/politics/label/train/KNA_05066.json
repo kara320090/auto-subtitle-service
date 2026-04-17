@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_05066",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.329,
+        "format": "MP4",
+        "date": "2022-07-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자유의새벽당 대표를 했다는 강 씨의 대통령실 근무가 드러났다며 누가 무슨 이유로 강 씨를 추천한 건지 밝히라고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.511
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "극우 유튜버들의 일자리 요람이 되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.521,
+                "end": 11.995
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 극단적 인물이 윤석열 정부 대통령실에서 일하고 있다는 사실은 너무나 충격적입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.005,
+                "end": 18.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 대통령실은 한 사람을 극우 극좌로 평가하는 건 매우 위험하다며 대통령실이 한 사람 생각에 좌우된다는 발상 자체도 이해하기 어렵다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.769,
+                "end": 29.329
+            }
+        ]
+    },
+    "summary": "민주당 의원은 극단적 인물이 윤석열 정부 대통령실에서 일하고 있다는 사실은 너무나 충격적이라고 발언했고 이에 대통령실은 한 사람을 극우 극좌로 평가하는 건 매우 위험하다며 대통령실이 한 사람 생각에 좌우된다는 발상 자체도 이해하기 어렵다고 밝혔다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05066_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05066_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

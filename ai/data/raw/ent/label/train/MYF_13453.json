@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "MYF_13453",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.324,
+        "format": "MP4",
+        "date": "2020-05-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사랑해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "몸두요 요즘은 바깥에 많이 나와서 밥을 먹어서 몸도 많이 커졌어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.881,
+                "end": 7.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노아야 어 @이름1 오빠 왔다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.744,
+                "end": 14.185
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 오빠.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 14.195,
+                "end": 16.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노아 여기있어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.097,
+                "end": 17.512
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "으면 덮어야지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.522,
+                "end": 18.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 아 노아 좀 봐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.690,
+                "end": 21.942
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노아 궁디 팡팡했어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.952,
+                "end": 24.324
+            }
+        ]
+    },
+    "summary": "노아가 요즘 밖에 나와서 밥을 많이 먹어서 몸도 커졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_13453_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 40,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

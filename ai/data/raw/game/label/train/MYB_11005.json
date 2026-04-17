@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYB_11005",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.4,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "적응하려면은 전에 검은 사막 체험 했을 때 같은 느낌일 거 같은데.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.025
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아야요 얼굴 피투성이 됐어 야만족이 습격했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.035,
+                "end": 17.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "랜달이 미끼가 됐대요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.599,
+                "end": 21.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 랜달 구하러 가야겠어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.482,
+                "end": 26.776
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "랜달이 지금 미끼가 됐대 랜달 구해 주자.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 26.786,
+                "end": 31.400
+            }
+        ]
+    },
+    "summary": "게임 속 플레이어가 야만족의 습격을 받을 때 미끼가 된 랜달을 구하러 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_11005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 15
+                }
+            ]
+        }
+    ]
+}

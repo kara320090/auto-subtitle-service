@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "MYB_07249",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.938,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.965
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.975,
+                "end": 6.879
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "해산. 그래 공돌이는 못하면 안 돼지. 된다고 말해라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.889,
+                "end": 13.165
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "조슈아가 힘이 없어요. 추욱.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.175,
+                "end": 15.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.233,
+                "end": 22.019
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "절대 안 쉬죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.029,
+                "end": 24.933
+            }
+        ]
+    },
+    "summary": "그녀는 공학도는 쉬지 않는다고 말하고 등장 인물들의 대화를 들으며 쉬라고 해도 쉬지 않는 다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07249_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

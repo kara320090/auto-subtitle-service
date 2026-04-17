@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "filename": "MYF_00632",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.0,
+        "format": "MP4",
+        "date": "2020-10-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "호두야 인사하고 자러 가자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.889
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인사해야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.899,
+                "end": 3.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕히 주무세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.372,
+                "end": 5.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호두 얼굴 어디 있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.010,
+                "end": 6.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호두 얼굴 어디 있어 안녕히 주무세요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.506,
+                "end": 9.302
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내일 봬요 안녕히 주무세요 어유 호두 코 엄청 커졌다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.312,
+                "end": 13.311
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자자 호두 낸내 하러 갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.321,
+                "end": 18.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어구",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.724,
+                "end": 20.000
+            }
+        ]
+    },
+    "summary": "호두의 코가 커진 것에 놀랐으나 호두 보고 인사하라고 한 뒤 낸내하러 간다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00632_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYF_00632_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": 14,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

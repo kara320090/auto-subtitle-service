@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01035",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 고등학생이 어떤 연습용으로 한 리포트 정도 수준의 짧은 글들",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.327
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 후보자는 그러면서 실제 입시에 사용된 적이 없는 만큼 딸 관련 의혹에 수사까지 언급하는 건 과하다고 항변했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.337,
+                "end": 14.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조국 전 장관 딸 조민 씨의 일기장을 압수했다는 민주당 주장은",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.649,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "한 후보자는 딸 입시 관련 의혹을 부인하며 수사까지 언급하는 것은 과하다고 항변했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01035_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

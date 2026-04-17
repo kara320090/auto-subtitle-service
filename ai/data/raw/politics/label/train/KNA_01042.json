@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01042",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.451,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청와대 밖으로 걸어 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.178
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마지막 퇴근길을 보기 위해 시민들이 청와대 앞을 가득 메웠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.188,
+                "end": 7.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 문 대통령은 국립 현충원과 효창 공원 독립 유공자 묘역 참배로 임기 마지막 날을 시작했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.615,
+                "end": 15.959
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취임식 참석을 위해 방한한",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.969,
+                "end": 18.451
+            }
+        ]
+    },
+    "summary": "문 대통령은 국립 현충원과 독립 유공자 묘역 참배로 임기 마지막날을 시작했으며 마지막 퇴근길을 보기 위해 많은 시민들이 청와대 앞에 모였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01042_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

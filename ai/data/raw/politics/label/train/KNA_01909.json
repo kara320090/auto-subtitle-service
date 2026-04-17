@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "filename": "KNA_01909",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 49.749,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 정부에서 꼭 필요한 인사의 경우에는 저희와 함께 협의를 진행을 하고 그렇지 않을 경우에는 업무 인수인계가 원활하게 진행될 수 있도록 요청을 한 상태입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.874
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘 권성동 의원은 김오수 검찰청장의 거취를 압박하는 언급도 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.884,
+                "end": 19.368
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "환경부 블랙리스트 유죄 판결이 있던 터라 새 정부 출범 뒤 임기가 남은 공공기관장 교체가 어렵다는 점을 염두에 뒀다는 해석이 나옵니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.378,
+                "end": 27.428
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 상황에 대해 청와대 측은 공기업 인사에 대해 협의 요청이 있었는지 알지 못한다고 밝혔습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 27.438,
+                "end": 33.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면서 분명한 건 5 월 9 일까지는 문재인 정부 임기이고 임기 내에 주어진 인사권을 행사하는 건 당연하다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.710,
+                "end": 41.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이달 말 임기가 끝나는 이주열 한국은행 총재의 후임 인선에서 신경전이 표면화될 개연성도 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 41.322,
+                "end": 47.791
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 박민철입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 47.801,
+                "end": 49.749
+            }
+        ]
+    },
+    "summary": "인사권을 놓고 새 정부는 문재인 정부에서 꼭 필요한 인사의 경우에는 협의를 진행을 하고 그 외에는 업무 인수인계가 원활하게 진행될 수 있도록 요청을 한 상태라고 하였으나 청와대 측은 공기업 인사에 대해 협의 요청이 있었는지 알지 못한다고 밝혔다며 팽팽한 신경전임을 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01909_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01909_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

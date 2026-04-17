@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNA_00169",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.638,
+        "format": "MP4",
+        "date": "2022-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첫 방송 토론에 국민적 관심과 영향력을 고려할 때 법정 토론 초청 대상인 후보 즉 심상정 안철수 후보를 배제해선 안 된다고 결정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.475
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설 연휴 전에 국민의 요구대로 다자 토론의 링에서 만날 것을 촉구합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.485,
+                "end": 18.072
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "기득권 양당에 담합 불공정 비상식에 국민적 일침이 가해졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.082,
+                "end": 25.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토론에 자신감을 내비쳐 온 이재명 후보 최근 토론 준비에 힘을 쏟아 온 윤석열 후보 모두 다자 토론도 관계없다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.670,
+                "end": 34.267
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "상식과 이 합리에 부합하는 방식으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.277,
+                "end": 38.638
+            }
+        ]
+    },
+    "summary": "첫 방송 토론에 법정 토론 초청 대상인 후보 심상정 안철수 후보를 배제해선 안 된다는 결정이 나왔고 이재명 윤석열 후보 모두 다자 토론도 관계없다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00169_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00169_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

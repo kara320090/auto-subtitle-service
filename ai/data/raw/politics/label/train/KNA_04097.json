@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNA_04097",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2021-07-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이낙연 후보는 오늘 영상을 공개하는 방식으로 대선 출마를 공식화했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "슬로건으로는 내 삶을 지켜주는 나라를 내세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.266,
+                "end": 10.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "모든 위협으로부터 국민 한 분 한 분의 삶을 국가가 보호해 드려야 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.164,
+                "end": 15.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 삶을 지켜주는 나라가 되어야 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.674,
+                "end": 18.285
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 일을 제가 하겠습니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.295,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "민주당 이낙연 후보가 영상을 공개하는 방식으로 대선 출마를 공식화했고 슬로건으로는 내 삶을 지켜주는 나라를 내세웠다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04097_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

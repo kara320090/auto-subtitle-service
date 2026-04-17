@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_11700",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.226,
+        "format": "MP4",
+        "date": "2023-04-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그제 오전 11시쯤 북한 경비정 1척이 백령도 동북방 북방 한계선을 침범했습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한 경비정이 먼저 엔엘엘을 침범한 중국 어선을 쫓아 넘어오자 우리 해군 참수리급 고속정은 작전 수행 절차에 따라 경고 통신을 10여 회 시도했습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 5.516,
+                "end": 16.195
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한 경비정이 반응하지 않자 우리 고속정은 40밀리미터 기관포로 경고 사격 10발을 가했고 북한 경비정은 곧 엔엘엘 이북으로 돌아갔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.205,
+                "end": 26.226
+            }
+        ]
+    },
+    "summary": "북한이 백령도 동북방 북방 한계선을 침범했었고 우리 해군이 기관포로 경고 사격 10발을 가해 북한이 다시 이북으로 돌아갔다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11700_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_06320",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.056,
+        "format": "MP4",
+        "date": "2022-02-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김대중 대통령을 기념하는 컨벤션 센터에서 이렇게 약속을 드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광주 확실하게 바꿔 놓겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.011,
+                "end": 9.113
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지역 공약으로는 AI 중심 도시 구현 광주 영암 간 초고속도로 건설 오일팔 국제 연구원 설립 등을 내놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.123,
+                "end": 17.009
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광주와 호남에서 몇 퍼센트의 지지율이 나오건 상관없이",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.019,
+                "end": 23.056
+            }
+        ]
+    },
+    "summary": "윤석열 후보는 지역 공약으로는 AI 중심 도시 구현 광주 영암 간 초고속도로 건설 오일팔 국제 연구원 설립 등을 내놨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06320_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

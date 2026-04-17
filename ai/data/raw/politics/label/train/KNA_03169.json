@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_03169",
+        "category": "정치뉴스",
+        "sub_category": 41,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.962,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "권력형 성범죄 등 성폭력으로부터 안전한 도시로 탈바꿈시킬 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.392
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사건 발생 닷새 뒤 열린 신년 기자 간담회 김 전 대표의 이 발언은 어떻게 가능했던 것일까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.402,
+                "end": 13.417
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사건 발생 사흘 뒤인 18일 피해자인 장혜영 의원은 배복주 젠더 인권 본부장에게 피해 사실을 알렸고 이틀에 걸쳐 피해자 조사가 이뤄졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.427,
+                "end": 23.718
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "19일 저녁 김 전 대표는 장 의원에게 사과와 함께 사퇴 의사를 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.728,
+                "end": 28.962
+            }
+        ]
+    },
+    "summary": "사건 발생 사흘 뒤인 18일 피해자인 장혜영 의원은 배복주 젠더 인권 본부장에게 피해 사실을 알려 이틀에 걸쳐 피해자 조사가 이뤄졌고 19일 저녁 김 전 대표는 장 의원에게 사과와 함께 사퇴 의사를 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03169_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03169_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_03971",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.927,
+        "format": "MP4",
+        "date": "2021-06-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난해 광복절이 토요일이었을 때 그다음 월요일을 임시공휴일로 지정했는데 4조 2000억 원의 생산 유발 효과를 거뒀다는 연구 결과도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞으로 백신 접종이 확대돼 외부 활동이 그나마 자유로워지고 이때 대체공휴일이 늘면 식당 숙박업 같은 코로나 피해 업종에서 소비 진작과 고용 유발 효과를 기대할 수도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.052,
+                "end": 23.250
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "잘 쉬어야 일도 잘할 수 있고 국내 경기도 좋아집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.260,
+                "end": 27.927
+            }
+        ]
+    },
+    "summary": "임시공휴일로 지정했을 때 생산 유발 효과를 거둬 소비 진작과 고용 유발 효과를 기대할 수 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03971_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

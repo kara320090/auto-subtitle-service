@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "MYB_07530",
+        "category": "게임",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.033,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.799
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소개시켜준다 이제.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.809,
+                "end": 8.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소개팅한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.289,
+                "end": 12.657
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "짐 싸고 간다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.667,
+                "end": 14.884
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "굿 숙부님한테 보고하자.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.894,
+                "end": 20.033
+            }
+        ]
+    },
+    "summary": "게임 속에서 캐릭터가 짐이나 싸둔다고 말했고 결과적으로 잘된 일이라서 숙부님한테 보고하러 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYB_07530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYF_10127",
+        "category": "엔터테인먼트",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.666,
+        "format": "MP4",
+        "date": "2021-07-08",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "때처럼 밀리는 거 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.503
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐야 또 되게 조금 중점까지는 아니어도 저는 손에도 많이 자주 바르는 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.513,
+                "end": 18.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 네 이렇게 아침에 일어나서",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.808,
+                "end": 30.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 하루 중에서 제가 너무나 좋아하는 시간 바로 커피를 마시는 시간입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.913,
+                "end": 40.666
+            }
+        ]
+    },
+    "summary": "여성이 손에도 많이 바르고 하루 중에서 좋아하는 시간이 커피를 마시는 시간이라고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_10127_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

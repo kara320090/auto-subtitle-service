@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYF_00404",
+        "category": "엔터테인먼트",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.566,
+        "format": "MP4",
+        "date": "2022-03-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이게 한 가지가 헷갈리는 게",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.587
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네, 뭐가 헷갈려?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.597,
+                "end": 3.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "만약에 이미 진입을 하고 있으면",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.246,
+                "end": 6.060
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 교차로를 통과하던 중인 거잖아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.070,
+                "end": 9.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.570,
+                "end": 10.034
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "교차로 안인 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.044,
+                "end": 11.208
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "교차로 안이 됐는데 초록불에서 노란불로 바뀐 거야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.218,
+                "end": 15.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.039,
+                "end": 17.566
+            }
+        ]
+    },
+    "summary": "진입을 하고 있을 때 헷갈린다고 하자, 교차로를 통과하던 중인 거면 초록불에서 노란불로 바뀌는 중인 교차로 안에 있는 상태라고 설명한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYF_00404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

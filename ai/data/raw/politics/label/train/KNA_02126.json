@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_02126",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.426,
+        "format": "MP4",
+        "date": "2022-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "납득할 만한 설명이 있어야 된다라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.938
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그간 뚜렷한 입장을 내지 않았던 인수위도 비판에 가세했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.948,
+                "end": 6.968
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오로지 특정 인물이나 부패 세력을 수호하기 위하여 국가의 수사 기능을 무력화하는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.978,
+                "end": 15.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 법사위 전체 회의에선 박범계 법무 장관이 출석해 검찰 수사권 폐지를 둘러싸고 거센 공방이 오갈 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.817,
+                "end": 24.424
+            }
+        ]
+    },
+    "summary": "인수위도 부패 세력을 수호하기 위해 국가의 수사 기능을 무력화하는 것이라고 비판했고 법사위 회의에서는 검찰 수사권 폐지를 둘러싸고 공방이 오갈 것으로 보인다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02126_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02126_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}
