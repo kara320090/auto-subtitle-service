@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_02274",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.125,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오로지 기술 혁신 연구하고 그다음에 인재 양성에 제가 22 년 동안 어 집중했는데요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 그걸 두고 저 사람 먹태라고 말씀하시면 어 제 개인적으론 동의하기가 쉽지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.755,
+                "end": 11.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 후보자는 전기요금을 계속 누르기만 하면 결국 국민 부담으로 이어진다며 전기요금에 원가를 반영하는 가격 결정 방향이 맞다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.017,
+                "end": 21.574
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전기요금 인상 가능성을 시사한 발언으로 풀이됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.584,
+                "end": 25.125
+            }
+        ]
+    },
+    "summary": "오로지 기술 혁신 연구와 인재 양성에 22 년 동안 집중한 사람을 두고 먹태라는 발언은 동의할 수 없다고 후보자는 발언하였고 전기요금에 원가를 반영하는 가격 결정 방향이 맞다고 밝혀 전기요금 인상 가능성을 시사한 발언으로 풀이된다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02274_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02274_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

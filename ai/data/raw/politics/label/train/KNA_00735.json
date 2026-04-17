@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_00735",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.674,
+        "format": "MP4",
+        "date": "2022-04-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결정되진 않았다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박 전 대통령은 6일 지방 선거 대구 시장에 출마한 측근 유영하 변호 변호사에 대한 지지 메시지를 냈는데 윤 당선인에 대한 언급은 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.867,
+                "end": 12.102
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한편 윤 당선인은 토마스 바흐 국제 올림픽 위원회 위원장과 통화하고 2024년 강원도에서 열리는 동계 청소년 올림픽을 지원해 달라고 당부했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.112,
+                "end": 23.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 인수위도 지금 민생 경제 행보를 계속 강조하고 있던데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.790,
+                "end": 27.429
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이와 관련한 움직임도 좀 전해주신다면요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.439,
+                "end": 29.662
+            }
+        ]
+    },
+    "summary": "박 전 대통령은 육일 지방 선거 대구 시장에 출마한 측근 유영하 변호사 지지 메시지를 냈는데 윤 당선인에 대한 언급은 없는 한편 윤 당선인은 토마스 바흐 국제 올림픽 위원회 위원장과 통화하고 2024년 강원도에서 열리는 동계 청소년 올림픽 지원을 당부했으며 인수위도 민생 경제 행보를 강조하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00735_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00735_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01819",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2022-03-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 지지 지지자들은 하루만 투표해서야 되겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.891
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시점상으론 후보 단일화 직후라 유리하다는 판단도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.901,
+                "end": 8.304
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반면 민주당은 세대별 지지 성향이 많이 달라져 사전 투표율이 높을수록 진보가 유리하다는 해석은 깨졌다고 보고 지지층 결집을 호소하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.314,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "민주당은 사전 투표율이 높다고 진보가 유리하다는 해석을 뒤로 하고 지지층 결집을 호소하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01819_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

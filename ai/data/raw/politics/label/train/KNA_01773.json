@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "KNA_01773",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.768,
+        "format": "MP4",
+        "date": "2022-03-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 사람들 왜 이러겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 바로 운동권 정권이라 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.781,
+                "end": 7.198
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 후보는 튼튼한 안보를 내세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.208,
+                "end": 10.135
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "접경 지역인 강원 민심에 호소해 보수 지지층 결집을 시도한 것으로 풀이됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.145,
+                "end": 15.303
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지역 공약으로는 강원도를 경제특별자치도로 지정하고 GTX 노선을 춘천까지 연결하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.313,
+                "end": 22.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 후보는 당일 투표만으로는 이길 수 없다며 유세 지역 곳곳에서 사전 투표를 독려했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.797,
+                "end": 29.295
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘은 오전에 서울 현충원을 참배한 뒤 대학가인 신촌 등에서 집중 유세에 나섭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.305,
+                "end": 34.768
+            }
+        ]
+    },
+    "summary": "윤석열 후보는 강원 지역에서 유세를 하며 사전투표를 독려했고 대학가에서 집중유세를 할 예정이라고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01773_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01773_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

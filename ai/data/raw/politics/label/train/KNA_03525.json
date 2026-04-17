@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNA_03525",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.993,
+        "format": "MP4",
+        "date": "2021-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수사 범위를 확대 중인 경찰은 LH 직원과 함께 3 기 신도시 예정지 일대 땅을 매입한 경기 과천과 전북 지역 주민들과 관련해 수사관을 현장에 보내 조사하고 있는 것으로 파악됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한편 경남경찰청 사이버수사과는 LH 직원으로 의심되는 인물이 직장인 익명 게시판에 꼬우면 이직하라는 등 조롱글을 올린 것과 관련해 LH 본사를 압수수색하고 게시판 운영 업체 미국 본사에 대해서는 이메일로 영장을 집행했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.515,
+                "end": 26.993
+            }
+        ]
+    },
+    "summary": "수사 범위를 확대 중인 경찰은 경기 과천과 전북 지역 주민들과 관련해 조사하고 있고경남경찰청 사이버수사과는 LH 직원으로 의심되는 인물이 직장인 익명 게시판에 조롱글을 올린 것과 관련해 LH 본사를 압수수색했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03525_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 40
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03525_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

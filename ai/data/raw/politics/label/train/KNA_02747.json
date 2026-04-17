@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02747",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2022-11-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 허무맹랑한 조작 조사 하려고 어 대장동 특검을 거부하는 것이라는 생각이 듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 조작 결국은 진실이 드러나게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.210,
+                "end": 14.142
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당도 별도 기자 회견을 열고 검찰 수사 관련 내용을 조목조목 반박하는 등 맞불 여론전에 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.150,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "이런 허무맹랑한 조작 조사 하려고 대장동 특검을 거부하는 것이라는 생각이 든다고 밝힌 반면 민주당도 별도 기자 회견을 열고 검찰 수사 관련 내용을 조목조목 반박하는 등 맞불 여론전에 나섰습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02747_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02747_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

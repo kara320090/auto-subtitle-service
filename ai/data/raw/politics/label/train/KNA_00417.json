@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00417",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.449,
+        "format": "MP4",
+        "date": "2022-03-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자신에게 던지는 표는 결코 사표가 아니라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.827
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오는 9일 본투표에서는 코로나 확진자들도 일반 투표자들과 같은 방법으로 투표할 수 있게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.837,
+                "end": 12.713
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문제가 됐던 임시 기표소 방식은 사용하지 않고",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.723,
+                "end": 16.449
+            }
+        ]
+    },
+    "summary": "9일 본투표에서 코로나 확진자들도 문제가 됐던 임시 기표소 방식은 사용하지 않고 일반 투표자들과 같은 방법으로 투표할 수 있게 됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00417_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00417_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

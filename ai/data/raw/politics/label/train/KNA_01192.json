@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_01192",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인천은 민주당 박남춘 35.8 국민의 힘 유정복 39.9로 오차 범위 안 경합입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.549
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 이정미 3퍼센트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.559,
+                "end": 8.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기는 민주당 김동연 39.1 국민의 힘 김은혜 37.7로 1.4퍼센트 포인트 차 오차 범위 내 박빙입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.745,
+                "end": 18.129
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대전은 민주당 허태정 40",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.139,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "인천은 민주당 박남춘 35.8 국민의 힘 유정복 39.9로 오차 범위 안 경합이며 경기는 민주당 김동연 39.1 국민의힘 김은혜 37.7로 1.4퍼센트 포인트 차 오차 범위 내 박빙입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01192_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01192_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

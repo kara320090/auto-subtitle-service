@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_03720",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.188,
+        "format": "MP4",
+        "date": "2021-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자영업자와 소상공인들의 희생을 기반으로 한 방역 체계는 더 이상 유지할 수 없다며 자가 검사 키트 사용 허가를 촉구했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.589
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초기에는 조금 확진자 숫자가 당연히 늘어날 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.599,
+                "end": 11.639
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무증상으로 넘어가는 사례들도 있기 때문에 그렇게 추측이 됩니다마는 결과적으로는 바이러스가 전파될 가능성이 낮아지는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.649,
+                "end": 22.188
+            }
+        ]
+    },
+    "summary": "자영업자와 소상공인들의 희생을 기반으로 한 방역체계는 더 이상 유지할 수 없다며 자가 검사 키트 사용 허가를 촉구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03720_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

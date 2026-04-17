@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_01500",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.054,
+        "format": "MP4",
+        "date": "2022-06-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 언론과의 인터뷰에서 이게 대통령을 도와주는 정당이냐며 대통령에 부담이 돼선 안 된다며 이 대표를 직격 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 이 대표는 장 의원의 발언을 SNS에 공유하며 디코이 즉 미끼를 안 물었더니 직접 쏘기 시작한다며 다음 주 내내 간장 한 사발 해야 할 것 같다고 맞받았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.828,
+                "end": 18.769
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간장은 안철수 의원을 비하하는 표현과",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.779,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "장제원 의원이 이준석 대표를 직격 하자 이준석 대표가 맞받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01500_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 64,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

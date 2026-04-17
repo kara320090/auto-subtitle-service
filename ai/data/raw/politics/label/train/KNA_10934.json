@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_10934",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.331,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이후 폭로는 전 씨 일가에 호화로운 생활과 출처모를 검은 돈에 집중됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.345
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "할머니인 이순자 씨로 추정되는 인물이 실내 골프를 하는 영상을 개재하며 서울 연희동 자택에 스크린 골프시설이 있다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.355,
+                "end": 14.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전두환 씨 손녀의 결혼식 사진도 공개했는데 전 재산이 29만 원인 일가가 이런 행사를 할 돈이 어떻게 생겼겠느냐고 지적했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.805,
+                "end": 24.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 검은 돈 의혹을 제기했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.475,
+                "end": 27.553
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아버지 전재용 씨가 비자금을 챙겨 살고 있다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.563,
+                "end": 31.331
+            }
+        ]
+    },
+    "summary": "할머니인 이순자 씨로 추정되는 인물이 실내 골프를 하는 영상을 개재하며 서울 연희동 자택에 스크린 골프시설이 있다고 밝혔고 아버지 전재용 씨가 비자금을 챙겨 살고 있다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10934_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10934_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 41,
+                    "act": 14
+                }
+            ]
+        }
+    ]
+}

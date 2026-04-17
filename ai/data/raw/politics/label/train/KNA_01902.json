@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01902",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.053,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래도 안 되면은 뭐 폐지 수순으로 갈 수 밖",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.509
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고위 공직자 수사에 대한 독점적 지위를 정해 둔 공수처법 24조를 독소조항이라고 문제 삼고 검찰과 경찰에도 고위 공직자 부패 수사를 열어 두겠다 한 상태입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.519,
+                "end": 15.512
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 당선인은 법무부 장관의 수사 지휘권 폐지도 공언했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.522,
+                "end": 20.053
+            }
+        ]
+    },
+    "summary": "공수처법 24조를 독소조항이라고 문제 삼고 검찰과 경찰에도 고위 공직자 부패 수사를 열어 두겠다 한 상태이며 윤 당선인은 법무부 장관의 수사 지휘권 폐지도 공언했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01902_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

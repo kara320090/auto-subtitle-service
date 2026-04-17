@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_09903",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.17,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘은 제1 야당 전현직 당대표의 사법 리스크로 4·19 영령들 뵐 면목이 없다고 논평했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.923
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당의 날선 반응을 접하니 도둑이 제발 저리나라는 속담밖에 떠오르지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.933,
+                "end": 14.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령과 이재명 민주당 대표는 기념식 현장에서 마주쳤지만 특별한 대화 없이 악수만 나눴습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.350,
+                "end": 21.826
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.836,
+                "end": 24.157
+            }
+        ]
+    },
+    "summary": "국민의 힘은 민주당의 날선 반응에 도둑이 제발 저리냐라는 말을 했고 윤 대통령과 이 대표는 기념식에서 악수만 나눴다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09903_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

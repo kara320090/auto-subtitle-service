@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00068",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.921,
+        "format": "MP4",
+        "date": "2022-01-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인천 선대위 출범식에선 인천상륙작전 같은 역전의 드라마가 인천에서 시작될 거라고 말했고 광역 급행철도 신설 등 지역 교통 공약도 발표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오후에는 대한노인회를 들러 기초연금 확대를 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.359,
+                "end": 15.270
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기초연금, 얘를 좀 현실화해 가지고 다니시고 싶은 데 좀 다니시고 또",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.270,
+                "end": 21.921
+            }
+        ]
+    },
+    "summary": "윤석열 후보는 인천 선대위 출범식에서 자신감을 보이며 지역 교통 공약을 발표했고 대한노인회에서 기초연금 확대를 약속했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00068_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00068_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

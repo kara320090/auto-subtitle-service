@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNA_33121",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.6,
+        "format": "MP4",
+        "date": "2023-09-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "상상을 해서 지금 하는 질문이라고 생각을 해요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.039
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가능성이요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.049,
+                "end": 6.061
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제로.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.071,
+                "end": 7.361
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰은 이번 사건을 선거 제도를 농단한 중대 사건이라고 규정하면서 수사를 본격화했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.371,
+                "end": 13.627
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특수부와 공안부 등 검사 10여 명으로 구성된 특별 수사팀을 꾸리고 보도 경위와 대가 관계부터 관련 보도를 한 다른 언론을 포함해 배후 세력까지 수사하겠다고 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.637,
+                "end": 25.592
+            }
+        ]
+    },
+    "summary": "검찰은 이번 사건을 선거 농단이라고 규정하고 특별 수사팀을 꾸려 배후 세력까지 수사하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33121_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

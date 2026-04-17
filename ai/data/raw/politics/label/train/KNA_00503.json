@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00503",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.652,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "권성동 국민의힘 의원이 김 총장의 자진 사퇴를 거론한 지 하루 만에 거부 의사를 밝힌 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "권 의원은 어제 한 라디오 방송에서 대장동 의혹 수사 등에 대한 수사 지휘가 미진하다며 김 총장을 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.012,
+                "end": 13.384
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금까지와 같은 행태를 반복한다면 본인이 스스로 거취를 결정해야 된다고 저는 개인적으로 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.394,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "권성동 국민의힘 의원이 어제 한 라디오 방송에서 대장동 의혹 수사 등에 대한 수사 지휘가 미진하다며 김 총장이 지금까지와 같은 행태를 반복한다면 본인이 스스로 거취를 결정해야 된다고 생각한다며 자진 사퇴를 거론한 지 하루 만에 김 총장은 거부 의사를 밝힌 겁니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00503_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

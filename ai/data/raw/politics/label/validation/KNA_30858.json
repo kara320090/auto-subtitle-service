@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNA_30858",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.166,
+        "format": "MP4",
+        "date": "2016-12-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 게이트 수사를 맡게 될 특별 검사보 4명이 오늘 결정됩니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.056
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 특별 검사가 지난 2일 대통령에게 추천한 특검보 후보는 모두 8명 광우병 파동 당시 PD 수첩 제작진 기소 여부를 놓고 검찰 수뇌부와 갈등을 빚다 사표를 낸 @이름3 변호사를 포함해 @이름4, @이름5 변호사",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.066,
+                "end": 22.166
+            }
+        ]
+    },
+    "summary": "특별 검사가 지난 2일 대통령에게 추천한 특검보 후보는 모두 8명이며 수사를 맡게 될 특별 검사부 4명이 오늘 결정된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30858_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30858_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

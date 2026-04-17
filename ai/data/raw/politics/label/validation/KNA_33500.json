@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_33500",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2023-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "태세를 보여주는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.927
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "미시건함은 사거리가 2500킬로미터에 달하는 토마호크 순항미사일을 150발 이상 탑재할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.937,
+                "end": 9.400
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일반 핵추진 잠수함이 대항전이나 대잠전 임무를 수행하는 반면 미시건함은 미사일로 육상의 표적을 정밀 타격할 수 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.410,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "미국의 미시건함은 토마호크 순항미사일을 150발 이상 탑재할 수 있고 미사일로 육상의 표적을 정밀 타격할 수 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

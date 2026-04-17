@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNA_08214",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2022-08-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실 이전 전반을 둘러싼 의혹에 관해 국정조사를 포함 국회법이 정한 모든 절차들을 조속히 검토하고 진상규명에 착수하겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 10.811
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@소속1은 야당의 관저 공사 수주 의혹 공세를 대통령 업무 공간에 대한 막말 정쟁화 시도라고 일축했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.821,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "@소속1은 야당의 관저 공사 수주 의혹 공세를 대통령 업무 공간에 대한 막말 정쟁화 시도라고 일축했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08214_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_09826",
+        "category": "정치뉴스",
+        "sub_category": 20,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.22,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "표결 직전까지도 여야 간 논쟁이 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.535
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국 쌀 매입에 대한 정부의 재정 부담이 늘어나고 이는 쌀 이외의 다른 작물과의 형평성 문제가 발생할 수 있다는 것이 정부의 분석입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.545,
+                "end": 15.843
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "쌀값 폭락 사태가 재발하지 않도록 쌀값 정성화법을 마련했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.853,
+                "end": 20.220
+            }
+        ]
+    },
+    "summary": "양곡 관리법에 대한 표결 직전까지도 여야 간 논쟁이 이어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09826_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

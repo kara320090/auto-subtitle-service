@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "KNA_03378",
+        "category": "정치뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.994,
+        "format": "MP4",
+        "date": "2021-02-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결국 특별법은 이틀 후 국토위 전체 회의에서 원안대로 처리됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "묻지도 따지지도 않고 이렇게 법으로 밀어붙여서 어 하는 것이 선거를 위한 매표 공항이 아니고 도대체 뭡니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.266,
+                "end": 13.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국토부 등 정부 부처는 이견도 나타냈지만 청와대가 나서서 국회 뜻을 따르겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.283,
+                "end": 20.308
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "어 국회에서 어 입법적 어 결정을 내리신 것이기 때문에 신속하고도 원활한 어떤 진행을 위해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.318,
+                "end": 27.994
+            }
+        ]
+    },
+    "summary": "결국 특별법은 이틀 후 국토위 전체 회의에서 원안대로 처리됐는데 국토부 등 정부 부처는 선거를 위한 매표 공항이 아니냐며 이견도 나타냈지만 청와대가 나서서 국회 뜻을 따르겠다고 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03378_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03378_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

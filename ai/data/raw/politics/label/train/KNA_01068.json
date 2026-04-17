@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_01068",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.516,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김진욱 처장은 먼저 사과의 뜻을 전했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.394
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그동안 어 국민 여러분께 때때로 미숙한 모습을 보여드려서 어 대단히 어 송구스럽다는 말씀을 먼저 드립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.404,
+                "end": 13.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 고발 사주 의혹 등 주요 사건에서",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.531,
+                "end": 16.516
+            }
+        ]
+    },
+    "summary": "김진욱 처장이 사과의 뜻을 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01068_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

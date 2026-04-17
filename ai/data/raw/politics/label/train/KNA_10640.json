@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_10640",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.558,
+        "format": "MP4",
+        "date": "2023-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기부금 한도는 개인당 연간 500만 원이고 주민등록상 주소지를 제외한 모든 지자체에 기부할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울 택시 기본요금은 다음 달부터 지난해보다 1000원 오른 4800원으로 인상되며 기본 거리도 1.6킬로미터로 줄어듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.431,
+                "end": 18.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "4월부터는 지하철과 버스 요금도 각각 300원씩 인상될 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.146,
+                "end": 23.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.744,
+                "end": 25.558
+            }
+        ]
+    },
+    "summary": "서울 택시 요금이 다음 달부터 인상되고 4월부터는 버스와 지하철 요금도 인상될 것으로 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10640_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": 5,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

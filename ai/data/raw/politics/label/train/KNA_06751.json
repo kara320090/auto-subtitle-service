@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_06751",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2022-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첫 국토부 장관에는 깜짝 발탁이 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 대선에서 대장동 의혹 제기를 주도했던 @이름1 전 제주 지사가 내정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.145,
+                "end": 9.144
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공정과 상식이 회복되어야 할 민생 핵심 분야인 부동산 정책에 대한 이해가 높은 분입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.154,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "국토부 장관에는 지난 대선에서 대장동 의혹 제기를 주도했던 전 제주 지사가 내정됐다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06751_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

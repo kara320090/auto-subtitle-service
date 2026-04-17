@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNA_30537",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 56.6,
+        "format": "MP4",
+        "date": "2016-08-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박근혜 대통령은 오늘 오전 청와대 국가 위기 관리 상황실에서 을지 국가 안전 보장 회의를 주재하고 대북 대비 태세를 점검했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박 대통령은 북한 정권이 주민들의 삶은 도외시한 채 지속적인 공포 통치로 억압하면서 최근에는 엘리트 층조차 무너지고 있다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.301,
+                "end": 18.982
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주요 인사들까지 탈북과 외국으로의 망명이 이어지는 등 심각한 균열 조짐을 보이면서 체제 동요의 가능성이 커지고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.992,
+                "end": 32.187
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 북한 정권은 내부 동요를 차단하고 추가 탈북을 방지하면서 우리 사회에 혼란을 조장하기 위해 각종 테러와 다양한 형태의 도발을 저지를 가능성이 높아지고 있다고 진단했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.197,
+                "end": 44.886
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 만큼 북한이 국면 전환을 위해 을지 연습을 빌미로 도발할 가능성에 대해 만반의 대비 태세를 갖추고 물리적 도발에 대해서는 철저히 응징해야 한다고 지시했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 44.896,
+                "end": 56.600
+            }
+        ]
+    },
+    "summary": "박 대통령은 오늘 오전 을지 국가 안전 보장 회의를 주재하고 북한 정권이 지속적인 공포 통치로 억압하면서 주요 인사들까지 탈북과 망명이 이어지는 등 심각한 균열 조짐을 보이고 있다며 우리 사회에 혼란을 조장하기 위해 각종 테러와 다양한 도발을 저지를 가능성이 있다며 만반의 대비 태세를 갖춰야 한다고 지시했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30537_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30537_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

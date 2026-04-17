@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNA_00345",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.349,
+        "format": "MP4",
+        "date": "2022-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "확실하게 코로나19 극복하고 유연하고 그리고 대대적인 국가 투자를 통해서 기업들이 일자리 많이 만들고 기업들 성공할 수 있게 할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 후보는 현금 지원 보다 지역 화폐 발행이 소상공인 매출을 만들고 경제를 순환시킨다며",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.414,
+                "end": 16.349
+            }
+        ]
+    },
+    "summary": "확실하게 코로나19를 극복하고 유연하고 대대적인 국가 투자를 통해서 기업들이 일자리를 많이 만들고 성공할 수 있게 할 것이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00345_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

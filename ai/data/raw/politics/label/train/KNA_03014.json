@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNA_03014",
+        "category": "정치뉴스",
+        "sub_category": 17,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.221,
+        "format": "MP4",
+        "date": "2022-12-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여당 시절을 손 놓고 있다가 방송법을 야당이 되자 손바닥 뒤집듯 입장을 바꿔 날치기로 처리하는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.365
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떤 정파도 공영방송을 이제는 장악할 수 없다 해서 제가 정치권력 공영방송 장악 방지법이라고 명명을 한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.375,
+                "end": 21.221
+            }
+        ]
+    },
+    "summary": "여당과 야당이 공영방송 관련법 통과를 두고 입장을 밝히고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03014_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03014_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

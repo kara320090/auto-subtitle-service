@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01206",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.685,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오후 7시 30분 공동 출구 조사 결과를 발표할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.068
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 전현우입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.078,
+                "end": 6.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현직과 전직 시장에 출마한 인천시장 선거 후보자들 간의 법정 TV 토론회가 밤 사이 열렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.683,
+                "end": 14.577
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후보들은 뜨거운 쟁점으로 떠오른 수도권 매립지 문제와",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.587,
+                "end": 18.685
+            }
+        ]
+    },
+    "summary": "오후 7시 30분 공동 출구 조사 결과를 발표할 예정이며 현직과 전직 시장에 출마한 인천시장 선거 후보자들 간의 법정 TV 토론회가 밤 사이 열렸습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01206_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_03846",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.691,
+        "format": "MP4",
+        "date": "2021-05-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘 지도부의 광주행에 일부 항의하는 시민도 있었지만 큰 소동은 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.997
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공교롭게도 같은 날 여당 새 지도부도 광주를 찾았습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.007,
+                "end": 9.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방명록에 유능한 개혁을 강조한 송 대표는 변화를 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.652,
+                "end": 14.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "유능한 개혁 어 우리 국민들의 삶을 지켜내는 직권 여당다운 유능한 개혁 어 민주당을 만들겠다는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.563,
+                "end": 24.691
+            }
+        ]
+    },
+    "summary": "같은 날 여당 새 지도부도 광주를 찾아 방명록에 유능한 개혁 민주당을 만들겠다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03846_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

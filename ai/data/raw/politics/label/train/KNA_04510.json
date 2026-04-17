@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_04510",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.837,
+        "format": "MP4",
+        "date": "2021-10-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마침 호남을 방문한 이준석 대표는 윤 후보의 해명이 충분할지 모르겠다고 꼬집었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "악의를 가지고 이런 발언을 했다라고는 아직까지는 어 섣부른 판단을 하지 않겠습니다마는 이런 일이 지속되면 후보가 표의 확장성을 갖는 데 어려움이 있다는 것은 후보가 가장 먼저 느낄 것이기 때문에",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.282,
+                "end": 19.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보는 다시 SNS를 통해 전두환 정권에 고통을 당하신 분들께 송구하다며 사과했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.211,
+                "end": 26.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 어젯밤 사과를 요구받는 와중에 자신이 돌잡이로 사과를 잡았다고 사진을 게시한 일이 알려지면서 사과 요구를 조롱했다는 비판을 받고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.863,
+                "end": 37.837
+            }
+        ]
+    },
+    "summary": "이준석 대표는 윤 후보의 해명에 대해 이런 일이 지속되면 표의 확장성을 갖는 데 어려움이 있다는 것은 본인이 느낄 것이라고 했고 윤 후보는 SNS를 통해 다시 사과했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04510_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04510_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

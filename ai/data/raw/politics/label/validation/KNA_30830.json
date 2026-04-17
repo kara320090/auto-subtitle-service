@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNA_30830",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.433,
+        "format": "MP4",
+        "date": "2016-11-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실제 상황 실제 상황",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.972
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "배치 배치 배치",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.982,
+                "end": 2.870
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "북한이 6년 전처럼 연평도를 향해 기습 포격 도발에 나선 상황 해병대원들이 한달음에 달려가 K9 자주포를 장전하고 대응 사격을 시작합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.880,
+                "end": 16.003
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "북한의 위협에 대비해 서북도서에 배치된 130밀리 다연장 로켓 구룡도 북한 방사포를 향해 불을 뿜습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.013,
+                "end": 25.433
+            }
+        ]
+    },
+    "summary": "해병대원들은 북한이 기습 포격 도발에 나선 상황에서 한달음에 달려가 자주포를 장전하고 대응 사격을 시작했으며 서북도서에 배치된 로켓 구룡도 북한 방사포를 향해 불을 뿜는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30830_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30830_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 2,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

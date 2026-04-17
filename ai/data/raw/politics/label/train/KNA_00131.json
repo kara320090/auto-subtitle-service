@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00131",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2022-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당과 국민의힘은 두 후보 첫 양자 TV 토론 일정을 오는 31일, 혹은 30일로 합의해 지상파 방송사에 요청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대한상의를 찾은 정의당 심상정 후보는 본인을 반기업적이라 생각했다면 오해다. 다만 갑질 등 민주주의 박 이익 추구를 반대하는 거라 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.547,
+                "end": 20.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의당 안철수 후보는 대전을 방문해",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.211,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "대한상의를 찾은 정의당 심상정 후보는 본인을 반기업적이라 생각했다면 오해이며 다만 민주주의 박 이익 추구를 반대하는 것이라 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00131_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00131_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

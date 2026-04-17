@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_30540",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.7,
+        "format": "MP4",
+        "date": "2016-08-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 총참모부는 이번 입장 발표가 위임에 따라 이루어졌다고 밝혀 김정은의 결정에 따른 것임을 분명히 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "총참모부는 지난달에도 포병군 명의의 중대 경고를 통해 사드의 위치와 장소가 확정되는 시각부터 물리적 대응 조치가 실행될 것이라고 위협한 바 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.785,
+                "end": 19.700
+            }
+        ]
+    },
+    "summary": "총참모부는 지난달에도 사드의 위치와 장소가 확정되는 시각부터 물리적 대응조치가 실행될 것이라고 위협한 바 있으며 이번 입장 발표가 김정은의 결정에 따른 것임을 분명히 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30540_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30540_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

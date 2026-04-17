@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_04261",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.219,
+        "format": "MP4",
+        "date": "2021-08-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보께서는 정권 교체를 하러 우리 당에 오신 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 당권 교체를 하러 오신 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.269,
+                "end": 9.144
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최재형 전 감사원장도 가세했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.154,
+                "end": 12.303
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 캠프가 당과 대표를 흔들고 있다면서 본인의 캠프부터 다잡으라는 대변인 논평을 냈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.313,
+                "end": 19.219
+            }
+        ]
+    },
+    "summary": "윤석열 캠프가 당과 대표를 흔들고 있다면서 본인의 캠프부터 다잡으라는 대변인 논평을 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04261_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

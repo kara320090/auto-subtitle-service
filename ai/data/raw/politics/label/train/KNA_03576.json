@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_03576",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.464,
+        "format": "MP4",
+        "date": "2021-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "휴대전화 GPS를 반드시 켠 채 투표소로 이동해야 하고 다른 장소를 방문하면 자가격리 이행 위반으로 처벌받을 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.643
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투표를 하고 가실 동안 예를 들어서 테이크아웃점에 가서 뭐 커피를 구매한다든지 아주 사소한 행위지만 가야 되는 그 이외의 행위를 하지 않도록 하는 것을",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.653,
+                "end": 20.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선거일 직전에 확진되거나 격리될 경우 각 시도 선거 관리 위원회에 문의하면 투표를 위한 안내를 받을 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.825,
+                "end": 29.411
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.421,
+                "end": 31.464
+            }
+        ]
+    },
+    "summary": "선거일 직전에 확진되거나 격리될 경우 각 시도 선거 관리 위원회에 문의하면 투표를 위한 안내를 받을 수 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03576_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_32253",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.433,
+        "format": "MP4",
+        "date": "2015-11-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 이름으로 반드시 응분의 대가를 치르도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.973
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김 장관은 지난 14일 서울 도심에서 열린 1차 민중 총궐기 집회를 주도한 뒤 서울 조계사에 은신하고 있는 @이름1 민주 노총 위원장에 대해서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.983,
+                "end": 15.768
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "죄를 짓고도 법 집행을 거부한 채 종교 시설에 숨어 국민을 선동하고 있다고 비판했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.778,
+                "end": 21.929
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면서 떳떳하다면 종교의 방패 뒤에서 나와 재판과 수사에 응하라고 촉구했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.939,
+                "end": 28.433
+            }
+        ]
+    },
+    "summary": "김 장관은 @이름1 민주 노총 위원장에 대해서는 죄를 짓고도 법 집행을 거부한 채 종교 시설에 숨어 국민을 선동하고 있다고 비판했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32253_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

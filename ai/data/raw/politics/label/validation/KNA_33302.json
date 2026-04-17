@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_33302",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.566,
+        "format": "MP4",
+        "date": "2018-12-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "동서해 완충 구역에서 상시 전개 작전을 수행하고 있으며",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.548
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "밤을 세운 항해 끝에 멀리 이어도 해상 과학 기지에 도착했습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.558,
+                "end": 9.476
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지난 10년간 불철주야 우리의 바다를 지켜왔습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.486,
+                "end": 13.945
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현재 3척의 이지스함을 보유 중인 해군은 2020년까지 차기 이지스함 3척을 추가로 도입할 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.955,
+                "end": 22.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.322,
+                "end": 25.566
+            }
+        ]
+    },
+    "summary": "해군은 동서해 완충 구역에서 상시적으로 전개 작전을 수행하고 있고 오는 2020년까지 이지스함 3척을 추가로 도입할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33302_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

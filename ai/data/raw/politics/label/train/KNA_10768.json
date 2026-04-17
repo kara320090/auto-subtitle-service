@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_10768",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 34.3,
+        "format": "MP4",
+        "date": "2023-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오는 10월에는 내항 1부두와 8부두 전체를 시민들에게 개방할 방침입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인천항 내항에 다시 활기를 불어넣는 제물포 르네상스 사업의 첫 단추를 꿰는 것입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 6.097,
+                "end": 13.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 KTX 인천역 출발과 제2 공항 철도 인천지하철 3호선 제4 경인고속도로 건설로 원도심 교통망을 획기적으로 개선합니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 13.745,
+                "end": 25.596
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원도심 어디서나 15분 이내에 대중교통 접근이 가능하도록 사람 중심의 교통체계를 구축하도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.606,
+                "end": 34.300
+            }
+        ]
+    },
+    "summary": "오는 10월에는 내항 1부두와 8부두 전체를 시민들에게 개방할 방침이며 또 KTX 인천역 출발과 제2 공항 철도 인천지하철 3호선 제4 경인고속도로 건설로 원도심 교통망을 획기적으로 개선할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10768_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

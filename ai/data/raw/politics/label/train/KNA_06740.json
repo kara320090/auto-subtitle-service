@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_06740",
+        "category": "정치뉴스",
+        "sub_category": 20,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.524,
+        "format": "MP4",
+        "date": "2022-04-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 이른바 검찰 개혁 법안을 어떻게 할 것인지를 놓고 이틀째 의원 간담회를 이어갔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰 반발에 대해선 두루 의견을 듣는 상황이라는 걸 모르지 않으면서 국회를 겁박이라도 하겠다는 것이냐며 엄중 경고한다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.239,
+                "end": 15.157
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조직 이기주의도 부족해 이익 집단처럼 집단 행동 움직임을 보이는 검찰의 행태에 개탄을 금할 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.167,
+                "end": 24.524
+            }
+        ]
+    },
+    "summary": "민주당은 검찰 개혁 법안을 두고 의원 간담회를 이어갔으며 검찰의 반발에 대해선 엄중 경고한다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06740_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

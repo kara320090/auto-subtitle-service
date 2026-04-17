@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_02902",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.52,
+        "format": "MP4",
+        "date": "2022-11-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "외신과 사진 전문가 분석이라며 사진 속 그림자를 근거로 들기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최소 2개 3개 조명까지 설치해서 사실상 현장 스튜디오를 차려 놓고 찍은 컨셉 사진으로 분석합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.459,
+                "end": 14.592
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조명을 사용한 일 없다고 반박했던 대통령실 장 의원을 경찰에 고발했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.602,
+                "end": 20.520
+            }
+        ]
+    },
+    "summary": "민주당 장 의원은 김건희 여사의 캄보디아 방문 사진은 조명을 설치해서 찍은 컨셉 사진이라고 말했고 대통령실은 조명을 사용한 일이 없다고 반박하며 장 의원을 경찰에 고발했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02902_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 54
+                }
+            ]
+        }
+    ]
+}

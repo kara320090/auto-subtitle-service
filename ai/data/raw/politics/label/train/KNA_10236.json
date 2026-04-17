@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_10236",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 38.605,
+        "format": "MP4",
+        "date": "2022-09-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공정위는 최근 추석 연휴에도 같은 방식으로 재차 행사를 진행했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.742
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국가 기관의 인식부터 철두철미하게 바꿔야 되는데 근데 소관 부처가 관리도 제대로 못 하고 전향적인 태도가 부족해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.752,
+                "end": 15.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해 들어 지난달까지 개인정보 유출로 처분을 받은 공공기관은 모두 12곳 유출 규모는 2만 8000건에 달합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.012,
+                "end": 23.147
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공정위는 행사가 끝난 즉시 개인정보를 영구 삭제했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.157,
+                "end": 28.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 앞으로는 보다 명시적으로 개인정보 제공 동의를 받고 당첨자를 공개할 때에도 개인정보 보호가 이뤄지도록 하겠다고 덧붙였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.429,
+                "end": 37.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.310,
+                "end": 38.605
+            }
+        ]
+    },
+    "summary": "소관 부처가 관리를 제대로 못하고 전향적인 태도가 부족하다며 비판했고 공정위는 행사가 끝난 즉시 개인정보를 영구 삭제했으며 앞으로는 보다 명시적으로 보호가 이뤄지도록 하겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10236_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10236_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "KNA_05831",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.498,
+        "format": "MP4",
+        "date": "2122-12-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "많은 나라들이 이 법인세를 내림으로써 어 투자도 촉진하고 특히 해외로부터의 고용을 창출하는 기업들을 많이 어 유치를",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.130
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부 여당은 법인세 최고 세율을 현행 25퍼센트에서 22퍼센트로 낮춰야 한다고 주장합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.140,
+                "end": 19.486
+            }
+        ]
+    },
+    "summary": "많은 나라들이 법인세를 내림으로써 투자 촉진과 해외로부터의 고용을 창출하는 기업들을 많이 유치했다며 정부 여당은 법인세 최고 세율을 22퍼센트로 낮춰야 한다고 주장합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05831_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05831_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

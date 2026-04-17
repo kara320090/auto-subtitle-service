@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_10622",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.053,
+        "format": "MP4",
+        "date": "2023-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘 일부 의원들이 방탄 공세용 부결표를 던질 수도 있다는 말도 있지만 현실성이 떨어진다는 관측이 더 많습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.171
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누가 그런 말을 만들어 내요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.181,
+                "end": 10.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "의원에 따라 그런 소신이 있는 사람이 한 사람도 없다고 내가 단정할 수는 없지만은 우리 당이 그렇게 뭐 기교적이고 그런 당 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.430,
+                "end": 20.053
+            }
+        ]
+    },
+    "summary": "국민의 힘 의원들이 부결표를 던질 수도 있다는 말은 현실성이 떨어진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10622_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

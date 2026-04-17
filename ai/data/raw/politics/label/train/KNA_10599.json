@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_10599",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.46,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이태원 참사 발생 다음 날인 지난해 10월 30일 이상민 행정안전부 장관은 경찰에 대응 미숙이 참사에 직접적인 원인이 아니라는 취지로 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.726
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰이나 소방 인력이 미리 배치함으로써 해결될 수 있었던 문제는 아니었던 것으로 지금 파악을 하고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.736,
+                "end": 17.902
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "논란이 불거지자 다음 날 대통령실 관계자까지 나서 현재 경찰에 부여된 권한이나 제도로는 선제적으로 대응하기 어렵다는 취지라고 해명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.912,
+                "end": 27.460
+            }
+        ]
+    },
+    "summary": "이태원 참사가 미리 경찰과 소방 인력을 배치했더라도 일어났을 거라고 이상민 행정안전부 장관은 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10599_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

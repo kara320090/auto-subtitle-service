@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_01341",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.32,
+        "format": "MP4",
+        "date": "2022-06-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "건강 문제를 이유로 또 한 번 형 집행 정지를 신청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여권을 중심으로 특별 사면 가능성도 언급되는 가운데 윤석열 대통령은 신중한 입장을 내비쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.101,
+                "end": 10.894
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김유대 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.904,
+                "end": 13.450
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘만 두 차례 입 퇴원을 반복하며 안양 교도소에 수감 중인 이명박 전 대통령",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.460,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "이명박 전 대통령이 건강 문제로 형 집행 정지를 신청했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

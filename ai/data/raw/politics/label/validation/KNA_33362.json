@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNA_33362",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.168,
+        "format": "MP4",
+        "date": "2023-06-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "북한이 추가 발사를 예고한 상황 정부는 혼란 재발을 막기 위해 신속히 시스템 개선에 나서기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.228
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부 관계자는 경보 문자와 관련해 국무 조정실에서 조사하고 제도 개선책을 마련할 예정이라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.238,
+                "end": 14.799
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일본 시스템을 참고해 재난 발생 원인과 대피 장소를 경보 문자에 담는 방안이 추진되는 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.809,
+                "end": 22.395
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 대피소 시설 등도 전면 재점검하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.405,
+                "end": 26.584
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "복기를 해 보고 또 제도적인 개선 같은 걸 해야 할",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.594,
+                "end": 31.164
+            }
+        ]
+    },
+    "summary": "북한이 추가 발사를 예고했고 정부 관계자는 혼란 재발을 막기 위해 국무 조정실에서 복기를 하고 경보 문자 관련 조사와 제도 개선책 마련 예정이라면서 원인과 대피 장소를 경보 문자에 담는 방안이 추진되며 대피소 시설도 재점검하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33362_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

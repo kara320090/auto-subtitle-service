@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_03530",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.666,
+        "format": "MP4",
+        "date": "2021-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 서욱 국방부 장관과 로이드 오스틴 국방장관의 한미 국방장관 회담은 약 1 시간 반 동안 진행돼 오후 5 시 20 분쯤 마무리됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.679
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국방부는 이번 회담에서 무엇보다 굳건한 한미 동맹을 확인했다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.689,
+                "end": 14.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회담에서 한국에 대한 미국의 확장 억제를 포함한 방위 공약을 재확인했고 한미 동맹이 한반도와 동북아 지역 평화 안정의 핵심축이라는 데 공감했다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.814,
+                "end": 26.659
+            }
+        ]
+    },
+    "summary": "한미 국방장관 회담에서 한국에 대한 미국의 확장 억제를 포함한 방위 공약을 재확인했고 한미 동맹이 한반도와 동북아 지역 평화 안정의 핵심축이라는 데 공감했다고 밝혔다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03530_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

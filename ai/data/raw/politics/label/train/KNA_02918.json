@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "KNA_02918",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.555,
+        "format": "MP4",
+        "date": "2022-11-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제도 개선을 해서 해결할 문제지 감사원 감사를 시키고 수사기관을 동원하고 그래서 해결할 문제냐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "임기와 맞추기 위한 입법 동의합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.237,
+                "end": 9.875
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러나 그전에 알박기 인사하신 부분 결자해지해주시기를 촉구합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.885,
+                "end": 16.255
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "국정 혼란을 덜고 정책 역량 소진도 막자는 취지이지만 논의 과정에 난항도 예상됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.265,
+                "end": 22.555
+            }
+        ]
+    },
+    "summary": "국정 혼란을 덜고 정책 역량 소진도 막자는 취지이지만 논의 과정에 난항도 예상된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02918_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02918_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

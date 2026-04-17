@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_02103",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.786,
+        "format": "MP4",
+        "date": "2022-04-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "해당 분야를 가장 잘 맡아서 이끌어 주실 분이신가에 기준을 두고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 당선인은 후보자의 능력이 인성 기준이라며 할당이나 안배는 고려하지 않겠다는 기존 입장을 재확인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.243,
+                "end": 16.734
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지명해야 될 공직이 많기를 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.744,
+                "end": 19.786
+            }
+        ]
+    },
+    "summary": "윤 당선인은 후보자의 능력이 인성 기준이라며 할당이나 안배는 고려하지 않겠다는 기존 입장을 재확인했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

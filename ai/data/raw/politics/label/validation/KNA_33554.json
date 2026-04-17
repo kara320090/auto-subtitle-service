@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_33554",
+        "category": "정치뉴스",
+        "sub_category": 21,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.322,
+        "format": "MP4",
+        "date": "2023-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 임신 갈등을 겪는 위기 여성이 건강을 지키는 길이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.163
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘은 이달 말 본회의에서 법안을 처리하기 위해 법사위 소위에 있는 출생 통보제를 직회부 하는 방안을 검토하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.173,
+                "end": 13.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당도 재발 방지를 위해 머리를 맞대겠다는 입장이어서 관련 입법이 속도를 낼 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.607,
+                "end": 19.906
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.916,
+                "end": 22.322
+            }
+        ]
+    },
+    "summary": "국민의 힘은 본회의에서 법안을 처리하기 위해 출생 통보제를 직회부 하는 방안을 검토하고 있고 민주당도 머리를 맞대겠다는 입장이어서 관련 입법이 속도를 낼 것으로 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33554_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 26
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33554_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_00540",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.498,
+        "format": "MP4",
+        "date": "2022-03-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "임기가 보장됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 윤석열 대통령 당선인이나 대선 과정에서 공수처가 정치적으로 편향돼 있다며 정면 비판한 바 있어 임기를 채우기 어려울 것이란 관측이 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.674,
+                "end": 12.478
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "진정한 수사 기관으로 환골탈태시키겠습니다. 만일 그래도",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.488,
+                "end": 19.486
+            }
+        ]
+    },
+    "summary": "윤석열 대통령 당선인이나 대선 과정에서 공수처가 정치적으로 편향돼 있다며 정면 비판한 바 있어 공수처장이 임기를 채우기 어려울 것이란 관측이 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00540_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 49,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

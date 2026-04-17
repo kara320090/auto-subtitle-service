@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_01408",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.116,
+        "format": "MP4",
+        "date": "2022-06-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "봉하마을은 누구나 갈 수 있는 곳 아니냐고 반문했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코바나 콘텐츠 출신 인사들이 대통령실 부속실에 채용된 데 대해선 이렇게 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.006,
+                "end": 9.683
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공식적인 그 수행원이나 비서팀이 전혀 없기 때문에 혼자 다닐 수도 없고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.693,
+                "end": 16.116
+            }
+        ]
+    },
+    "summary": "대통령실 부속실에 코바나 콘텐츠 출신 인사들이 채용된 사실에 대해 윤 대통령은 공식적인 수행원이나 비서팀이 없어 김 여사가 동행할 인원이 필요했다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01408_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01408_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 44
+                }
+            ]
+        }
+    ]
+}

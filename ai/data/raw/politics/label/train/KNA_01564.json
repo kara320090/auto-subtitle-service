@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01564",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.448,
+        "format": "MP4",
+        "date": "2022-06-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 이재명 의원의 당권 도전 여부를 놓고 계파 간 갈등이 격화됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.309
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이른바 9796 중 처음으로 강병원 의원이 당 대표 출마를 공식 선언하며 이재명 불출마를 압박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.319,
+                "end": 13.633
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누군가는 이",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.643,
+                "end": 15.448
+            }
+        ]
+    },
+    "summary": "이재명 의원의 당권 도전을 놓고 갈등이 격화됐으며 강병원 의원은 당 대표 출마를 선언하며 이 의원을 압박했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01564_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 40
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01564_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

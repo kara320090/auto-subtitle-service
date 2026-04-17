@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_09823",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.425,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나한테 형님 식사 한번 하시죠 하시죠 계속하는데 내가 거절했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 검찰은 김 전 대표가 2014년부터 1년간 정진상 씨와 300차례 가까이 통화했다고 구속 영장 청구서에 적었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.350,
+                "end": 13.181
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당초 알려졌던 1년에 110여 차례보다 훨씬 많은 통화를 한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.191,
+                "end": 17.410
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰이 이렇게 자주 통화한 이유를 묻자 김 전 대표는 정진상 씨가 선거 대응 방안을 물어봐 조언을 해 줬다는 취지로 진술했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.420,
+                "end": 25.425
+            }
+        ]
+    },
+    "summary": "검찰은 김 전 대표가 2014년부터 1년간 정진상 씨와 300차례 가까이 통화했다고 구속 영장 청구서에 적었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09823_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

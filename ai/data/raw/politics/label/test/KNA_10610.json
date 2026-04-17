@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNA_10610",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.234,
+        "format": "MP4",
+        "date": "2023-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국수 본부장은 개방 지구로 외부 공모 절차를 거치는데 후보자로는 정 변호사와 경찰 출신의 장경석 전 서울 경찰청 수사부장 최인석 전 강원 화천 경찰서장이 지원했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.377
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심사 위원회에 신층 면접을 거쳐 윤희근 경찰청장이 정 변호사를 최종 후보자로 단수 추천했고 윤석열 대통령이 임명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.387,
+                "end": 22.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰 조직 내 반발이 있을 거란 우려에 윤 청장은 즉답을 피했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.965,
+                "end": 28.136
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰 출신 임명에 반발의 목소리가 있는데 우려는 따로 없으신 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.146,
+                "end": 32.700
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지금 그거 물어볼 상황은.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.710,
+                "end": 34.234
+            }
+        ]
+    },
+    "summary": "윤희근 경찰청장이 정 변호사를 추천하고 윤석열 대통령이 임명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10610_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

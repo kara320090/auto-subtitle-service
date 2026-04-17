@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_00038",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.622,
+        "format": "MP4",
+        "date": "2022-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이재명 후보가 경쟁자였던 이낙연 전 대표와 함께 광주를 방문해서 단결된 힘으로 위기를 극복하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.343
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한편 민주당은 국회 내 추경안 논의를 시작했는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.353,
+                "end": 11.921
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노태영 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.931,
+                "end": 13.638
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당 이재명 후보는 국가 비전 위원회 광주 출범식에서 단결의 중요성을 강조했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.648,
+                "end": 22.622
+            }
+        ]
+    },
+    "summary": "민주당 이재명 후보가 광주 출범식에 방문하여 단결의 중요성을 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00038_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

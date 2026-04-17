@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00014",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.954,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실 수요자들을 위한 주택 공급에 속도를 내겠다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.960
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재 남북관계에 대해선 아직 미완의 상태라고 평가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.960,
+                "end": 9.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 지금은 남과 북의 의지와 협력이 무엇보다 중요한 때라며 종전선언 등에 대한 노력을 멈추지 않겠다는 점을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.840,
+                "end": 19.350
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지속 가능한 평화로",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.360,
+                "end": 20.954
+            }
+        ]
+    },
+    "summary": "문재인 대통령이 실수요자를 위한 주택공급에 속도를 내고 남북관계는 아직 미완의 상태지만 노력을 멈추지 않겠다는 점을 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00014_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

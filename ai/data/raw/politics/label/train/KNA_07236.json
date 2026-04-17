@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_07236",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.355,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마음껏 힘차게 새로운 대한민국을 부를 수 있어서 감사합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.907
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다양한 계층의 시민 4만여 명이 참여해 1시간 동안 만들어낸 취임식.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 5.917,
+                "end": 11.281
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이곳엔 대한민국 대통령 취임식 최초로 탈북 국군포로 3명도 참석해 자리를 빛냈습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 11.291,
+                "end": 19.407
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.417,
+                "end": 22.355
+            }
+        ]
+    },
+    "summary": "윤석열 대통령의 취임식 참석자에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07236_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

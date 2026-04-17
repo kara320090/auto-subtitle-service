@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "KNA_10915",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.921,
+        "format": "MP4",
+        "date": "2023-03-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런다고 전라도 표가 나올 줄 압니까? 전라도는 영원히 10프로예요",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.536
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 그건 불가능합니다 저도 반대입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.546,
+                "end": 7.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전라도에 대해서 립서비스 한다고 한거지",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.235,
+                "end": 9.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 표 얻으려면 뭐 조상 너도 판다는 게 정치인 것 아닙니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.570,
+                "end": 14.338
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "오일팔 정신에 헌법 전문 수록은 윤석열 대통령도 후보시절 찬성한 바 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.348,
+                "end": 19.852
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "숭고한 정신이기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.862,
+                "end": 21.921
+            }
+        ]
+    },
+    "summary": "전라도 표는 10프로라고 말했고 표를 얻으려면 조상도 판다는 게 정치 아니냐고 말하였으며 윤 대통령도 후보 시절 오일팔 정신 헌법 전문 수록은 찬성한 바 있다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10915_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10915_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

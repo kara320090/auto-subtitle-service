@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00897",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김오수 검찰 총장 거취에 대해선 답변하지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이명박 전 대통령과 김경수 전 경남 지사 등에 대한 사면 여부에 대해선 사면은 사법 정의와 부딪힐 수 있는 만큼 국민들의 지지나 공감대가 판단 기준이라는 원론적 입장만 내놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.891,
+                "end": 17.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 사법",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.563,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "이명박 전 대통령과 김경수 전 경남 지사 등에 대한 사면 여부에 대해선 사법 정의와 부딪힐 수 있는 만큼 국민들의 지지나 공감대가 판단 기준이라는 원론적 입장만 내놨습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00897_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00897_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

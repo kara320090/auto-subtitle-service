@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_06345",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.325,
+        "format": "MP4",
+        "date": "2022-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 후보는 소규모 공장이 밀집된 시화 공단을 찾았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "열에 아홉 곳 이상이 50인 미만 사업장인 곳이라 정의당의 역할이 꼭 필요한 지역이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.869,
+                "end": 12.860
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "50인 미만 중소 영세 사업장 노동자들의 열악한 노동 조건을 개선하는 데 노동 정책의 중심을 두고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.870,
+                "end": 25.325
+            }
+        ]
+    },
+    "summary": "정의당 심상정 후보는 소규모 공장이 밀집된 시화 공단을 찾았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06345_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 20,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

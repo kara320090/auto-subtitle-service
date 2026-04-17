@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_02998",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.818,
+        "format": "MP4",
+        "date": "2022-12-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서해 공무원 피격 사건으로 구속됐던 서욱 전 국방부 장관과 김홍희 전 해경청장 2명 모두 법원에 구속적부심에서 풀려났습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.780
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 상황에서 검찰이 서훈 전 국가안보실장에 대해서도 구속영장을 청구하자 문재인 전 대통령이 처음 입장을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.790,
+                "end": 18.818
+            }
+        ]
+    },
+    "summary": "검찰이 서훈 전 국가안보실장에 대해서도 구속영장을 청구하자 문재인 전 대통령이 처음 입장을 밝혔다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02998_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 34
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02998_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

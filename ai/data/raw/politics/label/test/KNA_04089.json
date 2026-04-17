@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "KNA_04089",
+        "category": "정치뉴스",
+        "sub_category": 42,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 32.465,
+        "format": "MP4",
+        "date": "2021-07-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 지사를 포함해 민주당 후보와 9명은 오늘 오전 한 자리에 모여 공명선거를 다짐했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "담합하여",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.560,
+                "end": 10.909
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경선 흥행을 위해 상대 후보를 지목해 정책 검증을 하고 즉석해서 취재진 질문을 받고 답변하는 압박 면접방식도 활용됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.919,
+                "end": 21.277
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야권에선 황교안 전 미래통합당 대표가 대선 출마를 공식화했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.287,
+                "end": 26.849
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "정권 교체 자체가 우리 국민들에게 희망을 드리는",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.859,
+                "end": 32.465
+            }
+        ]
+    },
+    "summary": "민주당 후보와 9명은 오늘 오전 한 자리에 모여 공명선거를 다짐했고 상대 후보를 지목해 정책을 검증하고 즉석해서 취재진 질문을 받고 답변하는 압박면접방식도 진행되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04089_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04089_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 150
+                }
+            ]
+        }
+    ]
+}

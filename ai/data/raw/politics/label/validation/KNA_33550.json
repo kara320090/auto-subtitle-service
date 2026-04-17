@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_33550",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2023-06-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "베트남은 우리 대한민국의 핵심 협력국입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.267
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이어 한국어 교육기관을 방문하고 케이 산업 쇼케이스와 무역 상담회를 찾아 양국 협력의 현주소를 확인합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.277,
+                "end": 12.524
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령은 내일 베트남 국가주석과의 정상회담에 이어 당 서기장, 총리, 국회의장 등 최고지도부와 연이어 개별 면담을 갖습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.534,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "윤 대통령은 한국어 교육기관과 무역 상담회 등을 방문하고 베트남 국가주석과의 정상회담, 최고지도부와 개별 면담 등을 가질 예정입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33550_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33550_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

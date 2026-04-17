@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_00031",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.349,
+        "format": "MP4",
+        "date": "2022-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "깊은 감사와 위로의 마음을 전한다며 이번 특별법은 과거사 문제를 풀어가는 교훈이자 유사한 민간인 희생 사건의 입법 기준이 될 것이라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.703
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 또 임기 마지막까지 긴장을 놓지 말라며",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.713,
+                "end": 16.349
+            }
+        ]
+    },
+    "summary": "대통령은 이번 특별법이 과거사 문제를 풀어가는 교훈이자 유사한 사건의 입법 기준이 될 것이라고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00031_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00031_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

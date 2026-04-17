@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNA_07506",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.455,
+        "format": "MP4",
+        "date": "2022-06-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실은 경험과 능력 등을 고려해 인선을 단행했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.142
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 국정원 기조실장의 경우 다양한 정부 기관에서 일한 경력이 있어 업무 시야가 넓고 대외 조정 능력이 뛰어나다고 평가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.152,
+                "end": 12.301
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 총리비서실장에 대해선 노무현 정부 총리였을 때 함께 일했던 @이름3 총리의 의중이 반영된 것으로 안다고 설명했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.311,
+                "end": 20.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름4입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.637,
+                "end": 22.455
+            }
+        ]
+    },
+    "summary": "대통령실은 경험과 능력 등을 고려해 인선을 단행했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07506_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

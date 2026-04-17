@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_05057",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2022-07-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "홍준표 대구시장은 대통령도 사람인데 당 대표가 계속 불화만 야기시키는 걸 보고 어찌 속내를 감추겠냐고 지적했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.310
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야당은 대통령이 당내 권력 싸움이 아니라 민생에 집중하라며 비판했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.320,
+                "end": 14.061
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이준석 대표의 제거는 윤석열 대통령과 윤핵관들의 공동작품이다 이렇게 말씀드린 바 있는데 사실로 확인된 문자라고 보여집니",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.071,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "홍준표는 대통령도 사람인데 당 대표가 계속 불화만 야기시키는 걸 보고 어찌 속내를 감추겠냐고 지적했고 야당은 대통령이 당내 권력 싸움이 아니라 민생에 집중하라며 비판했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05057_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05057_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

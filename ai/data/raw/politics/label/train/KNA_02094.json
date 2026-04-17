@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02094",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.448,
+        "format": "MP4",
+        "date": "2022-04-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "때를 맞춰야 하듯 모든 개혁도 때가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.595
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 흔들림 없이 국민께 약속드린 검찰 개혁을 지속적으로 추진하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.605,
+                "end": 10.254
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최근 이재명 후보 부인 김혜경 씨 법인 카드 수사도 논의를 가속화시켰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.264,
+                "end": 15.448
+            }
+        ]
+    },
+    "summary": "민주당은 국민에게 약속한 검찰 개혁을 지속적으로 추진하겠다고 했고 최근 이재명 후보 부인 김혜경 씨 법인 카드 수사도 논의를 가속화시켰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02094_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02094_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

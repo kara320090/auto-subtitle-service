@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_08861",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.562,
+        "format": "MP4",
+        "date": "2022-10-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령의 대국민 사과를 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.189
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정치수사 중단이 대통령이 강조해 마지 않는 공정과 상식입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.199,
+                "end": 9.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 대통령의 현명한 판단과 결단을 촉구합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.190,
+                "end": 14.510
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반쪽으로 진행된 대검 국감에서 국민의힘은 이번 수사의 정당성을 물었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.520,
+                "end": 20.495
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "회유 의혹을 어 제기하면서 불법 수사로 지금 이제 검찰 수사에 대해서 비난을 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.505,
+                "end": 27.560
+            }
+        ]
+    },
+    "summary": "민주당은 윤 대통령의 대국민 사과와 정치수사 중단을 요구했고 검찰 수사에 비판을 하고 있다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08861_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08861_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

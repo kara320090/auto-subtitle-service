@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "KNA_11987",
+        "category": "정치뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.659,
+        "format": "MP4",
+        "date": "2020-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19에 집중된 경제 분야 대정부 질문.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.850
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마스크 품귀 현상에 의원들 질타가 쏟아졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.860,
+                "end": 8.381
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마스크 게릴라 판매한다고 했는데 시작과 동시에 매진됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.391,
+                "end": 12.658
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민들은 살 수가 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.668,
+                "end": 14.630
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "초기에 재고를 쌓아놓고 있었어야죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.640,
+                "end": 18.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해결책으로 마스크를 무상 공급하자는 제안이 나왔는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.046,
+                "end": 22.320
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이 마스크에 대해서 무상 급 공급을 못 할 이유가 단 하나도 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.330,
+                "end": 26.659
+            }
+        ]
+    },
+    "summary": "코로나19에 집중된 경제 분야 대정부 질문에서는 마스크 품귀 현상에 의원들 질타가 쏟아졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11987_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11987_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

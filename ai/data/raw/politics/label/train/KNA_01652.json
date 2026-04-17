@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_01652",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.349,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "많이 바뀌고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.271
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 후보는 자신이 정치 신인인 만큼 누구에게도 부채가 없다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.281,
+                "end": 7.036
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부채가 없으니 기득권을 깨고 개혁할 수 있고 진영을 떠나 전문가를 등용하겠다고도 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.046,
+                "end": 13.598
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘 지도부도 총동원됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.608,
+                "end": 16.349
+            }
+        ]
+    },
+    "summary": "윤 후보는 자신이 정치 신인인 만큼 누구에게도 부채가 없그니 기득권을 깨고 개혁할 수 있고 전문가를 등용하겠다고도 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01652_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

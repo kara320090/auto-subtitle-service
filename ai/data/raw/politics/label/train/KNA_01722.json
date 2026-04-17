@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_01722",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2022-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "10대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "받아야 된다는 것이",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조 대법관을 언급한 녹취록 내용 사실관계는 앞서 검찰이 조사를 진행했지만 현재까지 별다른 혐의점을 찾진 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.189,
+                "end": 10.616
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 김유대입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.626,
+                "end": 13.783
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이재명 윤석열 후보 측의 상대를 겨냥한 이의 의혹 제기는 끝나지 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.793,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "조 대법관을 언급한 녹취록 내용 사실관계는 앞서 검찰이 조사를 진행했지만 현재까지 별다른 혐의점을 찾진 못했고 이재명 윤석열 후보 측의 상대를 겨냥한 이의 의혹 제기는 끝나지 않고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01722_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01722_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

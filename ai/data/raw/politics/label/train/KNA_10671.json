@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNA_10671",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.698,
+        "format": "MP4",
+        "date": "2023-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "농축 수산물 할인 행사에도 300억 원을 투입합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.810
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "1인당 할인 지원 한도도 할인 행사 별로 기존의 만 원에서 2만 원으로 상향해 할인 체감 폭을 높이기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.820,
+                "end": 12.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부는 물가와 민생 안정을 최우선으로 하여 풍요롭고 따뜻한 설 명절을 위한 정책 지원을 강화하겠습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.735,
+                "end": 21.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이와 함께 정부는 설 연휴 기간 고속도로 톨게이트비를 면제하고 국공립 시설 입장료는 무료 혜택을 제공합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.601,
+                "end": 29.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.905,
+                "end": 31.698
+            }
+        ]
+    },
+    "summary": "정부는 농축 수산물 할인 행사에도 300억 원을 투입하고 설 연휴 기간 고속도로 톨게이트비를 면제하고 국공립 시설 입장료는 무료 혜택을 제공할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10671_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10671_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 2,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

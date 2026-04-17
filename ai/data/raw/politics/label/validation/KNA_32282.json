@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNA_32282",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.968,
+        "format": "MP4",
+        "date": "2016-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박근혜 대통령이 현 안보 상황 등과 관련해 내일 오전 국회에서 연설을 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.393
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한반도 평화를 위협하는 도발과 관련해 국가 안보와 국민 안전을 위해 국회 차원의 협조를 요청하는 국회 연설을 국회에 요청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.403,
+                "end": 19.966
+            }
+        ]
+    },
+    "summary": "박근혜 대통령이 한반도 평화를 위협하는 현 안보 상황과 관련해 내일 오전 국회에서 연설을 하기로 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32282_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_00716",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.811,
+        "format": "MP4",
+        "date": "2022-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 올 상반기뿐만 아니라 하반기에도 각종 경기 지표와 물가 전망이 어둡다는 그런 내용이었는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.996
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 당선인은 물가를 포함한 민생 안정 대책을 새 정부의 최우선 과제로 추진할 것을 인수위에 주문했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.006,
+                "end": 15.456
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 초저금리와 제로성장에 물가가 10년 만에 4.1퍼센트가 돼 특단의 민생 대책이 필요하다는 게 윤 당선인의 설명입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.466,
+                "end": 25.036
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인수위는 현 경제 상황을 엄중히 인식하고 있다며 유류세 30퍼센트 추가 인하를 포함해 현 정부에 요청한 서민 물가 안정 대책을 마련해 줄 것을 촉구했다고 이렇게 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.046,
+                "end": 38.156
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 당선인이 오후에는 전국 시도지사들과 간담회를 가졌던데 이 자리에선 어떤 얘기들이 오갔는지요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.166,
+                "end": 44.811
+            }
+        ]
+    },
+    "summary": "윤 당선인은 민생 안정 대책을 최우선 과제로 추진할 것을 인수위에 주문하며 서민 물가 안정 대책을 촉구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00716_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00716_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

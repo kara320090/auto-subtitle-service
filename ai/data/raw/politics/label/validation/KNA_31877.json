@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_31877",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.233,
+        "format": "MP4",
+        "date": "2015-05-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 군은 이례적인 야간 사격에는 북한이 야간 작전 능력을 과시하려는 의도가 담긴 것으로 보고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.113
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북한의 야간 포사격을 이번에 한 것을 어 위협적인 행동이다라고 판단하고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.123,
+                "end": 16.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군 당국은 기습적인 도발 행동에 대비해 북한의 움직임을 예의주시하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.599,
+                "end": 22.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한이 사격 기간을 오늘 자정까지로 통보한 만큼 추가 사격 가능성이 있다고 보고 대비 태세를 유지하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.390,
+                "end": 30.246
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.256,
+                "end": 33.233
+            }
+        ]
+    },
+    "summary": "우리 군은 북한의 이례적인 야간 사격이 야간 작전 능력을 과시하려는 의도가 담긴 것으로 보고 위협적인 행동으로 판단하고 기습적인 도발 행동에 대비해 예의주시하고 있다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31877_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_31877_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

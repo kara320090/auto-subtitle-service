@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_06579",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.455,
+        "format": "MP4",
+        "date": "2022-03-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당선인 측은 집무실 이전이 문재인 대통령과 윤 당선인이 공감대를 가진 공약이라고도 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러니 청와대도 협조해달라는 요청입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.462,
+                "end": 10.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 당선인은 말을 아꼈지만 인수위 회의 공개 부분에선 문재인 정부에 대한 비판이 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.782,
+                "end": 18.196
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공약을 지키지 못하고 청와대에 머물렀습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.206,
+                "end": 22.455
+            }
+        ]
+    },
+    "summary": "윤석열 당선인은 말을 아꼈지만 인수위 회의 공개 부분에선 문재인 정부에 대한 비판이 이어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06579_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

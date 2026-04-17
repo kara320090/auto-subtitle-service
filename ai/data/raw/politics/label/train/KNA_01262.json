@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_01262",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.986,
+        "format": "MP4",
+        "date": "2022-06-02",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "후보 님께도 축하의 인사를 전합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 정부와 협치해서 좋은 결과물로",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.279,
+                "end": 7.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문재인 정부의 경제 부총리와 이재명 후보의 정치적 후계자에 이어 경기지사로 안착한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.440,
+                "end": 14.710
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선거 내내 유능한 일꾼 윤석열 정부 견제를 강조했던 김동현 당선인",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.720,
+                "end": 19.986
+            }
+        ]
+    },
+    "summary": "문재인 정부의 경제 부총리와 이재명 후보의 정치적 후계자에 이어 경기지사로 안착했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01262_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_07812",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.785,
+        "format": "MP4",
+        "date": "2022-06-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경찰국 신설이 30년 전 치안 본부 획일안 주장엔 규모와 역할이 비교 불가라며 그럼 그때 제도를 유지하자는 것이냐고 반문했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.153
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 30년 동안 조직이 변화하지 않았습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.163,
+                "end": 13.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그것은 경찰이 지나치게 비대하고 권력과 너무 가까웠기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.114,
+                "end": 18.785
+            }
+        ]
+    },
+    "summary": "경찰국 신설이 30년 전을 유지하자는 주장에 반박했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07812_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

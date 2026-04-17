@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_01432",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.582,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "반대 입장을 분명히 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박동준입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.715,
+                "end": 4.162
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 정부 일에 대한 검찰의 잇따른 수사가 정치 보복이라는 주장에 윤석열 대통령이 전면으로 반박했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.172,
+                "end": 12.796
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "과거의 일부터 수사하는 게 순리라면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.806,
+                "end": 15.582
+            }
+        ]
+    },
+    "summary": "지난 정부 일에 대한 검찰의 잇따른 수사가 정치 보복이라는 주장에 윤석열 대통령이 전면으로 반박했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01432_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

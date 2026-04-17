@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_30531",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.968,
+        "format": "MP4",
+        "date": "2016-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 대법관 후보자에 대한 국회 인사 청문회에서 여야 의원들은 대형 로펌 법률 의견서에 대해 집중적으로 질의했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의원들은 김 후보자가 서울대 교수 재직 당시 대형 로펌에 7건의 법률 의견서를 써주고 1억 3000여만 원을 받은 사실을 추궁했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.553,
+                "end": 17.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 대해 김 후보자는 의견서 제출에 대해 법적인 문제는 없지만 국민들이 생각하기에 많은 액수라고 볼 수 있기 때문에 겸허하게 생각하겠다고 해명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.920,
+                "end": 27.966
+            }
+        ]
+    },
+    "summary": "대법관 후보자에 대한 국회 인사 청문회에서 여야 의원들은 김 후보자가 교수 재직 당시 대형 로펌에서 법률 의견서를 써주고 1억 3000만 원을 받은 사실을 집중적으로 질의했으며 김 후보자는 법적인 문제는 없지만 겸허하게 생각하겠다고 해명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30531_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30531_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_03324",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.986,
+        "format": "MP4",
+        "date": "2021-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나오셨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 번째 토론에서도 부동산 관련 정책 검증이 쟁점이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.760,
+                "end": 5.249
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 의원은 박영선 전 장관에게 수직 정원 공약을 수정하거나 철회하라 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.259,
+                "end": 11.961
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "강북에는 이렇게 삼사십 층 정도의 대규모 수익 정원을 넣을 수 있는 땅은 없다. 중국 쓰촨성에 있는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.971,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "@이름1 의원은 박영선 전 장관에게 수직 정원 공약을 수정하거나 철회하라 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03324_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

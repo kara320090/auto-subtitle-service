@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNA_32080",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.033,
+        "format": "MP4",
+        "date": "2015-10-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차기 다연장 로켓 천무와 휴대용 지대공 미사일 신궁 등 대부분의 국산 무기가 같은 상황입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.798
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군 당국은 상용 GPS의 교란 방지 장비를 장착하면 큰 문제는 없다는 입장입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 6.808,
+                "end": 13.215
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 교란 장치 수 킬로미터 안에선 위치의 오차가 생기기 시작하고 뒤이어 GPS 신호가 아예 끊기는 것으로 파악됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.225,
+                "end": 22.033
+            }
+        ]
+    },
+    "summary": "군 당국은 GPS 교란 장비를 사용하면 된다고 하며 이는 먼 거리에서는 오차가 생기며 신호가 끊기는 것을 파악했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 7,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

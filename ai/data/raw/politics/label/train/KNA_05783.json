@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_05783",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2122-12-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "감사원과 검찰을 직접 반박하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.628
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피해자가 북한 해역으로 가게 된 다른 가능성도 제시하지 못하면서 당시 발표가 조작됐다는 비난만 하고 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.638,
+                "end": 11.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정보도 정황도 달라진 건 없는데 정권이 바뀌자 결론만 정반대로 바뀌었다고 지적했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.739,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "문재인 전 대통령은 감사원과 검찰을 직접 반박하기도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05783_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05783_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

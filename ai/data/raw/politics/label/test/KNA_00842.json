@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_00842",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.15,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 입법 폭주와 이를 방관하는 정치인에게 김대중 대통령의 어록을 들려주고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방관은 최대의 수치 비굴은 최대의 죄악입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.873,
+                "end": 14.084
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여야 원내 대표와 법사위 간사들은",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.094,
+                "end": 17.150
+            }
+        ]
+    },
+    "summary": "민주당은 입법 폭주와 이를 방관하는 정치인에게 김대중 대통령의 어록을 들려주고 싶다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00842_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

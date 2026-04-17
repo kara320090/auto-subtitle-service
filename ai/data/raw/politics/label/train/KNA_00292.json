@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_00292",
+        "category": "정치뉴스",
+        "sub_category": 14,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.625,
+        "format": "MP4",
+        "date": "2022-02-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 처리는 사실상 불발됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박민철 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.416,
+                "end": 4.631
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "3월 9일 대선 본투표 당일에 코로나19 확진자와 격리자를 위한 별도의 투표 시간이 마련됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.641,
+                "end": 12.351
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회는 오늘 본회의를 열고 확진자 등의 투표권 행사를 위해 3월 9일 오후 6시부터 7시 반까지 투표소를 여는 내용 등이 담긴 선거법 개정안을 처리했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.361,
+                "end": 22.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "농어촌 등에 사는 교통 약자 격리자의 경우에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.423,
+                "end": 25.625
+            }
+        ]
+    },
+    "summary": "국회 본회의에서 확진자 등의 투표권 행사를 위한 선거법 개정안을 처리했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00292_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00292_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

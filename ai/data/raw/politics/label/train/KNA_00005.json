@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_00005",
+        "category": "정치뉴스",
+        "sub_category": 41,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.592,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "원대한 대장정이 현실화되기를 에 기대합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.842
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당 심상정 후보는 국회가 국무총리를 추천하는 정치권력 분산 공약을 발표했고 최근 지지율 상승세인 국민의 당 안철수 후보는 일희일비하지 않고 더 좋은 정권 교체에 나서겠다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.852,
+                "end": 18.034
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 김현우입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.044,
+                "end": 20.880
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그제 강원도 동부 전선 최전방 철책을 넘어간 월북자는",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.880,
+                "end": 25.592
+            }
+        ]
+    },
+    "summary": "정의당 심상정 후보는 국회가 국무총리를 추천하는 정치권력 분산 공약을 발표했고 국민의당 안철수 후보는 더 좋은 정권 교체에 나서겠다고 강조했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00005_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00005_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

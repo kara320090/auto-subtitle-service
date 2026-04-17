@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "KNA_32486",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.981,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정권의 무능함과 정치 실패를 감춰보겠다는 것 아니겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.480
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조작 수사로 구속영장을 청구한다면 제 발로 출석해서 심사 받겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.490,
+                "end": 16.526
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 대표는 이번 수사를 정치 수사로 규정하고 정부를 향해 민생 문제에 더 집중하라고 날을 세우기도 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.536,
+                "end": 25.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당에서도 대통령이 신경써야 할 건 야당 수사가 아니라 경제와 민생이라고 이 대표와 한 목소리를 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.922,
+                "end": 32.419
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이에 대해 국민의힘은 자신의 범죄 혐의 조사임에도 정부 탓만 하고 자신이 피해자인 것처럼 둔갑했다고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 32.429,
+                "end": 40.974
+            }
+        ]
+    },
+    "summary": "이 대표는 정치 수사로 규정해 정부를 향해 민생 문제에 더 집중하라고 이야기했고 민주당도 이 대표와 한 목소리였지만 국민의힘은 자신의 범죄인데도 피해자인 것처럼 둔갑한다며 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32486_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_32486_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

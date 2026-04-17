@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_07739",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.859,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여당인 국민의힘도 경찰 비판에 가세했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰이 대통령과 행안부를 패싱하고 인사 발표를 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.780,
+                "end": 6.791
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 이것을 이제 바로잡았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.801,
+                "end": 9.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 민주당은 정권이 경찰 인사권을 쥐고 경찰 길들이기 하다 벌어진 인사 참사라고 규정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.301,
+                "end": 16.756
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰청을 찾아 보고를 받은 뒤에는 인사 번복 과정에 뭔가 개입이 있었던 것으로 확인했다며 자체 TF를 꾸려 진상을 밝히겠다고 예고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.766,
+                "end": 25.859
+            }
+        ]
+    },
+    "summary": "경찰 인사 번복에 대해 여야가 팽팽하게 맞서고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07739_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

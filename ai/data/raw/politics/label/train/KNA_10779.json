@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_10779",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.09,
+        "format": "MP4",
+        "date": "2023-02-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 김종대 전 의원은 지난해 대통령 관저 선정 당시 역술인 @이름1에 사전 답사 의혹을 제기했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.161
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한남동에 있는 총장 공관을 둘러봤다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 7.171,
+                "end": 10.695
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 다음 날 대통령실은 가짜 뉴스라며 김 전 의원 등을 명예훼손 혐의로 고발했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.705,
+                "end": 16.884
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 이 정보 출처가 김 전 의원의 보좌관 출신인 부승찬 전 국방부 대변인으로 뒤늦게 확인됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.894,
+                "end": 24.090
+            }
+        ]
+    },
+    "summary": "정의당 김종대 전 의원은 지난해 대통령 관저 선정 당시 역술인 @이름1에 사전 답사 의혹을 제기했는데 이 정보 출처가 김 전 의원의 보좌관 출신인 부승찬 전 국방부 대변인으로 확인됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10779_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

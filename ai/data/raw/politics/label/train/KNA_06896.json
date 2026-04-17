@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_06896",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.421,
+        "format": "MP4",
+        "date": "2022-04-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "육참 총장 공관이 불합리한 점이 많은 것으로 확인이 돼서 그래서 그 대안으로 외교 장관 공관을 검토를 시작했고 또 다른 대안들도 좀 검토 중에 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.834
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다만 외교부 장관이 지금도 공관을 사용하고 있기 때문에 윤 당선인은 취임 이후에도 당분간 서초동 자택에서 출퇴근할 전망입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.844,
+                "end": 19.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.560,
+                "end": 21.421
+            }
+        ]
+    },
+    "summary": "새 대통령 관저로는 외교부 장관 공관이 유력하게 검토되고 있는데 외교부 장관이 지금도 공관을 사용하고 있기 때문에 윤 당선인은 취임 이후에도 당분간 서초동 자택에서 출퇴근 할 전망이라고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06896_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06896_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

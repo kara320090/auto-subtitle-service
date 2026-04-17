@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_03101",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.187,
+        "format": "MP4",
+        "date": "2021-01-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 이낙연 민주당 대표가 꺼낸 이른바 코로나 이익 공유제에 힘을 실었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.988
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돈을 버는 어 그런 기업들이 피해를 입는 어 그런 대상들을 돕는 그런 자발적인 운동이 일어나고 정부가 더 강력한 인센티브를 제공하고 하는 것은 매우 바람직한 일이라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.998,
+                "end": 21.187
+            }
+        ]
+    },
+    "summary": "문 대통령은 이낙연 민주당 대표가 꺼낸 이른바 코로나 이익 공유제에 힘을 실었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03101_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

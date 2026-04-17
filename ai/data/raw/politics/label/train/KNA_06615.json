@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_06615",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 25.725,
+        "format": "MP4",
+        "date": "2022-03-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현 정부와의 갈등 사안엔 말을 아끼던 윤석열 당선인도 이번엔 직접 입장을 내놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.081
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 이 정부에서 검찰 개혁이라는 게 검찰 중립성을 지키기 위해서 한 건데 5년 동안 해놓고 그게 안 됐다는 자평인가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.091,
+                "end": 18.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청와대와 법무부는 맞대응하지 않았습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 18.206,
+                "end": 20.979
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 민주당에선 새 정부에 백기 투항하라는 압박이라고 비판했습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 20.989,
+                "end": 25.725
+            }
+        ]
+    },
+    "summary": "민주당에선 윤석열 당선인의 발언이 새 정부에 백기 투항하라는 압박이라고 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06615_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

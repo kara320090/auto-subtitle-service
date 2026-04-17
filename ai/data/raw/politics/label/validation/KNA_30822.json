@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_30822",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.366,
+        "format": "MP4",
+        "date": "2016-11-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특위는 진통 끝에 한 차례 정회했고 위원장과 여야 간사 간 협의를 거쳐 검찰총장에 대해 오후에 출석할 것을 요청하기로 합의했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.824
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특위는 문체부의 기관 보고를 시작으로 @이름1 게이트 관련 의혹들에 대한 질의를 이어가고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.834,
+                "end": 16.495
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.505,
+                "end": 19.366
+            }
+        ]
+    },
+    "summary": "특위는 검찰총장에 대해 오후에 출석할 것을 요청하기로 합의했고 문체부의 기관 보고를 시작으로 게이트 관련 의혹들에 대한 질의를 이어가고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30822_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30822_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

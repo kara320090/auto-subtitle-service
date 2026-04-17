@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNA_01900",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.993,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차기 정부가 안정적으로 출범할 수 있게 협력하겠다고도 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.483
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 당선인과의 회동은 내일쯤 이뤄질 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.493,
+                "end": 9.313
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정치권의 관심은 이 회동에서 이명박 전 대통령의 특별 사면 건의가 있을지 여부입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.323,
+                "end": 15.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 당선인은 후보 시절 이 전 대통령 사면을 언급해왔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.955,
+                "end": 20.625
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민통합의 관점에서 좀 판단을 해야 되지 않겠나 이렇게 생각합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.635,
+                "end": 26.993
+            }
+        ]
+    },
+    "summary": "문재인 대통령과 윤 당선인의 회동에서 이명박 전 대통령의 특별 사면 건의가 있을지 주목받고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01900_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

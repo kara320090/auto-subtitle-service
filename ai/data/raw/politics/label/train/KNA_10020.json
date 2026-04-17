@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_10020",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.36,
+        "format": "MP4",
+        "date": "2023-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "별도의 보고 라인과 지휘라인이 있었다라고 추정 해 볼 수 있는 대목입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.812
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 대해서 추가적인 같은 라인에 있는 사람들은 조사 계획이 있고",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.822,
+                "end": 11.225
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조사위는 518 민주화운동 당시 계엄군이 최소 20곳 이상에서 50여 회 이상 발포했으며 총상에 의한 민간인 사망자는 135명으로 확인된다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.235,
+                "end": 23.356
+            }
+        ]
+    },
+    "summary": "조사위는 518 민주화운동 당시 계엄군에 의한 사망자는 135명으로 확인된다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10020_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

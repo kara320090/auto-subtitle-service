@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNA_06409",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.899,
+        "format": "MP4",
+        "date": "2022-02-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "50세 이상이지만 기저 질환이 있는 사람 모두 다 감시 대상에 집중 관리군에 포함해야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 그게 빠졌다고 보는",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.342,
+                "end": 9.654
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안철수 후보가 코로나 방역 실패 원인을 지적하며 내놓은 진단입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.664,
+                "end": 14.421
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 현재 50세 이상 고위험 기저 질환자는 재택 치료 집중 관리군에 포함돼 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.431,
+                "end": 20.981
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다만 이 기준은 지난 9일 자로 변경됐는데 그전에는 먹는 코로나 19 치료제를 처방받은 50세 이상에 한해 집중 관리군에 포함됐었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.991,
+                "end": 30.881
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.891,
+                "end": 32.899
+            }
+        ]
+    },
+    "summary": "안철수 후보가 코로나 방역 실패 원인을 지적하며 진단을 내놓았는데 현재 50세 이상 고위험 기저 질환자는 재택 치료 집중 관리군에 포함돼 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06409_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

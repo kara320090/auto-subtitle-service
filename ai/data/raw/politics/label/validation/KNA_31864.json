@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_31864",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.166,
+        "format": "MP4",
+        "date": "2015-05-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "북한의 사격 훈련은 어제 밤 9시부터 시작됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한이 앞서 통보했던 백령도 인근 해역으로 밤 10시 25분경까지 함포와 해안포 130여 발을 쏜 것으로 전해졌습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.062,
+                "end": 11.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "합동 참모 본부는 지금까지 우리 측 해역으로 떨어진 포탄은 없다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.500,
+                "end": 16.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "합참은 즉시 긴급 조치반을 소집하고 화력 대기 수준 및 공군 비상 대기 태세를 강화하였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.738,
+                "end": 25.166
+            }
+        ]
+    },
+    "summary": "북한의 사격 훈련은 어제 밤 9시부터 시작됐고 앞서 통보했던 백령도 인근 해역으로 함포와 해안포 130여 발을 쏜 것으로 전해졌으며 합참은 즉시 긴급 조치반을 소집하고 화력 대기 수준 및 공군 비상 대기 태세를 강화하였다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31864_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

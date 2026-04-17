@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_12555",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2020-07-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 민주당도 준비가 부족하단 평가가 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.516
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여당 몫으로 추천했던 @이름1 변호사가 N번방 사건 공범의 변호를 맡은 일로 사퇴해 추천 위원을 부랴부랴 다시 찾고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.526,
+                "end": 13.245
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당이 저렇게 무리하고 성급하게 독촉을 하다가 드디어 급하게 먹다가 체했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.255,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "민주당이 추천했던 @이름1 변호사가 사퇴해 추천 위원을 다시 찾아야 하는 여당 또한 준비가 부족하다는 비판을 받는다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12555_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

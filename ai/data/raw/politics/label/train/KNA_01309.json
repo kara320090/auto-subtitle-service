@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01309",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2022-06-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가장 중요한 기본권이라며 불법 행위가 있다면 처벌 받겠지만 기준에 맞으면 집회를 할 수 있다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.382
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "논란에도 원칙론을 내세우며 거듭 선을 그은 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.392,
+                "end": 9.825
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박민철입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.835,
+                "end": 12.605
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 정부의 공직자 인사 검증을 담당할 법무부 인사 정보 관리단이 출범했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.615,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "대통령 측은 논란에도 원칙론을 내세우며 선을 그었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01309_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01309_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

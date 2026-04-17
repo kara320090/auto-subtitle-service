@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_30840",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.166,
+        "format": "MP4",
+        "date": "2016-12-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2013년 9월 박 대통령에게 채취한 혈액을 외부 병원으로 가져간 사람은 간호 장교가 아닌 청와대 @이름1 전 행정관이었다고 김 씨는 증언했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.753
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박 대통령의 혈액은 국군 서울 지구 병원에서는 할 수 없는 면역력 관련 세포 검사에 사용된 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.763,
+                "end": 17.166
+            }
+        ]
+    },
+    "summary": "김 씨는 박 대통령에게 채취한 혈액을 외부 병원으로 가져간 사람은 청와대 전 행정관이었으며 면역력 관련 세포 검사에 사용됐다고 증언했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30840_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 7,
+                    "object": null,
+                    "act": 68
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00562",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.857,
+        "format": "MP4",
+        "date": "2022-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "후임 인선 작업이 필요했다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.649
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아울러 문 대통령은 오늘 오전 참모 회의에서 윤 당선인과의 회동과 관련해 언제든지 조건 없이 해야 한다는 취지로 말했다고 이 관계자는 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.659,
+                "end": 13.629
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 이철호입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.639,
+                "end": 16.593
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 한은 총재 후보자를 지명하면서 윤석열 당선인 측의 의견을 들었다는 이 같은 청와대의 발표에 대해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.603,
+                "end": 23.857
+            }
+        ]
+    },
+    "summary": "문 대통령은 참모 회의에서 윤 당선인과의 회동을 조건 없이 한다는 취지로 이야기했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00562_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 153
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00562_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

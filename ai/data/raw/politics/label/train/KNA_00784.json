@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNA_00784",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.165,
+        "format": "MP4",
+        "date": "2022-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 정치권에서는 검찰 수사권 폐지와 윤 당선인의 한동훈 법무부 장관 후보자 지명을 두고 종일 여야의 공방이 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.757
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 공방은 박범계 법무부 장관이 출석한 국회 법사위에서도 격론이 오가며 계속 됐는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.767,
+                "end": 14.704
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방준원 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.714,
+                "end": 17.966
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 한동훈 법무부 장관 후보자 지명이 국민의 상상을 초월한 가장 나쁜 인사라고 규정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.976,
+                "end": 25.686
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "만국 인사를 수습할 수 있는 유일한 길입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.696,
+                "end": 28.822
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "윤석열 당선인의 심복 한동훈 후보자가",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.832,
+                "end": 32.165
+            }
+        ]
+    },
+    "summary": "정치권에서 검찰 수사권 폐지와 윤 당선인의 한동훈 법무부 장관 후보자 지명 문제로 여야의 공방이 이어졌으며 민주당 측 의원이 한동훈 후보자 지명이 나쁜 인사라고 규정하는 발언을 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00784_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00784_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

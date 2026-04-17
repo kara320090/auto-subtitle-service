@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_01193",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.148,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 이장우 36.1로 역시 오차 범위 내 3.9퍼센트 포인트 격차입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.773
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "충북은 민주당 노영민 30.7 국민의힘 김영환 43.4로 김 후보 우세였고 충남은 민주당 양승조 34.7",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.783,
+                "end": 15.148
+            }
+        ]
+    },
+    "summary": "국민의 힘 이장우 36.1로 역시 오차 범위 내 3.9퍼센트 포인트 격차이며 충북은 민주당 노영민 30.7 국민의 힘 김영환 43.4로 김 후보가 우세다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01193_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01193_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

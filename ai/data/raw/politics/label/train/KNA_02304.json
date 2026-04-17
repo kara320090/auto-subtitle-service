@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_02304",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2022-05-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령 취임식에 참석한 뒤 서울역에 도착한 문재인 전 대통령.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현장을 찾은 시민들에게 마지막 퇴근길이 감동적인 퇴임식이었다고 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.396,
+                "end": 10.198
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역대 대통령 가운데 누가 그렇게 아름다운 마지막을 맞이할 수 있었겠습니까?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.208,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "대통령 취임식에 참석한 뒤 서울역에 도착한 문재인 전 대통령은 현장을 찾은 시민들에게 마지막 퇴근길이 감동적인 퇴임식이었다고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02304_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "KNA_33687",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.866,
+        "format": "MP4",
+        "date": "2015-06-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어떠한 사전 설명도 없이 이러한 부당한 조치를 취한 것은 국제적 관례는 물론이고 인권과 인도주의 정신에 정면으로 반하는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.107
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부는 또 무기형을 선고받고 2년 가까이 억류중인 @이름1 선교사와 뉴욕대 학생 @이름2 씨도 조속히 송환할 것을 촉구했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.117,
+                "end": 20.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북한은 그동안 우리 정부의 수차례 송환 요구에 대북 통지문 접수 조차 거부해왔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.910,
+                "end": 26.723
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 26.733,
+                "end": 29.866
+            }
+        ]
+    },
+    "summary": "정부는 무기형을 선고받고 억류중인 @이름1 선교사와 @이름2 씨도 송환할 것을 촉구했지만 북한은 대북 통지문 접수 조차 거부해왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33687_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33687_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

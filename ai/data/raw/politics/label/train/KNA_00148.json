@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00148",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.45,
+        "format": "MP4",
+        "date": "2022-01-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "친환경 무상 급식을 제공하고 사전 공시제 등을 통해 반려 동물 진료비 부담을 줄이겠다는 생활 맞춤형 공약을 내세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.044
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보는 연말 정산 인적 공제 혜택도 대폭 확대하겠다고 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.054,
+                "end": 14.114
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "물가 상승과 최저",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.124,
+                "end": 17.450
+            }
+        ]
+    },
+    "summary": "윤석열 후보가 공약으로 내세운 사항들을 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00148_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 46,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

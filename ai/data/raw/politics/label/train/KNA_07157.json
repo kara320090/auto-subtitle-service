@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_07157",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.431,
+        "format": "MP4",
+        "date": "2022-05-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "계양을에 출마를 하고 그 동시에 총괄 어 상임선대위원장을 어 맡기는 것으로 오늘 비대위가 아 결정을 했다는 말씀도 아",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 12.767
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기 성남 분당갑에는 민주당 현 지역위원장인 @이름1 전 의원이 공천됐는데 이 지역에 국민의힘에선 안철수 인수위원장이 출사표를 던졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.777,
+                "end": 23.670
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지방선거 승리를 위해 장제원 당선인 비서실장 등이 보궐선거 출마를 요청했는데 역시 이를 수용한 셈입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.680,
+                "end": 31.431
+            }
+        ]
+    },
+    "summary": "민주당 현 지역위원장인 @이름1 전 의원과 국민의힘 안철수 인수위원장이 경기 성남 분당갑에 출사표를 던졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07157_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_07157_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

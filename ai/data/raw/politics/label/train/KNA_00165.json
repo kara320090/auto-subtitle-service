@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_00165",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.582,
+        "format": "MP4",
+        "date": "2022-01-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인적 쇄신으로 지지율 정체 상황에 돌파구를 마련하려는 시도로 해석됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이재명 후보는 살점을 떼내는 노력이라며 기득권을 내려놓고 달라지겠다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.084,
+                "end": 11.282
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금까지 많이 실망시켜드렸지만 지금부터는",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.292,
+                "end": 15.582
+            }
+        ]
+    },
+    "summary": "이재명 후보는 기득권을 내려놓고 달라지겠다고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

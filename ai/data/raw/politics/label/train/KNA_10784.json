@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_10784",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.722,
+        "format": "MP4",
+        "date": "2023-02-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "결국 이 장관 탄핵을 당론으로 발의할지 여부에 대해 결론을 내지 못한 채 회의가 마무리됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.764
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "관련해서 더 많은 의원들의 의견을 수렴하는 시간이 좀 필요하다 이런 생각이 들어서 좀 더 의견 수렴을 해서 그렇게 해서 결론을 좀 내리겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.774,
+                "end": 17.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 오늘 긴급 원내대표단 회의를 열어 후속 대책을 논의하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.915,
+                "end": 22.722
+            }
+        ]
+    },
+    "summary": "결국 이 장관 탄핵을 당론으로 발의할지 여부에 대해 결론을 내지 못한 채 회의가 마무리되어 다시 긴급 원내대표단 회의를 열어 후속 대책을 논의하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10784_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

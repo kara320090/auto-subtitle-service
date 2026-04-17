@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_12080",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.6,
+        "format": "MP4",
+        "date": "2020-03-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더불어시민당이 공천관리위원 10명을 임명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.807
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대부분 친여성향 인사로 절반 정도가 지난해 조국 전 장관의 검찰개혁에 대해 옹호입장을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.817,
+                "end": 11.342
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰은 정치에 보조수단이 아니라 바로 정치를 뛰어넘어서 자기들이 권력을 독점하려고 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.352,
+                "end": 19.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더불어시민당는 비례대표 순번을 정하기 위해 후보 검증에 들어 갔는데 이 검증을 민주당에서 지원받기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.597,
+                "end": 28.144
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 때문에 사실상 공천개입이라며 민주당 위선 정당이라는 비판도 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.154,
+                "end": 33.600
+            }
+        ]
+    },
+    "summary": "더불어시민당이 공천관리위원 10명을 임명했는데 후보 검증에서 민주당의 지원에 사실상 공천개입이라고 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12080_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01559",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 27.861,
+        "format": "MP4",
+        "date": "2022-06-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 윤석열 대통령은 지금 어 나토 정상 회의에 초청을 받은 일본 호주 뉴질랜드 정상과 만나고 있는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 7.794
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한미일 정상 회담은 어 잠시 뒤 우리나라 시간 오늘 오후 9시 반쯤 열립니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.804,
+                "end": 13.237
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한 핵 미사일 위협 대응을 위한 세 나라 공조 방안이 최우선 의제입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.247,
+                "end": 17.999
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 어 북핵 문제가 한미일의 시급한 공동 과제라는 점을 강조하고 도발에 대한 강력한 대응과 대화 복귀를 위한 공조를 제안할 계획입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.009,
+                "end": 27.861
+            }
+        ]
+    },
+    "summary": "한미일이 정상 회담을 갖고 북한 핵 미사일 대응에 대해 논의할 예정이라고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01559_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01559_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

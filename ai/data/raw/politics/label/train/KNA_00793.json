@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_00793",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 17.183,
+        "format": "MP4",
+        "date": "2022-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "소방재난본부 등 일부 부서와 통합 데이터 센터 등 23개 센터 등이 입주할 예정입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.242
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 임명규입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 6.252,
+                "end": 9.629
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요즘 충남 태안의 천리포 수목원에는 다양한 종류의 목련들이 형형색색의 꽃망울을 터뜨리고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.639,
+                "end": 17.183
+            }
+        ]
+    },
+    "summary": "소방재난본부 등의 부서와 통합 데이터 센터 등 23개 센터 등이 입주할 예정이라는 기자 소식에 이어 충남 태안의 천리포 수목원에 형형색색의 목련들이 피어났다고 앵커가 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00793_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00793_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

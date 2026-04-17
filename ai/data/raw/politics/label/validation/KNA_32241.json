@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_32241",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.608,
+        "format": "MP4",
+        "date": "2015-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "양 김의 화해는 김대중 전 대통령 서거 직전인 2009년에야 이루어졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.500
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 방문하신 게 두 분이 화해로 봐도 되겠습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.510,
+                "end": 9.711
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아 그렇게 봐도 좋죠.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.721,
+                "end": 11.844
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 이제 뭐 그런 때가 온 것도 아닙니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.854,
+                "end": 17.604
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.614,
+                "end": 20.600
+            }
+        ]
+    },
+    "summary": "두 전직 대통령의 화해는 김대중 전 대통령의 서거 직전에 이루어졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32241_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

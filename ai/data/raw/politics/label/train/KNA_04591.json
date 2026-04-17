@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_04591",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.387,
+        "format": "MP4",
+        "date": "2021-10-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 자체는 꼭 인정받아야 된다고 말씀드리고 싶습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.293
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 현장에서 이재명 후보는 고위공직자들의 경우 필수부동산 외에는 백지신탁 제도를 도입해 강제 매각토록 하겠다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.303,
+                "end": 13.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오전에 코로나 일구 점검 간담회에선 전 국민을 대상으로 한 재난지원금 지급 방안을 추진하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.052,
+                "end": 20.387
+            }
+        ]
+    },
+    "summary": "이재명 후보는 고위공직자들의 경우 필수부동산 외에는 강제 매각토록 하겠다고 말했고 코로나 일구 점검 간담회에선 전 국민 재난지원금 지급 방안을 추진하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04591_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

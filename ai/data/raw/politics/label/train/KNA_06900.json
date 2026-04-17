@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_06900",
+        "category": "정치뉴스",
+        "sub_category": 20,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.363,
+        "format": "MP4",
+        "date": "2022-04-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 비대위원인 초선의 이소영 의원이 당 소속 의원 전원에게 편지를 보냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "엄연한 민주당 의원이 탈당을 해 안건 조정 위원 숫자를 맞추는 건 전례 없는 일이라며 입법자인 우리가 스스로 만든 국회법 취지를 훼손하고 편법을 감행하는 것은 옳지 않다고 지적했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.667,
+                "end": 18.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이재명계 핵심으로 알려진 재선의 김병욱 의원도 가세했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.500,
+                "end": 22.934
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 식으로는 검찰 개혁을 이룰 수 없으며 당이 추구해 온 민주주의 가치를 능멸할 뿐이라며 직격탄을 날렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.944,
+                "end": 30.363
+            }
+        ]
+    },
+    "summary": "민주당 초선 의원이 편법을 감행하는 것은 옳지 않다고 지적했고 김병욱 의원도 이런 식으로는 검찰 개혁을 이룰 수 없으며 당이 추구해온 민주주의 가치를 능멸할 뿐이라고 지적에 가세했다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06900_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06900_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

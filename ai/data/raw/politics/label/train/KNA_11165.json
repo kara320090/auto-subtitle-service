@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "KNA_11165",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.097,
+        "format": "MP4",
+        "date": "2023-05-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 비례대표 의원을 더 늘리자는 의견이 70퍼센트로 나타났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.639
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관심이 쏠린 선거구 개편과 관련해선 지금처럼 한 선거구에서 1명의 의원을 뽑는 소선거구제를 유지하자는 응답이 절반을 넘겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.649,
+                "end": 14.283
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여야가 협상으로 최종안을 만드는 데 좋은 길잡이가 될 것 같고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.293,
+                "end": 19.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 선거제 개편은 금년 상반기 전엔 마무리돼야 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 19.129,
+                "end": 23.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회는 이번 공론화 조사 결과를 선거법 개정안 논의에 활용할 계획입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 23.801,
+                "end": 29.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.537,
+                "end": 31.097
+            }
+        ]
+    },
+    "summary": "관심이 쏠린 선거구 개편과 관련해선 지금처럼 한 선거구에서 1명의 의원을 뽑는 소선거구제를 유지하자는 응답이 절반을 넘겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11165_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11165_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

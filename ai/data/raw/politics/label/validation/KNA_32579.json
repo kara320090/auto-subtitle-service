@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_32579",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.119,
+        "format": "MP4",
+        "date": "2023-08-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내년에 여건을 만들어 나가는데 최선을 다할 것을",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.474
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 여당 후보들의 선거 운동을 지원하겠다는 취지의 발언을 한 거라며 원 장관을 검찰에 고발했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.484,
+                "end": 10.580
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공무원은 선거에 부당한 영향력 행사",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.590,
+                "end": 13.134
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선거 결과에 영향을 미치는 행위를 해선 안 된다고 규정한 공직선거법 위반이라는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.144,
+                "end": 19.119
+            }
+        ]
+    },
+    "summary": "민주당은 선거 운동을 지원한다는 취지의 발언이라며 공직선거법 위반이라고 원 장관을 검찰에 고발했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32579_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_01151",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.017,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 꼴찌였는데 어 1차에서 합격을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저는 청탁을 한 적이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.114,
+                "end": 5.566
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청탁을 할 때 이 사람 능력 안 되면 떨어뜨리라고 하는 청탁이 있나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.576,
+                "end": 12.317
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이번 토론회에 전체 영상은 중앙 선거 방송 토론 위원회 홈페이지와",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.327,
+                "end": 17.017
+            }
+        ]
+    },
+    "summary": "김은혜 후보는 청탁한 사실이 없다며 부인했고 이번 토론회 전체 영상은 중앙 선거 방송 토론 위원회 홈페이지에 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01151_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

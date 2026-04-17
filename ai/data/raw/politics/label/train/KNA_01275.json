@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01275",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.053,
+        "format": "MP4",
+        "date": "2022-06-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "10개 군구 중 7곳에서 승리를 거뒀습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.343
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘을 탈당해 무소속으로 당선된 강화 군수 당선인까지 감안하면 계양구와 부평구를 제외한 8곳에서 승리한 셈입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.353,
+                "end": 12.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 김건우입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.300,
+                "end": 14.319
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "남성에게만 골프 클럽 정회원 자격을 주는 것은 차별이라며",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.329,
+                "end": 20.053
+            }
+        ]
+    },
+    "summary": "국민의 힘을 탈당해 무소속으로 당선된 강화 군수 당선인까지 감안하면 국민의 힘은 계양구와 부평구를 제외한 8곳에서 승리한 셈입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01275_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01275_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

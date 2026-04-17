@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_03420",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.424,
+        "format": "MP4",
+        "date": "2021-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차기 대권 주자로서 존재감을 부각시키려는 의도에 더해 작년 추윤 갈등을 잘 조율하지 못했던 비판을 의식한 걸로도 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.388
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하시는 걸 보면 그 정치인 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.398,
+                "end": 12.435
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회하고 얘길하는 게 옳지 이게 에 이 저 행정가의 태도인가 어 이게 저 저는 적절치 않다고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.445,
+                "end": 21.113
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 본격적인 윤 총장 엄호에 나섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.123,
+                "end": 24.424
+            }
+        ]
+    },
+    "summary": "정세균 총리는 윤 총장이 정치인같이 보이고 행정가로서 적절치 않다고 비판했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03420_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03420_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

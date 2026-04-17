@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00634",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.816,
+        "format": "MP4",
+        "date": "2022-03-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령직 인수위는 내일 시위 현장을 직접 찾아 장애인들의 입장을 듣고 해법을 논의하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.229
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 고태영입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.239,
+                "end": 8.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새우가 고래를 삼켰다는 말이 나오던 에디슨모터스의 쌍용자동차 인수가 결국 무산됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.619,
+                "end": 16.816
+            }
+        ]
+    },
+    "summary": "인수위는 장애인 시위현장을 찾아 해법을 논의하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00634_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

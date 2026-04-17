@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01716",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.384,
+        "format": "MP4",
+        "date": "2022-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기업을 납치하지 않고 기업을 유치할 수 있는 사람.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.180
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "충남에도 기업을 데려올 수 있고 당진에도 신산업 신재생 에너지 산업 유치할 수 있는 사람이 누구입니까 여러분?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.190,
+                "end": 12.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "천안에선 유세 버스 사고로 숨진 안철수 후보 측 인사들을 추모했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.374,
+                "end": 17.384
+            }
+        ]
+    },
+    "summary": "이재명 후보가 기업 유치와 산업 유치를 공약으로 내세웠고 천안에서는 유세 버스 사고로 숨진 안철수 후보 측 인사들을 추모했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01716_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

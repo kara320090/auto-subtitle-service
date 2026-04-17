@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_08332",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.666,
+        "format": "MP4",
+        "date": "2022-09-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "접수해서 내일 발표하도록 하겠습니다 오후쯤에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.217
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후보로는 민주당 출신으로 호남 4선 중진인 박주선 전 국회 부의장 등이 거론됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.227,
+                "end": 11.092
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령 취임식 준비 위원장을 맡기도 했던 박 전 부의장은 윤석열 대통령과 서울대 법대 동창에 검찰 선후배 사이로 윤 대통령과 신뢰가 두터운 것으로 알려졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.102,
+                "end": 23.974
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘은 새 비대위원장을 확정한 뒤 오는 8일 전국 위원회에서 임명한 건을 통과시킬 방침입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.984,
+                "end": 31.693
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.703,
+                "end": 33.666
+            }
+        ]
+    },
+    "summary": "박주선 전 국회 부의장이 새 비대위원장으로 확정할 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08332_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 49,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

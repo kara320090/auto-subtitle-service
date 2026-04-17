@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_07870",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.599,
+        "format": "MP4",
+        "date": "2022-07-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자기가 받았던 위촉장들의 연도 직함 직위를 같은 것들을 다 빠짐없이 적으라고 했는데 이게 연구와 무슨 상관이 있나",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.993
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이에 박 후보자 측은 교수 연구실은 연구원과 행정 보조원이 함께 쓰는 공간으로 이들을 관리 감독하는 선임 연구원은 따로 있었다며 갑질 의혹은 후보자와 직접 관련이 없다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.003,
+                "end": 21.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 후보자의 거취 문제에 윤석열 대통령은 말을 아꼈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.699,
+                "end": 26.394
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "국내 문제는 뭐 서울에 돌아가서 저 파악을 해 보고 답변을 하기로 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.404,
+                "end": 32.599
+            }
+        ]
+    },
+    "summary": "이에 박 후보자 측은 교수 연구실은 연구원과 행정 보조원이 함께 쓰는 공간으로 이들을 관리 감독하는 선임 연구원은 따로 있었다며 갑질 의혹은 후보자와 직접 관련이 없다고 밝혔으며 후보자의 거취 문제에 윤석열 대통령은 말을 아꼈습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07870_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_07870_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

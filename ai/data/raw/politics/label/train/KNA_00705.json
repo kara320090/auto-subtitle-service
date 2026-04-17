@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "filename": "KNA_00705",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 51.518,
+        "format": "MP4",
+        "date": "2022-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예비비 관련 정부 검토 결과를 보고 받고 최대한 빨리 임시 국무 회의를 열어 예비비를 조속히 처리하라고 지시했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.416
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예비비 규모와 관련해 당초 윤석열 당선인 측은 국방부 리모델링과 국방부의 합참 이전 비용 등 496억 원을 제시한 바 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.426,
+                "end": 21.822
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 가운데 일부 항목의 내역을 조정해 360억 원 정도가 1차 예비비로 편성돼 내일 임시 국무 회의에서 처리될 것으로 전해졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.832,
+                "end": 32.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나머지 금액에 대해 청와대 관계자는 차차 협의해 나갈 것이라고 말했는데 장제원 당선인 비서실장도 기자들과 만나 이와 관련해 빠른 시간 내에 절차가 완료되는 대로 협조하겠다는 통보를 받았다고 설명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 32.090,
+                "end": 47.164
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신고 권력 갈등 양상을 이어왔던 용산 집무실 이전",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 47.174,
+                "end": 51.518
+            }
+        ]
+    },
+    "summary": "윤석열 당선인 측은 예비비로 496억 원을 제시했으나 일부 내역을 조정해 1차로360억 원 정도가 편성되었으며 나머지 금액에 대해서는 청와대 관계자와 협의해 나갈 것이라 했고 장제원 당선인 비서실장도 절차가 완료되는 대로 협조하겠다고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00705_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00705_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

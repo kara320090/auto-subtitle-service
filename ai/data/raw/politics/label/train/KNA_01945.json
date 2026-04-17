@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01945",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.725,
+        "format": "MP4",
+        "date": "2022-03-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국방부 관계자는 국방부 이사에만 20일이 걸린다고 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "엘리베이터를 통해서 물동량을 이사하는데 저희가 이제 이사 업체에 물어보니까 이 정도의 전체 지금 10개 층인데 사무실이 한 20일 정도도 24시간은 돌려야 그 물 물동량을 뺄 수 있다라고",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.490,
+                "end": 19.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북한의 미사일 도발이 이어지는 상황에서 국방부가 이사하느라 안보 공백이 초래될 수 있다는 우려도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.113,
+                "end": 25.725
+            }
+        ]
+    },
+    "summary": "국방부 관계자는 국방부 이사만 20일이 걸린다고 답해 북한 미사일 도발이 이어지는 상황에서 안보 공백이 초래될 수 있다는 우려가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01945_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

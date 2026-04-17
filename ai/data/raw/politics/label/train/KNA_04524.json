@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_04524",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.517,
+        "format": "MP4",
+        "date": "2021-10-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내년 예산은 본예산 기준 처음으로 600조 원을 넘은 604조 4000억 원입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 코로나 위기의 완전한 회복과 국가 미래를 위해서는 이 같은 확장 재정이 불가피하다고 설명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.824,
+                "end": 14.080
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "완전한 회복을 위해 아직 가야 할 길이 멉니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.090,
+                "end": 17.517
+            }
+        ]
+    },
+    "summary": "내년 예산은 본예산 기준 처음으로 600조 원을 넘었고 문 대통령은 코로나 위기의 완전한 회복과 국가 미래를 위해서는 이 같은 확장 재정이 불가피하다고 설명했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04524_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

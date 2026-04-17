@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_05534",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.826,
+        "format": "MP4",
+        "date": "2122-10-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 당시에는 사실관계 확인을 하지는 않았지만 그렇기 때문에 가정법에 기해서 답변을 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.849
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에는 소지 부분에 대해서 보다 구체적으로 확인을 한 부분이 차이가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.859,
+                "end": 12.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당시 권익위는 보도자료를 내고 권익위의 유권해석은 전적으로 담당 실무진의 판단 결과라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.490,
+                "end": 20.185
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 감사원은 이 유권해석 과정에 @이름1 위원장의 개입이 있었다고 판단한 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.195,
+                "end": 26.826
+            }
+        ]
+    },
+    "summary": "감사원이 @이름1 위원장에 대해 유권해석 과정에 @이름1 위원장의 개입이 있었다고 판단한 것으로 알려졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05534_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

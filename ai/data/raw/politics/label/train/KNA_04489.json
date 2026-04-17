@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNA_04489",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2021-10-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부가 이 같은 초광역 메가 시티를 지원하기 위해 지원 전략을 발표했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.722
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초광역 경제 생활 권역을 형성하여 지역 청년들이 수도권으로 오지 않고도 좋은 일터와 삶터에서 마음껏 꿈을 펼칠 수 있는 환경을 마련하는 것이 핵심입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.732,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "정부는 초광역 경제 생활 권역을 형성하여 지역 청년들이 수도권으로 오지 않고도 좋은 환경을 마련하는 것이 핵심이라고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04489_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00490",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.548,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "탄도미사일을 추적하는 미군 특수 정찰기가 한반도 상공을 비행하기도 했습니다 홍진아 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.978
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주한미군이 패트리엇 요격 미사일 훈련 모습을 이례적으로 공개했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.988,
+                "end": 14.037
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공개된 사진에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.047,
+                "end": 15.548
+            }
+        ]
+    },
+    "summary": "탄도미사일을 추적하는 미군 특수 정찰기가 한반도 상공을 비행했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00490_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

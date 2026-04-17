@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01415",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2022-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이창룡 총재는 또 미국 금리 인상 속도가 우리보다 빠른 것은 사실이라면서도 금리 격차보다는 외환 채권시장에 미치는 영향에 중점을 두고 보아야 할 때라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 정재웁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.384,
+                "end": 15.555
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 경제에 먹구름이 드리운 가운데 윤석열 정부의 향후 5년간의 경제 정책에 대한 청사진이 오늘 발표됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.565,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "이창룡 총재는 미국 금리 인상 속도가 우리보다 빠른 것은 사실이라면서도 금리 격차보다는 외환 채권시장에 미치는 영향에 중점을 두고 보아야 할 때라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01415_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 41,
+                    "act": 58
+                }
+            ]
+        }
+    ]
+}

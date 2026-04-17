@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00733",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.622,
+        "format": "MP4",
+        "date": "2022-04-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한편 재산 관련 논란이 일고 있는 한덕수 국무총리 후보자는 청문회 과정에서 성실히 설명하겠다고 밝혔는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령직인수위를 연결해서 자세한 소식 전해 드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.681,
+                "end": 10.324
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 김성수 기자 먼저 윤석열 당선인의 지역 순회 계획 소식부터 전해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.334,
+                "end": 17.385
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 윤 당선인은 다음 주부터 대구 경북 지역을 시작으로 지역 순회에 나섭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.395,
+                "end": 22.622
+            }
+        ]
+    },
+    "summary": "한덕수 국무총리 후보자는 청문회 과정에서 재산 관련 논란에 대해 성실히 설명하겠다고 밝힌 한편 윤석열 당선인은 다음 주부터 대구 경북 지역을 시작으로 지역 순회에 나섭니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00733_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00733_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

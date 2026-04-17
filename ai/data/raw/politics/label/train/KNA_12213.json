@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_12213",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.493,
+        "format": "MP4",
+        "date": "2020-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "투표 사무원의 안내에도 적극 협조해 주시기 바랍니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.868
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일 투표하려면 오후 6시까지 투표소에 도착해야 하고 주민등록증이나 여권 등 신분증을 지참해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.878,
+                "end": 12.830
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "입구에서 체온을 재고 37.5도 이상이면 따로 마련된 임시 기표소로 안내되고 이상이 없으면 손 소독 뒤 일회용 비닐 장갑을 끼고 투표하면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.840,
+                "end": 24.439
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.449,
+                "end": 26.493
+            }
+        ]
+    },
+    "summary": "투표를 하려면 신분증을 지참해야 하며 입구에서 체온을 재고 이상이 없으면 비닐 장갑을 끼고 투표하면 된다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12213_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_05603",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.391,
+        "format": "MP4",
+        "date": "2122-11-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미사일과 레이더 사이의 교신 불안정이 문제였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공군 관계자는 교신이 불안정한 상태로 특정 시간이 지나면 안전 상의 이유로 미사일이 자폭하게 돼 있다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.342,
+                "end": 12.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공군은 또 다른 지대공 미사일인 패트리엇2도 쏠 계획이었지만 발사 직전 1발에 대한 발사를 취소했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.077,
+                "end": 20.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사격통제 레이더에서 오류가 확인됐기 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.445,
+                "end": 24.391
+            }
+        ]
+    },
+    "summary": "미사일과 레이더 사이의 교신 불안정 문제가 발생해 공군은 패트리엇2에 대한 발사를 취소했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05603_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

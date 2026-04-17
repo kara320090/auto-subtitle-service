@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_10646",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.92,
+        "format": "MP4",
+        "date": "2023-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇다면 한국인이 지향하는 삶의 가치는 어떤 모습일까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "결혼이 필수라는 답이 57퍼센트.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.663,
+                "end": 7.354
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 남녀 간에 20퍼센트 포인트 넘는 생각 차이를 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.364,
+                "end": 12.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문제가 많으면 이혼해야 한다는 답은 70퍼센트 가까이 나왔고 전 연령 전 계층에서 60퍼센트 넘게 동의했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.663,
+                "end": 20.920
+            }
+        ]
+    },
+    "summary": "한국인이 지향하는 삶의 가치로 결혼이 필수라는 답이 57퍼센트였는데 남녀 간 차이가 20퍼센트 포인트 이상이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10646_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10646_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

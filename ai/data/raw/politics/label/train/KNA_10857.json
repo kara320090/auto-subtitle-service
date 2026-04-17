@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_10857",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.788,
+        "format": "MP4",
+        "date": "2023-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방첩사가 민간인을 수사하는 건 이례적입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.542
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방첩사 관계자는 군사기밀보호법 위반 혐의에 대한 신고가 있어 수사에 착수했다며 해당 혐의는 검찰이나 경찰이 아닌 방첩사도 수사할 수 있다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.552,
+                "end": 13.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "부 전 대변인은 책에 군사 기밀이 들어있지 않다며 혐의를 완강히 부인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.368,
+                "end": 18.671
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일반인이 공익 제보로 군사 기밀",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.681,
+                "end": 21.788
+            }
+        ]
+    },
+    "summary": "방첩사가 민간인을 수사하는 건 이례적이며 부 전 대변인은 혐의를 완강히 부인했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10857_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10857_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

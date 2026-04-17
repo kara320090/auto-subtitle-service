@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_11497",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.86,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일본 총리실 서울 출장소 같은 행태입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.879
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면서 오염수 관련 국회 모든 상임위를 가동해 시찰단 보고서를 검증하겠다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.889,
+                "end": 10.414
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 윤석열 대통령이 어떤 경우에도 후쿠시마산 농수산물 수입 재개는 안 한다는 선언을 하라고 촉구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.424,
+                "end": 18.416
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아울러 민주당은 오늘부터 오염수 방류와 수산물 수입에 반대하는 범국민 서명 운동을 진행합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.426,
+                "end": 25.275
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.285,
+                "end": 26.860
+            }
+        ]
+    },
+    "summary": "시찰단 보고서를 검증하겠다고 하며 윤석열 대통령은 후쿠시마산 농수산물 수입을 하지 않겠다고 선언하라고 촉구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11497_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

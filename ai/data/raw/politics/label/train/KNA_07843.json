@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_07843",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 30.096,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관련 규칙이 마련되지 않았다는 게 이유입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.220
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "주식 지분 또는 자본금 등에 관한 부분은 국회 규칙에 아직 정해지지 않았기 때문에 지금 등록을 할 수 없는 상황입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.230,
+                "end": 13.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회의원이 등록한 사적 이해관계는 공개할 수 있다고 규정돼 있는데 국회 사무처는 최근 시민단체의 정보 공개 청구의 비공개 결정을 내렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.478,
+                "end": 24.978
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "역시 공개 범위 등을 정하는 규칙이 만들어지지 않았다는 게 이유입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.988,
+                "end": 30.096
+            }
+        ]
+    },
+    "summary": "공개 범위 등 규칙이 만들어지지 않았다는 이유로 비공개 결정을 내렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07843_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

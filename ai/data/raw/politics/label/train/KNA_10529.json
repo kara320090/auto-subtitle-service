@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_10529",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.266,
+        "format": "MP4",
+        "date": "2023-02-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실과 여당은 2년이 넘는 주가 조작 기간 중 거래 일수가 8일에 불과한 건 무고함을 밝혀주는 중요 자료라고 주장합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.691
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "피고인들과 매매 유형이 완전히 다른 것이고 김 여사가 주가 조작에 가담하지 않았다는 사실을 오히려 증명하는 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.701,
+                "end": 20.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 야당은 시세 조종이 급격히 이뤄진 시기에 거래가 집중됐다며 거래 일수가 아닌 횟수가 중요하다고 주장합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.027,
+                "end": 28.524
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "단 한 종목을 5일간 매도 3일간 매수 방식으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.534,
+                "end": 33.266
+            }
+        ]
+    },
+    "summary": "대통령실과 여당은 거래 일수가 8일에 불과한 건 무고함을 밝혀주는 중요 자료라고 주중했고 야당은 거래 일수가 아닌 횟수가 중요하다고 주장한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10529_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

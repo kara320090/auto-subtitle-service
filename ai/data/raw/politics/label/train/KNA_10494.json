@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_10494",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 정의당과 긴밀하게 논의하겠다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 여사에 대한 철저한 수사가 필요하다는 부분들은 공감을 하고 있고 특검 그 자체를 반대하는 것은 아니라고 알고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.855,
+                "end": 12.051
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 정의당이 강력하게 요구 중인 노란 봉투법의 국회 처리 필요성을 언급하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.061,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "민주당은 @이름1 여사에 대한 철저한 수사가 필요하다는 부분들은 공감을 하고 있고 특검 그 자체를 반대하는 것은 아니라고 알고 있으며 정의당이 강력하게 요구 중인 노란 봉투법의 국회 처리 필요성까지 언급했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10494_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_07740",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 볼 때는 실세의 개입이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "비선 실세냐 혹은 계선의 실세냐 이것을 밝히는 것 이것이 되게 중요한 일이다 저희는 그렇게 판단을 하고 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.516,
+                "end": 9.646
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "행안부 경찰국 신설 문제에 더해 인사 번복 논란이 걷잡을 수 없이 커지면서 여야 간 대치도 한층 격화되는 분위기입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.656,
+                "end": 17.072
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.082,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "경찰 인사 번복 논란에 따른 여야 간 대치가 한층 격화되고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07740_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_09324",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.232,
+        "format": "MP4",
+        "date": "2022-12-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난주 한 총리는 10대 생존자가 극단적 선택을 한 일과 관련해 다음과 같은 발언으로 논란에 휘말리기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본인이 필요에 따른 이런 좀 생각이 좀 더 굳건하고 치료를 받겠다 좀 이런 생각들이 더 강했으면 좋지 않았을까.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.699,
+                "end": 23.637
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 분향소 방문에 대한 입장을 묻는 질의에 총리실은 따로 입장을 내지는 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.647,
+                "end": 29.057
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.067,
+                "end": 32.232
+            }
+        ]
+    },
+    "summary": "한 총리는 10대 생존자가 극단적 선택을 한 일과 관련해 치료를 받게다는 마음이 좀 더 강했다면 좋았을 것이라고 말해 논란에 휩싸인 가운데 오늘 분향소 방문에 대한 입장을 묻는 질의에 따로 입장을 내지는 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09324_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

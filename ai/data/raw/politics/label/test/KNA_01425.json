@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_01425",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.982,
+        "format": "MP4",
+        "date": "2022-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부패 범죄를 제대로 수사하라고 국민 세금으로 월급 받는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.224
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 누구도 법 위에 있을 수 없다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.234,
+                "end": 7.830
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘 역시 문재인 정부 시절 적폐 수사도 정치 보복이었냐며 민주당을 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.840,
+                "end": 14.235
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "민주당은 더 이상",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.245,
+                "end": 15.982
+            }
+        ]
+    },
+    "summary": "장관은 범죄를 제대로 수사하라고 국민 세금으로 월급 받는 것이며 그 누구도 법 위에 있을 수 없다고 했고 국민의 힘은 문재인 정부 시절 적폐 수사도 정치 보복이었냐며 민주당을 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01425_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01425_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNA_02425",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 40.974,
+        "format": "MP4",
+        "date": "2022-05-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정녕 정부에서는 각 도지사와 시장도 새로 임명됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "중대한 지역 현안은 지역민의 뜻과 상관없이 중앙 정부의 입맛에 따라 결정됐습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.813,
+                "end": 12.590
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지방 자치를 있게 하기 위한 목적을 위해 희생과 양보를 무릅쓰며 오늘의 약속을 받아나기에 이르렀습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "start": 12.590,
+                "end": 28.691
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "희망 의회 구성은 더 이상 미루는 것은 바람직하지 않다고 판단하여 기초 단위 지방 의회 의원 선거를 실시하기로 결정하였습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.701,
+                "end": 40.974
+            }
+        ]
+    },
+    "summary": "정부에서 각 도지사와 시장을 새로 임명했으며 중앙 정부는 지역민의 뜻과 상관없이 중대한 지역 현안을 결정했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02425_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02425_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

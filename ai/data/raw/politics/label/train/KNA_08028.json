@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_08028",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.857,
+        "format": "MP4",
+        "date": "2022-07-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두 시간 넘게 논의한 결과 권성동 원내 대표가 당 대표를 직무 대행하는 방안을 추인했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.169
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이준석 대표 징계 결정 이후 사흘만입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.179,
+                "end": 9.710
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘 국회의원 전원은 다음과 같이 엄숙히 결의합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.720,
+                "end": 16.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하나 당 대표 직무 대행 체제로 당 운영의 최선을 다하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.320,
+                "end": 23.857
+            }
+        ]
+    },
+    "summary": "두 시간 넘게 논의한 결과 권성동 원내 대표가 당 대표를 직무 대행하는 방안을 추인했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08028_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

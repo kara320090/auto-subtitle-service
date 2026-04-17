@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNA_00324",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.551,
+        "format": "MP4",
+        "date": "2022-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤후보는 현 정권이 악의적으로 집값을 올려 국민을 갈라치고 다주택자를 범죄인 취급했다며 부동산 정책을 정조준했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.172
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "집이 없는 사람이 임대인에 횡포에 좀 시달려보면 자기들 민주당을 지지할 것이다 해가지고",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.182,
+                "end": 18.551
+            }
+        ]
+    },
+    "summary": "윤후보는 현 정권이 부동산 정책을 정조준했고 집이 없는 사람이 임대인에 횡포에 좀 시달려보면 민주당을 지지할 것이다라고 생각을 했을 것이라고 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00324_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

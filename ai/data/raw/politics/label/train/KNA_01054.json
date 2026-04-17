@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01054",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.749,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 유정복 후보 37.5퍼센트로 유 후보가 앞섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.524
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당선 가능성은 박남춘 30.8 유정복 43.1로 격차가 더 벌어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.534,
+                "end": 11.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강원에선 민주당 이광재 후보가 33.9퍼센트",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.642,
+                "end": 15.749
+            }
+        ]
+    },
+    "summary": "유정복 후보가 37.5퍼센트로 앞섰고 당선 가능성은 박남춘 30.8 유정복 43.1로 격차가 더 벌어졌다고 설명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01054_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01054_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

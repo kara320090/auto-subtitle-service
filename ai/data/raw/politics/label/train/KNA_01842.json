@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01842",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.055,
+        "format": "MP4",
+        "date": "2022-03-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "확진자가 한꺼번에 몰려 긴 시간 대기하는 등 혼선이 빚어질 가능성은 여전합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투표함은 확진자까지 투표를 마친 뒤 개표소로 옮겨지고 8시 10분쯤 개표가 시작될 것으로 선관위는 전망했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.890,
+                "end": 12.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박민철입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.617,
+                "end": 14.677
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번에는 전국의 투표 상황을 관리하고 투표율을 집계하는 중앙선거관리위원회로 가보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.687,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "확진자가 몰려 긴 시간 대기하는 등의 혼선이 빚어질 가능성이 있으며 확진자까지 투표를 마친 뒤 8시 10분쯤 개표가 시작될 것이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01842_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

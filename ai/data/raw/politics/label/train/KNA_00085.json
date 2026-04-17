@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00085",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.548,
+        "format": "MP4",
+        "date": "2022-01-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이삼십 대 남성의 표심을 공략하는 데 맞춰졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.480
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "게임을 질병으로 보던 기존의 왜곡된 시선은 바뀌어야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.490,
+                "end": 10.116
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금까지 게임 이용자에게 가해졌던 이 불공정 문제를",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.126,
+                "end": 15.548
+            }
+        ]
+    },
+    "summary": "게임을 질병으로 보던 기존의 왜곡된 시선은 바뀌어야 된다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00085_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

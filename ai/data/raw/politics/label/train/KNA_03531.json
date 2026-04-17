@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_03531",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.234,
+        "format": "MP4",
+        "date": "2021-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "모두 발언에서 정 장관은 미국 두 장관의 방문이 바이든 행정부의 동맹 중시 기조를 잘 보여준다며 이번 회담으로 한반도 평화 프로세스에 동력이 마련되길 바란다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방한 이틀 째인 내일은 이틀 이른바 2+2 회의가 열립니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.812,
+                "end": 15.944
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한미 두 나라의 외교 국방장관이 한 테이블에 앉아 동맹과 한반도 문제 등을 포괄적으로 논의하고 공동 성명을 발표할 예정입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 15.954,
+                "end": 24.224
+            }
+        ]
+    },
+    "summary": "모두 발언에서 정 장관은 이번 회담으로 한반도 평화 프로세스에 동력이 마련되길 바란다고 말했고 내일 열리는 2+2 회의에서는 두 나라의 동맹과 한반도 문제 등을 포괄적으로 논의하고 공동 성명을 발표할 예정이라고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03531_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 12
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03531_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 149
+                }
+            ]
+        }
+    ]
+}

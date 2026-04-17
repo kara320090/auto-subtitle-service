@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_00347",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.652,
+        "format": "MP4",
+        "date": "2022-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "외연 확대를 시도했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.958
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부정부패 그 대장동 저 사건을 보십시오.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.968,
+                "end": 6.443
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저런 사람을 후보로 미는 그 민주당 이 민주당이 김대중의 민주당이고 노무현의 민주당입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.453,
+                "end": 15.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보는 또 현 정부 부동산 정책과 관련해선",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.872,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "대장동 사건을 보라며 저런 사람을 후보로 미는 민주당이 김대중의 민주당이고 노무현의 민주당이냐고 물었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00347_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

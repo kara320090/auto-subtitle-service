@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_09062",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.159,
+        "format": "MP4",
+        "date": "2022-11-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새로운 인도 태평양 전략은 자유를 기초로 지역 평화를 유지하고 경제협력을 강화해 함께 번영하자는 내용입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.136
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 이 과정에서 보편 가치에 기초한 규칙 기반 국제질서 강화를 언급했는데 이 지역 패권을 강화하려는 중국을 염두에 둔 것이란 해석도 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.146,
+                "end": 19.659
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "힘에 의한 일방적인 현상 변경은 결코 용인되어서는 안 될 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.669,
+                "end": 26.159
+            }
+        ]
+    },
+    "summary": "새로운 인도 태평양양 전략은 자유를 기초로 지역 평화 유지와 경제협력 강화로 함께 번영하자는 내용인데 윤 대통령은 이 과정에서 국제질서 강화를 언급했는데 이 지역 패권을 장악하려는 중국을 염두에 둔 것이란 해석이 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09062_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 25,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

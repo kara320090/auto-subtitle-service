@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNA_30870",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.033,
+        "format": "MP4",
+        "date": "2016-12-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국방부 관계자는 모 부대의 내부망 PC가 관리 부실로 2년 전부터 인터넷망과 연결돼 있었으며 이를 통해 악성 코드가 유포됐다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.670
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 해커가 처음 침입한 것은 지난 8월이라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.680,
+                "end": 15.458
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 악성 코드의 종류와 해커의 IP 주소가 중국 선양인 점으로 볼 때 북한 소행으로 추정된다고 전했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.468,
+                "end": 23.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군 내부망이 최장 2년간 무방비로 뚫려 있던 사실이 드러나면서 허술한 군 보안 태세에 대한 우려가 커지고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.478,
+                "end": 31.668
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.678,
+                "end": 35.033
+            }
+        ]
+    },
+    "summary": "국방부 관계자는 관리 부실로 2년 전부터 인터넷망과 연결돼 있어 이를 통해 악성 코드가 유포됐으며 북한 소행으로 추정된다고 전했고 허술한 군 보안 태세에 대한 우려가 커지고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30870_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 47,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30870_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 46,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

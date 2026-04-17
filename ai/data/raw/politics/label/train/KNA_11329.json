@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_11329",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.323,
+        "format": "MP4",
+        "date": "2023-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 자신이 대한민국 1호 영업사원이라며 한국 투자를 당부했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해외 투자가 많이 들어오면 제도를 국제 기준에 맞춰갈 수 있다면서 규제 완화도 시사했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.208,
+                "end": 12.026
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "앞으로 한국 시장도 열려 있고 제 사무실도 열려 있으니 언제든지 찾아 주시기를 부탁드리겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.036,
+                "end": 20.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다보스에서는 구체적 투자 성과도 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.229,
+                "end": 23.323
+            }
+        ]
+    },
+    "summary": "윤 대통령은 한국 투자를 당부했고 규제완화도 시사했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11329_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

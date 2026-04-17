@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_30503",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.266,
+        "format": "MP4",
+        "date": "2016-08-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박 대통령은 국가 전략 프로젝트가 가시적인 성과를 내기 위해서는 정부와 민간의 긴밀한 협업과 기업들의 투자 환경 조성이 필요하다고 지적했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아울러 연구 개발 사업의 고질적 병폐로 지적되어 온 부처 간 칸막이를 걷어내야 한다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.978,
+                "end": 16.551
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.561,
+                "end": 19.266
+            }
+        ]
+    },
+    "summary": "박 대통령은 국가 전략 프로젝트가 성과를 내기 위해서는 정부와 민간의 긴밀한 협업과 기업들의 투자 환경 조성이 필요하며 부처 간 칸막이를 걷어내야 한다고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30503_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30503_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

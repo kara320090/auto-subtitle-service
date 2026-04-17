@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_04943",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.528,
+        "format": "MP4",
+        "date": "2022-07-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나를 핑계로 국민과의 소통을 중단하겠다는 것으로 밖에 이해 할 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.343
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘은 감염 확산을 막기 위한 조치일 뿐이라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.353,
+                "end": 11.343
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "말 그대로 코로나 때문에 임시로 중단하신 것이 아닌가 그렇게 예 이해를 하면 되지 않을까 싶습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.353,
+                "end": 19.081
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령실 관계자는 누구보다 약식 회견을 하고 싶어 하는게 윤 대통령이라며 확대 해석에 선을 그었습니다 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.091,
+                "end": 28.528
+            }
+        ]
+    },
+    "summary": "대통령실 관계자는 누구보다 약식 회견을 하고 싶어 하는게 윤 대통령이라며 약식 회견을 중단한 것에 대한 선을 그었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04943_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

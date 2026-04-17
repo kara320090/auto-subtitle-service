@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_09302",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.094,
+        "format": "MP4",
+        "date": "2022-12-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김 의원의 40여 초의 사과문 낭독에 이은 공인인 걸 깜빡했다는 해명은 결코 사과가 될 수 없다는 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.199
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 아픈 가슴 하루하루가 힘든 견디기 힘든데 어떤 생각 어떤 머리를 갖고 그렇게 이야기 했는지 모르겠지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.209,
+                "end": 15.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유족들은 정치권이 합의한 국정 조사가 속도를 내지 못하는 사이 정치권과 온라인에서는 2차 가해성 발언이 넘쳐난다며 눈물로 호소했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.324,
+                "end": 26.280
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "같은 부모 마음",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.290,
+                "end": 28.094
+            }
+        ]
+    },
+    "summary": "김 의원의 해명은 결코 사과가 될 수 없다는 입장이고 유족들은 정치권과 온라인에서 2차 가해성 발언이 넘쳐난다며 눈물로 호소했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09302_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

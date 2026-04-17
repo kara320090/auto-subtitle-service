@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_12161",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.789,
+        "format": "MP4",
+        "date": "2020-04-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "보도에서 좀 본 적이 있는데 전혀 엉뚱한 이야기가 아니군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이어진 합동 회의 문 대통령은 백신 개발 등에 2100억 원을 투자하고 신속한 임상 승인 절차를 도입해 연구를 뒷받침하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.842,
+                "end": 14.945
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리의 치료제와 백신으로 인류의 생명을 구할 수 있게 되기를 기대합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.955,
+                "end": 20.127
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부도 총력을 다하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.137,
+                "end": 22.789
+            }
+        ]
+    },
+    "summary": "이어진 합동 회의 문 대통령은 백신 개발 등에 2100억 원을 투자하고 신속한 임상 승인 절차를 도입해 연구를 뒷받침하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12161_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

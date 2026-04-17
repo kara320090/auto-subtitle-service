@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "filename": "KNA_04186",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.678,
+        "format": "MP4",
+        "date": "2021-08-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 건강과 직결되지 않는 거라면 좀 기준을 너무 높이 해 가지고 단속을 하고 또 거기에다 형사 처벌까지 나가는 것은 그거는 좀 검찰권의 그 과도한 그 좀 남용이 아니냐",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 15.442
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 국민의 힘에는 김대중 대통령 시절 청와대 국정 상황 실장을 지낸 장성민 전 의원이 입당했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.452,
+                "end": 22.856
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "장 전 의원은 정권 교체라는 호랑이를 잡기 위해 국민의 힘에 들어왔다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.866,
+                "end": 29.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당에서는 경기 지사인 이재명 후보가 경기도에선 도민 100퍼센트에게 재난 지원금을 주겠다고 해 다른 후보들이 반발했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.076,
+                "end": 38.384
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "중앙 정부 정책과 지방 정부의 정책은 다른 게 정상이다라는 말씀을 먼저 드리",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.394,
+                "end": 45.678
+            }
+        ]
+    },
+    "summary": "오늘 국민의 힘에는 김대중 대통령 시절 청와대 국정 상황 실장을 지낸 장성민 전 의원이 입당했으며 민주당에서는 경기 지사인 이재명 후보가 경기도에선 도민 100퍼센트에게 재난 지원금을 주겠다고 해 다른 후보들이 반발했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04186_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04186_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

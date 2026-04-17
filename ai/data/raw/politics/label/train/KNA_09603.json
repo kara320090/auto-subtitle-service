@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_09603",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.156,
+        "format": "MP4",
+        "date": "2023-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현재 9000원에서 3만 6000원인 할인 폭이 만 8000원에서 7만 2000원으로 확대됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.222
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사회적 배려 대상자 160만 가구가 혜택을 받습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.232,
+                "end": 10.176
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에너지 가격 현실화가 불가피한 측면이 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.186,
+                "end": 14.356
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 정부는 이 과정에서 국민들의 부담이 최소화될 수 있도록 정책적 노력을 최대한 기울여 나가겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.366,
+                "end": 23.156
+            }
+        ]
+    },
+    "summary": "정부는 에너지 가격 현실화가 불가피하나 국민들의 부담이 최소화될 수 있도록 정책적 노력을 하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09603_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

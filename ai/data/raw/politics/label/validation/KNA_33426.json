@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_33426",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.52,
+        "format": "MP4",
+        "date": "2023-06-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 공식 입장은 내놓지 않았지만 학폭 정도나 전후 상황들을 살펴볼 필요는 있다고 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자녀 문제니까 그 문제에 대해서 얼마나 공직자답게 행동했느냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.829,
+                "end": 11.731
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 진정한 반성과 용서를 아들에게 시키고 또 상대방 피해자 측에 에 진정한 용서를 구했는지",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.741,
+                "end": 20.520
+            }
+        ]
+    },
+    "summary": "국민의힘은 공식 입장은 내놓지 않았지만 자녀 문제에 얼마나 공직자답게 행동했는지와 아들이 피해자 측에 진정한 용서를 구했는지 학폭 정도나 전후 상황들을 살펴볼 필요가 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33426_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

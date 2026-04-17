@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02151",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.954,
+        "format": "MP4",
+        "date": "2022-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전형적인 정치 공세라고 맞받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.834
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법안 통과가 가능할지에 대해선 국회법 절차를 최대한 준수하겠지만 이달 안에 반드시 처리한다는 방침은 확실하다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.844,
+                "end": 11.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희 법안에 정말 아 미비점이 확실히 있다라면 그것을 보완하는 방향으로 열린 토론회 자세로 아 임하겠다 이런 생각을 갖고 있고 4월 중에는 반드시 처리해야 한다",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.735,
+                "end": 20.954
+            }
+        ]
+    },
+    "summary": "전형적인 정치 공세라고 맞받았으며 법안 통과가 가능할지에 대해선 국회법 절차를 최대한 준수하겠지만 이달 안에 반드시 처리한다는 방침은 확실하다고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02151_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02151_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

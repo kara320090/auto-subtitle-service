@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_06565",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.162,
+        "format": "MP4",
+        "date": "2022-03-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5월 10일까지로 날짜를 못 박아 집무실을 용산으로 옮기겠다는 윤석열 당선인의 계획에 청와대가 무리라는 공식 입장을 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령이 직접 주재한 국가안전보장회의 NSC 회의 결과였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.359,
+                "end": 15.819
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시간에 쫓겨야 할 급박한 사정이 있지 않다면 국방부 합참 청와대 모두 보다 준비된 가운데 이전을 추진하는 것이 순리일 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.829,
+                "end": 29.162
+            }
+        ]
+    },
+    "summary": "5월 10일까지로 날짜를 못 박아 집무실을 용산으로 옮기겠다는 윤석열 당선인의 계획에 청와대가 무리라는 공식 입장을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06565_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

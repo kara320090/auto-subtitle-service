@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00440",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.859,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정창호입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘 윤석열 대통령 당선인이 선거 경쟁자였던 민주당 이재명 후보와 오늘 통화를 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.710,
+                "end": 9.172
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘 전주혜 의원은 오늘 기자들에게 윤석열 당선인과 이재명 후보가 통화를 했고 이 후보가 윤 당선인에게 성공한 대통령이 되길 바란다고 했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.182,
+                "end": 20.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 당선인 이 후보에게 감사와 위로의 말을 전한 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.930,
+                "end": 25.859
+            }
+        ]
+    },
+    "summary": "이재명 후보는 윤 당선인에게 성공한 대통령이 되기를 바란다고 하고 윤 당선인은 감사와 위로의 말을 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00440_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

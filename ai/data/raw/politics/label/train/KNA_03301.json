@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_03301",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2021-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령은 코로나와의 싸움을 장기전으로 표현하면서 지속 가능한 방역을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.675
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소상공인과 자영업자 등 일부 계층에게 계속해서 경제가 부담을 지울 수는 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.685,
+                "end": 14.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지속 가능한 방역을 위해서도 방역과 민생이 함께 가는 길을 찾아야 합",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.129,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 코로나와의 싸움을 장기전으로 표현하면서 지속 가능한 방역을 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03301_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

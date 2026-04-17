@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_01700",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.32,
+        "format": "MP4",
+        "date": "2022-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단일화 가능성을 완전히 닫지는 않은 모습입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.085
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당에선 이낙연 총괄선대위원장의 측근으로 꼽히는 정운현 전 총리 비서실장이 윤석열 후보에 대한 공개 지지 선언을 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.095,
+                "end": 11.694
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이낙연 위원장 측은 개인의 일탈이라고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.704,
+                "end": 15.269
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.279,
+                "end": 16.316
+            }
+        ]
+    },
+    "summary": "이낙연 총괄선대위원장의 측근으로 꼽히는 정운현 전 총리 비서실장이 윤석열 후보에 대한 공개 지지 선언을 했는데 이낙연 위원장 측은 개인의 일탈이라고 주장했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01700_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01700_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

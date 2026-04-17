@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_01707",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.653,
+        "format": "MP4",
+        "date": "2022-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "적불 정부의 책임을 모 면하기 위해서 윤석열 후보 따라쟁이 하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.208
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심 후보는 현대 제철 비정규직 노동자들을 만나서 이들이 임금과 복지뿐 아니라 안전까지 차별받고 있다면서 개선 방안을 약속했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.218,
+                "end": 15.186
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "심 후보는 오늘은 장애인 지하철 이동권 시위 현장 방문을 시작으로 수도권 유세에 나섭니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.196,
+                "end": 20.653
+            }
+        ]
+    },
+    "summary": "심 후보는 현대 제철 비정규직 노동자를 만나 임금과 복지뿐 아니라 안전까지 차별받고 있다며 이에 대한 개선 방안을 약속했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01707_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 41,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

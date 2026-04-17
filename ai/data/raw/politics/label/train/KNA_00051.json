@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00051",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.882,
+        "format": "MP4",
+        "date": "2022-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "메인 서버와 저장 서버를 매일 같도록 맞춰야 하는데 이를 제대로 몰랐던 것으로 드러났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "출동하는 애들이 이거 동기화시키는 질 몰랐다고 얘기하잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.190,
+                "end": 9.676
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "장비 작동법도 모르고 지금 출동하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.686,
+                "end": 13.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 교육이 어떻게 됐길래 이래 된 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.399,
+                "end": 15.882
+            }
+        ]
+    },
+    "summary": "출동 인원들은 서버 동기화 및 장비 작동법도 모르고 교육이 제대로 되지 않은 상태에서 출동하고 있었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00051_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 46,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

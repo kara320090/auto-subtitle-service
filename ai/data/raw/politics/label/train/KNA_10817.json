@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_10817",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 36.736,
+        "format": "MP4",
+        "date": "2023-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "의정사에 부끄러운 기록이라는 어제 대통령실 발언은 의회주의의 기본도 모르는 무지한 말이라고 쏘아붙였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어제 국회를 통과한 탄핵안은 하루 만인 오늘 오전 헌법 재판소에 제출됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.027,
+                "end": 14.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관련해 탄핵 심판에서 검사 역할을 담당하는 @이름1 국회 법제 사법 위원장은 국정 공백 우려 등을 이유로 신속한 심리를 주문했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.350,
+                "end": 24.756
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이것은 국정 공백이고 어 고스란히 이 나라와 국민 나라에는 손실이고 국민들께는 피해가 갈 수도 있다 그래서 공백기를 최소화해야 된다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.766,
+                "end": 36.736
+            }
+        ]
+    },
+    "summary": "탄핵안은 헌법재판소에 제출됐으며 탄핵 심판에서 검사 역할을 담당하는 국회 법제 사법 위원장은 신속한 심리를 주문했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10817_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

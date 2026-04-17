@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_12588",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.458,
+        "format": "MP4",
+        "date": "2020-07-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아침 일찍 국립 서울 현충원을 참배한 이낙연 의원 코로나 위기는 물론 당이 직면한 도덕성 위기를 책임 있게 해결하겠다고 포부를 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안 지나치게 신중한 모습을 보여 왔다는 비판을 의식한 듯 발언도 쏟아냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.020,
+                "end": 15.930
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대처가 좀 굼뜨고 둔감했다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.940,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "이낙연 의원은 그동안 신중한 모습과 반대로 포부를 밝히며 발언을 쏟아냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12588_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

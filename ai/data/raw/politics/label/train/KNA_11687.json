@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_11687",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.127,
+        "format": "MP4",
+        "date": "2023-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수사 중인 사건이 있어서 참석 못 하겠다는 것은 본인 스스로도 이유 없다고 생각했는지 이번 불출석 사유서에는 뺐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.458
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 국회 교육 위원장은 오늘 청문회가 끝나기 전에라도 출석할 수 있도록 동행 요구서를 전달하겠다며 출석을 강력히 촉구하는 의미라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.468,
+                "end": 20.499
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당 의원들은 국정 감사 때 다시 출석을 요구하겠다면서 고발 조치까지도 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.509,
+                "end": 27.127
+            }
+        ]
+    },
+    "summary": "교육 위원장은 청문회가 끝나기 전에도 출석할 수 있도록 동행 요구서를 전달하겠다고 했고 민주당 의원들은 국정 감사 때 다시 출석을 요구하겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11687_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01310",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.684,
+        "format": "MP4",
+        "date": "2022-06-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "초대 단장은 검찰이 아닌 인사 혁신처 출신 공무원이 맡았고 사무실도 법무부에서 독립된 서울 삼청동 감사원에 마련됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오승목 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.213,
+                "end": 11.729
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법무부 장관 직속의 인사 정보 관리단이 오늘 공식 출범했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.739,
+                "end": 17.684
+            }
+        ]
+    },
+    "summary": "초대 단장은 인사 혁신처 출신 공무원이 맡았고 서울 삼청동에 감사원이 마련돼 공식 출범했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01310_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

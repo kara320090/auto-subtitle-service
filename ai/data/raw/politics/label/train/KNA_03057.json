@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_03057",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.017,
+        "format": "MP4",
+        "date": "2021-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령은 회복과 포용 도약을 키워드로 올해 국정 운영 방향을 제시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.935
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시급한 과제로 코로나 백신과 치료제를 언급하며 백신의 전 국민 무료 접종을 약속했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.945,
+                "end": 13.049
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다음 달이면 백신 접종을 시작할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.059,
+                "end": 17.017
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 회복과 포용 도약을 키워드로 올해 국정 운영 방향을 제시했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03057_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

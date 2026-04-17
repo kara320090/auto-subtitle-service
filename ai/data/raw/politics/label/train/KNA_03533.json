@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_03533",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.657,
+        "format": "MP4",
+        "date": "2021-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "열린민주당과 민주당이 같이 승리하는 선거를 만들어 갑시다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.571
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 국민의힘 오세훈 후보와 국민의당의 안철수 후보의 단일화는 여론조사 문항과 방식을 둘러싸고 진통을 겪고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.581,
+                "end": 12.573
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘은 보수측 응답 비율이 높은 유선전화 조사를 포함하자고 했고 국민의당은 박영선 후보와의 가상 대결 방식으로 여론조사 문항을 구성하자고 맞받은 것으로 전해졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.583,
+                "end": 24.657
+            }
+        ]
+    },
+    "summary": "국민의힘 오세훈 후보와 국민의당의 안철수 후보의 단일화는 여론조사 문항과 방식을 둘러싸고 진통을 겪고 있다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03533_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03533_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

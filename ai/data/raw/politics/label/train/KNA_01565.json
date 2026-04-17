@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_01565",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.82,
+        "format": "MP4",
+        "date": "2022-06-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대선과 지선 패배에 책임을 져야 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.714
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "책임이 있고 또 그 무게감을 느껴서 자기에게 오히려 성찰과 반성의 시간을 가져야 될 분이 저는 있다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.724,
+                "end": 9.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 의원은 에스엔에스에 정치 개혁은 당원의 명령이라며 당권 도전의 당위성을 강조하는 듯한 메시지를 던졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.924,
+                "end": 18.370
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "친문 핵심인 김종민 의원은",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.380,
+                "end": 20.820
+            }
+        ]
+    },
+    "summary": "강 의원은 이 의원에게 패배의 책임을 져야 한다고 하였고 이 의원은 당권 도전의 당위성을 강조하는 메시지를 던졌다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01565_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01565_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 43,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

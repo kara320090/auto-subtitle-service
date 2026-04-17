@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_01914",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.152,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.314
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이후 박근혜 전 대통령은 지난해 12월 사면됐지만 이 전 대통령은 사면 대상에서 제외됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.324,
+                "end": 8.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당시 국민 정서가 다르다는 점을 이유로 들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.266,
+                "end": 12.240
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 지금은 당선인의 사면 건의가 있는 만큼 그때와 상황이 다르다는 의견도 여권에서 나오고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.250,
+                "end": 19.152
+            }
+        ]
+    },
+    "summary": "박근혜 전 대통령은 지난해 사면됐지만 국민 정서상의 이유로 이 전 대통령은 사면 대상에서 제외됐다며 여권 측은 당선인의 사면 건의가 있어 그때와 상황이 다르다는 의견이라고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01914_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01914_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 7,
+                    "object": null,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

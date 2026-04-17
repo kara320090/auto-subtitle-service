@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_00196",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.589,
+        "format": "MP4",
+        "date": "2022-01-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "은행에 제출한 뒤 하루 이체 한도를 5억 원으로 올렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.846
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 이 공문을 김 씨 상급자가 실제 결제한 것인지 아니면 김 씨가 위조한 것인지 조사하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.856,
+                "end": 10.829
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 직원이 지금 뭐 생산한 문서라든가 했던 업무 자체를 지금 다 감사를 하고 있는 걸로 알고 있거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.839,
+                "end": 16.887
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 그런 부분들을 정확하게 사실관계를 지금 따져봐야 될 거 같아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.897,
+                "end": 20.120
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 김 씨의 상급자들은 물론",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.130,
+                "end": 22.589
+            }
+        ]
+    },
+    "summary": "김 씨가 생산했던 문서와 했던 업무에 관해서는 감사를 시작했고 그중 하나의 공문이 위조가 된 것인지 상급자가 결제를 한 것인지를 조사하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00196_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

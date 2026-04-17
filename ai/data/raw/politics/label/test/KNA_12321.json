@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_12321",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.065,
+        "format": "MP4",
+        "date": "2020-02-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "본회의 등 모든 국회 일정도 취소됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 조치는 지난 19일 국회 행사에 코로나19 확진자가 참가한 사실이 확인된 데 따른 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.848,
+                "end": 10.218
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 이 행사에는 심재철 원내대표 등 미래통합당 의원들도 여럿이 참석했고 이들은 오늘 병원을 찾아 검사를 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.228,
+                "end": 19.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 코로나19 극복에 전념하기 위해 대면 접촉 선거 운동을 1주일 동안 중지하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.269,
+                "end": 26.218
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대면 접촉 선거 운동을 일시적으로 전면 중단하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 26.228,
+                "end": 32.065
+            }
+        ]
+    },
+    "summary": "본회의 등 모든 국회 일정도 취소됐는데 이번 조치는 지난 국회 행사에서 코로나19 확진자가 참가한 사실이 확인된 데 따른 것으로 이 행사에는 미래통합당 의원들도 여럿이 참석했으며 이들은 오늘 병원을 찾아 검사를 받았고 민주당은 대면 접촉 선거 운동을 1주일 동안 중지하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12321_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

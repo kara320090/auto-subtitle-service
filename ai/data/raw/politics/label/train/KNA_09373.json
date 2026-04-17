@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_09373",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.534,
+        "format": "MP4",
+        "date": "2022-12-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전 국민의 항체 형성률이 97.3퍼센트를 기록했다는 지난 8월 질병청 조사 결과도 근거로 삼았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.362
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 원칙적으로 공감한다면서도 과학 방역 기조에서 결정하겠다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.372,
+                "end": 13.609
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 정부는 과학 방역에 기초하여 코로나19에 대응하고 있으며 마스크 의무 조정 문제 역시 과학 방역의 기조에서 결정되어야 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.619,
+                "end": 26.453
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회의 결과 방역 당국은 일정 기준만 충족된다면 실내 마스크 착용을 의무에서 권고로 바꾸겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.463,
+                "end": 34.534
+            }
+        ]
+    },
+    "summary": "방역 당국은 일정 기준이 충족되면 마스크 착용을 권고로 바꾸겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09373_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

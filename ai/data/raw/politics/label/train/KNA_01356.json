@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01356",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.249,
+        "format": "MP4",
+        "date": "2022-06-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박경주입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.478
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 윤 대통령은 이명박 전 대통령 사면론과 관련해서 전직 대통령을 너무 오랜 기간 수감생활 하게 하는 건 맞지 않다면서 사면 가능성을 내비쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.488,
+                "end": 12.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그동안 사면의 필요성을 조금씩 언급해 왔던 여당도",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.533,
+                "end": 16.249
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 이명박 전 대통령 사면 가능성을 내비쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01356_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

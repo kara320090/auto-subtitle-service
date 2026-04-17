@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_02530",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.552,
+        "format": "MP4",
+        "date": "2022-06-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령 집무실 100 미터 이내 집회 시위는 금지하는 게 핵심입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.560
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여야 모두 전현직 대통령을 위해 집시법에 명시된 집회 시위 금지 영역 늘리기에 나선 모습입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.570,
+                "end": 12.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "학계와 시민 사회 중심으로 우려가 제기되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.087,
+                "end": 15.548
+            }
+        ]
+    },
+    "summary": "국민의힘 집회 시위 개정안에 대통령 집무실 100 미터 이내 집회 시위는 금지하는 게 핵심이라며 여야 모두 전현직 대통령을 위해 집회 시위 금지 영역 늘리기에 나선 모습이라고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02530_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 95
+                }
+            ]
+        }
+    ]
+}

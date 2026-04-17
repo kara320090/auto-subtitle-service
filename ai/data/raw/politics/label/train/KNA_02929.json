@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_02929",
+        "category": "정치뉴스",
+        "sub_category": 14,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2022-11-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조사 대상은 대통령실 국정 상황실과 행정 안전부 대검찰청 행안부 서울시 등 16곳입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.329
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "본회의에 앞서 국조 특위는 이 같은 내용의 계획서를 채택하려 했지만 국민의힘 의원들이 참석하지 않아 첫 회의부터 파행됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.339,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "조사 대상은 16곳으로 본회의에 앞서 국조 특위는 이 같은 내용의 계획서를 채택하려 했지만 국민의힘 의원들이 참석하지 않아 첫 회의부터 파행됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02929_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02929_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 41,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

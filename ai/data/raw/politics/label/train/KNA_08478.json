@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_08478",
+        "category": "정치뉴스",
+        "sub_category": 33,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.593,
+        "format": "MP4",
+        "date": "2022-09-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "탈원전 백지화 방침을 세웠던 정부가 택소노미 즉 녹색 분류 체계에 원전을 포함시키기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이를 통해 탄소 중립 목표를 달성하고 원전의 안전성을 높일 수 있다는 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.974,
+                "end": 12.409
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재생 에너지와 원전의 조화로운 활용을 위해 한국형 녹색 분류 체계의 원전 경 경제 활동을 포함할 필요성이 커졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.419,
+                "end": 19.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "녹색 분류 체계는 무엇이 친환경인지 알려주는 체계로 투자나 대출의 근거가 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.831,
+                "end": 25.593
+            }
+        ]
+    },
+    "summary": "정부는 재생 에너지와 원전의 조화로운 활용을 위해 녹색 분류 체계에 원전을 포함시키기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08478_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 20,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08478_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

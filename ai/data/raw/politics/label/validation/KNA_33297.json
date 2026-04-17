@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_33297",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.733,
+        "format": "MP4",
+        "date": "2018-12-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "명백하게 민간인에 대한 사찰을 시행하고 이 첩보 내용을 대검에 수사 하에 활용하도록 청와대에서 보낸 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.689
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한국당은 @이름1 비서실장과 @이름2 민정 수석이 참석하는 국회운영위 소집을 거듭 요구했습니다. 청와대는 곧바로 입장 자료를 내고 의혹을 반박했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.699,
+                "end": 23.932
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박 전 센터장은 특감반 감찰 대상이 아니어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.942,
+                "end": 27.733
+            }
+        ]
+    },
+    "summary": "한국당은 비서실장과 민정수석이 참석하는 국회운영위 소집을 요구했고 청와대는 이에 대한 입장 자료를 내고 의혹을 반박했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33297_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

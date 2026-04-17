@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_04029",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.463,
+        "format": "MP4",
+        "date": "2021-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두 나라는 코로나19 이후 여행 활성화를 위해 서로의 입국자에게 자가격리를 면제해주는 방안 검토에도 착수했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.603
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 순방에서 전략적 동반자 관계로 격상된 한국과 스페인 문 대통령은 이를 계기로 스페인 방문내내 두 나라의 친환경 디지털 분야 경제교류 협력 강화를 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.613,
+                "end": 20.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "MOU체결에 이어 펠리페 6세 국왕도 참석한 스페인 경제인 협회 연례 포럼에선 각자의 강점을 공유해 코로나 시대를 선도하자고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.791,
+                "end": 30.463
+            }
+        ]
+    },
+    "summary": "문 대통령은 스페인과 협력 강화를 강조하고 경제인 협회 포럼에서 코로나 시대를 선도하자고 했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04029_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04029_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

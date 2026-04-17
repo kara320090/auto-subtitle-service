@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_00262",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.351,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 윤석열 후보는 재경 전북 도민의 신년 인사에 참석해 호남 민심 잡기를 이어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.469
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대선 후보 소식 강나루 기자가 종합했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.479,
+                "end": 10.093
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당 이재명 후보는 한국 노총을 방문해 자신에 대한 지지 선언에 감사의 뜻을 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.103,
+                "end": 18.351
+            }
+        ]
+    },
+    "summary": "국민의힘 윤석열 후보는 재경 전북 도민의 신년 인사에 참석해 호남 민심 잡기를 이어갔고 민주당 이재명 후보는 한국 노총을 방문해 자신에 대한 지지 선언에 감사의 뜻을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00262_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00262_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00790",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.048,
+        "format": "MP4",
+        "date": "2022-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "광교 신청사로 이전하는 인원은 21개 실국 89개 과에서 모두 2400여 명입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.783
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행정 공백을 줄이기 위해 7주 동안 매주 목요일에서 일요일에 단계적으로 이전하게 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.793,
+                "end": 13.286
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민원실도 18일부터는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.296,
+                "end": 15.048
+            }
+        ]
+    },
+    "summary": "광교 신청사로 이전하는 인원은 2400여 명으로 행정 공백을 줄이기 위해 7주 동안 매주 목요일에서 일요일에 단계적으로 이전한다고 보도한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00790_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": 7,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00790_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

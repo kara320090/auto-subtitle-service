@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_10331",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.056,
+        "format": "MP4",
+        "date": "2023-04-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 국가 안보실 1차장이 한미 정상 회담 막판 조율을 위해 미국을 찾았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공항에서 기자들의 질문은 도감청 의혹에 집중됐는데 이는 조작됐다는 입장을 재확인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.993,
+                "end": 13.481
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 사실은 미국이 확인을 해줬고요 어떤 것이 어떻다 아니면은 우리도 시간을 갖고 기다려 봐야 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.491,
+                "end": 21.054
+            }
+        ]
+    },
+    "summary": "공항에서 기자들의 질문은 도감청 의혹에 집중됐는데 이는 조작됐다는 입장을 재확인했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10331_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

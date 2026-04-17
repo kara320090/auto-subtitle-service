@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_02671",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.454,
+        "format": "MP4",
+        "date": "2022-11-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "메모가 공개되자 국감장은 발칵 뒤집어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.498
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아니 이건 진짜 국회 모독입니다. 그동안 이 XX들이라고 대통령이 얘기를 해도 저희가 사과 한마디 못 받고 여기까지 온 국회입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.508,
+                "end": 13.778
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "추궁에 두 수석은 사과했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.788,
+                "end": 16.452
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이 같은 물의를 빚어지게 해드려서 정말 죄송합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.462,
+                "end": 21.454
+            }
+        ]
+    },
+    "summary": "메모가 공개되자 국감장은 발칵 뒤집어졌고 여당은 국회 모독이라고 했는데 의원들의 추궁에 두 수석은 사과했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02671_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

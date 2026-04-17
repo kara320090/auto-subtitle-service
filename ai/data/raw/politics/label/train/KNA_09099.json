@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_09099",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.33,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이태원 참사 상황을 알게된 그 시점은 23시 경입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 이태원 지구촌 축제와 할로윈을 앞두고 기동대 배치를 요청했지만 서울 경찰청이 거부했다고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.456,
+                "end": 15.363
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울청장이 2번이나 검토한 결과여서 더 이상 요청하지 못했다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.373,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "이태원 지구촌 축제와 할로윈을 앞두고 기동대 배치를 요청했지만 서울 경찰청이 거부했다고 했고 2번이나 검토한 결과여서 더 이상 요청을 못했다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09099_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_06403",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.265,
+        "format": "MP4",
+        "date": "2022-02-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2차 토론에서도 민주당 이재명 국민의힘 윤석열 후보 서로를 가장 많이 겨눴습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.275
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "질문 횟수도 그렇지만 그간 나왔던 각종 의혹이 다 거론되다시피 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.285,
+                "end": 11.804
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "건진 법사인가 무슨 법사인가 하는 사람이 @이름1를 건들면 영매라서 당신한테 피해가 갑니다라는 말을 듣고 압수 수색을 포기했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.814,
+                "end": 21.277
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "3년 동안 165억이라는 그 현안이 걸려 있는 기업으로부터 이렇게 후원금을 받았는데 그거를 왜 떳떳하게 밝히지 못하고 거부하시죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.287,
+                "end": 32.265
+            }
+        ]
+    },
+    "summary": "2차 토론에서도 민주당 이재명 국민의힘 윤석열 후보 서로를 가장 많이 겨눴다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06403_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

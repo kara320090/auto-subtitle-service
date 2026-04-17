@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_03912",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.835,
+        "format": "MP4",
+        "date": "2021-05-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "LH 사태 이후 정부가 부동산 투기와의 전쟁을 선포한 지 두 달.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.802
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 국무총리는 지금까지 경찰과 관계 기관에 부동산 투기 합동 수사 결과 2400여 명에 대한 수사가 진행돼 16명이 구속됐고 238명을 검찰에 송치했다고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.812,
+                "end": 18.700
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 총리는 수사 결과와 관련해 국민들은 더 빠른 진행과 단호한 성과를 원한다고 평가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.710,
+                "end": 25.709
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민들께서 불법 투기는 반드시 처벌 받을 수 있다란 처벌 받는다는 확신을 가질 수 있도록 수사와 조사에 더욱 박차를 가해야 할 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.719,
+                "end": 35.835
+            }
+        ]
+    },
+    "summary": "LH 사태 이후 정부가 부동산 투기 합동 수사를 강화해 불법 투기자들을 구속 송치했으며 앞으로도 국민 뜻에 부응해 수사와 조사 진행에 박차를 가할 거라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03912_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03912_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

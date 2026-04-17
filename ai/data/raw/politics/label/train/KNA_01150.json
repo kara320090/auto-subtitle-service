@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01150",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.516,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김동연 후보는 김은혜 후보의 KT 재직 시절 인사 청탁 의혹으로 반격했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.063
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시댁 쪽에서 챙겨달라는 부탁을 받았습니다. 이런 어 이야기를 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.073,
+                "end": 10.650
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그러면서 어 1차에 합격을 했습니다. 불합격된 사람이죠. 인적성 검사에서 거의 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.660,
+                "end": 16.516
+            }
+        ]
+    },
+    "summary": "김동연 후보는 김은혜 후보의 KT 재직 시절 시댁 쪽으로부터 부탁받은 인사 청탁 의혹을 꺼내며 반격했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01150_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

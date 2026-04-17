@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_10088",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.331,
+        "format": "MP4",
+        "date": "2022-05-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제 온 지 열 흘밖에 되지 않은 사람 아마 선거 이때쯤부터 25일 조금 안 되는 거 같습니다 여러분.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.326
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런데 정작 윤 후보 역시 이달 초에야 인천 계양구로 전입한 사실이 뒤늦게 확인됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.336,
+                "end": 13.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 후보는 서울 목동에 10년 넘게 소유해 온 집이 있는데 지난해 5월 이곳으로 이사 갔다가 이번 선거를 앞두고 다시 계양으로 주소를 옮긴 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.348,
+                "end": 23.599
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 25년 계양 사람을 내세우더니 정작 자신은 21일 된 가짜 계양 사람이었다고 날을 세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.609,
+                "end": 31.331
+            }
+        ]
+    },
+    "summary": "민주당은 윤 후보가 인천 계양 사람을 내세우더니 최근 계양구로 전입한 사실이 뒤늦게 확인된 점과 관련해 가짜 계양 사람이었다고 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10088_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

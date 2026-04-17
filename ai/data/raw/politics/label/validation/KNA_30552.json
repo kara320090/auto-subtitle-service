@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_30552",
+        "category": "정치뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.2,
+        "format": "MP4",
+        "date": "2016-08-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부와 새누리당은 매년 일자리 예산을 10퍼센트 이상 증액하고 이 가운데 청년 일자리 예산은 15퍼센트 이상 늘리기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당정은 또 저출산 고령화 예산을 평균 증가율 이상으로 편성하기로 했고 문화 예산도 7조 원 이상으로 편성하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.416,
+                "end": 17.200
+            }
+        ]
+    },
+    "summary": "정부와 새누리당은 매년 일자리 예산을 10퍼센트 이 가운데 청년 일자리 예산은 15퍼센트 이상 늘리고 저출산 고령화 예산을 평균 증가율 이상으로 편성하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30552_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30552_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

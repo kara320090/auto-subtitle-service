@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNA_01558",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "과거에도 여러 차례 다양한 방식으로 제기돼 왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.937
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 지금까지 이 같은 배석 요구가 받아들여진 적은 없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.947,
+                "end": 9.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기 지사의 국무 회의 배석은 국무 회의 규정을 개정하면 가능합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.521,
+                "end": 15.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.611,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "경기 지사의 배석 요구는 과거에도 제기돼 왔었으며 국무 회의 규정을 개정하면 가능하다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01558_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01558_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

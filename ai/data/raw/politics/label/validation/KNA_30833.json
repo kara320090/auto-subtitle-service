@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_30833",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.37,
+        "format": "MP4",
+        "date": "2016-11-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "산업부는 오늘 신재생 에너지 보급 활성화 대책을 발표하고 이 같은 내용을 확정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 따라 월 평균 사용량에 따라 제한된 보조금 지급 대상도 모든 가구로 확대됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.202,
+                "end": 13.089
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 이런 정책을 통해 태양광 주택은 24만 가구에서 오는 2020년에 70만 가구로 학교는 1000여 곳에서 3400곳으로 태양광 보급을 늘릴 계획이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.099,
+                "end": 27.366
+            }
+        ]
+    },
+    "summary": "산업부는 오늘 신재생 에너지 보급 활성화 대책을 발표하고 보조금 지급 대상이 모든 가구로 확대되며 태양광 보급을 늘릴 계획이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30833_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 154
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30833_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

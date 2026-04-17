@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_00221",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.123,
+        "format": "MP4",
+        "date": "2022-02-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최악의 남북 관계와 북한의 미사일 도발 등 각종 도발만 남았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.893
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이어 전통 시장을 찾아 민생 점검에 나선 윤 후보는 GTX D노선에 인천국제공항과 부천을 잇는 노선을 추가하겠다며 수도권 표심을 겨냥한 공약을 내놨습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.903,
+                "end": 20.997
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당 심상정 후보는",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.007,
+                "end": 23.123
+            }
+        ]
+    },
+    "summary": "윤 후보는 전통 시장을 찾아 수도권 표심을 겨냥한 공약을 내놨습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00221_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

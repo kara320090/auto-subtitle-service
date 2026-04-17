@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_30852",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.133,
+        "format": "MP4",
+        "date": "2016-12-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 게이트 국정 조사 특위가 대통령 비서실과 경호실 등 5개 기관을 상대로 기관 보고를 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.678
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기관 보고에 출석한 @이름2 대통령 비서실장은 국민 여러분께 커다란 상처와 실망감을 안겨 드려 거듭 죄송하다며 고개를 숙였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.688,
+                "end": 16.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 지난주 대통령께서 모든 것을 내려 놓겠다고 한만큼 혼란스러운 상황을 잘 매듭지어 국정과 민생이 하루라도 빨리 안정되기를 기대한다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.385,
+                "end": 27.133
+            }
+        ]
+    },
+    "summary": "국정 조사 특위가 대통령 비서실과 경호실 등 5개 기관을 상대로 기관 보고를 받았으며 대통령 비서실장은 기관 보고에 출석해 국민 여러분께 죄송하며 국정과 민생이 빨리 안정되기를 기대한다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30852_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30852_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

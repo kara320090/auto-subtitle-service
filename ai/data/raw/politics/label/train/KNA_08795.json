@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_08795",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.766,
+        "format": "MP4",
+        "date": "2022-10-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경북 포항시의 동빈항입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어선 수십 척이 정박해 있는 가운데 요트 1척이 눈에 띕니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.665,
+                "end": 7.606
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 배에 탄 러시아 남성 2명은 입국 허가를 받지 못해 지난 2일부터 이곳에서 숙식을 해결하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.616,
+                "end": 15.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.989,
+                "end": 23.665
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허가 없인 출입이 불가능하고 구역마다 CCTV가 설치돼 있는 포항 신항에도 러시아 깃발을 단 소형 요트 2척이 닻을 내렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.675,
+                "end": 32.766
+            }
+        ]
+    },
+    "summary": "요트에 탄 러시아 남성 2명은 입국 허가를 받지 못해 지난 2일부터 포항시 동빈항의 배 위에서 숙식을 해결하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08795_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

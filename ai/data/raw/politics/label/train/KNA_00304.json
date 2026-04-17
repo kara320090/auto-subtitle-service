@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_00304",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.249,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "스마트 방역과 경제 부스터 샷을 제안했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.405
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방역 체계를 유연하게 바꿔 최소한의 경제생활을 보장하자는 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.415,
+                "end": 8.825
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원천 봉쇄 방식이 아니라 최대한 유연하게 그리고 스마트하게 방역하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.835,
+                "end": 16.249
+            }
+        ]
+    },
+    "summary": "스마트 방역과 경제 부스터 샷으로 방역 체계를 유연하게 바꿔 최소한의 경제생활을 보장하자고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00304_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_10234",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.691,
+        "format": "MP4",
+        "date": "2022-09-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공정 거래 위원회가 운영하는 소셜 미디어 인스타그램의 계정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.091
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공정위는 지난 4월 이 계정을 구독하고 글을 올리면 추첨을 통해 경품을 주는 행사를 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.101,
+                "end": 10.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당첨자들에겐 이름과 전화번호를 전송하라고 안내했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.609,
+                "end": 14.918
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 이는 개인 정보 보호법 위반입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.928,
+                "end": 18.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "개인 정보를 수집하려면 수집 목적과 항목 보유 기간 동의 거부권 등을 알려야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.398,
+                "end": 24.691
+            }
+        ]
+    },
+    "summary": "공정 거래 위원회가 운영하는 인스타그램의 계정에서 경품을 주는 행사를 했는데 당첨자들에게 이름과 전화번호를 전송하라고 안내했지만 이는 개인 정보 보호법 위반이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10234_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_10234_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

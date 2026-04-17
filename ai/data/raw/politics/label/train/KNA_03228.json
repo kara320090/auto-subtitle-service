@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_03228",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 32.499,
+        "format": "MP4",
+        "date": "2021-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "탈원전 정책을 최우선 과제로 선언했던 산업부",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "탈원전 탈석탄을 통해 에너지 패러다임 대전환의 기틀을 마련하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.610,
+                "end": 11.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "찬반 논란이 거세지면서 시민들이 참여하는 공론화 위원회가 구성됐고 원전 비중을 줄여 나가자는 사회적 합의가 이뤄졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.304,
+                "end": 21.037
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "위원회는 원자력 발전의 정책을 원자력 발전을 축소하는 방향으로 에너지 정책 결정을 할 것을 정부에 권고",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.047,
+                "end": 32.499
+            }
+        ]
+    },
+    "summary": "산업부는 탈원전 정책을 최우선 과제로 선언했지만 찬반 논란이 거세지면서 원전 비중을 줄여 나가자는 사회적 합의가 이루어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03228_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03228_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_03903",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.424,
+        "format": "MP4",
+        "date": "2021-05-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "폭로가 나올 때마다 그러했듯 군은 또 감찰과 사실 관계 확인에 나섰습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.903
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장관은 13일 만에 다시 전군 주요 지휘관 회의를 소집했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.913,
+                "end": 9.632
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 예정된 회의였다지만 사그라들지 않고 있는 부실 급식 폭로와 무관치 않아 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.642,
+                "end": 15.697
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "계속해서 이제 부실급식 논란도 있고 하니까 그런 것도 이제 전반적으로 어 살펴볼 기회가 될 것으로 알고 있습",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.707,
+                "end": 23.423
+            }
+        ]
+    },
+    "summary": "장관은 전군 주요 지휘관 회의를 소집했고 예정된 회의였다지만 사그라들지 않고 있는 부실 급식 폭로와 무관치 않아 보인다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03903_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 1,
+                    "object": 35,
+                    "act": 1
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03903_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_01304",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.133,
+        "format": "MP4",
+        "date": "2022-06-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이를 두고 권성동 원내 대표는 권력 다툼으로 보는 건 지나친 억측이라며 이 대표의 임기 단축 가능성도 일축했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.441
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전당 대회를 통해서 선출된 당 대표인데 어 그 당 대표의 임기에 대해서 왈가왈부하는 것 자체가 적절치 못하다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.451,
+                "end": 18.716
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 지방 선거 패배를 수습하고 당 쇄신을 이끌 새 비대 위원장으로 4선 중진 우상호 의원을 선임했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.726,
+                "end": 27.712
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "민주당의 색깔을 놓치지 않으면서",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 27.722,
+                "end": 33.133
+            }
+        ]
+    },
+    "summary": "민주당은 지방 선거 패배를 수습하고 당 쇄신을 이끌 새 비대 위원장으로 4선 중진 우상호 의원을 선임했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01304_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01304_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

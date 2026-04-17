@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_05726",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.428,
+        "format": "MP4",
+        "date": "2122-11-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사실과 다른 그런 가짜 뉴스로 이간질하려고 아주 악의적인 그런 행태를 보였기 때문에 대통령의 그 헌법 수호 그 책임의 일환으로서 그런 부득이한 조치였다고 저는 생각을 하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 19.779
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "MBC 기자가 집무실로 올라가는 윤 대통령에게 무엇이 악의적이냐고 따져 물었고 대통령실 관계자가 항의하면서 설전이 벌어지기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.789,
+                "end": 28.428
+            }
+        ]
+    },
+    "summary": "가짜 뉴스로 이간질한다며 윤 대통령이 말했고 MBC 기자와 설전이 벌어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05726_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

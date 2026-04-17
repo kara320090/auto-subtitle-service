@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00674",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.919,
+        "format": "MP4",
+        "date": "2022-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "에 청와대에선 알박기 인사라는 인수위의 비판은 모욕적이다 사과해야 한다는 말이 나왔고 인수위는 청와대가 감정적으로 해석하는 것이라고 맞받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.657
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조지현 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.667,
+                "end": 12.524
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인수위가 어제 대우 조선 해양 박두선 대표 선출을 현 정부의 알박기 인사라고 비판한 것에 대해",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.534,
+                "end": 19.919
+            }
+        ]
+    },
+    "summary": "청와대는 대우 조선 해양 대표 선출이 알박기 인사라는 인수위의 비판이 모욕적이라고 했고 인수위는 청와대가 감정적으로 해석하는 것이라고 맞받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00674_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00674_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 20,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

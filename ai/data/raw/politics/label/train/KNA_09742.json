@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_09742",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.355,
+        "format": "MP4",
+        "date": "2023-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령을 접견한 미 의회 방한단은 상하원 합동 연설 초청 의사를 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한국 대통령으로는 10년 만에 미 의회 연설 윤 대통령은 바로 추락했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.950,
+                "end": 11.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한미 동맹 70주년이라는 특별한 계기에 미 의회 의사당 연단에 서서 역사적인 연설을 하게 돼 기쁘다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.989,
+                "end": 22.355
+            }
+        ]
+    },
+    "summary": "윤석열 대통령을 접견한 미 의회 방한단은 상하원 합동 연설 초청 의사를 전했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09742_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

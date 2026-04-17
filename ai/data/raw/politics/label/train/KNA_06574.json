@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_06574",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.856,
+        "format": "MP4",
+        "date": "2022-03-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수위는 새 정부의 선봉댑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선봉대가 길을 잘못 들면 본 부대가 위태로워집니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.241,
+                "end": 10.000
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "코로나 특위 회의에선 코로나 정점을 확인한 뒤에 방역 조치를 대부분 완화하기로 뜻을 모았고 소상공인 보상 마련이 시급하다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.010,
+                "end": 20.974
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.984,
+                "end": 22.856
+            }
+        ]
+    },
+    "summary": "코로나 특위 회의에선 코로나 정점을 확인한 뒤에 방역 조치를 대부분 완화하기로 뜻을 모았고 소상공인 보상 마련이 시급하다고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06574_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

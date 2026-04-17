@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "filename": "KNA_33494",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.62,
+        "format": "MP4",
+        "date": "2023-06-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "합동 참모 본부는 어젯밤 서해 공해상에서 북한 주장 우주 발사체인 천리마 1형 잔해 인양에 성공했다고 밝혔습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.791
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잔해는 원통형으로 길이 12미터, 직경 2.5미터였으며 천리마 1형의 2단으로 추정됩니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 7.801,
+                "end": 15.190
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "표면에는 천마라는 글씨와 날개 달린 말의 형상이 그려져 있었습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 15.200,
+                "end": 20.620
+            }
+        ]
+    },
+    "summary": "합동 참모 본부는 어젯밤 서해 공해상에서 북한 주장 우주 발사체 천리마 1형 잔해 인양에 성공했고 표면에 천마라는 글씨와 날개 달린 말 형상이 그려진 원통형 잔해는 길이 12미터, 직경 2.5미터였으며 2단으로 추정된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33494_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 49,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

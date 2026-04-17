@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNA_31551",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.04,
+        "format": "MP4",
+        "date": "2016-12-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1의 법적 조력자가 @이름2이고 @이름2를 소개시켜 준 사람이 우병우 수석이라는 말은 들었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.617
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 씨든 @이름2 씨든 여기서 불러서 확인해봤으면 좋겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.627,
+                "end": 10.296
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "롯데와 K스포츠 재단 등에 대한 검찰 수사 상황을 최 씨 측에 흘려주고 대비 문건을 만들어 전달했다는 의혹도 사실무근이라고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.306,
+                "end": 20.925
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "해경에 대한 압수수색을 중단하게 하는 등 검찰의 세월호 수사를 방해했다는 의혹에 대해서는 정확한 사실 관계를 파악했을 뿐이라고 해명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.935,
+                "end": 31.033
+            }
+        ]
+    },
+    "summary": "우병우 수석은 검찰의 수사 상황을 최 씨 측에 알려주고 대비 문건을 만들어 전달했다는 의혹도 사실무근이고 세월호 수사를 방해했다는 의혹에 대해서도 사실 관계를 파악했을 뿐이라고 해명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31551_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_31551_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

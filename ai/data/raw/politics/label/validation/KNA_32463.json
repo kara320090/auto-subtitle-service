@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNA_32463",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.324,
+        "format": "MP4",
+        "date": "2023-08-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국정 운영과 국민의 삶에 기여하는 국회의 역할은 망각하고 잼버리 파행에 비난 받는 윤석열 정권과 행정안전부 장관 수호를 위해서 어깃장만 놓고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 15.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결국 회의는 30분도 안 돼 파행 됐고 여야는 각각 기자회견을 열어 서로에게 회의 파행의 책임이 있다고 주장했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.464,
+                "end": 24.324
+            }
+        ]
+    },
+    "summary": "결국 회의는 파행 됐고 여야는 각각 기자회견을 열어 서로에게 파행의 책임을 전가했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32463_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

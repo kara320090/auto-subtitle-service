@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00824",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.887,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 정 후보자는 어제 기자회견을 열고 자녀의 의대 편입 특혜 의혹과 아들의 병역 회피 의혹 등에 대해 문제 소지가 없다고 해명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금까지 삼청동 인수위에서 KBS 뉴스 이유민입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.925,
+                "end": 14.684
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 북한의 신형 전술 유도 무기 시험 발사로 한반도 긴장이 고조된 가운데 오늘부터",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.694,
+                "end": 20.887
+            }
+        ]
+    },
+    "summary": "정 후보자는 기자회견을 열어 자녀의 의대 편입 특혜 의혹과 아들의 병역 회피 의혹에 대해 문제 소지가 없다고 해명했고 북한의 신형 전술 유도 무기 시험 발사로 한반도 긴장이 고조됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00824_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00824_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

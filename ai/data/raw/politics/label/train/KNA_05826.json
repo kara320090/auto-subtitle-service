@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_05826",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.486,
+        "format": "MP4",
+        "date": "2122-12-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "법정에서 진실이 가려지고 무고함이 밝혀질 것으로 믿습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 달 만에 이재명 대표의 최측근 @이름1 전 실장과 @이름2 전 민주 연구원 부원장이 모두 구속된 채 법정에 서게 됐고 검찰 수사는 이제 이 대표를 향해갈 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.560,
+                "end": 17.316
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.326,
+                "end": 19.486
+            }
+        ]
+    },
+    "summary": "이재명 대표는 법정에서 진실이 가려지고 무고함이 밝혀질 것으로 믿는다고 밝힌 한편 이재명 대표의 최측근인 @이름1 전 실장과 @이름2 전 민주 연구원 부원장이 모두 구속된 채 법정에 서게 됨에 따라 검찰 수사는 이제 이 대표를 향해갈 것으로 보입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05826_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05826_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

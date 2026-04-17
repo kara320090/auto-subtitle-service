@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_05001",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.23,
+        "format": "MP4",
+        "date": "2022-07-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "순경 등 일반직 출신의 고위직 비중을 확대하고 공안직 공무원보다 낮은 경찰 임금을 인상하도록 하는 등 처우 개선책도 내놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 장관은 곧 경무관과 총경 전무 인사가 있는데 대통령실에는 인사 시스템이 없어 시간이 촉박하다면서 일선의 반발을 의식해 개선을 서두르는 건 아니라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.679,
+                "end": 21.978
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "결코 서두르는 것이 아니고요 지금도 어떤 시스템의 부재 상태다 빨리 이것을 보완해야 된다 이런 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.988,
+                "end": 30.230
+            }
+        ]
+    },
+    "summary": "고위직 비중 확대와 임금 인상 등 경찰 처우 개선책도 내놓았는데 일선을 의식해 서두르는 건 아니라고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 154
+                }
+            ]
+        }
+    ]
+}

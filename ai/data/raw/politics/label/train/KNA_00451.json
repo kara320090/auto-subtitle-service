@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNA_00451",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.998,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김진숙입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 대선은 개표가 거의 마무리될 때까지도 결과를 예측하기 힘든 초박빙 승부였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.459,
+                "end": 9.117
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "개표 초반에는 이재명 후보가 앞서 나가다가 개표율 50퍼센트를 넘긴 직후 두 후보가 동률을 이루었고 이후 윤석열 후보가 역전한 뒤 표 차를 조금씩 벌려 나가는 초접전이 펼쳐졌는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.127,
+                "end": 21.369
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대선 개표 상황을 박혜진 기자가 정리했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.379,
+                "end": 24.825
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "출구 조사 결과 단 0.6퍼센트 포인트 차",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.835,
+                "end": 31.998
+            }
+        ]
+    },
+    "summary": "개표 초반에는 이재명 후보가 앞서 나가다가 개표율 50퍼센트를 넘긴 직후 두 후보가 동률을 이루었고 이후 윤석열 후보가 역전한 뒤 표 차를 조금씩 벌려 나가는 초박빙 승부였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00451_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNA_03722",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.455,
+        "format": "MP4",
+        "date": "2021-04-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두 후보는 우선 이른바 조국 사태가 이번 선거 참패와 관련이 있는지를 놓고 서로 다른 목소리를 냈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난해 이 총선을 통해서 충분히 국민들의 평가와 심판을 받았다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.129,
+                "end": 14.310
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "총선을 통해서 극복은 됐지만 어쨌든 젊은 층의 공정에 대한 문제에 대해서 의심을 가질 수밖에 없었다라는",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.320,
+                "end": 22.455
+            }
+        ]
+    },
+    "summary": "두 후보는 우선 이른바 조국 사태가 이번 선거 참패와 관련이 있는지를 놓고 서로 다른 목소리를 냈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03722_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01464",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.648,
+        "format": "MP4",
+        "date": "2022-06-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당이 국회 원 구성과 무관한 협상 조건을 계속 붙이고 있다며 지난 대선 때 있었던 고소 고발을 상호 취하하는 걸 요구받았다고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.859
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 고발한 사건은 전부 이재명 후보 관련된 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.869,
+                "end": 12.959
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 후보 살리기 위해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.969,
+                "end": 15.648
+            }
+        ]
+    },
+    "summary": "민주당이 지난 대선 때 있었던 고소 고발을 상호 취하하는 걸 요구했다는 주장이 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01464_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "KNA_05077",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 32.432,
+        "format": "MP4",
+        "date": "2022-07-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "평범한 미용실처럼 보이지만 12 개 업체가 장비 등을 함께 사용하는 공유 미용실입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.845
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관련법 상 미용업을 하려면 필요한 설비를 모두 갖춰야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.855,
+                "end": 10.274
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초기 자본금이 여유가 있지 않은 이상은 창업이라는 거 다 자체를 처음부터 사 생각하기는 엄두가 안나는 부분이 많기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.284,
+                "end": 20.081
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 이렇게 새로운 산업의 발목을 잡는 규제 50 개를 개선하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.091,
+                "end": 25.452
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기엔 조선소의 자동 용접 로봇 안전 기준 등 규제 때문에 투자가 멈춘 사업 3 건도 포함됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 25.462,
+                "end": 32.432
+            }
+        ]
+    },
+    "summary": "관련법 상 미용업을 하려면 필요한 설비를 모두 갖춰야 하지만 초기 자본금이 여유가 없어 12 개 업체가 장비 등을 함께 사용하는 공유 미용실을 소개하면서 정부가 새로운 산업의 발목을 잡는 규제 50 개를 개선하기로 했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05077_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 23
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05077_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 20,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_01211",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.355,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인천에서 서울까지 가는 10분대 교통 시대를 연다고 했지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.759
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정말 어이없지 않습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.769,
+                "end": 5.880
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "허경영도 놀랄 일일 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.890,
+                "end": 8.443
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이정미 후보는 별 차이가 없는 두 후보가 지루한 책임 공방만 벌이고 있다며 싸잡아 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.453,
+                "end": 16.656
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "양당의 재탕 삼탕의 재방송이 아니라 인천 시민들이 직접 만들어주시는",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.666,
+                "end": 22.355
+            }
+        ]
+    },
+    "summary": "이정미 후보는 별 차이가 없는 두 후보가 지루한 책임 공방만 벌이고 있다며 싸잡아 비판했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01211_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01211_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

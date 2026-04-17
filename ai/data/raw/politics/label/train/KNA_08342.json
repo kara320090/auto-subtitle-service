@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_08342",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.769,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 독벼라서 더 이상 피해서는 안 된다고 생각했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정진석 비대위가 순항할지는 아직 미지수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.464,
+                "end": 9.659
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당장 이준석 전 대표가 추가 신청한 가처분 심리가 추석 연휴 직후인 14일 열립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.669,
+                "end": 16.557
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 전 대표의 우크라이나행 당시 SNS로 가시 돋친 설전을 벌이기도 했는데 정부 의장 취임 직후 이 대표는 인간의 욕심은 끝이 없고 같은 실수를 반복한다며 추가 가처분을 예고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.567,
+                "end": 30.947
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "비대위가 법원 문턱을 넘더라도 당 내홍 수습은 또 다른 과제입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.957,
+                "end": 35.769
+            }
+        ]
+    },
+    "summary": "이준석 전 대표가 SNS로 설정을 벌인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08342_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

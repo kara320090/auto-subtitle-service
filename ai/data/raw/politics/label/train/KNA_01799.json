@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "KNA_01799",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.482,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저 안철수는 윤석열 후보를 지지하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민이 키운 윤석열과 지난 10년간 국민과 함께 달려온 안철수가 국민의 뜻에 따라 힘을 합친 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.087,
+                "end": 15.482
+            }
+        ]
+    },
+    "summary": "안철수 후보는 윤석열 후보를 지지하기로 했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01799_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

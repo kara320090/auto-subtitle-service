@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01699",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.493,
+        "format": "MP4",
+        "date": "2022-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안 후보는 실무자가 먼저 만났어야 한다고 했는데 이 말을 윤 후보는 사전 협의가 필요하다고 받아들였고 안 후보는 이미 늦었다는 취지였다는 게 양측 설명입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.818
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 통화 뒤에 안 후보가 윤 후보에게 단일화 철회 문자를 보냈다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.828,
+                "end": 14.337
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이미 시간이 너무 지났고 완주 의지를 다지는 기자 회견을 할 계획이다 이렇게 해서 윤석열 후보한테 아 입장을 전달했다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.347,
+                "end": 23.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보 측은 이 문자를 못 봤다는 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.422,
+                "end": 26.493
+            }
+        ]
+    },
+    "summary": "안 후보는 실무자가 먼저 만났어야 한다고 했는데 이 말을 윤 후보는 사전 협의가 필요하다고 받아들였고 안 후보는 이미 늦었다는 취지였다는 게 양측 설명입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01699_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01699_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

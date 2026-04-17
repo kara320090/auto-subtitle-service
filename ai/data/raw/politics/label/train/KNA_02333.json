@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_02333",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 41.908,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국무 회의에서 36조 4000억 원 규모의 코로나19 손실 보상 추경안을 의결한 윤석열 대통령 오늘 첫 국회 시정 연설을 통해 신속한 처리를 요청할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "취임 엿새 만에 이뤄지는 시정 연설입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.891,
+                "end": 13.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 당장 급한 불을 끄지 않는다면 향후 더 큰 복지 비용으로 재정 건전성을 흔들 수 있기 때문에 어려운 분들에게 적시에 손실 보전금이 지급되어야 할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.980,
+                "end": 29.199
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여야 모두 신속한 추경 집행에는 이견이 없지만 민주당은 손실 보상 소급 적용이 빠진 반쪽짜리 추경안이라며 추경 규모를 10조 원 더 늘리자는 입장이어서 갈등 소지가 다분합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.209,
+                "end": 41.908
+            }
+        ]
+    },
+    "summary": "국무 회의에서 36조 4000억 원 규모의 코로나19 손실 보상 추경안을 의결한 윤석열 대통령 오늘 첫 국회 시정 연설을 통해 신속한 처리를 요청할 예정이며 민주당은 손실 보상 소급 적용이 빠진 반쪽짜리 추경안이라며 추경 규모를 10조 원 더 늘리자는 입장이어서 갈등 소지가 다분합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02333_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02333_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

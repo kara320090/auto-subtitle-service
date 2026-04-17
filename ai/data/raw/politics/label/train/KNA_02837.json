@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_02837",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.489,
+        "format": "MP4",
+        "date": "2022-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "김진표 국회의장이 국민의힘에 국정 조사 위원회 명단 제출을 공식 요청 해 달라 민주당은 김 의장을 압박했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.550
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘이 시간 끌기에 나섰다고 의심하며 24일 본회의에서 단독 처리하겠다는 방침도 굳혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.560,
+                "end": 15.058
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "귀국한 윤석열 대통령이 고생 많았다는 인사를 한 이상민 행안부 장관에 대한 비판도 이어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.068,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "김진표 국회의장이 국민의힘에 국정 조사 위원회 명단 제출을 공식 요청 해 달라 민주당은 김 의장을 압박했고 귀국한 윤석열 대통령이 고생 많았다는 인사를 한 이상민 행안부 장관에 대한 비판도 이어갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02837_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02837_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 4,
+                    "act": 29
+                }
+            ]
+        }
+    ]
+}

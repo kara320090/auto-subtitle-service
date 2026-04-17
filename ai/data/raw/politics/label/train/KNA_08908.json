@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNA_08908",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.83,
+        "format": "MP4",
+        "date": "2022-10-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경제에 대한 관념이 없는 것인지 아니면 정쟁을 위해서라면 경제 정도는 얼마든지 희생시킬 수 있다 이런 태도인지 납득이 되지 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.964
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김 지사가 속한 여당에서도 신중했어야 했다는 지적이 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.974,
+                "end": 16.333
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "강원도가 채무이행을 할 수 있음에도 불구하고 미이행 발표로 불신을 키운 점에 대해서는 다시 한번 돌아볼 필요가 있지 않나 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.343,
+                "end": 24.964
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정무위 국감에선 금융당국의 늑장 대응도 시장 혼란에 한몫을 했다는 질타가 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.974,
+                "end": 30.830
+            }
+        ]
+    },
+    "summary": "정무위 국감에선 금융당국의 늑장 대응도 시장 혼란에 한몫을 했다는 질타가 이어졌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08908_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08908_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00004",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.883,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정권만 가져오면 된다는 발상이 놀랍다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아침에 주식 시장 개장식을 찾은 이재명 후보는 주가 조작이나 시세 조정 같은 불공정 행위를 엄단하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.451,
+                "end": 12.191
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "4000시대를 넘어서서 5000포인트 시대를 향해 가는 에 그런",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.201,
+                "end": 16.883
+            }
+        ]
+    },
+    "summary": "주식 시장 개장식을 찾은 이재명 후보가 불공정 행위를 엄단하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00004_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

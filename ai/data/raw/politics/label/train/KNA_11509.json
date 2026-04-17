@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_11509",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.529,
+        "format": "MP4",
+        "date": "2023-05-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령이 거부권을 행사해 국회에 돌아온 간호법 제정안이 오늘 본회의에서 다시 상정될 전망입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.685
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 민주당이 정치적 개선으로 간호법을 밀어붙인다며 반대 입장을 거듭 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.695,
+                "end": 14.029
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당이 다수의 힘으로 이 법안을 밀어붙이고 있는 것은 정부의 제2 요구권 행사를 유도해 정부 여당의 정치적 부담을 가하고 내년 총선 승리를 위한 표 계산 때문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.039,
+                "end": 29.529
+            }
+        ]
+    },
+    "summary": "간호법 제정안이 본회의에서 다시 상정될 전망이고 국민의힘은 반대 입장을 거듭 밝히고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11509_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

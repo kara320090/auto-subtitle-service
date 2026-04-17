@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_32935",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.985,
+        "format": "MP4",
+        "date": "2023-10-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전문가들의 과학적 논의와 국민 여론 수렴을 그 준비로 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.145
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이를 바탕으로 한 사회적 합의를 강조하면서 공을 국회로 넘겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.155,
+                "end": 10.065
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연금 개혁은 법률 개정으로 완성되는 만큼 정부는 국회의 개혁 방안 마련 과정과",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.075,
+                "end": 18.985
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 연금 개혁에 관해 말하며 공을 국회로 넘겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32935_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

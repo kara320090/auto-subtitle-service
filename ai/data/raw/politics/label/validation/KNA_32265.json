@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNA_32265",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.833,
+        "format": "MP4",
+        "date": "2015-11-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박 대통령은 기조 연설에 이어 올랑드 프랑스 대통령이 주최하는 기후 변화 정상 회의 오찬에 참석합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.110
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박 대통령은 또 내일은 우리나라 정상으로는 처음으로 파리의 유네스코 본부를 방문해 특별 연설을 할 예정입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 7.120,
+                "end": 15.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박 대통령의 기후 변화 총회 참석은 신기후 체제 창설 국가 중 하나로서 신재생 에너지 기술 등을 활용한 새로운 비지니스 영역을 선점하는 의미가 있다고 청와대는 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.027,
+                "end": 26.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "파리에서 KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.699,
+                "end": 30.833
+            }
+        ]
+    },
+    "summary": "박 대통령은 프랑스 대통령이 주최하는 기후 변화 정상 회의 오찬에 참석하고 기후 변화 총회 참석은 신재생 에너지 기술 등을 활용한 새로운 비지니스 영역을 선점하는 의미가 있다고 청와대는 밝혔습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32265_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

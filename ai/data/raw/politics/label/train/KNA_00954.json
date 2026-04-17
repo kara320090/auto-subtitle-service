@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00954",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 후보자가 전문성과 국정 경험을 갖춘 총리 적임자라며 감쌌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.128
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "매우 엄중한 상황에서 정부를 안정적으로 이끌어갈 적임자라 평가할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.138,
+                "end": 11.308
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 후보자는 후배 공무원에게 전화 한 통 부탁 한 건 하지 않았다면서",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.318,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "한 후보자가 국무총리 적임자라고 평가하였고 부탁한 적이 없다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00954_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

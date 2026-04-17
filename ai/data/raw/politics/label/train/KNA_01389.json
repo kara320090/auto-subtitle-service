@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_01389",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.253,
+        "format": "MP4",
+        "date": "2022-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기대하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.151
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현재 수도권 공동 현안으로는 GTX노선 조기 완공과 광역 버스 노선 신설 서울 도시 철도 연장 등이 꼽힙니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.161,
+                "end": 9.523
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연장 사용을 놓고 논란이 있는 쓰레기 매립장 문제도 해결이 시급합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.533,
+                "end": 14.435
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오 시장은 이를 위해 서울과 경기 인천이 참여하는 삼자 협의체 구성을 제안했고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.445,
+                "end": 20.253
+            }
+        ]
+    },
+    "summary": "수도권 공동 현안으로 GTX노선 조기 완공 광역 버스 노선 신설 서울 도시 철도 연장 쓰레기 매립장 문제 등이 꼽히는데 오 시장은 이를 위해 서울과 경기 인천이 참여하는 삼자 협의체 구성을 제안했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01389_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 5,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01389_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 20,
+                    "object": 7,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

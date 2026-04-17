@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_31905",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.666,
+        "format": "MP4",
+        "date": "2015-05-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나눔의 집 측은 위안부 피해자들을 또 한번 모욕한 행위에 대해 즉각 수사를 의뢰하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.159
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "두 번째로 이런 그 모욕적인 소녀상을 보내서 그 할머니들 명예를 훼손 시키 시켰기 때문에 반드시 저희가 그 수사 의뢰를 해서 형사 처벌을 받을 수 있도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.169,
+                "end": 19.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스즈키 씨는 2012년에도 위안부 할머니들의 명예를 훼손한 혐의로 기소됐고 구속 영장도 발부됐지만 한국으로 입국하지 않아 처벌 받지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.625,
+                "end": 29.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 29.956,
+                "end": 32.666
+            }
+        ]
+    },
+    "summary": "나눔의 집 관계자는 위안부 피해자들을 모욕한 스즈키 씨의 행위에 대해 즉각 수사를 의뢰해 형사 처벌을 받을 수 있도록 할 것이라고 했고 스즈키 씨는 2012년에도 명예를 훼손한 혐의로 기소됐지만 한국으로 입국하지 않아 처벌 받지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31905_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_31905_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

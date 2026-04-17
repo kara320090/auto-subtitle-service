@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_02197",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.416,
+        "format": "MP4",
+        "date": "2022-04-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4년 4개월 동안 김앤장에서 20억 원 가까이 고문료를 받았는데 한 후보자는 활동 내역으로 A4 용지 1장 반 분량을 제출했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.055
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 일은 간담회 4번 참석이 다란 말입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.065,
+                "end": 13.074
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민께서 이 해명을 어떻게 납득할 수 있겠습니까.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.084,
+                "end": 16.416
+            }
+        ]
+    },
+    "summary": "4년 4개월 동안 김앤장에서 20억 원 가까이 고문료를 받았는데 한 후보자는 활동 내역으로 A4 용지 1장 반 분량을 제출했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02197_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02197_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

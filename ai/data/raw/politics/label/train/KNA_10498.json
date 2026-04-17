@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_10498",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2023-02-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘 이해가 되지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.200
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "천하람 후보는 친이준석계 최고 위원 후보들과 기자 간담회를 열고 개혁의 바람을 이어가겠다고 밝혔고 황교안 후보는 교회 예배에 참석해 지지를 호소했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.200,
+                "end": 13.282
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일은 국민의힘 당 대표 후보 합동 연설회가 제주에서 시작됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.292,
+                "end": 18.221
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.231,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "천하람 후보는 기자 간담회를 열고 개혁의 바람을 이어가겠다고 밝혔고 황교안 후보는 교회 예배에 참석해 지지를 호소했으며 내일은 국민의힘 당 대표 후보 합동 연설회가 제주에서 시작된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10498_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 50,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

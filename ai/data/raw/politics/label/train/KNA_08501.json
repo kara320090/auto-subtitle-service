@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_08501",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.637,
+        "format": "MP4",
+        "date": "2022-09-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "미 해군 전투기 FA18 슈퍼호넷과 조기 경보기인 E2D 호크아이 등 함재기 90대를 탑재했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.314
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미국 측은 한미 동맹이 물샐틈 없다고 강조하면서 항모 강습단이 한반도 주변에서 작전을 수행하는 건 어떤 위협이 생기든지 한국을 방어한다는 강력한 의지를 보여주는 거라 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.324,
+                "end": 21.700
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.710,
+                "end": 30.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이달 말 동해에서 진행할 한미 연합 훈련에는 핵 추진 잠수함 아나폴리스도 합류할 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.827,
+                "end": 37.637
+            }
+        ]
+    },
+    "summary": "미국 측은 한미 동맹이 물샐틈 없다고 강조하면서 항모 강습단이 한반도 주변에서 작전을 수행하는 건 어떤 위협이 생기든지 한국을 방어한다는 강력한 의지를 보여주는 거라 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08501_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

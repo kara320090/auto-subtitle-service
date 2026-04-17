@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_31887",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.466,
+        "format": "MP4",
+        "date": "2015-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이를 대남 심리전으로 전가함으로써 이번 사태를 마무리 지우려는 것으로 판단됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.514
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "때문에 당분간 현영철의 숙청 여부를 확인하지 않는 모호성 전략을 구사할 가능성도 있는 것으로 분석됩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 5.524,
+                "end": 13.673
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "실제로 북한은 어제도 2년 전 만든 기록 영화까지 다시 방영하며 현영철과 마원춘 등의 모습을 삭제하지 않은 채 내보냈습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.683,
+                "end": 22.466
+            }
+        ]
+    },
+    "summary": "북한은 어제도 현영철과 마원춘 등의 모습을 삭제하지 않은 기록 영화까지 다시 방영하는 등 당분간 현영철의 숙청 여부를 확인하지 않는 모호성 전략을 구사할 가능성도 있는 것으로 분석된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31887_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_31887_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

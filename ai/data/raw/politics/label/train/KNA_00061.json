@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00061",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.683,
+        "format": "MP4",
+        "date": "2022-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 정부 우리의 삶을 바꿨다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 후보는 또 실손 보험 청구 체계를 간소화하는 등 보험 소비자 보호를 위한 5대 공약도 발표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.250,
+                "end": 9.925
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 후보는 앞서 평택 물류창고 화재로 순직한 소방관 빈소를 찾아 조문했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.935,
+                "end": 16.683
+            }
+        ]
+    },
+    "summary": "이재명 후보는 보험 소비자 보호를 위한 5대 공약도 발표하고 평택 물류창고 화재로 순직한 소방관 빈소를 찾아 조문했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00061_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00061_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 7,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

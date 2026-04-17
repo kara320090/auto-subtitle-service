@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_07301",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.92,
+        "format": "MP4",
+        "date": "2022-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "관련돼서 논문이 작성하신 바도 없으신 거죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.920
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.930,
+                "end": 5.144
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "취재진은 김 교수의 2015 년 논문을 비롯해 다른 저작물도 직접 확인해봤지만 김 비서관이 주장한 내용은 찾을 수 없었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.154,
+                "end": 13.704
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "김 비서관에게 문자 메시지를 보내 다시 한번 주장의 근거를 물었지만 질문만 읽은 채 답변하지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.714,
+                "end": 20.920
+            }
+        ]
+    },
+    "summary": "취재진은 김 교수의 다른 저작물도 직접 확인해봤지만 김 비서관이 주장한 내용은 찾을 수 없었고 김 비서관에게 다시 한번 주장의 근거를 물었지만 질문만 읽은 채 답변하지 않았다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07301_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 112
+                }
+            ]
+        }
+    ]
+}

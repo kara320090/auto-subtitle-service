@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_30533",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.866,
+        "format": "MP4",
+        "date": "2016-08-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청와대는 @이름1 특별 감찰관이 언론사에 감찰 내용을 유출했다는 의혹과 관련해 중대한 위법 행위이자 묵과할 수 없는 사안이라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 홍보수석은 브리핑을 통해 특별 감찰관 법은 감찰 착수와 종료 감찰 내용을 공표하거나 누설해서는 안 된다고 규정하고 있다며 이 같은 청와대 입장을 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.418,
+                "end": 21.866
+            }
+        ]
+    },
+    "summary": "청와대는 특별 감찰관이 언론사에 감찰 내용을 유출했다는 의혹과 관련해 특별 감찰관 법에 공표하거나 누설해서는 안 된다고 규정하고 있다며 이는 중대한 위법 행위이자 묵과할 수 없는 사안이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30533_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30533_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

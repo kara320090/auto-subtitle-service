@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_01061",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.156,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국정의 주요 사안에 관해 의회 지도자와 의원 여러분과 긴밀하게 논의하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.725
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령은 새 정부 대북 정책 기조도 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.735,
+                "end": 12.278
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "형식적 평화가 아니라 북한의 비핵화 프로세스와 남북 간 신뢰 구축이 선순환하는 지속 가능한 평화를 만들어 가야 한다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.288,
+                "end": 20.646
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이와 함께 북한 당국이 호응한다면",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 20.656,
+                "end": 23.156
+            }
+        ]
+    },
+    "summary": "윤 대통령이 새 정부 대북 정책 기조를 밝히고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01061_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

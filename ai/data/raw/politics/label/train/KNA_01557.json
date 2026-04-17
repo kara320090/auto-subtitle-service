@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_01557",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.002,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "성실히 수행할 수 있을 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "효율적인 국가 운영과 지방 자치 동반 발전에 기여할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.696,
+                "end": 7.730
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 반도체를 비롯한 각종 첨단 산업의 중심지고 남북이 접해 있는 안보 요충지여서 다른 어느 지역보다 중앙 정부와의 소통이 중요하다는 점도 배석 요구의 이유로 꼽았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.740,
+                "end": 22.106
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기 지사의 국무 회의 배석 요구는",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.116,
+                "end": 24.991
+            }
+        ]
+    },
+    "summary": "효율적인 국가 운영과 지방 자치 발전에 기여할 수 있다는 이유로 경기 지사의 배석을 요구했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01557_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01557_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

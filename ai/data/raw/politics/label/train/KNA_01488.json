@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01488",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.487,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제자리 뛰기만 하다가 혼자 차에 올라타 버리는 꼼수를 부리고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.026
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령 보고서 재송부 요청에 대해 민주당은 부적격 후보에 대한 지명 철회를 요구했고 국민의 힘은 청문회를 위한 원 구성 협상을 야당에 촉구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.036,
+                "end": 16.473
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령이 다음 주 나토 정상 회의에 참석하는 만큼",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.483,
+                "end": 20.487
+            }
+        ]
+    },
+    "summary": "윤 대통령 보고서 재송부 요청에 대해 민주당은 부적격 후보에 대한 지명 철회를 요구했고 국민의 힘은 청문회를 위한 원 구성 협상을 야당에 촉구했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01488_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01488_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

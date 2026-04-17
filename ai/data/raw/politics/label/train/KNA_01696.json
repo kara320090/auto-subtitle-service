@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_01696",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.858,
+        "format": "MP4",
+        "date": "2022-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부 방역 정책 책임을 민주당이 져야 한다던 윤석열 후보 정작 질문은 심상정 후보에게 하자 두 후보의 신경전 시작됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저한테 다 물어 놓고 답은 기회를 안 주고 저기다 물어봐요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.129,
+                "end": 12.472
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "보는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.482,
+                "end": 13.207
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "또 얘기해 봐야 또 뭐 본인 얘기만 할 게 뻔해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.217,
+                "end": 17.146
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보가 준비해 온 판넬을 꺼내 화천대유 대주주 김만배 씨의 녹취록을 제시하자 신경전은 더욱 거세졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.156,
+                "end": 24.858
+            }
+        ]
+    },
+    "summary": "정부 방역 정책 책임을 민주당이 져야 한다던 윤석열 후보 정작 질문은 심상정 후보에게 하자 두 후보의 신경전 시작되었으며 이 후보가 준비해 온 판넬을 꺼내 화천대유 대주주 김만배 씨의 녹취록을 제시하자 신경전은 더욱 거세졌습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01696_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01696_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

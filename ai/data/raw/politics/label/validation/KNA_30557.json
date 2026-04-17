@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_30557",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.633,
+        "format": "MP4",
+        "date": "2016-08-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "구조조정의 어려움을 극복하고 민생을 살리기 위해 시급한 추경 예산안은 이유 여하를 막론하고 하루빨리 통과되어야 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 14.672
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "당정청은 이와 함께 추석을 앞두고 농수축산물 10개 품목의 가격을 안정시키는 한편 임금 체불과 영세 중소상공인의 자금난 여부를 확인하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.682,
+                "end": 27.633
+            }
+        ]
+    },
+    "summary": "당정청은 민생을 살리기 위해 추경 예산안이 하루빨리 통과되어야 한다고 했고 이와 함께 추석을 앞두고 농수축산물의 가격을 안정시키는 한편 중소상공인의 자금난 여부를 확인하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30557_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30557_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 71
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "KNA_01587",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2022-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가장 흔히 거론되지만 지루한 협상이 필요한 여론조사 방식의 단일화가 아니라 후보 간 단판을 염두해 뒀다는 해석이 국민의 힘 내에서 나오고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.600
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 후보는 오늘 과학 기술 분야 공약을 발표하고 택시 기사들의 고충을 듣는 정책 간담회에 참석합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.600,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "여론조사 방식의 단일화가 아니라 후보 간 단판을 염두해 뒀다는 해석이 국민의 힘 내에서 나오고 있다고 기자는 보도하였고 윤 후보는 오늘 과학 기술 분야 공약을 발표하고 택시 기사들의 고충을 듣는 정책 간담회에 참석한다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01587_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01587_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

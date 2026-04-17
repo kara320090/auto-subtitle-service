@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "KNA_01907",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 42.175,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "광화문 시대를 공언했던 윤석열 당선인 측이 새 대통령 집무실로 서울 용산 국방부 청사에 대한 검토에 들어갔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광화문 정부 서울 청사의 한계 때문입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 7.993,
+                "end": 11.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이곳에 대통령 집무실을 둘 경우 경호상의 우려가 있고 기존 부처 이사 등 제반 비용에만 500억 원이 필요합니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 11.248,
+                "end": 18.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면에 국방부 청사는 여유 공간이 있는 데다 주변에 고층 빌딩이 없고 외부와의 차단도 쉬워 경호 문제에서 자유롭다는 장점이 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.910,
+                "end": 28.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현 청와대의 지하 벙커나 헬기장도 남겨둘 필요가 없어 청와대 부지를 100 퍼센트 국민들에게 돌려주겠다는 취지를 살릴 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.090,
+                "end": 36.782
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 용산 공원이 들어서면 국민과 직접 소통할 수 있다는 것도 고려했다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.792,
+                "end": 42.175
+            }
+        ]
+    },
+    "summary": "윤석열 당선인 측이 새 대통령 집무실로 서울 용산 국방부 청사에 대한 검토에 들어갔는데 이곳은 외부와의 차단도 쉬워 경호 문제에서 자유롭다는 장점이 있고 용산 공원이 들어서면 국민과 직접 소통할 수 있다는 것도 고려했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01907_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01907_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

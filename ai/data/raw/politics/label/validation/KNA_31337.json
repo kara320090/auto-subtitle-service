@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_31337",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 28.672,
+        "format": "MP4",
+        "date": "2015-10-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시간으로 예측해도 한 11시 한 40분",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.945
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 그 정도 된 답니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.955,
+                "end": 3.384
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "안타깝게도 버스 창문이 또 안 열려서 손을 맞잡지 못한 그런 모습도 보이네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.394,
+                "end": 9.574
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1차 상봉 때는 저 버스 문이 열려서 손도 맞잡고 했는데 지금 좀 버스도 높아서 잘 보이지 않을 겁니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.584,
+                "end": 21.588
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저럴 때는 안에서 이렇게 쪽지를 써서 창문에 붙이기도 하고 하시던데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.598,
+                "end": 28.666
+            }
+        ]
+    },
+    "summary": "그들은 이산가족들이 서로 버스에서 배웅하는 것에 대해서 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31337_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 66
+                }
+            ]
+        }
+    ]
+}

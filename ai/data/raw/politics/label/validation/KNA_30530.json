@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_30530",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.9,
+        "format": "MP4",
+        "date": "2016-08-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아세안 정상회의 참석에 이어 8일부터 이틀 간 분냥 보라칫 대통령의 초청으로 라오스를 공식 방문합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난 1995년 양국 재수교 이래 우리나라 대통령의 첫 공식 방문입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.660,
+                "end": 13.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 라오스 정상회담에서는 양국 간 개발 협력과 한반도 문제 등에 대한 심도 있는 협의가 진행될 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.399,
+                "end": 21.900
+            }
+        ]
+    },
+    "summary": "박 대통령은 8일부터 이틀 간 라오스 대통령의 초청으로 우리나라 대통령으로는 처음으로 공식 방문하게 되며 정상회담에서는 양국 간 개발 협력과 한반도 문제에 대한 심도 있는 협의가 진행될 것으로 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30530_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

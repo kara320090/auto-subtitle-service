@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_02458",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.632,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "센서가 달린 조끼와 철모 총을 착용하고 은폐물도 활용하면서 실전처럼 기동사격을 실시합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.161
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "10명의 팀워크가 중요한데 전광판에 실시간으로 사망과 부상자 수 등 교전 상황이 나타납니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.171,
+                "end": 17.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예비군 훈련이 코로나19 확산으로 2020년 1월 중단된 지 2년 5개월 만에 재개됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.423,
+                "end": 24.520
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소집 훈련 시간은 연차와 관계없이 8시간으로 동일합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.530,
+                "end": 29.629
+            }
+        ]
+    },
+    "summary": "예비군 훈련이 2020년 1월 중단된 지 2년 5개월 만에 재개되며 센서가 달린 조끼와 철모 총을 착용하고 은폐물도 활용하면서 실전처럼 기동사격을 실시하며훈련 시간은 연차와 관계없이 8시간으로 동일합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02458_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02458_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

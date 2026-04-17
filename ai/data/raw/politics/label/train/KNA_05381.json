@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_05381",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.093,
+        "format": "MP4",
+        "date": "2022-09-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이래서는 안 된다고 단호하게 선언해 주시기를 기대합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.360
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법 통과 과정에서 안건 조정 절차가 무력화될 때쯤 국회가 적법 절차를 어겼다는 게 법무부의 주장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.370,
+                "end": 13.449
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 검사의 수사 기소권은 헌법상 권한인데 개정법은 이를 침해한다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.459,
+                "end": 19.981
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반면 국회는 검사의 수사권과 기소권은 헌법상 권한이 아닌 법률상 권한이라고 맞서고 있습",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.991,
+                "end": 27.093
+            }
+        ]
+    },
+    "summary": "법무부는 법 통과 과정에서 국회가 적법 절차를 어겼으며 검사의 수사 기소권은 헌법상 권한이라고 주장했으나 국회는 검사의 수사권과 기소권은 헌법상 권한이 아닌 법률상 권한이라고 주장하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05381_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05381_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}
