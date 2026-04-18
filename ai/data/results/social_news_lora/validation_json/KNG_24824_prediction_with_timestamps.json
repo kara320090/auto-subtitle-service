@@ -1,0 +1,19 @@
+{
+  "audio": "D:\\data\\social_general_news_data\\validation\\wav\\KNG_24824.wav",
+  "prediction": "이제 주어진 시간은 단 2시간 팔씨름도 하고 누나도 업어 보며 아쉬움을 달랩니다. 어린 시절을 회상하며 고향 노래도 함께 부르고",
+  "active_adapters": [
+    "news_adapter"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.32,
+      "text": "이제 주어진 시간은 단 2시간 팔씨름도 하고 누나도 업어 보며 아쉬움을 달랩니다."
+    },
+    {
+      "start": 12.32,
+      "end": 27.94,
+      "text": "어린 시절을 회상하며 고향 노래도 함께 부르고"
+    }
+  ]
+}

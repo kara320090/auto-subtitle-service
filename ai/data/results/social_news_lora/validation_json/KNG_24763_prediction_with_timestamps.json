@@ -1,0 +1,29 @@
+{
+  "audio": "D:\\data\\social_general_news_data\\validation\\wav\\KNG_24763.wav",
+  "prediction": "여기 올라오세요. 여기 올라오세요. 하여튼 몸 고개에 대시고 뒤쪽으로 오세요. 뒤쪽으로 뒤쪽으로도 알지 그래 어 조카님 잘 가고 어머님 잘 접어 살게요. 어 다음에",
+  "active_adapters": [
+    "news_adapter"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "여기 올라오세요. 여기 올라오세요."
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "하여튼 몸 고개에 대시고"
+    },
+    {
+      "start": 17.0,
+      "end": 22.0,
+      "text": "뒤쪽으로 오세요. 뒤쪽으로 뒤쪽으로도 알지"
+    },
+    {
+      "start": 22.0,
+      "end": 30.0,
+      "text": "그래 어 조카님 잘 가고 어머님 잘 접어 살게요. 어 다음에"
+    }
+  ]
+}
