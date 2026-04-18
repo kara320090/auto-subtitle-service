@@ -1,0 +1,19 @@
+{
+  "audio": "D:\\data\\social_general_news_data\\validation\\wav\\KNG_24619.wav",
+  "prediction": "자매의 기적 같은 상봉의 사연은 현지 신문에 소개됐습니다. 로스앤젤레스에서 KBS 뉴스 김한주입니다.",
+  "active_adapters": [
+    "news_adapter"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "자매의 기적 같은 상봉의 사연은 현지 신문에 소개됐습니다."
+    },
+    {
+      "start": 7.68,
+      "end": 20.66,
+      "text": "로스앤젤레스에서 KBS 뉴스 김한주입니다."
+    }
+  ]
+}

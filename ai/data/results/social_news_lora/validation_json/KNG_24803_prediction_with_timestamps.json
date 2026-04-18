@@ -1,0 +1,24 @@
+{
+  "audio": "D:\\data\\social_general_news_data\\validation\\wav\\KNG_24803.wav",
+  "prediction": "가족을 찾지 않습니까? 무슨 말씀을 하시는 것 같은데요? 이 시각 세계였습니다.",
+  "active_adapters": [
+    "news_adapter"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "가족을 찾지 않습니까?"
+    },
+    {
+      "start": 1.3,
+      "end": 3.08,
+      "text": "무슨 말씀을 하시는 것 같은데요?"
+    },
+    {
+      "start": 3.08,
+      "end": 29.98,
+      "text": "이 시각 세계였습니다."
+    }
+  ]
+}
