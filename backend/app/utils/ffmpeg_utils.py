@@ -1,3 +1,4 @@
+from importlib.util import find_spec
 import subprocess
 from typing import Sequence
 
@@ -32,5 +33,12 @@ def check_ffmpeg_available() -> bool:
             check=True,
         )
         return True
+    except Exception:
+        return False
+
+
+def check_opencv_available() -> bool:
+    try:
+        return find_spec("cv2") is not None
     except Exception:
         return False

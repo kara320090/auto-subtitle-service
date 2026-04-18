@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 
 
@@ -41,3 +42,9 @@ ENABLED_LORA_DOMAINS = {
 }
 
 FALLBACK_TO_BASE = True
+
+# 외부 LLM 후처리 서비스
+LLM_SERVICE_URL = os.getenv("LLM_SERVICE_URL", "https://5596-61-34-253-239.ngrok-free.app")
+LLM_SERVICE_TIMEOUT_SECONDS = int(os.getenv("LLM_SERVICE_TIMEOUT_SECONDS", "60"))
+
+OPENCV_FONT_PATH = os.getenv("OPENCV_FONT_PATH", r"C:\Windows\Fonts\malgun.ttf")

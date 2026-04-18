@@ -2,6 +2,7 @@ from pathlib import Path
 from uuid import uuid4
 
 from backend.app.config import OUTPUT_DIR, VIDEO_OUTPUT_FORMAT
+from backend.app.services.opencv_render_service import render_video_with_subtitle_opencv
 from backend.app.utils.ffmpeg_utils import run_ffmpeg_command
 
 
@@ -36,26 +37,8 @@ def render_video_with_subtitle(video_path: str, subtitle_path: str) -> dict:
     output_filename = f"{uuid4().hex}.{VIDEO_OUTPUT_FORMAT}"
     output_path = OUTPUT_DIR / output_filename
 
-    subtitle_filter_path = to_ffmpeg_subtitle_path(input_subtitle)
-
-    command = [
-        "ffmpeg",
-        "-y",
-        "-i", str(input_video),
-        "-vf", f"subtitles='{subtitle_filter_path}'",
-        "-c:a", "copy",
-        str(output_path),
-    ]
-
-    try:
-        run_ffmpeg_command(command)
-    except RuntimeError as e:
-        raise RuntimeError(f"자막 삽입 영상 생성 실패: {str(e)}")
-
-    return {
-        "video_path": str(input_video.resolve()),
-        "subtitle_path": str(input_subtitle.resolve()),
-        "output_filename": output_filename,
-        "output_path": str(output_path.resolve()),
-        "format": VIDEO_OUTPUT_FORMAT,
-    }
+    return render_video_with_subtitle_opencv(
+        video_path=video_path,
+        subtitle_path=subtitle_path,
+        output_path=output_path,
+    )

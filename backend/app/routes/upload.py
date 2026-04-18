@@ -5,6 +5,7 @@ from fastapi import APIRouter, File, Form, HTTPException, Request, UploadFile
 
 from backend.app.services.audio_extractor import extract_audio_from_video
 from backend.app.services.metadata_service import save_pipeline_metadata
+from backend.app.services.llm_service import refine_transcription_with_llm
 from backend.app.services.render_service import render_video_with_subtitle
 from backend.app.services.srt_service import save_srt_file
 from backend.app.services.whisper_service import transcribe_audio
@@ -101,7 +102,27 @@ async def process_video(
             transcription_elapsed,
         )
 
-        # 4. SRT 생성
+        # 4. LLM 후처리
+        step_start = perf_counter()
+        transcription_result = await refine_transcription_with_llm(
+            transcription_result=transcription_result,
+            domain=domain,
+        )
+        llm_elapsed = round(perf_counter() - step_start, 3)
+
+        logger.info(
+            "pipeline step success | step=llm_refinement | used=%s | fallback=%s | elapsed=%.3fs",
+            transcription_result.get("llm_used"),
+            transcription_result.get("llm_fallback_used"),
+            llm_elapsed,
+        )
+
+        segments = transcription_result.get("segments", [])
+
+        if not segments:
+            raise ValueError("전사 결과가 비어 있습니다. 음성이 없거나 인식에 실패했습니다.")
+
+        # 5. SRT 생성
         step_start = perf_counter()
         base_name = Path(upload_result["saved_filename"]).stem
         subtitle_result = save_srt_file(
@@ -117,7 +138,7 @@ async def process_video(
             subtitle_elapsed,
         )
 
-        # 5. 자막 삽입 영상 생성
+        # 6. 자막 삽입 영상 생성
         step_start = perf_counter()
         render_result = render_video_with_subtitle(
             video_path=video_path,
@@ -158,6 +179,10 @@ async def process_video(
                 "used_adapter": transcription_result["used_adapter"],
                 "fallback_used": transcription_result["fallback_used"],
                 "fallback_reason": transcription_result["fallback_reason"],
+                "llm_used": transcription_result.get("llm_used", False),
+                "llm_service_url": transcription_result.get("llm_service_url"),
+                "llm_fallback_used": transcription_result.get("llm_fallback_used", False),
+                "llm_fallback_reason": transcription_result.get("llm_fallback_reason"),
             },
             "subtitle": subtitle_result,
             "render": render_result,
@@ -169,6 +194,7 @@ async def process_video(
                 "upload_seconds": upload_elapsed,
                 "audio_extraction_seconds": audio_elapsed,
                 "transcription_seconds": transcription_elapsed,
+                "llm_refinement_seconds": llm_elapsed,
                 "generate_srt_seconds": subtitle_elapsed,
                 "render_video_seconds": render_elapsed,
                 "total_seconds": total_elapsed,
