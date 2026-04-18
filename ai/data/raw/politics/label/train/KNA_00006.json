@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "KNA_00006",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.449,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "30대 초반의 북한 남성 한 명이 강원도 고성의 군사 분계선 철책을 넘어 귀순했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.370
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 이 남성이 지난 1일 비슷한 경로로 다시 월북했다는 게 국방부의 추정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.370,
+                "end": 12.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국방부 관계자는 군사 분계선을 넘기 전인 1일 정오쯤",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.100,
+                "end": 16.449
+            }
+        ]
+    },
+    "summary": "30대 초반 북한 남성 한 명이 군사 분계선 철책을 넘어 귀순했고 국방부는 지난 1일 이 남성이 비슷한 경로로 월북했다고 추정했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00006_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 42
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01694",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.551,
+        "format": "MP4",
+        "date": "2022-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "후보 가까이서 전국을 누비는 유세단은 더욱 조심스럽습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신속 항원 검사 키트를 구비하고 수시로 마스크를 바꾸고 매일 자가 진단 검사를 받아야 유세 현장에 나올 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.454,
+                "end": 13.259
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희가 10시 뭐 이렇게 11시쯤 모이는데 9시 전까지 모두 다 제출을 해야 돼요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.269,
+                "end": 18.551
+            }
+        ]
+    },
+    "summary": "후보 가까이서 전국을 누비는 유세단은 신속 항원 검사 키트를 구비하고 수시로 마스크를 바꾸고 매일 자가 진단 검사를 받아야 유세 현장에 나올 수 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01694_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01694_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 9,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

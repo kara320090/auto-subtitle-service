@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_11803",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2020-01-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령 신년사를 관통하는 메시지 확실한 변화였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.325
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "집권 4년 차 국민이 체감하는 성과를 내겠다는 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.335,
+                "end": 8.089
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자기 자리에서 최선을 다해주신 국민들께 깊이 감사드리며 올 한 해 확실한 변화로 국민의 노고에 보답하겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.099,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "문 대통령은 신년사에서 올 한 해 확실한 변화로 국민의 노고에 보답하겠다며 확실한 변화로 국민이 체감하는 성과를 내겠다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11803_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00564",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.329,
+        "format": "MP4",
+        "date": "2022-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "발표하기 한 10분 전에 에 전화 와가지고 뭐 발표하겠다 그래서 난 웃었죠 뭐",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.400
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 무슨 소리냐 그러면 일방적으로 발표하실려면 그거는 뭐 마음이니까 마음대로 하시라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.410,
+                "end": 13.217
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청와대는 한은 총재 인선이 당선인 측과의 협의를 통해 이뤄졌음을 강조하고 있는데 장재원 실장은 이것도 청와대가 감사원의 감사 위원을 뜻대로 임명하기 위한 명분 쌓기라고 분석하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.227,
+                "end": 29.329
+            }
+        ]
+    },
+    "summary": "장재원 실장은 청와대의 한은 총재 임명은 감사 위원을 뜻대로 임명하기 위한 명분 쌓기라고 분석했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00564_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00564_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

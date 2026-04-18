@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00023",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.35,
+        "format": "MP4",
+        "date": "2022-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 국민의 힘 윤석열 후보는 선대위의 개편 방향을 놓고 이틀째 고심 중인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.273
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안다영 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.283,
+                "end": 8.051
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당 이재명 후보는 오늘 신년 기자회견을 열고 국민 소득 5만 달러를 이뤄 국민 대도약 시대를 열겠다고 공약했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.061,
+                "end": 17.350
+            }
+        ]
+    },
+    "summary": "민주당 후보는 신년 기자회견에서 국민 소득 5만 달러를 이뤄 국민 대도약 시대를 열겠다고 공약했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00023_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00023_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

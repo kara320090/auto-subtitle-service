@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00259",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.019,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이준석 국민의힘 대표 등의 비판에는 대통령 겨냥 발언에 대한 반론권 행사라고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "논란이 커지자 윤석열 후보는 법과 원칙에 따른 성역 없는 사정을 강조해 왔다는 점에서 문 대통령과 자신의 생각은 같다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.116,
+                "end": 17.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 면에서는",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.799,
+                "end": 19.019
+            }
+        ]
+    },
+    "summary": "이준석 국민의힘 대표 등의 비판에는 대통령 겨냥 발언에 대한 반론권 행사라고 반박했지만 논란이 커지자 윤석열 후보는 법과 원칙에 따른 성역 없는 사정을 강조해 왔다는 점에서 문 대통령과 자신의 생각은 같다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00259_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00259_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

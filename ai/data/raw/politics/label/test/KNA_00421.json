@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00421",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.786,
+        "format": "MP4",
+        "date": "2022-03-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "직접 투표함에 투표지를 투입하게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사전 투표소에서 있었던 여러 그 문제점들 이런 것들은 원천적으로 차단이 되고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.968,
+                "end": 11.674
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만약 6시까지 일반 유권자들의 투표가 끝나지 않으면",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.684,
+                "end": 15.782
+            }
+        ]
+    },
+    "summary": "전 투표소에서 있었던 여러 문제점들을 원천적으로 차단하여 직접 투표함에 투표지를 투입하게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00421_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00421_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_01428",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.618,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진상 규명 TF 구성 방침도 공식화 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 주목하는 건 대통령 기록물로 지정이 된 당시 북한군 내부 교신 내용입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.992,
+                "end": 8.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "교신 내용만 공개하면 모든 것이 명확해진다며 민주당과 문재인 전 대통령을 압박했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.597,
+                "end": 15.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당도",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.311,
+                "end": 16.616
+            }
+        ]
+    },
+    "summary": "북한군의 교신 내용만 공개하면 모든 것이 명확해진다며 민주당과 문재인 전 대통령을 압박했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01428_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

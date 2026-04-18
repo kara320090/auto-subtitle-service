@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_07191",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.188,
+        "format": "MP4",
+        "date": "2022-05-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령의 입장은 자신감에서 반성으로 다시 해명으로 바뀌었습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.151
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부동산 문제는 우리 정부에서는 자신 있다고 이렇게 좀 장담하고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.161,
+                "end": 11.301
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부동산 부분만큼은 정부가 할 말이 없는 어 그런 상황이 되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.311,
+                "end": 18.129
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부동산 가격의 상승이 전세계적인 현상이라는",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.139,
+                "end": 22.188
+            }
+        ]
+    },
+    "summary": "문재인 대통령의 부동산 정책에 대한 취임 전후 입장을 보여주고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07191_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01618",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2022-02-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안철수 후보는 공공 기관 노동 인사들을 찬성한 윤 후보와 차별화에 나섰고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.662
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "강성 귀족 노조와 청년의 일자리가 만들어지는 것을 원천적으로 차단하는 그런 경우들이 많기 때문에",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.672,
+                "end": 13.724
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "심상정 후보는 윤 후보가 반노동 후보라며 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.734,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "심상정 후보는 윤 후보가 반노동 후보라며 비판했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01618_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "KNA_11983",
+        "category": "정치뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.931,
+        "format": "MP4",
+        "date": "2020-03-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 얘기하고 있는데 그거 맞는 얘기입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금 단계에서는 어 뭐 어떤 근거도 없는 이야기라 이렇게 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.997,
+                "end": 12.656
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "진영 행안부 장관은 총선 연기론에 대해서는 여야 공감대가 우선이라며 검토한 바 없다고 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.666,
+                "end": 19.694
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "앞서 당정은 방역 체계 보강과 중소 상공인 피해 지원 등을 위해 2015년 메르스 사태 당시 편성됐던 6조 2000억 원을 웃도는 추경 예산안을 마련하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.704,
+                "end": 30.118
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.128,
+                "end": 31.931
+            }
+        ]
+    },
+    "summary": "당정은 방역 체계 보강과 중소 상공인 피해 지원 등을 위해 2015년 메르스 사태 당시 편성됐던 6조 2000억 원을 웃도는 추경 예산안을 마련하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11983_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11983_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

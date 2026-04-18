@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_01792",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.484,
+        "format": "MP4",
+        "date": "2022-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청년들의 그 일자리를 좀 만들어 내야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.013
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부모들의 돌봄 부담을 줄이기 위한 대책도 내놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.023,
+                "end": 7.819
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "육아휴직 출산휴가 이 모든 아빠 엄마들이 다 쓰게 해주자 이런 저 정책했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.829,
+                "end": 14.828
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "자동 등록을 시켜가지고 안 쓸 수 없게",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.838,
+                "end": 17.484
+            }
+        ]
+    },
+    "summary": "부모들의 돌봄 부담을 줄이기 위한 육아휴직 출산휴가에 대한 대책도 내놨다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01792_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

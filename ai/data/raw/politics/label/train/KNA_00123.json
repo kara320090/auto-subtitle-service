@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_00123",
+        "category": "정치뉴스",
+        "sub_category": 7,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.385,
+        "format": "MP4",
+        "date": "2022-01-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "실내 방역패스 폐지를 촉구했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.468
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "시간제한은 가급적 저는 피하는 게 맞다고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.478,
+                "end": 6.338
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마스크를 쓰는 데에는 이 거리 두기도 어 한 두 배 정도",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.348,
+                "end": 13.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김건희 씨 미투 발언 등의 질문엔 더 말씀드릴 게 없다며 말을 아꼈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.427,
+                "end": 18.385
+            }
+        ]
+    },
+    "summary": "시간제한은 가급적 피하는 게 맞다고 본다며 실내 방역패스 폐지를 촉구했고 김건희 씨 미투 발언 등의 질문엔 더 말씀드릴 게 없다며 말을 아꼈다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

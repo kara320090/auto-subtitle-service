@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_10420",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.489,
+        "format": "MP4",
+        "date": "2022-08-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 4월 말 경찰 수사권 축소 법안 통과 당시 국회의장은 이렇게 강조했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.073
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰의 직접 수사 대상 범죄를 부패 범죄 경제 범죄로 한정함으로써 종전 6개 분야에서 2개 분야로 축소하였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.083,
+                "end": 15.615
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 법 시행을 1달 앞두고 법무부가 검찰 수사 범위를 정한 시행령을 입법 예고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.625,
+                "end": 22.489
+            }
+        ]
+    },
+    "summary": "국회에서 검찰의 직접 수사권 범위를 축소하였는데 법 시행을 1달 앞두고 법무부가 검찰 수사 범위를 정한 시행령을 입법 예고했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10420_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

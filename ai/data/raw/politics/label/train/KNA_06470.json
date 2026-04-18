@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_06470",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.789,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 소중한 한 표 권리행사 할 수 있어서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.942
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저희의 이 소중한 한 표가 앞으로 자영업자들을 살릴 수 있다 이런 희망을 갖고 저희가 투표에 임하게 됐습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 2.952,
+                "end": 12.023
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지역별로는 전남이 28.11퍼센트로 가장 높았고 경기가 15.12퍼센트로 가장 낮았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.033,
+                "end": 20.121
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "서울은 17.31퍼센트였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.131,
+                "end": 22.789
+            }
+        ]
+    },
+    "summary": "지역별로는 전남이 28.11퍼센트로 가장 높았고 경기가 15.12퍼센트로 가장 낮았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06470_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06470_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

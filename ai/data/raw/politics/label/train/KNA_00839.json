@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00839",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.62,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "해당 법안들은 검찰에 6대 범죄 수사권 근거 조항을 삭제한 게 골자입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.440
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 회의엔 문재인 대통령이 사표를 반려한 김오수 검찰총장도 출석했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.450,
+                "end": 11.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰이 다 잘했다는 게 아니다 반성과 검찰을 하겠다면서도 법안에 대한 반대 의사는 명확히 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.259,
+                "end": 19.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 법안처럼",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.216,
+                "end": 20.620
+            }
+        ]
+    },
+    "summary": "오늘 회의엔 문재인 대통령이 사표를 반려한 김오수 검찰총장도 출석했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00839_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

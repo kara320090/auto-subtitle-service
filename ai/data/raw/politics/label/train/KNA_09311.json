@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_09311",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.758,
+        "format": "MP4",
+        "date": "2022-12-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이틀 전 국정조사 연장 카드를 꺼냈던 더불어민주당이 당장 내일부터 국정조사를 시작하겠다고 선언했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조사 기한이 불과 3주일 남은 상황에서 마냥 기다릴 수는 없다며 본조사 일정을 잡고 증인도 채택하겠다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.523,
+                "end": 15.430
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리는 참사의 희생자들도 지켜주지 못했을 뿐만 아니라 생존자조차도 지켜주지 못하는 슬픈 나라에서 살고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.440,
+                "end": 24.758
+            }
+        ]
+    },
+    "summary": "더불어민주당이 이태원 참사 국정조사를 내일부터 시작하겠다고 선언했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09311_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

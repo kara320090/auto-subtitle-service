@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01490",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.898,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당의 혁신 동력을 갉아먹고 있다고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.667
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "징계 때문에 계속 이름이 오르내리는 제 입장에서는 아 이건 뭔 기우제식 징계냐 굉장히 정치적으로는 아쉬운 시기들이 흘러가고 있는",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.677,
+                "end": 13.249
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "징계 절차 개시가 결정된 김철근 당 대표 정무실장도",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.259,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "당의 혁신 동력을 갉아먹고 있다고 비판했으며 징계 때문에 계속 이름이 오르내리는 게 정치적으로는 아쉬운 시기들이 흘러가고 있다고 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01490_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01490_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

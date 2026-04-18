@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_04868",
+        "category": "정치뉴스",
+        "sub_category": 14,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.619,
+        "format": "MP4",
+        "date": "2021-12-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "헌정 사상 처음으로 피선거권 연령이 하향 조정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.898
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회는 오늘 본회의를 열고 국회의원 선거와 지방 선거에 출마할 수 있는 나이를 만 25살에서 만 18살로 낮추는 내용의 공직 선거법 개정안을 의결했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.908,
+                "end": 14.251
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공직 선거법 일부 개정 법률안 대안은 가결 되었음을 선포합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.261,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "국회는 본회의를 열고 국회의원 선거와 지방 선거에 출마할 수 있는 나이를 만 18세로 낮추는 선거법 개정안을 의결했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04868_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

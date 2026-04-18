@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_10049",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.525,
+        "format": "MP4",
+        "date": "2023-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "518 당시 7살 아들을 잃어버린 @이름1 씨는 오늘도 미안하단 말을 되뇌입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.104
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름2아 미안해 정말 미안해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.114,
+                "end": 11.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "변변한 사진이 없어 행방불명자 묘역에 돌 사진을 새겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.514,
+                "end": 17.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 43년이 흐른 올 초 아들 @이름2 군 사진이 실종 때 모습 그대로 전달됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.032,
+                "end": 25.525
+            }
+        ]
+    },
+    "summary": "518 당시 7살 아들을 잃어버린 @이름1에게 43년이 흐른 올 초 아들의 사진이 전달됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10049_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

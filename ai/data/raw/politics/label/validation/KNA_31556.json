@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_31556",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.866,
+        "format": "MP4",
+        "date": "2016-12-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령의 성형 시술, 필러 시술, 리프팅 실 시술 한 적이 있습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.616
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.626,
+                "end": 6.079
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "조 대위는 다만 처방을 토대로 박 대통령과 청와대 직원들에게 태반 주사, 감초 주사 등을 놓은 적이 있고 의료용 가글은 1달에 1번 정도 전했다고 언급했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.089,
+                "end": 17.102
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.112,
+                "end": 19.866
+            }
+        ]
+    },
+    "summary": "조 대위는 대통령의 시술 등을 한 적이 없고 처방을 토대로 박 대통령과 청와대 직원들에게 태반 주사, 감초 주사 등을 놓은 적이 있을 뿐이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31556_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

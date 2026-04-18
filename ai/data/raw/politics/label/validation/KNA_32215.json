@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32215",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.133,
+        "format": "MP4",
+        "date": "2015-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "3김 시대를 함께 누볐던 김종필 전 총리는 누구 못지 않게 애석해 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 10.553
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "신념으로 모든 그 어려움들을 제치고 오늘에 이르렀는데 자꾸 떠올라요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.563,
+                "end": 20.279
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만나면 헤어지거든.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.289,
+                "end": 23.133
+            }
+        ]
+    },
+    "summary": "3김 시대를 함께 누볐던 김종필 전 총리는 누구보다도 애석해 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32215_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

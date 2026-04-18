@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "KNA_11373",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.874,
+        "format": "MP4",
+        "date": "2023-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국가수사본부장에서 낙마한 @이름1 변호사에 대해 안타깝다는 입장을 밝혔던 @이름2 경찰청장.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.764
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 검찰 출신을 추천했는지 대통령실 등의 외압은 없었는지를 묻는 질문에 자신이 직접 판단한 것이라고 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.774,
+                "end": 15.435
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다양한 의견을 듣고 제가 마지막 판단을 했습니다 그 후보자 3명 중에 종합심사위원회를 거쳐서.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.445,
+                "end": 21.997
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "가장 적합하다 이렇게 의견을 제시한 게 맞습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.007,
+                "end": 24.266
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "상대적으로 그 후보자 중에는 낫겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.276,
+                "end": 27.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서도 검증 실패에 대한 야당의 사과 요구는 사실상 거부했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.814,
+                "end": 32.866
+            }
+        ]
+    },
+    "summary": "@이름1을 추천한 @이름2 경찰청장에 대해 질문이 이어지고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11373_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

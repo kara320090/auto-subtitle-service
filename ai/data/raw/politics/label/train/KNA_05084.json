@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "KNA_05084",
+        "category": "정치뉴스",
+        "sub_category": 45,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 39.305,
+        "format": "MP4",
+        "date": "2022-07-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 가운데 이재명 후보는 SNS 라이브 방송에서 저학력 저소득층에 국민의힘 지지자가 많다는 발언으로 논란을 빚었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.042
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저학력에 저소득층이 국힘 지지가 많아요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.052,
+                "end": 13.246
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 안타까운 현실인데 언론 때문에 그러지.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.256,
+                "end": 16.471
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "언론 환경 때문에",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.481,
+                "end": 17.845
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 고학력 고소득자는 민주당 지지층이 더 많다며 부자를 배제할 필요는 없다고도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.855,
+                "end": 24.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박용진 강훈식 후보는 노골적인 선민의식이고 정치 성향에 따른 국민 갈라치기다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.923,
+                "end": 31.167
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이분법의 정치를 반성해야 한다며 이 후보 발언을 일제히 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.177,
+                "end": 36.357
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.367,
+                "end": 39.305
+            }
+        ]
+    },
+    "summary": "이재명 후보는 SNS 라이브 방송에서 저학력 저소득층에 국민의힘 지지자가 많고 고학력 고소득자는 민주당 지지층이 더 많다는 발언으로 논란을 빚었고 박용진 강훈식 후보는 이분법의 정치를 반성해야 한다며 이 후보 발언을 일제히 비판했다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05084_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05084_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

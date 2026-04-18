@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_06756",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.724,
+        "format": "MP4",
+        "date": "2022-04-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이른바 검소완박에 대응하기 위해 전국 각지에서 모인 검사장들 @이름1 검찰총장이 주재한 회의에는 대검 차장과 기조부장 전국 지검장 18명이 참석했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 총장은 모두 발언에서부터 사퇴 가능성을 거론하며 배수의 진을 쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.026,
+                "end": 17.687
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만약 검찰 수사 기능이 폐지된다면 검찰총장인 저로서는 더 이상 직무를 수행할 아무런 의미가 없습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.697,
+                "end": 24.724
+            }
+        ]
+    },
+    "summary": "검찰총장이 주재한 회의에는 전국 지검장 18명이 참석했으며 김 총장은 사퇴 가능성을 거론하며 배수의 진을 쳤다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06756_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

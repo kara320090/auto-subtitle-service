@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_04341",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.818,
+        "format": "MP4",
+        "date": "2021-09-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이낙연 후보가 의원직 사퇴 하루 만에 국회 의원회관에서 방을 비웠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.917
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보는 오늘도 지역에 머물며 호남 민심 잡기에 주력했는데 의원직 사퇴 의사를 철회할 생각이 없다고 거듭 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.927,
+                "end": 14.596
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조속히 처리해 달라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.606,
+                "end": 16.206
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사퇴서는 이미 제출했다는 말씀도 드렸습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.216,
+                "end": 18.818
+            }
+        ]
+    },
+    "summary": "민주당 이낙연 후보가 의원직 사퇴 하루 만에 국회 의원회관에서 방을 비웠고 의원직 사퇴 의사를 철회할 생각이 없다고 거듭 밝혔다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04341_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

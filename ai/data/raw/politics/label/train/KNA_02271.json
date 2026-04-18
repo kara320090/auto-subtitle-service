@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_02271",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.395,
+        "format": "MP4",
+        "date": "2022-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이철호입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문재인 대통령은 임기 마지막 날인 오늘 오전 서울 동작구 국립현충원과 서울 용산구 효창공원 독립유공자 묘역을 참배합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.855,
+                "end": 11.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이어 오전 10시에는 청와대 본관에서 퇴임 연설을 할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.695,
+                "end": 16.193
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일정을 모두 마친 뒤에 문 대통령은 김정숙 여사와 함께 오후 6시 청와대 직원들의 배웅을 받으며 마지막 퇴근길에 나설 예정입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.203,
+                "end": 25.024
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령은 서울 시내 모처에서 하룻밤을 보낸 뒤",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 25.034,
+                "end": 28.395
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 임기 마지막 날 국립현충원 및 독립유공자 묘역을 참배한 후 퇴임 연설을 마치고 오후 6시 마지막 퇴근길에 나설 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02271_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

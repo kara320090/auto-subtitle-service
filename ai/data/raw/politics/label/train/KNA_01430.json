@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_01430",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.615,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여러 보고 중에 월북으로 특정 지을 첩보가 있었다며 결국 판단의 문제라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 사건의 본질은 우리 국민의 무고한 희생에 강하게 항의했고 북한 김정은 위원장이 사과해 마무리된 사건이 아니냐고 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.444,
+                "end": 13.763
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 의도적으로 전 정권이",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.773,
+                "end": 15.615
+            }
+        ]
+    },
+    "summary": "민주당은 여러 보고 중에 월북으로 특정 지을 첩보가 있었다며 결국 판단의 문제라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01430_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

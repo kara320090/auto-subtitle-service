@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_01916",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.59,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2010년 청소년과 가족 업무를 다시 받아 오면서 완성됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.344
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여성가족부는 이전에도 존폐 기로에 섰던 적이 있었습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.354,
+                "end": 11.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2008년 여가부 폐지 공약을 내건 이명박 전 대통령이 당선되면서 지금과 판박이 논란이 빚어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.260,
+                "end": 19.602
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여성부 통폐합 웬 말이냐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.612,
+                "end": 21.758
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "즉각 시정하라.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.768,
+                "end": 23.590
+            }
+        ]
+    },
+    "summary": "이명박 전 대통령이 2008년 여가부 폐지 공약을 내건 이후 아직도 판박이 논란이 빚어지며 여성가족부 존폐 논의가 있다며 여성부 관계자의 시위 장면을 보도한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01916_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01916_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01200",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.217,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "최계운 14.2퍼센트로 오차 범위 안 5.1퍼센트 포인트 차이를 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기는 임태희 22.4퍼센트 성기선 19.9퍼센트로 역시 오차 범위 안 2.5퍼센트 포인트 차이를 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.569,
+                "end": 14.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대전은 설동호 30.1퍼센트",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.569,
+                "end": 17.217
+            }
+        ]
+    },
+    "summary": "최계운 14.2퍼센트로 오차 범위 안 5.1퍼센트 포인트 차이를 보였고 경기는 임태희 22.4퍼센트 성기선 19.9퍼센트로 역시 오차 범위 안 2.5퍼센트 포인트 차이를 보였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01200_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01200_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

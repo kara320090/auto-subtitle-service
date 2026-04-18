@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_05067",
+        "category": "정치뉴스",
+        "sub_category": 45,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.588,
+        "format": "MP4",
+        "date": "2022-07-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "기호 1 번 박용진 후보 기호 4 번 이재명 후보 기호 5 번 강훈식 후보가 당선되었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.560
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무난히 예비 경선을 통과할 것으로 예상됐던 이재명 후보와 함께 90 년대 학번 70 년대생 97세대로 불리는 박용진 강훈식 후보가 본선에서 맞붙게 됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.570,
+                "end": 21.588
+            }
+        ]
+    },
+    "summary": "무난히 예비 경선을 통과할 것으로 예상됐던 이재명 후보와 함께 박용진 강훈식 후보가 본선에서 맞붙게 됐다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05067_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05067_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

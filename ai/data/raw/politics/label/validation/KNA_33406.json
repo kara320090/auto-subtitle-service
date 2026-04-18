@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_33406",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.421,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "송 전 대표는 대신 검찰을 비판하는 기자 회견을 20분가량 이어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰이 수사 중인 도이치 모터스 의혹 수사에선 @이름1 여사 소환은커녕 서면 질문도 못 하고 있다며 검찰이 정치 쇼한다고 비난했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.269,
+                "end": 15.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요즘 검찰은 윤석열 정권과 국민의힘 지지도가 떨어질 때마다",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.339,
+                "end": 21.421
+            }
+        ]
+    },
+    "summary": "송 전 대표는 검찰이 도이치 모터스 의혹 수사에선 @이름1 여사 서면 질문도 못 하는데 윤석열 정권과 국민의힘 지지도가 떨어질 때마다 하는 정치 쇼라며 검찰 비판 기자 회견을 20분가량 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

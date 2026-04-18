@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00048",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.922,
+        "format": "MP4",
+        "date": "2022-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 최전방 철책을 넘는 모습이 군 감시장비에 5번이나 찍혔는데도 우리 군이 이를 놓친 것으로 밝혀졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.612
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "총체적 경계 부실이란 비판을 피하기 힘들어 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.622,
+                "end": 11.059
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "홍진아 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.219,
+                "end": 13.655
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "탈북민 A 씨가 GOP 철책을 넘기 6시간 전인 낮 12시 50분쯤 민통선 초속 군 CCTV에 찍힌 모습입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.665,
+                "end": 22.922
+            }
+        ]
+    },
+    "summary": "탈북민 A씨가 최전방 철책을 여러 번 넘었는데도 우리 군이 이를 알아채지 못했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00048_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

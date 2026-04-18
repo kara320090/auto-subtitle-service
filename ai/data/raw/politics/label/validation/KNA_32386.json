@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32386",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.058,
+        "format": "MP4",
+        "date": "2023-08-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리들의 미래가 훨씬 더 긴데 왜 미래가 짧은 분들이 똑같이 일 대 일 표결을 하냐는 거죠 투표권을.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.085
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다만 민주주의 국가에는 1인 1표 원칙이 있는 만큼 현실적으로 어렵다고 덧붙였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.095,
+                "end": 14.142
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘은 이틀째 미래가 짧은 분이란 표현을 문제 삼아 어르신 폄하, 현대판 고려장이라고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.152,
+                "end": 22.055
+            }
+        ]
+    },
+    "summary": "@이름1 더불어민주당 혁신 위원장이 언급한 미래가 짧은 분들이라는 표현을 두고 국민의 힘은 이틀째 문제 삼으며 이는 어르신 폄하와 현대판 고려장이라고 비판하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32386_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

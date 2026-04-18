@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_10805",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.692,
+        "format": "MP4",
+        "date": "2023-02-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "현장에선 벌써부터 우려스러운 상황이 벌어지고 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.871
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인천항에서 컨테이너를 운송하는 이 화물차주는 최근 화주 측에서 운임을 깎을 수 있다는 얘기를 운송사로부터 전해 들었습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 3.881,
+                "end": 13.709
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기저기서 이제 소위 말하는 간 보기를 하고 있죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.719,
+                "end": 18.054
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "화주 쪽에서 안전운임제 없어졌는데 운송비 좀 내려줘야 되는 거 아니냐 이런 식으로 얘기를 한다는 거죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.064,
+                "end": 25.692
+            }
+        ]
+    },
+    "summary": "인천항에서 컨테이너를 운송하는 이 화물차주는 최근 화주 측에서 운임을 깎을 수 있다는 얘기를 운송사로부터 전해 들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10805_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

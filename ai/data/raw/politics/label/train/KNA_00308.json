@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00308",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.218,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거대 양당 후보를 모두 비판하면서 녹색 복지 대통령 시대를 열겠다 지지를 호소했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 당 안철수 후보는 선거 운동을 무기한 연기한 채 어제 유세 버스에서 숨진 지역 위원장 빈소를 찾아 조문객을 맞았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.523,
+                "end": 15.499
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "장례는 당이 주관해 치르기로 하는 등",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.509,
+                "end": 18.218
+            }
+        ]
+    },
+    "summary": "국민의 당 안철수 후보는 선거 운동을 무기한 연기하고 유세 버스에서 숨진 지역 위원장 빈소를 찾아 조문객을 맞이 하고 장레는 당이 주관해서 치르기로 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00308_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00308_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

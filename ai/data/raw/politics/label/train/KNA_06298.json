@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_06298",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.923,
+        "format": "MP4",
+        "date": "2022-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이재명 후보는 준비된 경제 대통령을 내세워 승부를 보겠다는 전략입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.444
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정책 능력을 보여주면 윤석열 후보가 대장동 등 집중 공세를 펴도 스스로의 발목을 잡을 거라고 전망합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.454,
+                "end": 13.476
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누가 더 일 잘할 후보인지 누가 더 잘 정책적으로 준비되어 있는 후보인지를 보여주겠다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.486,
+                "end": 20.924
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 목표를 가지고 TV 토론을 준비하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.934,
+                "end": 23.923
+            }
+        ]
+    },
+    "summary": "민주당 이재명 후보는 준비된 경제 대통령을 내세워 승부를 보겠다는 전략이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06298_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

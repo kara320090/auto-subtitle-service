@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_11413",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.457,
+        "format": "MP4",
+        "date": "2023-05-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "확인서는 받다가 중단했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공수처는 오늘 압수수색을 통해 국방부 등에 해당 사실 관계 확인서가 남아있는지 여부를 확인하고 있는 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.290,
+                "end": 11.058
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 공수처는 송 전 장관과 함께 당시 송 장관의 군사 보좌관이었던 @이름1 예비역 육군 소장 @이름2 당시 국방부 대변인도 함께 직권 남용 권리 행사 방해 혐의로 입건했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.068,
+                "end": 24.457
+            }
+        ]
+    },
+    "summary": "공수처는 오늘 압수수색을 통해 국방부 등에 해당 사실 관계 확인서가 남아있는지 여부를 확인하고 있는 것으로 알려졌고 송 장관의 군사 보좌관과 당시 국방부 대변인도 함께 입건했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11413_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

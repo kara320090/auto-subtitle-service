@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_33600",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.523,
+        "format": "MP4",
+        "date": "2023-06-30",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령도 참석해 주민들과 시승식을 함께 했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.795
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1시간 이상 소요되었던 구간을 이제 전철로 15분 만에 다닐 수 있게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.805,
+                "end": 13.274
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘에선 김기현 대표를 비롯해 의원 8명이 참석했고 모두 야당 소속인 고양시 국회의원 4명도 모습을 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.284,
+                "end": 23.523
+            }
+        ]
+    },
+    "summary": "대곡 소사선 시승식에 윤석열 대통령이 참석했고 국민의 힘에선 8명, 야당 소속인 고양시 국회의원 4명도 모습을 보였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33600_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 24
+                }
+            ]
+        }
+    ]
+}

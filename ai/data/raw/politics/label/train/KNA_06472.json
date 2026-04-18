@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_06472",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2022-03-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여야 후보들이 일제히 사전투표 첫날 유세를 사전투표소에서 시작했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.859
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이재명 후보 촛불 민심에 지지를 호소했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.859,
+                "end": 9.748
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투표소도 서울 광화문 광장에서 가장 가까운 곳을 택했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.758,
+                "end": 14.084
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "촛불을 들고 광화문과 시청 앞에 모이셨던 수많은 국민들을 생각했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 14.094,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "여야 후보들이 일제히 사전투표 첫날 유세를 사전투표소에서 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06472_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_10067",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.895,
+        "format": "MP4",
+        "date": "2023-05-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "북한의 도발 가능성과 귀순 등의 상황에 대비해서 철저한 군사 대비 태세를 유지해 오고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.652
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가족 단위로 어선을 타고 NLL을 넘어 귀순 의사를 밝힌 것은 2017년 7월 일가족 4명 이후 6년 만입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.662,
+                "end": 15.987
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그동안 코로나19로 인해 북중 간 국경이 폐쇄되는 등 통제가 심해지면서 매년 1000여 명에 달했던 탈북민 입국자는 2021년 63명 지난해 67명 등으로 크게 줄어들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.997,
+                "end": 28.895
+            }
+        ]
+    },
+    "summary": "가족 단위로 NLL을 넘어 귀순 의사를 밝힌 건 2017년 7월 이후 6년 만이며 코로나19로 인해 탈북민 입국자는 크게 줄어들었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10067_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

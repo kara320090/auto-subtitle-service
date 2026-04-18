@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01779",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.821,
+        "format": "MP4",
+        "date": "2022-03-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 사람을 선택해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.951
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안 후보는 또 대통령이 부도덕하면 국민들은 파탄에 빠진다고 양강 후보의 도덕성을 겨냥했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.961,
+                "end": 9.734
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마라톤 풀코스를 세 번 뛰었다며 완주 의지를 밝히기도 했는데 오늘은 삼일절 기념식에 참석한 뒤 고 이어령 전 장관 빈소를 조문합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.744,
+                "end": 19.508
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 송락규입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.518,
+                "end": 21.821
+            }
+        ]
+    },
+    "summary": "안 후보는 양강 후보의 도덕성을 비판했고 앞으로의 일정을 전하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01779_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

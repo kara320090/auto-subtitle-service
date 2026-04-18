@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_08240",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.186,
+        "format": "MP4",
+        "date": "2022-08-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 정부 첫 경찰청장이 임명됐지만 경찰국 논란은 더 거세질 전망입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.749
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 @이름1 경찰국장이 동료를 밀고하고 경찰에 특채됐다며 이상민 행안부 장관의 탄핵을 추진하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.759,
+                "end": 15.253
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "헌법 질서를 유린하고 국회와 국민을 모독한 이상민 장관.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.263,
+                "end": 20.186
+            }
+        ]
+    },
+    "summary": "민주당은 @이름1 경찰국장이 동료를 밀고하고 경찰에 특채됐다며 이상민 행안부 장관의 탄핵을 추진하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08240_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 52,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

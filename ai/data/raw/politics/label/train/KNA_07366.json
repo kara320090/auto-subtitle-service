@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_07366",
+        "category": "정치뉴스",
+        "sub_category": 17,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.124,
+        "format": "MP4",
+        "date": "2022-05-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 국방 장관은 올해 정상 추진이 어려워 보이는 장기 사업 예산이 깎인 것이라고 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.094
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "감액되는 많은 부분들은 대부분들은 전부 집행이 일어날 수 없는 집행 불가능한 그런 사업들입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.104,
+                "end": 15.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회는 내일까지 상임위별로 예비심사를 진행하고 이번 주까지 종합심사를 끝낼 계획입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.384,
+                "end": 22.210
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.220,
+                "end": 24.124
+            }
+        ]
+    },
+    "summary": "국방 장관은 올해 정상 추진이 어려워 보이는 장기 사업 예산이 깎인 것이라고 답했고 국회는 상임위별로 예비심사를 진행한 뒤 이번 주까지 종합심사를 끝낼 계획이라고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07366_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

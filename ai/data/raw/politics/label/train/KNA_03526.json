@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_03526",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.251,
+        "format": "MP4",
+        "date": "2021-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 LH는 지난 14 일 해당 글을 올린 작성자를 명예훼손과 업무방해 등 혐의로 경찰에 고발했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.808
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부 합동특별수사 본부는 오늘 오전 9 시 기준 부동산 투기 의혹 37 건과 투기 의심자 198 명에 대해 내사나 수사를 진행 중이라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 6.818,
+                "end": 16.774
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 김용덕입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.784,
+                "end": 18.251
+            }
+        ]
+    },
+    "summary": "LH는 해당 글을 올린 작성자를 명예훼손과 업무방해 등 혐의로 경찰에 고발했고 정부 합동특별수사 본부는 부동산 투기 의혹 건과 의심자에 대해 내사나 수사를 진행 중이라고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03526_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 9,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03526_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_10887",
+        "category": "정치뉴스",
+        "sub_category": 21,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.822,
+        "format": "MP4",
+        "date": "2023-03-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맥주 한 캔을 마신 사람은 곧바로 실패.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.442
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시동 자체가 걸리질 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.452,
+                "end": 8.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음주 운전 적발되신 이제 재범자 분들께서 이런 장치를 설치를 하시면 절대로 음주 운전을 하실 수가 없는 음주로 확인되시면 시동을 거실 수가 없거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.350,
+                "end": 19.069
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음주 운전을 뭐 원천적으로 예방할 수 있는 시스템이라고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.079,
+                "end": 22.822
+            }
+        ]
+    },
+    "summary": "운전자가 음주를 하면 시동이 걸리지 않는 시스템이 개발되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10887_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

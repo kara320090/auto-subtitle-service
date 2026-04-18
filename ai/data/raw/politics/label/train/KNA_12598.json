@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_12598",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2022-09-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "날리면이라고 되어 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 미국 얘기가 나올리가 없고 바이든이라는 말을 할 이유는 더더욱 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.742,
+                "end": 9.351
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박진 외교부 장관에게 지원금의 국회 통과 노력도 당부했다며 해명의 근거로 들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.361,
+                "end": 16.313
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직접 확인하지 않곤 이런 해명을 자신있게 못한다며 윤 대통령에게 확인을 거쳤다는 취지로 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.323,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "대통령실 홍보수석은 날리면이라고 되어있고 바이든이라는 말을 할 이유는 더더욱 없다며 윤 대통령에게 확인을 거쳤다는 취지로 말했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12598_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12598_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

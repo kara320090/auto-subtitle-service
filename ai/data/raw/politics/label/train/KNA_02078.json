@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNA_02078",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.716,
+        "format": "MP4",
+        "date": "2022-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "장제원 의원님 비서실장으로 매우 원하신다는 보도가 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.280
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그거는 전혀 근거 없는 얘기고 아주 유능한 분을 잘 저 모시고 일을 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.290,
+                "end": 12.456
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "115 개에 이르는 국정 과제도 압축 작업에 들어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.460,
+                "end": 16.716
+            }
+        ]
+    },
+    "summary": "장제원 의원을 비서실장으로 원하냐는 기자의 질문에 당선인은 전혀 근거 없는 얘기라며 유능한 분을 모시고 일을 하겠다고 답변하였고 국정 과제도 압축 작업에 들어갔다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02078_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02078_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

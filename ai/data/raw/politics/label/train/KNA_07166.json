@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "KNA_07166",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.034,
+        "format": "MP4",
+        "date": "2022-05-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 전 총리 재판 과정에서 검찰 수사팀이 재소자에게 거짓 증언을 시켰다는 의혹.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.001
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당시 대검에 있던 @이름2 검사는 자신이 감찰을 하고 있었는데 윤석열 검찰총장이 직무에서 배제시켰다는 주장을 제기했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.011,
+                "end": 15.059
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "9권이니까요 그 모든 기록이 검사 @이름2으로 되어 있는데 총장님이 그걸 몰랐다는 건 상식적으로 사실일 순 없고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.069,
+                "end": 23.919
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "임 검사는 SNS에도 글을 올려 재소자들을 불입건 해야 한다고 주장한 다른 검사를 총장이 선택했다 사건이 이대로 덮일 것이다라고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.929,
+                "end": 34.034
+            }
+        ]
+    },
+    "summary": "@이름2 검사가 대검에 있던 당시 윤석열 검찰총장이 자신을 직무에서 배제시켰다는 주장을 제기했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07166_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

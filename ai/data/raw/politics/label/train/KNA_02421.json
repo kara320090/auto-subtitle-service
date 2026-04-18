@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_02421",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.984,
+        "format": "MP4",
+        "date": "2022-05-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무래도 좀 후보님 공약이시니까 예 한편 저기 한번 굳이 요청을 저기 좀 부탁을 드리겠습니다 네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.478
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이렇게 기업 유치를 공약으로 내건 시 도지사 후보는 21명.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.488,
+                "end": 11.778
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 기업 이전에 필요한 인력 확보나 물류망 구축 대책 등을 제시한 후보는 찾기 힘듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.788,
+                "end": 17.984
+            }
+        ]
+    },
+    "summary": "기업 유치를 공약을 내건 시 도지사 후보는 21명이지만 기업 이전에 필요한 인력 확보나 물류망 구축 대책 등을 제시한 후보는 찾기 힘들다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02421_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

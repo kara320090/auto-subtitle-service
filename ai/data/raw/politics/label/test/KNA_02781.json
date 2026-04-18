@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_02781",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.983,
+        "format": "MP4",
+        "date": "2022-11-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경제 최대 현안인 한국산 전기차 불이익 문제도 논의됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 한미 간 협의 채널이 긴밀하게 가동되고 있다고 평가했고 바이든 대통령도 한국 기업의 미국 경제 기여를 고려해 인플레 감축법 이행 방안이 논의돼야 한다고 화답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.486,
+                "end": 16.983
+            }
+        ]
+    },
+    "summary": "한국산 전기차 불이익 문제도 논의됐는데 윤 대통령은 한미 간 협의 채널이 긴밀하게 가동되고 있다고 평가했고 바이든 대통령도 한국 기업의 미국 경제 기여를 고려해 인플레 감축법 이행 방안이 논의돼야 한다고 화답했다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02781_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02781_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

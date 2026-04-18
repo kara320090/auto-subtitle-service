@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_30495",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.233,
+        "format": "MP4",
+        "date": "2016-08-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박근혜 대통령은 오늘 수석 비서관 회의를 주재한 자리에서 국민의 생명이 달려있는 안보 문제는 여야는 물론 가치관과 정치적 견해에 따라 다를 수 없다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.165
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 최근 정치권 일부에서 북한의 주장과 맥락을 같이 하는 황당한 주장을 공개하는 가 하면 일부 의원들은 중국의 입장에 동조하면서 방중까지 한다고 우려했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.175,
+                "end": 23.243
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면서 중국을 방문해 얽힌 문제를 풀겠다는 것은 정부의 외교적 노력을 전혀 이해하지 못하는 이야기라고 강력 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.253,
+                "end": 32.233
+            }
+        ]
+    },
+    "summary": "박근혜 대통령은 오늘 수석 비서관 회의에서 안보 문제는 여야는 물론 가치와 정치적 견해에 따라 다를 수 없다고 강조하며 일부 의원들이 중국의 입장에 동조하면서 방중하는 것은 정부의 외교적 노력을 이해하지 못하는 이야기라며 강력 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30495_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30495_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 154
+                }
+            ]
+        }
+    ]
+}

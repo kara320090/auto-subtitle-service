@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_01219",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.784,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "차관급 한 명까지 세 명 모두 여성을 발탁한 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.408
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그간 윤석열 정부 고위 공직자 인선은 남성이 다수였는데 최근 윤 대통령은 여성 인재를 적극 발탁하라는 뜻을 전한 것으로 알려졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.418,
+                "end": 12.797
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여성들이 유리 천장을 뚫을 수 있는 그런 기회를 만들어 줘야 되겠다는 생각으로",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.807,
+                "end": 17.784
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 그간 고위 공직자 인선에 대해서는 남성을 위주로 발탁하였는데 최근 윤 대통령은 여성 인재를 적극 발탁하라는 뜻을 전했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01219_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

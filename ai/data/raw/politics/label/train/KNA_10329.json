@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_10329",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2023-01-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여야는 설 연휴가 끝나면 다시 본 회의를 열기 위한 협상을 이어갈 예정인데 결국 다음 달로 넘어가지 않겠냐는 관측이 많습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.517,
+                "end": 11.481
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰이 이태원 참사 당시 이른바 닥터카의 현장 도착을 지연시켰단 의혹을 받는 더불어민주당 신현영 의원을 7시간 넘게 소환 조사하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.491,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "경찰이 이태원 참사 당시 이른바 닥터카의 현장 도착을 지연시켰단 의혹을 받는 더불어민주당 신현영 의원을 7시간 넘게 소환 조사하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10329_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

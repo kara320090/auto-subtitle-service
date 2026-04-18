@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_33469",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2023-06-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 김의겸 위원은 별도로 기자 회견을 열고 이번 일을 @이름1 감사원 사무총장이 주도했다고 주장했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유 총장이 감사 위원의 열람을 고의로 생략하기 위해 열람 버튼을 삭제하도록 실무자에게 강요했다는 게 김 의원의 주장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.210,
+                "end": 15.845
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "클릭하는 서명란 자체를 없애라.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.855,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "민주당 김의겸 위원은 기자 회견에서 이번 일을 @이름1 감사원 사무총장이 주도해 감사 위원 열람을 고의로 생략하려고 클릭하는 열람 버튼 삭제를 실무자에게 강요했다고 주장했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33469_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

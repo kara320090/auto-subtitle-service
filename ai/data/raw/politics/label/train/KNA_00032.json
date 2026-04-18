@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00032",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.916,
+        "format": "MP4",
+        "date": "2022-01-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "방역과 소상공인 지원에 최선을 다하라고 주문했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.683
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 정부의 임기가 4개월 남았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.693,
+                "end": 9.568
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "역설적으로 말하자면 가장 긴장해야 할 때입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.578,
+                "end": 15.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금의 상황도",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.122,
+                "end": 16.916
+            }
+        ]
+    },
+    "summary": "대통령이 방역과 소상공인 지원에 최선을 다하라고 주문하고 정부의 임기가 얼마 남지 않은 상황에서 긴장해야 한다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00032_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00032_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

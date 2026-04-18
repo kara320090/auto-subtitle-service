@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_00055",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.094,
+        "format": "MP4",
+        "date": "2022-01-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 대표의 언행을 지적하고 사퇴 재발 시 이 대표의 사퇴를 촉구하는 내용의 결의안이 준비된 걸로 전해졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당초 이준석 대표도 오후 의원 총회에 참석할 예정이었지만 비공개 회의에 반대해 참석하지 않았다가 결의안이 마련된 뒤 뒤늦게 회의에 참석했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.416,
+                "end": 17.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 후보도 곧 의원 총회에 참석할 예정입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.365,
+                "end": 21.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네. 그런 가하면 민주당 이재명 후보는 여러 정책 간담회에 참석했는데 국가 역할을 강조 했다구요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.282,
+                "end": 28.094
+            }
+        ]
+    },
+    "summary": "이 대표의 사퇴를 촉구하는 결의안이 준비된 걸로 전해졌으며 이 대표도 뒤늦게 회의에 참석했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00055_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00055_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

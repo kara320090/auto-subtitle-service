@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_12223",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.428,
+        "format": "MP4",
+        "date": "2020-04-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선거 결과에 대한 문 대통령의 일성은 책임감이었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.059
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "위대한 국민의 선택에 기쁨에 앞서 막중한 책임을 온몸으로 느낍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.069,
+                "end": 11.982
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "코로나 속에서도 질서 있는 투표 참여로 기적같은 투표율을 기록해주셨다 그리하여 큰 목소리에 가려져 있었던 진정한 민심을 보여주셨다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.992,
+                "end": 22.559
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부의 위기 극복에 힘을 주셔서 감사하다며 코로나 극복 의지를 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.569,
+                "end": 28.428
+            }
+        ]
+    },
+    "summary": "문 대통령은 선거 결과에 책임감을 느낀다고 했고 코로나 극복 의지를 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12223_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

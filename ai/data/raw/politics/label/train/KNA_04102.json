@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_04102",
+        "category": "정치뉴스",
+        "sub_category": 35,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.891,
+        "format": "MP4",
+        "date": "2021-07-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2010 년부터 2021 년까지 이들 세대의 평균 분양가는 3억 1000만 원 수준이었지만 지난 5 월 호가 기준 8억 2000만 원까지 올랐다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 국회의 세종시 이전 계획이 등장하면서 집값이 크게 뛰었다고 주장했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.280,
+                "end": 14.737
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회가 통째로 세종시로 이전해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.747,
+                "end": 18.814
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아울러 더 적극적인 논의를 통해 청와대와 정부 부처도 모두 이전해야 합니",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.824,
+                "end": 24.891
+            }
+        ]
+    },
+    "summary": "아파트 평균 분양가 3억 1000만 원 수준에서 8억 2000만 원까지 올랐고 특히 국회의 세종시 이전 계획이 등장하면서 집값이 크게 뛰었다며 실제 모 의원은 국회와 청와대 정부 부처 모두 세종시로 이전해야 한다고 발언하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04102_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04102_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_05595",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2122-11-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이에 앞서 중앙재난안전대책본부는 사고 원인 조사가 끝나는 대로 112 대응체계의 혁신을 위한 종합대책을 마련하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한덕수 국무총리는 특히 경찰의 늑장 대처에 대해 경찰이 특별수사본부와 감찰을 통해 철저히 조사하라고 지시했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.739,
+                "end": 18.990
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경찰의 가장 기본적인 임무는",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.000,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "중앙재난안전대책본부는 사고 원인 조사가 끝나는 대로 종합대책을 마련하겠다고 밝혔고 국무총리는 경찰의 늑장 대처에 대해 철저히 조사하라고 지시했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05595_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

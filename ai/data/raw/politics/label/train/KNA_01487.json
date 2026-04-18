@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNA_01487",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘이 맡기로 했는데 외상값 못 박 못 갚겠다고 배짱을 부리고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.876
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반면 민주당은 이재명 후보 관련 고소 고발 취하 등을 협상 조건으로 요구받았다는 국민의 힘 주장에 대해 공식 사과를 거듭 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.886,
+                "end": 16.829
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "마라톤을 함께 뛰자더니",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.839,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "민주당은 이재명 후보 관련 고소 고발 취하 등을 협상 조건으로 요구받았다는 국민의 힘 주장에 대해 공식 사과를 거듭 요구했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01487_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01487_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

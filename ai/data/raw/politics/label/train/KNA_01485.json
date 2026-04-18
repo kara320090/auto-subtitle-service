@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_01485",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.148,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 때까지 국회가 응하지 않으면 청문회 없이 그대로 임명할 수 있게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박순애 후보자에게는 음주 운전 전력 등이 김승희 후보자는 정치 자금 유용 의혹 등이 제기된 상황 이를 검증할 인사 청문회 시한은 빠듯하지만",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.901,
+                "end": 15.148
+            }
+        ]
+    },
+    "summary": "국회가 응하지 않으면 청문회 없이 그대로 임명할 수 있게 되며 박순애 후보자에게는 음주 운전 전력 등이 김승희 후보자는 정치 자금 유용 의혹 등이 제기된 상황이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 154
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01485_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 18,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

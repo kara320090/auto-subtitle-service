@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_01899",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.258,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대선 이후 첫 공개석상에서 문재인 대통령은 대선 후 우선 해야 할 과제로 국민통합을 꼽았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.619
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선거 과정에 갈라진 민심을 수습하는 게 과제라고 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.629,
+                "end": 11.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다음 정부에서 다시 여소야대의 국면을 맞게 되었지만 그 균형 속에서 통합과 협력의 정치를 해달라는 것이 국민의 요구이고 시대정신이라고 생각합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.110,
+                "end": 25.258
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 대선 후 첫 번째 과제로 국민통합을 제시했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01899_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

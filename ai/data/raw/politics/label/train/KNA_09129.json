@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_09129",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.9,
+        "format": "MP4",
+        "date": "2022-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령 관저가 내려다보이는 서울 남산공원에 경찰이 배치돼 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "관저에 대한 정보 노출을 막기 위해서입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.708,
+                "end": 7.801
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이처럼 지원받은 군경 인력에 대해 현장지시만 해오던 경호처가 최근 경호법 시행령 개정안을 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.811,
+                "end": 15.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경호처장이 경호활동에 투입되는 군경 등에 대해 직접 지휘감독권을 행사할 수 있도록 한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.437,
+                "end": 22.211
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "각각 내부 규정이나 군 같은 경우는 작명에 의해서 이루어져 있던 것을 법률적인 뒷받침을 위해서 시행령으로 지금 반영하고자 하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.221,
+                "end": 33.900
+            }
+        ]
+    },
+    "summary": "관저에 대한 정보 노출을 막기 위해 서울 남산공원에 경찰이 배치돼 있고 경호처장이 경호활동에 투입되는 군경 등에 대해 직접 지휘감독권을 행사할 수 있도록 했다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09129_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_09129_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

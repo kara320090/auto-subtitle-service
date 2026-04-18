@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00019",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.426,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시민들은 추가로 복지 혜택을 받게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기초 생활 보장이나 기초 연금 대상자를 선별하는 기본 재산액 기준이 높아지고 이에 따라 기초 연금이나 장애인 연금 긴급 지원 대상이 만 명 가량 더 늘어나게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.093,
+                "end": 15.627
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.637,
+                "end": 16.416
+            }
+        ]
+    },
+    "summary": "재산액 기준이 높아짐에 따라 기초 연금이나 장애인 연금 지원 대상이 만 명 가량 더 늘어나게 된다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00019_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 147
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00019_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

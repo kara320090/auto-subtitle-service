@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_11708",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.256,
+        "format": "MP4",
+        "date": "2023-04-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전세 사기 피해자의 연이은 극단적 선택에 윤석열 대통령은 비통한 소식이라고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부 출범 직후부터 특별 단속을 실시했고 법률 개정과 지원책 마련에도 피해자가 발생해 안타깝다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.094,
+                "end": 14.483
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전세 사기는 전형적인 약자 상대 범죄입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.493,
+                "end": 20.007
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 비극적 사건의 희생자 역시",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.017,
+                "end": 23.256
+            }
+        ]
+    },
+    "summary": "전세 사기 피해자의 연이은 극단적 선택에 윤 대통령은 법률 개정과 지원책 마련에도 피해자가 발생해 안타깝고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11708_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

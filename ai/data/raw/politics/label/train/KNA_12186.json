@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_12186",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.754,
+        "format": "MP4",
+        "date": "2020-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 대표는 더 논의하겠다고 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.731
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "좀 더 숙의를 하도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.741,
+                "end": 4.707
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 관계된 분들과도 좀 상의를 할 필요가 있을 것 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.717,
+                "end": 9.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당내에서도 세대 비하 논란 발언으로 곧바로 제명이 결정된 @이름2 전 후보와도 형평성이 맞지 않다는 지적이 나오고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.451,
+                "end": 18.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.182,
+                "end": 20.754
+            }
+        ]
+    },
+    "summary": "황 대표는 차 후보에 대해 더 논의하겠다고 했지만 당내에서도 형평성이 맞지 않는다는 지적이 나오고 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12186_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

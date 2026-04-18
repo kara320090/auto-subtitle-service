@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_04611",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.952,
+        "format": "MP4",
+        "date": "2021-11-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수요자가 선호하는 신규 주택 공급량을 크게 줄어들 수밖에 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.545
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울시는 해마다 2만 6000가구 규모의 민간 재개발 후보지를 새롭게 선정하고 여의도 등 주요 재건축 단지도 사업을 서둘러 공급 확대를 통한 집값 안정에 주력하겠다고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.555,
+                "end": 17.284
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.294,
+                "end": 18.952
+            }
+        ]
+    },
+    "summary": "서울시는 재개발 후보지를 선정하고 공급 확대를 통해 집값 안정에 주력하겠다고 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04611_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

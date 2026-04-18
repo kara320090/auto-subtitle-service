@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_11425",
+        "category": "정치뉴스",
+        "sub_category": 20,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.03,
+        "format": "MP4",
+        "date": "2023-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령이 오늘 국무회의에서 간호법 제정안에 거부권 행사를 의결했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지난달 초 양곡 관리법에 이은 취임 뒤 두 번째 거부권입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.606,
+                "end": 10.682
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 간호법이 의사 간호사 간호조무사 등 의료 직역 사이 갈등을 키운다고 이유를 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.692,
+                "end": 18.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "간호사 업무 범위를 의료 기관에서 지역 사회로 넓히는 법안 내용에도 우려를 나타냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.775,
+                "end": 25.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "간호법안은 이와 같은 유관 직역 간의",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.757,
+                "end": 30.030
+            }
+        ]
+    },
+    "summary": "윤석열 대통령이 오늘 국무회의에서 간호법이 의료 직역 사이 갈등을 키운다며 간호법 제정안에 거부권 행사를 의결했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11425_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

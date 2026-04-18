@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_11680",
+        "category": "정치뉴스",
+        "sub_category": 20,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.452,
+        "format": "MP4",
+        "date": "2023-04-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "마땅한 대안이 없다면 거부권을 철회하는 게 마땅합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.926
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 또 어제 국회로 돌아온 양곡 관리법 개정안은 오는 13일 국회 본회의에서 재투표를 추진하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.936,
+                "end": 12.621
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반면 국민의힘은 양곡 관리법이 쌀값 안정화에 도움이 되지 않는 악법이라고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.631,
+                "end": 19.452
+            }
+        ]
+    },
+    "summary": "민주당은 또 어제 국회로 돌아온 양곡 관리법 개정안은 오는 13일 국회 본회의에서 재투표를 추진하겠다고 밝혔고 국민의힘은 양곡 관리법이 쌀값 안정화에 도움이 되지 않는 악법이라고 반박했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11680_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_11680_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

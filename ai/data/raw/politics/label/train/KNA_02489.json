@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_02489",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.587,
+        "format": "MP4",
+        "date": "2022-06-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공감대를 이뤘습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.866
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 대선부터 이 평가가 이루어지지 않은 부분들에 대해서 문제의식이 굉장히 강했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.876,
+                "end": 9.265
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 5년 문재인 정부를 포함해서도 이번에는 충분히 정확하게",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.275,
+                "end": 15.034
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "친문계 의원들을 중심으로는 이재명 의원의 대선 패배 책임론도 제기됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.044,
+                "end": 20.587
+            }
+        ]
+    },
+    "summary": "지난 대선부터 평가가 이루어지지 않은 부분들에 대해서 문제의식이 굉장히 강했다고 밝혔으며 친문계 의원들을 중심으로는 이재명 의원의 대선 패배 책임론도 제기됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02489_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02489_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

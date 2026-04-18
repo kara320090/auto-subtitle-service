@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_09017",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.017,
+        "format": "MP4",
+        "date": "2022-11-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 의원은 한 장관이 소영웅주의에 매몰돼 튀는 발언으로 천박함을 이어간다며 모욕죄로 경찰에 고소했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.436
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "행정부를 견지하는 국회 활동을 부정하려는 비상식적인 발언이며 삼권 분립 정신을 훼손하는 망언입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.446,
+                "end": 17.017
+            }
+        ]
+    },
+    "summary": "한 의원은 한 장관을 모욕죄로 경찰에 고소했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09017_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 153
+                }
+            ]
+        }
+    ]
+}

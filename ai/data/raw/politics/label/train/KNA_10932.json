@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_10932",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.788,
+        "format": "MP4",
+        "date": "2023-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령이 논란이 된 주 최대 69시간 개편안에 대해 보완을 지시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.366
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실은 윤 대통령이 연장 근로를 하더라도 주 60시간 이상은 무리라는 생각을 갖고 있다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.376,
+                "end": 13.095
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "입법 예고된 정부안에서 적절한 상황캡을 씌우지 않은 것에 대해 유감으로 여기고 보완을 지시하셨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.105,
+                "end": 21.788
+            }
+        ]
+    },
+    "summary": "윤석열 대통령이 논란이 된 주 최대 69시간 개편안에 대해 보완을 지시했고 입법 예고된 정부안에서 적절한 상황캡을 씌우지 않은 것에 대해 유감으로 여기고 보완을 지시했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10932_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

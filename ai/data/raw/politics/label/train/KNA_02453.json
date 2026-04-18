@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_02453",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.715,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이른 아침부터 투표가 진행 중인데 투표소에 취재 기자 나가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.200
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김하늘애 기자 현재 투표가 순조롭게 이루어지고 있습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.210,
+                "end": 9.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 부산에서도 조금 전인 오전 6시부터 투표가 본격적으로 시작됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.638,
+                "end": 15.715
+            }
+        ]
+    },
+    "summary": "부산에서 오전 6시부터 투표가 시작됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02453_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

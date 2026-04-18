@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_07212",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.553,
+        "format": "MP4",
+        "date": "2022-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저희가 @이름1 수사를 하지 말았어야 했는지 그게 그렇게 여쭙고 싶습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.885
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한 후보자는 반포 아파트 의혹에 대해선 아버지가 세금을 내고 증여해준 돈으로 매입한 거라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.895,
+                "end": 11.093
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법무장관의 수사지휘권은 내려놓겠다고 했고 보복 수사는 자신도 피해자인 만큼 철저히 감독하겠다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.103,
+                "end": 18.875
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.885,
+                "end": 20.553
+            }
+        ]
+    },
+    "summary": "한 후보자가 의혹에 대해 해명하고, 앞으로의 계획을 밝히고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07212_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

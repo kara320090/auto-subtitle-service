@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00015",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.548,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제도화하는 노력을 임기 끝까지 멈추지 않겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.632
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령은 신년사 발표 뒤 5부 요인과 여야 대표 경제계 인사 등이 참석한 가운데 화상으로 신년 인사회를 진행했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.642,
+                "end": 14.336
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "케이비에스 뉴스",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.346,
+                "end": 15.548
+            }
+        ]
+    },
+    "summary": "문 대통령의 신년사 발표 뒤 경제계 인사들 참석한 자리에서 신년사 인사를 진행했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00015_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

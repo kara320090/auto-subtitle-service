@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNA_10101",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.197,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이재명 후보 최측근인 정성호 의원이 직접 나서서 후보직 사퇴를 거듭 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.883
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "판결문과 참고인 진술 조서가 공개됐음에도 관여하지 않았다고 한 거짓말이 더 문제라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.893,
+                "end": 13.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김은혜 후보는 공정이란 단어를 입에 올릴 자격도 경기 도지사 후보가 될 자격도 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.067,
+                "end": 19.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 후보는 의혹이 제기된 시점은 민주당 정권이었다",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.429,
+                "end": 23.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사실이였다면 검찰이 가만 놔두지 않았을 테지만 문제 없다고 결론낸 사안이라고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.129,
+                "end": 29.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.522,
+                "end": 31.197
+            }
+        ]
+    },
+    "summary": "민주당 정성호 의원이 김은혜 후보는 경기 도지사 후보가 될 자격이 없다며 후보직 사퇴를 거듭 요구했는데 김 후보는 검찰이 문제 없다고 결론낸 사안이라고 반박했다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10101_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 4,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

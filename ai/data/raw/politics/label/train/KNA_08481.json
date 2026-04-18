@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "KNA_08481",
+        "category": "정치뉴스",
+        "sub_category": 18,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.795,
+        "format": "MP4",
+        "date": "2022-09-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실이 국회에 제출한 내년도 예산안입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "운영비 22억여 원 외에 건설비 명목으로 29억 6000만 원을 요청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.132,
+                "end": 9.181
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청사 환경을 개선하고 정비할 목적이라 했는데 설계와 공사 감리 등의 세부 내역이 담겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.191,
+                "end": 16.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기자실 주차장 관련 공사와 랜선 설치 등를 위한 거라는 게 대통령실 설명입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.382,
+                "end": 22.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실은 앞서 지난 5월 용산 이전 때 리모델링 비용으로 예비비 250여억 원을 썼습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.260,
+                "end": 28.795
+            }
+        ]
+    },
+    "summary": "대통령실이 국회에 제출한 내년도 예산안에 청사 설계와 공사 감리 등의 세부 내역이 담긴 건설비 명목으로 29억 6000만 원을 요청했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08481_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08481_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

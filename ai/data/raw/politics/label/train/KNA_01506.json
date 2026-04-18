@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_01506",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.049,
+        "format": "MP4",
+        "date": "2022-06-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "즉답을 피했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.902
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조별 토론에서 불출마 얘기가 나왔다는데?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.912,
+                "end": 5.120
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "지금 경제가 매우 어려운 상황이고 아 국민들의 고통이 참으로 극심합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.120,
+                "end": 12.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "친이재명계 의원들을 제외한 대다수 의원들이",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.186,
+                "end": 16.049
+            }
+        ]
+    },
+    "summary": "불출마에 관한 기자의 질문에 이재명 의원이 즉답을 피했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01506_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

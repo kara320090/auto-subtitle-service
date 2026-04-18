@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_07829",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.066,
+        "format": "MP4",
+        "date": "2022-06-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혁신위는 흔들리지 않고 혁신에게 맡겨진 소임을 끝까지 다할 생각이고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.907
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령의 출국 환송 자리에 이 대표는 불참했는데 허례허식을 멀리하겠다는 대통령 뜻을 따른 거뿐이라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.917,
+                "end": 15.285
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.295,
+                "end": 18.010
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "윤석열 대통령이 나토 정상회의 참석을 위해 오늘 오후 스페인 마드리드로 출국했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.020,
+                "end": 25.058
+            }
+        ]
+    },
+    "summary": "이 대표는 윤 대통령의 출국 환송 자리에 불참했고 윤 대통령은 스페인으로 출국했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07829_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

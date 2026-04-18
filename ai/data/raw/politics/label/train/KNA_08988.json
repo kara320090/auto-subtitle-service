@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_08988",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.518,
+        "format": "MP4",
+        "date": "2022-11-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사실대로 답변하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.693
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공문은 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.703,
+                "end": 2.776
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "당시 의령군 축제 행사 공문을 보면 개막식은 참사 하루 전인 10월 28일 열렸는데 정작 박 구청장은 개막식에 영상 축사만 보냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.786,
+                "end": 13.001
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "실제 의령을 찾은 건 다음 날인 29일이었는데 축제에는 가지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.011,
+                "end": 18.518
+            }
+        ]
+    },
+    "summary": "박희영 용산구청장은 국회에서 설명한 것과 달리 의령군 축제에는 가지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08988_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

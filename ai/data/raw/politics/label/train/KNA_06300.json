@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_06300",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.989,
+        "format": "MP4",
+        "date": "2022-02-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부동층 표심에 역풍이 들 수 있다는 판단에서입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.052
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당 심상정 후보는 시민들에게서 질문을 취합해 다른 후보들에게 묻고 존재감을 키운다는 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.062,
+                "end": 11.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의당 안철수 후보는 도덕적으로 흠결 없는 후보임을 강조하고 정권 교체 대안으로 차별화된 후보라는 점을 부각시킨다는 전략입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.131,
+                "end": 21.002
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.012,
+                "end": 22.989
+            }
+        ]
+    },
+    "summary": "정의당 심상정 후보는 시민들에게서 질문을 취합해 다른 후보들에게 묻고 존재감을 키운다는 계획이고 국민의당 안철수 후보는 도덕적으로 흠결 없는 후보임을 강조하고 정권 교체 대안으로 차별화된 후보라는 점을 부각시킨다는 전략이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06300_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06300_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

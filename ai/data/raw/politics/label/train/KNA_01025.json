@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_01025",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.995,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "취임식 행사가 끝나면 윤 당선인은 새 집무실이 있는 용산으로 이동합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.809
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 유호윤입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.819,
+                "end": 7.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내일 대통령 취임식을 앞두고 KBS가 국정 현안에 대한 여론 조사를 실시했는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.854,
+                "end": 14.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새 정부 내각인선에 대해선 잘했다와 잘못했다는 평가가 오차 범위 내에서 엇비슷했지만 한덕수 총리 후보자 인준안은 국회가 통과시켜야 한다는 의견이 더 많았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.279,
+                "end": 25.339
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 소상공인 코로나 피해 지원금 차등 지급 방침에는",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.349,
+                "end": 28.995
+            }
+        ]
+    },
+    "summary": "대통령 취임식을 앞두고 KBS가 국정 현안에 대한 여론 조사를 실시했는데 내각인선의 잘잘못에 대한 평가는 엇비슷했지만 한덕수 총리 후보자 안준안은 통과시켜야 한다는 의견이 많았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01025_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01025_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

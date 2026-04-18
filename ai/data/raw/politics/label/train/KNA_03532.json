@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_03532",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.09,
+        "format": "MP4",
+        "date": "2021-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이변은 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.317
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더불어민주당 박영선 후보가 열린민주당 김진애 후보를 제치고 범여권 서울시장 단일후보로 결정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.327,
+                "end": 8.839
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "두 당의 당원 투표와 일반시민 여론조사를 50 퍼센트씩 반영한 결과입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.849,
+                "end": 14.307
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내 집 마련의 꿈을 앞당겨드릴 그러한 시장이 되겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.317,
+                "end": 20.372
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 후보는 박 후보의 승리를 위해 힘을 싣겠다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.382,
+                "end": 24.090
+            }
+        ]
+    },
+    "summary": "더불어민주당 박영선 후보가 열린민주당 김진애 후보를 제치고 범여권 서울시장 단일후보로 결정됐고 내 집 마련의 꿈을 앞당겨드릴 시장이 되겠다고 박 후보는 발언하였으며 김 후보는 박 후보의 승리를 위해 힘을 싣겠다 했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03532_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03532_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 99
+                }
+            ]
+        }
+    ]
+}

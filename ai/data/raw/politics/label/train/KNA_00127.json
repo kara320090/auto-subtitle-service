@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00127",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.317,
+        "format": "MP4",
+        "date": "2022-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가상 자산 공개 허용을 검토하겠다 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.375
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국내선 가상 자산 발행이 안 되는데 안전 장치 마련을 조건으로 허용을 검토하겠단 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.385,
+                "end": 10.664
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마치 없는 것처럼 부정하려고 해서 가상 자산 시장 발전이 좀 지체된 점에 대해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.674,
+                "end": 17.317
+            }
+        ]
+    },
+    "summary": "국내에서 가상 자산 발행이 안 되는데 안전 장치 마련을 조건으로 가상 자산 공개 허용을 검토하겠다고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00127_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

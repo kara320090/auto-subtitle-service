@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_03180",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.525,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 가운데 국민의힘은 예비 경선 진출자를 확정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서울에선 8명 부산에선 6명이 각각 예비 경선을 치르게 되는데 본경선에는 4명이 진출합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.627,
+                "end": 11.964
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신인에게 20퍼센트 가산점을 주거나 본선 티켓 1장을 주는 방안도 확정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.974,
+                "end": 18.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지지 정당을 묻지 않고 100퍼센트 일반 시민 여론 조사로 본경선을 치른다는 기존 결정은 유지됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.409,
+                "end": 25.525
+            }
+        ]
+    },
+    "summary": "이런 가운데 국민의힘은 예비 경선 진출자를 확정했고 지지 정당을 묻지 않고 100퍼센트 일반 시민 여론 조사로 본경선을 치른다는 기존 결정은 유지됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03180_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03180_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

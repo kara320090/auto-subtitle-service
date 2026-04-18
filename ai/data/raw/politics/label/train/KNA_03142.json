@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_03142",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 28.096,
+        "format": "MP4",
+        "date": "2021-01-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국방부는 굳건한 한미 연합 방위 태세 기반 위에 구일구 남북 군사 합의 이행을 보고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞서 문 대통령은 바이든 대통령에게 축전을 보내 이른 시일 안에 만나 허심탄회하게 대화하자고 제안했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.503,
+                "end": 13.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령이 NSC 전체 회의를 주재한 것은 이른바 하노이 노딜 이후 22개월 만입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.599,
+                "end": 20.263
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령의 남은 임기는 1년 4개월 새 외교 안보 라인이 한반도 평화 시계를 다시 돌릴 수 있도록 주어진 시간이기도 합니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 20.273,
+                "end": 28.094
+            }
+        ]
+    },
+    "summary": "국방부는 구일구 남북 군사 합의 이행을 보고한 한편 문 대통령은 바이든 대통령에게 허심탄회하게 대화하자고 제안했으며 문 대통령은 하노이 노딜 이후 22개월 만에 NSC 전체 회의를 주재했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03142_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03142_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

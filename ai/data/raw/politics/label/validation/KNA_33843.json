@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_33843",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.533,
+        "format": "MP4",
+        "date": "2018-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "투표장에서 신분증을 제시하면 1차로 투표용지 3장 또는 4장을 받게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.752
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시도지사와 구시군장, 교육감 투표용지입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.762,
+                "end": 9.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회 의원 재보궐 선거 지역이라면 여기에 1장을 더 받아 총 4장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.453,
+                "end": 14.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "용지마다 색깔이 다른데 교육감 투표용지는 기호나 정당 이름 없이 후보 이름만 가로로 배열돼 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.877,
+                "end": 22.533
+            }
+        ]
+    },
+    "summary": "투표장에서 신분증을 제시하면 투표용지 3장 또는 4장을 받게 되는데 용지마다 색깔이 다르고 교육감 투표용지는 후보 이름만 가로로 배열돼 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33843_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 45,
+                    "act": 54
+                }
+            ]
+        }
+    ]
+}

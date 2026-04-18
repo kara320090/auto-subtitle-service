@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "KNA_03089",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.895,
+        "format": "MP4",
+        "date": "2021-01-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 가운데 김종인 위원장은 안 대표와의 단일화가 우선순위가 아니라는 입장을 다시 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 시장 후보가 선출된 다음에 그다음에 단일화 얘기를 해도 시간이 늦지 않아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.339,
+                "end": 12.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "내가 본인에게도 분명히 얘기를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.374,
+                "end": 14.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "단일화는 3월 초에나 가서 얘기할 것이고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.516,
+                "end": 18.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기 싸움을 넘어 파열음이 터져 나오는 가운데 양당 공방이 과열되면 자중지란이 될 것이라는 얘기도 야권 내에서 나오고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.620,
+                "end": 27.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 신지혜입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.478,
+                "end": 28.895
+            }
+        ]
+    },
+    "summary": "김종인 위원장은 안 대표와의 단일화가 우선순위가 아니라는 입장을 다시 밝혔고 양당 공방이 과열되면 자중지란이 될 것이라는 얘기도 야권 내에서 나오고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03089_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03089_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 32
+                }
+            ]
+        }
+    ]
+}

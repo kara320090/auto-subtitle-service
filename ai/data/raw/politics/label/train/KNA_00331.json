@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_00331",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.122,
+        "format": "MP4",
+        "date": "2022-02-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유죄가 확정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.609
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 강원랜드에 채용청탁을 한 혐의를 받았던 권성동 국민의힘 의원에게는 무죄가 확정됐는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.619,
+                "end": 8.462
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자세한 소식을 천효정 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.472,
+                "end": 12.214
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KT에 자신의 딸이 부정채용되도록 한 혐의로 기소된 김성태 전 미래통합당 의원에게 징역 1년에 집행유예 2년이 확정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.224,
+                "end": 22.122
+            }
+        ]
+    },
+    "summary": "강원랜드에 채용청탁을 한 혐의를 받았던 권성동 국민의힘 의원에게는 무죄가 확정되었고 KT에 자신의 딸이 부정채용되도록 한 혐의로 기소된 김성태 전 미래통합당 의원에게 징역 1년에 집행유예 2년이 확정됐다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00331_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00331_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

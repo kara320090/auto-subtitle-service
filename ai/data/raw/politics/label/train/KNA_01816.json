@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01816",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.517,
+        "format": "MP4",
+        "date": "2022-03-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이재명 후보 촛불 민심에 지지를 호소했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.995
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투표소도 서울 광화문 광장에서 가장 가까운 곳을 택했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.005,
+                "end": 8.454
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "촛불을 들고 어 광화문과 시청 앞에 에 모이셨던 수많은 국민들을 생각했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.464,
+                "end": 17.517
+            }
+        ]
+    },
+    "summary": "이재명 후보는 촛불 민심에 지지를 호소하며 투표소는 서울 광화문 광장에서 가장 가까운 곳을 택했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01816_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 73
+                }
+            ]
+        }
+    ]
+}

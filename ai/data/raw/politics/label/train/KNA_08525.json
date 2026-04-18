@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_08525",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.924,
+        "format": "MP4",
+        "date": "2022-09-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 6일 개통한 새 복지정보 시스템의 오류가 계속되면서 운영 기관 게시판에는 관련 항의가 이어지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한부모 가정에서 아이 돌보미를 이용할 때 정부가 일부 비용을 보전해주는 바우처를 신청했지만 시스템 오류로 당분간 지원을 못받게 된 경우도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.511,
+                "end": 16.212
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "센터에서 모른다고 했고 2주 안에 처리 안 될 수도 있고 그 다음에 지금 9월 초에 신청하신 분들도 아직 안됐다 이렇게만 답변 주셨거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.222,
+                "end": 24.924
+            }
+        ]
+    },
+    "summary": "지난 6일 개통한 새 복지정보 시스템의 오류가 계속되면서 운영 기관 게시판에는 항의와 불만이 이어지고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08525_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 17
+                }
+            ]
+        }
+    ]
+}

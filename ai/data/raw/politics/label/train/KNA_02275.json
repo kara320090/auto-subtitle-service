@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_02275",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.383,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "총리 임명 동의안이 언제 본회의에 상정될지 아직 불투명합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.280
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회에 인사 청문 보고서가 채택된 장관 후보자도 추경호 경제부총리 등 7 명 18 개 부처 중 절반이 안됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.290,
+                "end": 12.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국무회의가 열리려면 장관 15 명 이상이 참석해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.578,
+                "end": 16.383
+            }
+        ]
+    },
+    "summary": "총리 임명 동의안이 언제 본회의에 상정될지 아직 불투명하다며 국무회의가 열리려면 장관 15 명 이상이 참석해야 하는데 채택된 장관 후보자는 7 명이라고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02275_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02275_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_03538",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.223,
+        "format": "MP4",
+        "date": "2021-03-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두 장관은 이어 청와대를 방문해 문재인 대통령을 예방했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.054
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한반도의 완전한 비핵화와 항구적 평화를 위해 빈틈없는 공조를 계속할 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.064,
+                "end": 11.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 한일 관계와 관련해서도 한미일 협력에 굳건한 토대가 되는 만큼 양국 관계 복원을 위해 계속 노력해 나가겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.110,
+                "end": 21.250
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 조빛나입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.260,
+                "end": 23.223
+            }
+        ]
+    },
+    "summary": "두 장관은 청와대를 방문해 문재인 대통령을 예방했고 문 대통령은 한반도의 완전한 비핵화와 항구적 평화를 위해 빈틈없는 공조를 계속할 것이라고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03538_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 12
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03538_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

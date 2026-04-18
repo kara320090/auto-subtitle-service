@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_11515",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.822,
+        "format": "MP4",
+        "date": "2023-05-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 선관위 자체 조사는 고양이에게 생선을 맡기는 격이라며 조사가 아닌 수사가 필요하다고 맹공했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.938
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "무소불위 권한과 지위를 남용하면서 이렇게 내부적으로 곪았다는 것은 충격적입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.948,
+                "end": 15.600
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 점에 대해서 선관위 내부의 자체 조사가 아니라 철저한 수사가 필요할 것이라고 보고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.610,
+                "end": 22.822
+            }
+        ]
+    },
+    "summary": "국민의힘은 선관위 자체 조사가 아니라 수사가 필요하다고 주장한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11515_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

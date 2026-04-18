@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_09790",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.093,
+        "format": "MP4",
+        "date": "2023-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "10퍼센트 정도 감축하는 것이 왜 안 된다는 것인지 민주당의 주장을 이해할 수가 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.858
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "설화로 인한 수세 국면을 전환해 보겠다는 사심 가득한 정략적 꼼수로 어 밖에 볼 수 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.868,
+                "end": 16.340
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "의원 전원이 난상 토론을 할 거란 기대와 달리 출석률은 낮았고 끝날 무렵에는 수십명만 자리를 지켰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.350,
+                "end": 24.861
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 24.871,
+                "end": 27.093
+            }
+        ]
+    },
+    "summary": "의원 전원이 난상 토론을 할 거란 기대와 달리 출석률은 낮았고 끝날 무렵에는 수십명만 자리를 지켰습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09790_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_09790_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

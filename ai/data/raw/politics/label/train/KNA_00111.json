@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_00111",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.584,
+        "format": "MP4",
+        "date": "2022-01-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 A 씨와 특수한 관계도 아니라며 재판장 직권으로 내린 직권이라고 덧붙였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.939
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그게 바로 불공정이고 불평등이고 불법이 되는 것이죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.949,
+                "end": 10.062
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "말씀 드린 것처럼 선고를 비공개로 할 수는 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.072,
+                "end": 13.340
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "변호사는 금고 이상의 형을 받으면 면허가 취소되는데",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.350,
+                "end": 17.584
+            }
+        ]
+    },
+    "summary": "선고를 비공개로 하면 불법이며 변호사는 금고 이상의 형을 받으면 면허가 취소된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00111_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

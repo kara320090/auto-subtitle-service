@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00446",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.649,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "희망이 있는 나라의 꿈입니다 여러분",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.376
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방송 3사와 출구조사 결과 20대 이하와 30대에서 한쪽으로의 쏠림 현상은 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.386,
+                "end": 10.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러나 성별로는 표심 차이가 확연했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.525,
+                "end": 14.364
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "20대 이하 남성 유권자",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.374,
+                "end": 16.649
+            }
+        ]
+    },
+    "summary": "방송 3사와 출구조사 결과 20대 이하 30대에서 쏠림 현상은 없었으나 성별로는 표심 차이가 확연하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00446_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

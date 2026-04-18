@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_01156",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.72,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "글로벌 리더 국가로서 탄소 중립을 달성하려는 국제 사회의 노력에 그 책임과 역할을 다할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.462
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "대통령실은 에너지 분야 기업과 전문가 의견 등을 수렴한 뒤 구체적 내용을 담은 에너지 정책을 발표할 예정이라고 설명했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.472,
+                "end": 18.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 윤 대통령은",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.760,
+                "end": 20.720
+            }
+        ]
+    },
+    "summary": "윤 대통령은 탄소 중립 달성에 책임과 역할을 다할 것이라고 했고 대통령실은 에너지 분야 기업과 전문가 의견을 수렴해 구체적 내용을 담은 에너지 정책을 발표할 예정이라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01156_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

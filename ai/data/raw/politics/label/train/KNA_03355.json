@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "KNA_03355",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 42.575,
+        "format": "MP4",
+        "date": "2021-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 전 의원과 @이름2 구청장은 부동산 공약을 두고 날을 세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.227
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "차고지 공영 주차지 이런 데에 그런 것을 이용해서 하겠다는 발상의 전환을 하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.237,
+                "end": 11.984
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "집은요 상상 위에 짓는 것이 아니고 입으로 짓는 게 아니에요 늘 그러면 차고지하고 그런 빈 땅이 있었으면 지금 다 지었지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.988,
+                "end": 20.632
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문재인 정부랑 똑같이 그 위에 3만 호 짓겠다 발상의 전환해야 하는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.642,
+                "end": 25.888
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그러니까 비현실적이다라는 거예요 이제 앞으로 시장 돼서 1년 2개월 동안 9개의 지하 도로 만들면서 경부 고속 도로 덮을 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.892,
+                "end": 33.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘은 두 차례 합동 토론을 더 연 뒤 다음 달 초 여론 조사 100퍼센트로 최종 후보자를 결정합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.202,
+                "end": 40.821
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름3 입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 40.831,
+                "end": 42.575
+            }
+        ]
+    },
+    "summary": "부동산 공약을 두고 날을 세웠으며 국민의 힘은 두 차례 합동 토론을 더 연 뒤 다음 달 초 여론 조사 100퍼센트로 최종 후보자를 결정합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03355_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03355_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

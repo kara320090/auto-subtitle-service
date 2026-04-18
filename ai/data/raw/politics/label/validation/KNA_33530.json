@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_33530",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.923,
+        "format": "MP4",
+        "date": "2023-06-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 북한에 어떠한 도발에도 압도적으로 억제할 수 있는 철저한 대응 태세를 유지할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.810
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "드론사령부는 무인기를 활용한 감시와 정찰, 타격, 심리전과 전자기전 등을 주된 임무로 합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.820,
+                "end": 15.024
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "방어뿐 아니라 서울 상공에 무인기 1대를 보내면 10배 이상의 무인기를 평양에 보내는 등의 공세적 방침도 정했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.034,
+                "end": 23.923
+            }
+        ]
+    },
+    "summary": "드론사령부는 무인기를 활용한 감시와 정찰, 타격, 심리전과 전자기전 등의 방어 임무를 주로 하지만 공세적 방침도 정했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33530_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 62
+                }
+            ]
+        }
+    ]
+}

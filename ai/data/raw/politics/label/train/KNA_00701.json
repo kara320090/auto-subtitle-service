@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_00701",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.85,
+        "format": "MP4",
+        "date": "2022-04-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배씨가 비협조적인 태도를 보인 것으로 알려졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.121
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이에 따라 경찰은 자료 분석과 함께 조만간 배씨에 대한 신변 확보 여부와 김혜경씨 소환 조사 시기 등을 저울질 하고 있다는 관측입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.131,
+                "end": 12.311
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선거 후에라도 제기된 의혹에 대해",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.321,
+                "end": 16.850
+            }
+        ]
+    },
+    "summary": "경찰은 자료 분석과 함께 조만간 배씨에 대한 신변 확보 여부와 김혜경씨 소환 조사 시기 등을 저울질 하고 있다는 관측이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00701_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

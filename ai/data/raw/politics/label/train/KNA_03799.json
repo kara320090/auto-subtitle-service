@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_03799",
+        "category": "정치뉴스",
+        "sub_category": 38,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.192,
+        "format": "MP4",
+        "date": "2021-04-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공공 주도로 낙후된 도심을 개발하는 주거 재생 혁신 지구는 모두 일곱 곳이 선정돼 주택 3700 가구가 공급될 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대상 지역은 서울 구로구 가리봉동과 경기 수원시 서둔동 인천 서구 석남동과 대전 대덕구 읍내동 등입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.119,
+                "end": 17.877
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이들 지역에는 신축 주택과 함께 공영 주차장과 어린이집 등이 함께 들어설 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.887,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "공공 주도로 낙후된 도심을 개발하는 주거 재생 혁신 지구는 모두 일곱 곳이 선정돼 주택 3700 가구가 공급될 예정이고 이들 지역에는 신축 주택과 함께 공영 주차장과 어린이집 등이 함께 들어설 계획입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03799_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 13,
+                    "act": 113
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03799_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

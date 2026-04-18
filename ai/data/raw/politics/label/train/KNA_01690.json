@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "KNA_01690",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2022-02-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "5000명이 모였다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.455
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리는 1만 명이다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 1.465,
+                "end": 2.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여야는 몰려든 시민 숫자로 지지세를 과시합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.740,
+                "end": 7.244
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후보 주변으론 더욱 지지자가 밀려드는데 애써 말리기도 어렵습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.254,
+                "end": 12.345
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사회적 거리 유지해 주시고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.355,
+                "end": 14.790
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마스크 착용 꼭 좀 부탁드리도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.800,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "여야는 몰려든 시민 숫자로 지지세를 과시하고 밀려드는 지지자를 말리기도 어렵다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01690_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

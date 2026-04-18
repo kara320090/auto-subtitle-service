@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_04801",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.356,
+        "format": "MP4",
+        "date": "2021-12-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 이재명 후보는 소상공인 방역 피해를 사전에 직접 전부 지원하겠다 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가게 문을 닫고 난 뒤에 뒷북치는 사후가 아니라 급하고 힘들 때 적재적소에 지원을 원칙으로 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.540,
+                "end": 14.596
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빚을 내더라도 임대료 인건비 등 고정비에 썼으면 상환을 감면하는 방식을 내놨는데 사실상의 사전 직접 지원입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.606,
+                "end": 23.356
+            }
+        ]
+    },
+    "summary": "민주당 이재명 후보는 소상공인 방역 피해를 사전에 직접 전부 지원하겠다 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

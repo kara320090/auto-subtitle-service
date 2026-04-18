@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNA_06605",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.591,
+        "format": "MP4",
+        "date": "2022-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 기능을 되찾도록 통일부 기능을 보강하는 그런 안들을 인수위원회에서 준비하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.497
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다만 인수위는 여성가족부에 대해선 역사적 소임을 다했다고 다시 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.507,
+                "end": 14.731
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "여가부 폐지에 대한 그 당선인의 공약 내용은 굉장히 일관되게 아직도 유지되고 있는 것으로 이해해 주시면 좋겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.741,
+                "end": 24.591
+            }
+        ]
+    },
+    "summary": "인수위는 여성가족부에 대해선 역사적 소임을 다했다고 다시 강조했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06605_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06605_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

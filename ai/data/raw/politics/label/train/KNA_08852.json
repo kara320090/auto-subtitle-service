@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "filename": "KNA_08852",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 70.837,
+        "format": "MP4",
+        "date": "2022-10-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "핵추진 항공모함 로널드 레이건 같은 전략 자산의 한반도 상시 배치 여부에 미 국방부는 즉답을 피했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대신 주한 미군이 앞으로도 지속적으로 주둔할 것이고 이는 한국 방위 약속의 상징이라고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.914,
+                "end": 16.161
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.171,
+                "end": 31.000
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미 국방부는 동시에 한미 동맹의 방어적 성격을 강조하며 북한을 향해선 긴장 완화를 위한 대화에 나설 것을 재차 촉구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.010,
+                "end": 41.219
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 41.229,
+                "end": 50.159
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전략 자산 상시 배치에 사실상 부정적 견해를 내비치면서 군사적 긴장 고조도 원치 않는다는 점을 명확히 한 것으로 풀이됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.169,
+                "end": 59.880
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북핵 문제를 핵 확산 방지 차원으로 접근하면서 미군 전술핵의 한반도 재배치에 부정적이었던 미 정부 입장의 연장선상에 있다는 평가입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 59.890,
+                "end": 70.837
+            }
+        ]
+    },
+    "summary": "미 국방부는 한미 동맹의 방어적 성격을 강조하며 북한을 향해선 긴장 완화를 위한 대화을 촉구했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08852_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08852_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": 4,
+                    "act": 31
+                }
+            ]
+        }
+    ]
+}

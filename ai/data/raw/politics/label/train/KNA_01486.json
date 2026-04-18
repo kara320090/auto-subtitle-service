@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01486",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.786,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여야는 국회 개점휴업 25일째인 오늘도 협상 테이블을 차리지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.583
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘은 민주당이 기존 합의에 따라 법사위원장 자리만 내놓으면 당장에라도 협상 타결이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.593,
+                "end": 13.602
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "법사위원장은 당연히",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.612,
+                "end": 15.782
+            }
+        ]
+    },
+    "summary": "여야는 국회 개점휴업 25일째인 오늘도 협상 테이블을 차리지 못했으며 국민의 힘은 민주당이 기존 합의에 따라 법사위원장 자리만 내놓으면 당장에라도 협상 타결이라고 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01486_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01486_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

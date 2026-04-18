@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_02267",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 39.305,
+        "format": "MP4",
+        "date": "2022-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서울 강남 한강변에 위치한 340세대 규모의 아파트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한동훈 법무부 장관 후보자는 사법연수원 수료 한 달 만인 1998년 3월 25살의 나이로 이 아파트 24평형을 샀습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.343,
+                "end": 13.868
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해당 아파트는 서울 거주 무주택 세대주만 조합원이 될 수 있는 지역주택조합 아파트였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.878,
+                "end": 20.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당시 조합원 확정 분양가는 1억 5400만 원 가량으로 추정됩니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 20.537,
+                "end": 25.913
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당시 한 후보자는 조합원 자격이 없었고 사법연수원에서 받은 월급 총액은 2000만 원이 안 되는 걸로 보입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 25.923,
+                "end": 33.589
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런데 아파트 매입 전 해당 등기부에는 1억 원가량의 근저당이 설정돼 있었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.599,
+                "end": 39.305
+            }
+        ]
+    },
+    "summary": "한동훈 법무부 장관 후보자는 사업연수원 수료 직후 아파트를 매입했으나, 당시의 월급 및 상황을 고려했을 때 의아한 점들이 발견되고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02267_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 5,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02267_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

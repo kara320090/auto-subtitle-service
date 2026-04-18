@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_03709",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.133,
+        "format": "MP4",
+        "date": "2021-04-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국산 전투기 개발을 천명한 지 20년 만에 모습을 드러낸 시제기 공식 명칭은 KF 21 보라매로 정했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 7.713
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7.7톤 무장 탑재력에 부분적이지만 스텔스 기능을 갖춘 4.5세대 전투기로 설계부터 제작까지 국내 기술진이 주도했고 AESA 레이더 적외선 추적 장비 등 핵심 기술도 자체 개발했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.723,
+                "end": 21.632
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "80여 개 주요 부품 대부분을 순수 국산 기술로 개발을 했고 일부는 부분 국산화하는 등 국내의 기업들과 긴밀하게 협력해 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.642,
+                "end": 33.133
+            }
+        ]
+    },
+    "summary": "국산 전투기 개발을 천명한 지 20년 만에 모습을 드러낸 시제기 공식 명칭은 KF 21 보라매이고 80여 개 주요 부품 대부분을 순수 국산 기술로 개발을 했고 일부는 부분 국산화하는 등 국내의 기업들과 긴밀하게 협력해 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03709_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 4,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03709_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

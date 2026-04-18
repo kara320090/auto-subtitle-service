@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_09089",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.0,
+        "format": "MP4",
+        "date": "2022-11-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "천주교 대전교구 소속 박 모 신부가 기도라는 제목과 함께 지난 12일 사회관계망 서비스에 올린 합성사진입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령 부부가 전용기에서 추락하는 모습이 담겨 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.922,
+                "end": 12.669
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "논란이 일자 천주교 대전교구는 오늘 대국민 사과문을 발표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.679,
+                "end": 17.501
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "천주교대전교구는 부적절한 언행으로 많은 분이 받으셨을 상처와 충격에 사죄에 말씀을 드린다며 박 모 신부가 개인 SNS에 올린 글은 가톨릭교에 가르침에 어긋난다며 교회에 공적 입장이 아니라고 분명하게 선을 그었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.511,
+                "end": 34.000
+            }
+        ]
+    },
+    "summary": "천주교 대전교구 소속 박 모 신부가 기도라는 제목과 함께 윤석열 대통령 부부가 전용기에서 추락하는 모습이 담겨 있는사진을 공개했고 천주교는 대국민 사과문을 발표했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09089_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_09089_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 4,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

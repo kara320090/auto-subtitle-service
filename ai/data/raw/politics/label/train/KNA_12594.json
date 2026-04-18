@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_12594",
+        "category": "정치뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.355,
+        "format": "MP4",
+        "date": "2022-09-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국회 사무처 자료를 분석한 결과 산회 때 자리를 지킨 의원 비율은 13퍼센트 그나마 지각한 의원들까지 포함한 수치입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.675
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 모습을 노르웨이 국회 사절단도 방청석에서 지켜봤습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.685,
+                "end": 13.216
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더 큰 문제는 똑같은 질문과 답변의 반복입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.226,
+                "end": 17.015
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영빈관 문제 낮에는 추진하겠다고 하고 저녁에는 철회하겠다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.025,
+                "end": 22.355
+            }
+        ]
+    },
+    "summary": "국회 사무처 자료를 분석한 산회 때 자리를 지킨 의원 비율은 13퍼센트이었으며 더 큰 문제는 똑같은 질문과 답변의 반복이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12594_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12594_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

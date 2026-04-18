@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_30849",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.0,
+        "format": "MP4",
+        "date": "2016-12-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부산 지검 특수부는 새누리당 이진복 의원 본인과 가족 지인들에 대한 계좌 추적을 벌이고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.653
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰은 이 의원과 LCT 시행사 실 소유주 @이름1 씨 사이의 자금 흐름을 확인 중인 것으로 전해졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.663,
+                "end": 14.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 의원은 @이름1 씨와 수차례 골프를 한 것으로 확인되는 등 이 씨와 친분이 깊은 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.497,
+                "end": 22.000
+            }
+        ]
+    },
+    "summary": "부산 지검 특수부는 새누리당 이진복 의원과 LCT 시행사 실 소유주가 친분이 깊은 것으로 알려져 본인과 가족 지인들에 대한 계좌 추적을 벌이고 있다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30849_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30849_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

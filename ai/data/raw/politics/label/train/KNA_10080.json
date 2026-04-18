@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_10080",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.857,
+        "format": "MP4",
+        "date": "2022-05-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "더불어민주당 송영길 후보의 1호 공약은 바로 한강 프로젝트입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강변북로와 올림픽대로를 왕복 8차선 도로로 지하화하고 지상에 공원과 보행 전용교를 설치해 한강을 시민에게 돌려준다는 계획입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.797,
+                "end": 15.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제2의 한강의 기적을 만들기 위한 것입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 15.048,
+                "end": 17.507
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 만들어지게 되면 우리 서울의 자산 가치가 엄청나게 상승하게 될 것으로 생각합니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 17.517,
+                "end": 23.857
+            }
+        ]
+    },
+    "summary": "더불어민주당 송영길 후보의 1호 공약은 한강 프로젝트로 한강을 시민에게 돌려준다는 계획으로 서울의 자산 가치가 상승하게 될 것으로 생각한다며 자신감을 내비쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10080_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 59
+                }
+            ]
+        }
+    ]
+}

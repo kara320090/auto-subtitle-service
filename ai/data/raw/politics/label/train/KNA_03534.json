@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_03534",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.324,
+        "format": "MP4",
+        "date": "2021-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금까지 단일화 방식 중에 한 번도 정치 역사상 쓴 적 없는 걸 들고 나와서 관철하겠",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사실 지금까지 쓰지 않던 방식을 어 국민의힘 쪽에서 가지고 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.048,
+                "end": 15.415
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "두 후보는 단일화 의지를 내비쳤지만 합의했던 대로 오늘부터 여론조사를 시작하는 건 어렵게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.425,
+                "end": 22.336
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "장외 신경전도 계속됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.346,
+                "end": 24.324
+            }
+        ]
+    },
+    "summary": "서로가 쓰지 않은 방식을 가지고 나왔다고 발언하며 두 후보는 단일화 의지를 내비쳤지만 합의했던 대로 오늘부터 여론조사를 시작하는 건 어렵게 됐다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03534_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03534_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

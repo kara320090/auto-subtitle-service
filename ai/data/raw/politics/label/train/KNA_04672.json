@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "KNA_04672",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 26.192,
+        "format": "MP4",
+        "date": "2021-11-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이어 러시아 공중 통제기 1대도 카디즈에 진입했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.974
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오후 4시쯤에는 러시아 군용기 2대가 카디즈에 진입한 뒤 빠져나갔다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.984,
+                "end": 9.904
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "각 군용기는 10분 정도씩 카디즈에 진입한 뒤 이탈한 것으로 전해졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 9.914,
+                "end": 15.476
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번에 진입한 중국 군용기는 H 계열 폭격기 2대 러시아는 TU 계열 폭격기 2대와 수호이 계열 4대 공중 통제기 A 50 1대로 파악됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 15.486,
+                "end": 26.192
+            }
+        ]
+    },
+    "summary": "러시아와 중국의 군용기가 카디즈에 진입한 뒤 빠져나갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04672_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04672_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 4,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

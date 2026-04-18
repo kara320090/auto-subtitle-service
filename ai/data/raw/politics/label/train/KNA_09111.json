@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "KNA_09111",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.233,
+        "format": "MP4",
+        "date": "2022-11-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "영장청구 직 후에도 정 실장은 당을 통해 자신의 입장을 전했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.539
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정 실장은 진실 하나만 믿고 있다 추가 조사가 있더라도 당당하고 떳떳하게 임하겠다는 입장을 전해왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.549,
+                "end": 16.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 검찰이 짜 맞추기 조작수사를 하고 있다며 우기기로 수사를 증명하지 말고 증거를 제시하라는 논평도 냈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.956,
+                "end": 26.374
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "법원은 이틀 뒤인 오는 18일 영장심사를 진행할 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.384,
+                "end": 31.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "kbs뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.611,
+                "end": 33.233
+            }
+        ]
+    },
+    "summary": "민주당은 검찰이 짜 맞추기 조작수사를 하고 있다며 우기기로 수사를 증명하지 말고 증거를 제시하라는 논평을 냈고 법원은 이틀 뒤 영장심사를 진행할 예정이라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09111_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_09111_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

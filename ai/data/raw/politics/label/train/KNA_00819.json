@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_00819",
+        "category": "정치뉴스",
+        "sub_category": 39,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 35.068,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정의가 실종되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.109
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 당선인은 부당의 팩트가 확실히 있어야 하지 않느냐며 임명을 강행하겠다는 의지를 굽히지 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.119,
+                "end": 10.800
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경북대 의대 편입 시험에서 후보자 딸에게 면접 만점을 준 교수 가운데 두 명이 후보자와 서른다섯 편의 논문을 공저했고 아들에게 가장 높은 점수를 준 또 다른 교수도 후보자와 열네 편의 논문을 같이 쓴 사이라는 추가 폭로도 이어갔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.810,
+                "end": 27.610
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러면서 조국 사태 당시 검찰 수사도 소환했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.620,
+                "end": 31.487
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "소녀의 일기장까지 압수하던 잔혹하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 31.497,
+                "end": 35.068
+            }
+        ]
+    },
+    "summary": "윤 당선인은 임명을 강행하겠다는 의지를 굽히지 않고 있다며 후보자의 자녀 혜택에 대한 추가 폭로를 이어갔고 조국 사태 당시 검찰 수사도 소환했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00819_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00819_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

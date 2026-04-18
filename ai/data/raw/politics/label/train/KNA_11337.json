@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_11337",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.82,
+        "format": "MP4",
+        "date": "2023-01-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "다보스포럼 연단에 오른 윤석열 대통령은 지금 세계가 복합위기라고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.426
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경제 안보블록화 기후변화 보건 격차 등을 문제로 꼽으며 자유무역 복원 연대와 협력을 해법으로 제안했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.436,
+                "end": 13.641
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자유무역 체제는 절대 포기해서 안 되는 글로벌 공공재입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.651,
+                "end": 20.820
+            }
+        ]
+    },
+    "summary": "다보스 포럼에서 윤 대통령은 세계가 복합위기라고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11337_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "filename": "KNA_01908",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.826,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인수위 외교안보 분야 간사는 이명박 정부에서 일한 김성한 전 차관이 임명됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.590
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당선인의 외교 과외를 맡아 외교부 장관으로 거론돼온 인사로 한미동맹을 외교안보의 중심축으로 강조합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.600,
+                "end": 13.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인수위에 합류한 김태효 전 기획관은 이명박 정부의 대외 정책을 주도해 외교안보 실세로 불렸습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.422,
+                "end": 20.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대북 강경론자로 분류되는데 이명박 정부 당시 군 댓글 조작 혐의로 현재 재판을 받고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.050,
+                "end": 26.826
+            }
+        ]
+    },
+    "summary": "인수위 외교안보 분야 간사는 이명박 정부에서 일한 김성한 전 차관이 임명되었고 인수위에 합류한 김태효 전 기획관은 이명박 정부의 대외 정책을 주도해 외교안보 실세로 불렸다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01908_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01908_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 54
+                }
+            ]
+        }
+    ]
+}

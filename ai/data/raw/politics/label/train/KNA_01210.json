@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_01210",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.248,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거칠게 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.722
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같은 당 후보들이 경선 때도 허경영식 공약이다 이렇게 얘기를 했어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.732,
+                "end": 7.838
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거둬 들입니다 하고 말씀을 하고 사과를 드리는 것이 저는 정치인의 도리라고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.848,
+                "end": 13.508
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "박남춘 후보가",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.518,
+                "end": 15.248
+            }
+        ]
+    },
+    "summary": "같은 당 후보들이 경선 때도 허경영식 공약이다 이렇게 얘기를 했고 거둬 들입니다하고 사과를 드리는 것이 저는 정치인의 도리라고 생각한다며 거칠게 비판했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01210_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01210_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

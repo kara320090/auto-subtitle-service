@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_11328",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.66,
+        "format": "MP4",
+        "date": "2023-01-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령이 갤싱어 인텔 최고경영자와 악수를 나눕니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.222
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.232,
+                "end": 11.264
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "인텔과 퀄컴 IBM 등 첨단산업 기업들과 무바달라 블랙스톤 등의 금융기업들까지 15개 외국 대기업 최고 경영자들이 윤 대통령과 한자리에 모였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.274,
+                "end": 22.911
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "삼성과 SK 현대차 등 국내 6대 기업 대표들도 함께했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.921,
+                "end": 27.660
+            }
+        ]
+    },
+    "summary": "윤 대통령이 15개 외국 대기업 최고 경영자들과 만났다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11328_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_00258",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.92,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니면 없는 적폐를 기획 사정으로 만들어 내겠다는 것인지 대답하라고 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.495
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청와대 고위 관계자는 대통령을 선거판에 불러낸 건 대단히 유감이라며 윤 후보의 발언이 선거 전략이라면 저열하고 소신이라면 위험하다고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.505,
+                "end": 18.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사과 요구가 선거 개입이라는",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.607,
+                "end": 20.920
+            }
+        ]
+    },
+    "summary": "청와대 고위 관계자는 대통령을 선거판에 불러낸 건 대단히 유감이라며 윤 후보의 발언이 선거 전략이라면 저열하고 소신이라면 위험하다고 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00258_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 35
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00258_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_07232",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.652,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시장경제 체제를 기반으로 국민이 진정한 주인인 나라로 재건하고.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.613
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 대통령은 과거 신자유주의 경제학자인 @이름1의 책을 읽고 세계관을 형성했다고 말해왔데 이 같은 인식이 취임사에 반영된 것으로 보입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.623,
+                "end": 17.777
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.787,
+                "end": 19.652
+            }
+        ]
+    },
+    "summary": "윤석열 대통령의 취임식 내용에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07232_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

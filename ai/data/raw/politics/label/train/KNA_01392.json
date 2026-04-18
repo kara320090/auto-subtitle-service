@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_01392",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.719,
+        "format": "MP4",
+        "date": "2022-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "수도권 광역 지자체장들의 이 같은 공조 움직임이 실제 성과로 이어질지 주목됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.330
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박희봉입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.340,
+                "end": 8.812
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "K팝과 K콘텐츠에 이어 K클래식의 존재감도 날로 커지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.822,
+                "end": 15.302
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "세계 3 대 피아노 경연으로 꼽히는 반클라이번 국제 콩쿠르에서",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.312,
+                "end": 19.719
+            }
+        ]
+    },
+    "summary": "수도권 광역 지자체장들의 이 같은 공조 움직임이 실제 성과로 이어질지 주목된다며 기자는 이야기하였고 K클래식의 존재감이 날로 커지고 있다고 앵커는 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01392_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 149
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01392_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

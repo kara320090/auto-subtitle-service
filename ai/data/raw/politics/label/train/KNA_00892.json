@@ -1,0 +1,163 @@
+{
+    "metadata": {
+        "filename": "KNA_00892",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 56.823,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "특히 문재인 정부 총리 청문회와 비교하면 자료 요구가 세네 배나 많고 제출이 불가한 자료를 요구했다며 한 후보자를 엄호했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.140
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "50년 전 급여 내역을 어떻게 집에서 다 보관할 수 있겠는지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.140,
+                "end": 12.410
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "성실하게 제출하는 데까지 했고 도저히 불가한 것은 불가할 수밖에 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.500,
+                "end": 18.487
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전체 청문 위원 13명 중 8명이 불참하면서 정상적인 청문회 진행이 어려워지자 주호영 위원장은 개의 39분 만에 정회를 선포했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.497,
+                "end": 27.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여야는 이후 자료 제출에 대한 협의를 이어갔지만 이견을 좁히지 못했고 결국 청문회는 파행 끝에 종료됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.810,
+                "end": 34.743
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "간사님들끼리 계속 협의를 하시는 것 같습니다. 감사합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.753,
+                "end": 38.419
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 후보자의 인사 청문회는 내일 오전 10시에 다시 열릴 예정이지만 여야의 대치가 이어질 경우 내일도 정상 진행은 쉽지 않을 전망입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 38.429,
+                "end": 47.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 박민철입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 47.503,
+                "end": 50.392
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "문재인 대통령은 검찰 수사권 폐지와 관련한 여야 합의안을 긍정적으로 평가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.402,
+                "end": 56.823
+            }
+        ]
+    },
+    "summary": "전체 청문 위원 13명 중 8명이 불참하면서 정상적인 청문회 진행이 어려워지자 주호영 위원장은 개의 39분 만에 정회를 선포했고 인사 청문회는 내일 오전 10시에 다시 열릴 예정이지만 의견을 좁히지 못하고 여야의 대치가 이어질 경우 내일도 정상 진행은 쉽지 않을 전망입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00892_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 154
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00892_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,8 +1,11 @@
-import cv2
-import re
+import json
+import shutil
+import subprocess
 from dataclasses import dataclass
+from pathlib import Path
 from typing import List, Tuple
 
+import cv2
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
@@ -23,51 +26,59 @@ class DisplaySubtitleItem:
     original_end: float
 
 
-def parse_srt_timestamp(ts: str) -> float:
-    match = re.match(r"(\d{2}):(\d{2}):(\d{2}),(\d{3})", ts.strip())
-    if not match:
-        raise ValueError(f"잘못된 SRT 타임스탬프 형식: {ts}")
+def load_pairs_from_jsonl_line(
+    jsonl_path: str,
+    line_index: int = 0,
+    text_field: str = "after_text",
+) -> List[SubtitleItem]:
+    """
+    JSONL 파일의 특정 한 줄을 읽고,
+    그 안의 pairs를 SubtitleItem 리스트로 변환한다.
 
-    hh, mm, ss, ms = map(int, match.groups())
-    return hh * 3600 + mm * 60 + ss + ms / 1000.0
+    text_field:
+    - "before_text" 사용 가능
+    - "after_text" 사용 가능
+    """
+    path = Path(jsonl_path)
+    if not path.exists():
+        raise FileNotFoundError(f"JSONL 파일을 찾을 수 없습니다: {jsonl_path}")
 
+    with path.open("r", encoding="utf-8") as f:
+        lines = [line.strip() for line in f if line.strip()]
 
-def load_srt(srt_path: str) -> List[SubtitleItem]:
-    with open(srt_path, "r", encoding="utf-8-sig") as f:
-        content = f.read().strip()
+    if not lines:
+        raise ValueError("JSONL 파일이 비어 있습니다.")
 
-    blocks = re.split(r"\n\s*\n", content)
+    if line_index < 0 or line_index >= len(lines):
+        raise IndexError(f"line_index 범위를 벗어났습니다: {line_index} / 전체 {len(lines)}줄")
+
+    row = json.loads(lines[line_index])
+
+    pairs = row.get("pairs", [])
+    if not pairs:
+        raise ValueError("선택한 JSONL 줄에 pairs가 없습니다.")
+
     subtitles: List[SubtitleItem] = []
+    for item in pairs:
+        start = float(item.get("start", 0.0))
+        end = float(item.get("end", 0.0))
+        text = str(item.get(text_field, "")).strip()
 
-    for block in blocks:
-        lines = [line.strip("\ufeff") for line in block.splitlines() if line.strip()]
-        if len(lines) < 2:
+        if end <= start:
             continue
-
-        if re.match(r"^\d+$", lines[0]):
-            time_line = lines[1]
-            text_lines = lines[2:]
-        else:
-            time_line = lines[0]
-            text_lines = lines[1:]
-
-        time_match = re.match(
-            r"(\d{2}:\d{2}:\d{2},\d{3})\s+-->\s+(\d{2}:\d{2}:\d{2},\d{3})",
-            time_line
-        )
-        if not time_match:
+        if not text:
             continue
-
-        start_ts, end_ts = time_match.groups()
-        text = "\n".join(text_lines).strip()
 
         subtitles.append(
             SubtitleItem(
-                start_sec=parse_srt_timestamp(start_ts),
-                end_sec=parse_srt_timestamp(end_ts),
-                text=text
+                start_sec=start,
+                end_sec=end,
+                text=text,
             )
         )
+
+    if not subtitles:
+        raise ValueError("사용 가능한 pair 자막이 없습니다.")
 
     subtitles.sort(key=lambda x: x.start_sec)
     return subtitles
@@ -83,7 +94,7 @@ def estimate_reading_duration(
     자막 길이에 따라 읽기 시간을 대략 추정.
     공백/개행은 제외해서 계산.
     """
-    normalized = re.sub(r"\s+", "", text)
+    normalized = "".join(text.split())
     char_count = max(1, len(normalized))
     estimated = char_count / chars_per_sec
     return max(min_duration, min(estimated, max_duration))
@@ -97,15 +108,8 @@ def build_readable_timeline(
     extra_hold: float = 0.2
 ) -> List[DisplaySubtitleItem]:
     """
-    SRT 원본 시간을 그대로 쓰지 않고,
+    원본 segment 시간을 그대로 쓰지 않고,
     가독성을 위해 표시 종료 시점을 조금 늘린 타임라인 생성.
-
-    포인트:
-    - 최소 표시 시간 보장
-    - 글자 수에 따른 읽기 시간 반영
-    - 살짝 더 남겨서 화면 전환이 덜 급하게 보이게 처리
-    - 다음 자막 시작과 겹쳐도 자르지 않음
-      -> 겹치는 시간에는 여러 줄로 함께 표시
     """
     result: List[DisplaySubtitleItem] = []
 
@@ -136,10 +140,6 @@ def get_active_subtitles(
     current_sec: float,
     subtitles: List[DisplaySubtitleItem]
 ) -> List[DisplaySubtitleItem]:
-    """
-    현재 시점에 화면에 보여야 하는 자막들을 모두 반환.
-    겹치는 경우 2개 이상 반환될 수 있음.
-    """
     active = [
         item for item in subtitles
         if item.start_sec <= current_sec <= item.end_sec
@@ -149,11 +149,6 @@ def get_active_subtitles(
 
 
 def compose_multiline_text(active_items: List[DisplaySubtitleItem]) -> str:
-    """
-    active 자막들을 하나의 멀티라인 텍스트로 합침.
-    먼저 시작한 자막이 위,
-    나중에 시작한 자막이 아래.
-    """
     if not active_items:
         return ""
 
@@ -242,36 +237,28 @@ def draw_korean_subtitle(
     return cv2.cvtColor(np.array(pil_img.convert("RGB")), cv2.COLOR_RGB2BGR)
 
 
-def add_subtitles_to_video(
-    input_video_path: str,
-    output_video_path: str,
+def check_ffmpeg(ffmpeg_bin: str = "ffmpeg"):
+    if shutil.which(ffmpeg_bin) is None:
+        raise EnvironmentError(f"ffmpeg를 찾지 못했습니다. PATH 확인 필요: {ffmpeg_bin}")
+
+
+def create_temp_black_subtitle_video(
     subtitles: List[SubtitleItem],
+    temp_video_path: str,
     font_path: str,
+    width: int = 1280,
+    height: int = 720,
+    fps: int = 30,
     font_size: int = 36,
     min_duration: float = 1.6,
     chars_per_sec: float = 10.0,
     max_duration: float = 5.5,
     extra_hold: float = 0.2
 ) -> None:
-    cap = cv2.VideoCapture(input_video_path)
-    if not cap.isOpened():
-        raise RuntimeError(f"비디오를 열 수 없습니다: {input_video_path}")
-
-    fps = cap.get(cv2.CAP_PROP_FPS)
-    if fps <= 0:
-        raise RuntimeError("FPS 정보를 읽을 수 없습니다.")
-
-    width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
-    height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-
-    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
-    writer = cv2.VideoWriter(output_video_path, fourcc, fps, (width, height))
-
-    if not writer.isOpened():
-        cap.release()
-        raise RuntimeError(f"출력 비디오를 생성할 수 없습니다: {output_video_path}")
-
+    """
+    OpenCV로 임시 검은 배경 자막 영상을 생성한다.
+    이 영상은 나중에 ffmpeg로 H.264 MP4로 후처리된다.
+    """
     display_timeline = build_readable_timeline(
         subtitles=subtitles,
         min_duration=min_duration,
@@ -280,15 +267,26 @@ def add_subtitles_to_video(
         extra_hold=extra_hold
     )
 
-    frame_idx = 0
+    total_duration = max(item.end_sec for item in display_timeline) + 1.0
+    total_frames = int(total_duration * fps)
+
+    temp_path = Path(temp_video_path)
+    temp_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # OpenCV 기본 저장
+    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
+    writer = cv2.VideoWriter(str(temp_path), fourcc, fps, (width, height))
+
+    if not writer.isOpened():
+        raise RuntimeError(f"임시 비디오를 생성할 수 없습니다: {temp_video_path}")
 
     try:
-        while True:
-            ret, frame = cap.read()
-            if not ret:
-                break
-
+        for frame_idx in range(total_frames):
             current_sec = frame_idx / fps
+
+            # 검은 배경
+            frame = np.zeros((height, width, 3), dtype=np.uint8)
+
             active_items = get_active_subtitles(current_sec, display_timeline)
 
             if active_items:
@@ -301,37 +299,151 @@ def add_subtitles_to_video(
                 )
 
             writer.write(frame)
-            frame_idx += 1
 
             if frame_idx % 100 == 0:
                 print(f"진행률: {frame_idx}/{total_frames} 프레임")
 
     finally:
-        cap.release()
         writer.release()
 
-    print(f"완료: {output_video_path}")
+    print(f"[INFO] 임시 영상 생성 완료: {temp_path}")
+
+
+def reencode_with_ffmpeg(
+    input_video_path: str,
+    output_video_path: str,
+    ffmpeg_bin: str = "ffmpeg"
+) -> None:
+    """
+    ffmpeg로 H.264 + yuv420p로 재인코딩하여
+    플레이어 호환성을 높인다.
+    """
+    check_ffmpeg(ffmpeg_bin)
+
+    cmd = [
+        ffmpeg_bin,
+        "-y",
+        "-i", input_video_path,
+        "-c:v", "libx264",
+        "-pix_fmt", "yuv420p",
+        output_video_path,
+    ]
+
+    result = subprocess.run(
+        cmd,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True,
+    )
+
+    if result.returncode != 0:
+        raise RuntimeError(
+            f"ffmpeg 후처리 실패\n"
+            f"입력: {input_video_path}\n"
+            f"출력: {output_video_path}\n"
+            f"stderr:\n{result.stderr}"
+        )
+
+    print(f"[INFO] 최종 영상 생성 완료: {output_video_path}")
+
+
+def create_black_subtitle_preview_from_pairs_jsonl(
+    jsonl_path: str,
+    output_video_path: str,
+    font_path: str,
+    line_index: int = 0,
+    text_field: str = "after_text",
+    width: int = 1280,
+    height: int = 720,
+    fps: int = 30,
+    font_size: int = 36,
+    min_duration: float = 1.6,
+    chars_per_sec: float = 10.0,
+    max_duration: float = 5.5,
+    extra_hold: float = 0.2,
+    ffmpeg_bin: str = "ffmpeg"
+) -> None:
+    """
+    JSONL 파일의 특정 한 줄을 읽어서
+    검은 배경 자막 preview 영상을 생성하고,
+    ffmpeg로 최종 mp4를 후처리한다.
+    """
+    subtitles = load_pairs_from_jsonl_line(
+        jsonl_path=jsonl_path,
+        line_index=line_index,
+        text_field=text_field,
+    )
+
+    output_path = Path(output_video_path)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    temp_video_path = output_path.parent / f"{output_path.stem}_temp.mp4"
+
+    create_temp_black_subtitle_video(
+        subtitles=subtitles,
+        temp_video_path=str(temp_video_path),
+        font_path=font_path,
+        width=width,
+        height=height,
+        fps=fps,
+        font_size=font_size,
+        min_duration=min_duration,
+        chars_per_sec=chars_per_sec,
+        max_duration=max_duration,
+        extra_hold=extra_hold,
+    )
+
+    reencode_with_ffmpeg(
+        input_video_path=str(temp_video_path),
+        output_video_path=str(output_path),
+        ffmpeg_bin=ffmpeg_bin,
+    )
+
+    # 임시 파일 삭제
+    if temp_video_path.exists():
+        temp_video_path.unlink()
+        print(f"[INFO] 임시 파일 삭제: {temp_video_path}")
 
 
 if __name__ == "__main__":
-    input_video = "input.mp4"
-    output_video = "output_with_readable_subtitles.mp4"
-    srt_path = "subtitle.srt"
+    # =========================
+    # 입력 JSONL 경로
+    # =========================
+    jsonl_path = r"C:\auto-subtitle-service\ai\opencv\refine_before_after.jsonl"
 
-    font_path = "C:/Windows/Fonts/malgun.ttf"
-    # macOS 예시: "/System/Library/Fonts/AppleSDGothicNeo.ttc"
-    # Linux 예시: "/usr/share/fonts/truetype/nanum/NanumGothic.ttf"
+    # 몇 번째 줄을 볼지
+    line_index = 0
 
-    subtitles = load_srt(srt_path)
+    # before_text / after_text 중 선택
+    text_field = "after_text"
 
-    add_subtitles_to_video(
-        input_video_path=input_video,
-        output_video_path=output_video,
-        subtitles=subtitles,
+    # =========================
+    # 출력 경로
+    # =========================
+    output_dir = Path(r"C:\auto-subtitle-service\data\subtitles\sample")
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    output_video = output_dir / f"black_preview_line_{line_index:04d}_{text_field}.mp4"
+
+    # =========================
+    # 폰트 / ffmpeg
+    # =========================
+    font_path = r"C:/Windows/Fonts/malgun.ttf"
+    ffmpeg_bin = "ffmpeg"
+
+    create_black_subtitle_preview_from_pairs_jsonl(
+        jsonl_path=jsonl_path,
+        output_video_path=str(output_video),
         font_path=font_path,
+        line_index=line_index,
+        text_field=text_field,
+        width=1280,
+        height=720,
+        fps=30,
         font_size=36,
-        min_duration=1.8,     # 자막 최소 유지 시간
-        chars_per_sec=9.5,    # 숫자가 낮을수록 더 오래 보여줌
-        max_duration=6.0,     # 너무 오래 남는 것 방지
-        extra_hold=0.25       # 살짝 여유
+        min_duration=1.8,
+        chars_per_sec=9.5,
+        max_duration=6.0,
+        extra_hold=0.25,
+        ffmpeg_bin=ffmpeg_bin,
     )

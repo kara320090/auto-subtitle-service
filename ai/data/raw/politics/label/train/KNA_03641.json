@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_03641",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.49,
+        "format": "MP4",
+        "date": "2021-04-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 @이름1 후보는 취약 지지층인 청년과 부동산 문제를 집중 공략했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.901
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청년 교통비 40퍼센트 할인에 이어 힘있는 여당 후보로서 지역 재건축을 이뤄내겠다고 공약했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.911,
+                "end": 13.767
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "재건축 문제 정부와 적극 협의하겠습니다. 이 문제는 정부의 협조 없이는 할 수 없는 일입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 13.777,
+                "end": 23.490
+            }
+        ]
+    },
+    "summary": "민주당 후보는 청년 교통비 40퍼센트 할인, 지역 재건축 등 청년과 부동산 문제를 집중 공략했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03641_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

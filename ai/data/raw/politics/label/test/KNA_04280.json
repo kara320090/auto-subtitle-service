@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_04280",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.222,
+        "format": "MP4",
+        "date": "2021-08-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의 힘은 본 회의가 열리면 무제한 토론 필리버스터를 신청하기로 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "의석수 차이로 필리버스터의 효과가 없을 거란 신중론도 있었지만 모든 수단을 동원해 저지하겠다는 의지를 밝힌 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.538,
+                "end": 12.207
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "권력자가 가짜 뉴스라고 판정해서 언론 보도를 차단 삭제시키고 징벌적 손해 배상 청구를 하여서",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.217,
+                "end": 22.222
+            }
+        ]
+    },
+    "summary": "국민의 힘은 의석수 차이로 효과가 없을 거란 신중론도 있지만 모든 수단을 동원해 저지하겠다는 의지로 무제한 토론인 필리버스터를 신청한다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04280_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

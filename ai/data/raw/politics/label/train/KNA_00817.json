@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_00817",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 39.606,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "반려 의사를 밝힌 것이라고 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정치권에선 사표 반려와 면담 수락 결정을 두고 문 대통령이 검찰은 물론 국회 특히 민주당에 대화를 주문한 것이라는 분석이 나옵니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.665,
+                "end": 12.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 청와대는 오늘도 검찰 수사권 폐지 법안에 대한 특별한 입장 표명은 하지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.329,
+                "end": 18.479
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청와대 핵심 관계자는 국회에서 논의할 입법의 시간이라는 기존 입장에 변함이 없고 현재로선 추가로 말씀드릴 사안도 없다고 전했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.489,
+                "end": 27.854
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 이호준입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 27.864,
+                "end": 30.924
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "에 자녀 특혜 의혹과 관련한 어제 정호영 보건 복지부 장관 후보자의 어제 해명에도 불구하고 민주당은 공세의 고삐를 늦추지 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 30.934,
+                "end": 39.606
+            }
+        ]
+    },
+    "summary": "정치권은 문 대통령이 민주당에 대화를 주문한 것이라 분석했고 청와대 관계자는 기존 입장에 변함이 없다고 전했으며 자녀 특혜 의혹과 관련한 보건 복지부 장관 후보자 해명에도 민주당은 공세를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00817_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00817_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

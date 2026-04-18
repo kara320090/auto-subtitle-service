@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01741",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.583,
+        "format": "MP4",
+        "date": "2022-02-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 모두가 사감이나 사익은 뒤로 하고 정권 교체라는 대의를 앞세워야",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.539
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오늘 대선 후보들 간 TV 토론 주제가 정치 분야라 이 제안을 두고 후보들 간 논의가 이뤄질지도 관심사입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.549,
+                "end": 15.201
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 계현우입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.211,
+                "end": 16.583
+            }
+        ]
+    },
+    "summary": "오늘 대선 후보들 간 TV 토론 주제가 정치 분야라 이 제안을 두고 후보들 간 논의가 이뤄질지도 관심사입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01741_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

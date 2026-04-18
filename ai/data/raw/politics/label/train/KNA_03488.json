@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "KNA_03488",
+        "category": "정치뉴스",
+        "sub_category": 44,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.764,
+        "format": "MP4",
+        "date": "2021-03-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 @이름1 위원장은 일단 긍정적입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.447
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 한 번 해보죠. 뭐 300명 다",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.457,
+                "end": 5.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러나 민주당 제안의 의도가 의심스럽다는 반응도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.800,
+                "end": 9.918
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "피할 생각은 없지만 민주당 의원들과 민주당 지자체장들 민주당 소속 지방 의원들 전수 조사하고 전부를 밝히는 것이 우선이라고 봅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.920,
+                "end": 21.817
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 국회의장은 공직자가 투기를 하는 것은 바람직하지 않다며 취지에 공감을 표했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.827,
+                "end": 28.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름3입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 28.417,
+                "end": 30.764
+            }
+        ]
+    },
+    "summary": "민주당의 제안에 @이름2 국회의장은 공직자가 투기를 하는 것은 바람직하지 않다며 취지에 공감했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03488_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03488_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

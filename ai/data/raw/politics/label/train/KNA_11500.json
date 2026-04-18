@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_11500",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 29.996,
+        "format": "MP4",
+        "date": "2023-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "불안한 마음은 항상 갖고 있죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.209
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "언제 방류하냐.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.219,
+                "end": 3.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "곧 인제 방류한다고 하는데 참 큰일이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.872,
+                "end": 7.545
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나가지도 못할 거 같고 먹거리뿐만 아니라 모든 게 한두 가지가 아니죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.555,
+                "end": 14.110
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난해 11월 제주 연구원의 연구를 보면 오염수 방류 시 수산물 소비 감소 폭은 최대 48.8퍼센트에 이르고 이를 연간 피해액으로 환산하면 3조 7200억 원에 이를 것으로 추산됐습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.120,
+                "end": 28.256
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 28.266,
+                "end": 29.996
+            }
+        ]
+    },
+    "summary": "후쿠시마 오염수가 언제 방류될지 모르니 불안하고 수산물 피해액이 클 것으로 추산된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 66,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_03103",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.561,
+        "format": "MP4",
+        "date": "2021-01-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4차 재난 지원금 지급에 대해선 지금은 논의할 때가 아니라고 선을 그었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본예산도 이제 막 어 집행이 시작된 이 단계에 에 정부가 추경을 통해서 하는 4차 재난 지원금을 말하기에는 어 정말 어 너무나 이른 시기",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.650,
+                "end": 19.445
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보편이냐 선별이냐는 경제 상황에 맞춰 선택할 문제로 정부 재난 지원금으로 충분치 않은 경우 지자체가 보완 지원을 할 수 있다고도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.455,
+                "end": 28.561
+            }
+        ]
+    },
+    "summary": "문 대통령은 4차 재난 지원금 지급에 대해선 지금은 논의할 때가 아니라고 선을 그었고 보편이냐 선별이냐는 경제 상황에 맞춰 선택할 문제로 정부 재난 지원금으로 충분치 않은 경우 지자체가 보완 지원을 할 수 있다고도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03103_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 47,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03103_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

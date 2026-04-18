@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_12333",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.455,
+        "format": "MP4",
+        "date": "2020-02-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "확진자 수가 중국에 이어 세계 2위가 된 건 정부의 안이한 대응 때문이다 근거 없는 낙관 늑장 대응으로 국민들 목숨이 위협받고 있다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문재인 대통령은 곧 종식될 것이다라고 하면서 국민들을 방심하게 만들었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.825,
+                "end": 16.789
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부는 사과 한마디 하지 않고 지역사회 감염으로 책임을 전가하고 있습",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.799,
+                "end": 22.455
+            }
+        ]
+    },
+    "summary": "야당은 확진자 수가 세계 2위가 된 것은 정부의 안이한 대응 때문이고 근거 없는 낙관과 늑장 대응으로 국민들 목숨이 위협받고 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12333_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

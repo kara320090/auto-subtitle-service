@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_11123",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.089,
+        "format": "MP4",
+        "date": "2023-05-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "연구소와 경선 캠프 회계 담당자가 같은 데다 경선 직전 연구소 후원금이 크게 늘어난 게 수상하다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰 수사망이 좁혀 오자 송 전 대표는 내일 오전 열 시 검찰에 자진 출두하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.876,
+                "end": 13.425
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자금 흐름을 찾아서 송 대표한테 온 게 아니고 돈을 못 찾다 보니까 여기도 뒤지고 저기도 뒤지고 하면서 송 대표한테 온 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.435,
+                "end": 23.089
+            }
+        ]
+    },
+    "summary": "검찰은 연구소와 경선 캠프 회계 담당자가 같고 경선 직전 연구소 후원금이 크게 늘어난 것을 수상하게 여겼고 수사망이 좁혀 오자 송 전 대표는 검찰에 자진 출두하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11123_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_02124",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.55,
+        "format": "MP4",
+        "date": "2022-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "첫 카드로는 대통령 면담을 꺼내들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.298
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여당인 민주당에서 당론으로 확정한 검사 수사 기능 전면 폐지 법안과 관련해서 면담을 요청하였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.308,
+                "end": 12.592
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령이 법안 거부권을 행사하도록 설득하겠다는 취지로 읽힙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.602,
+                "end": 17.550
+            }
+        ]
+    },
+    "summary": "첫 카드로 대통령 면담을 꺼냈고 대통령이 법안 거부권을 행사하도록 설득하겠다는 취지로 읽힌다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02124_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

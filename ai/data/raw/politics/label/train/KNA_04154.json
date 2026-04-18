@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_04154",
+        "category": "정치뉴스",
+        "sub_category": 45,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.918,
+        "format": "MP4",
+        "date": "2021-07-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기도 유관기관의 임원이 SNS 대화방에서 이낙연 후보를 비방했다며 이낙연 후보 측은 경찰 고발도 검토하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.503
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "선거법 위반 여부는 그것에 따른 어 법적인 과정이 있을 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.513,
+                "end": 16.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "준법이냐 위법이냐의 문제이지요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.129,
+                "end": 18.918
+            }
+        ]
+    },
+    "summary": "경기도 유관기관의 임원이 SNS에서 후보를 비방했다며 경찰 고발을 검토하고 있다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04154_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

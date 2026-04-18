@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_03297",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.456,
+        "format": "MP4",
+        "date": "2021-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제 고향이라고 할 수 있는 이 구로 남구로9 시장에 와서 오랜만에 주민들 만나니까 너무 반가웠고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.359
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.369,
+                "end": 9.707
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1 의원은 최근 지지를 선언한 @이름2 의원의 지역구인 은평구를 찾았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.717,
+                "end": 16.331
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 서민들이 먹고살 수 있는 그런 대한민국 만들어 달라 그런 서울 만들어 달라 이런 절절한 목소리를 들었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.341,
+                "end": 23.456
+            }
+        ]
+    },
+    "summary": "@이름1 의원은 최근 지지를 선언한 @이름2 의원의 지역구인 은평구를 찾았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03297_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

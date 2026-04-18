@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_06866",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.086,
+        "format": "MP4",
+        "date": "2022-04-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당이 @이름1 사태를 공개 소환하며 공세 수위를 높였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.853
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름2 후보자 자녀의 의대 편입 의혹과 아들 병역 의혹에 대해 검찰이 @이름1 사태 때처럼 수사하라는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.863,
+                "end": 11.451
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소녀의 일기장까지 압수하던 잔혹하고 무자비한 공정의 잣대는 어디로 사라졌는지 모르겠습니다.지명자인 윤석열 대통령 당선인을 향해선 그동안 강조했던 공정과 정의는 어디로 사라졌냐며 날을 세웠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.461,
+                "end": 20.086
+            }
+        ]
+    },
+    "summary": "민주당이 @이름2 후보자 자녀 의혹에 대해 검찰이 @이름1 사태 때처럼 수사하라며 공세 수위를 높였다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06866_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

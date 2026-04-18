@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_04866",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.125,
+        "format": "MP4",
+        "date": "2021-12-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "개별 언론사 열독률은 순위에 따라 다섯 구간으로 점수화 돼 정부 광고 단가에 반영됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.562
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "각 구간별로 어떤 신문들이 들어가는지를 광고주들에게 제공을 하는 거구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.572,
+                "end": 12.133
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그 전체 비중을 어떤 식으로 정할 것인가는 광고주들이 정하게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.143,
+                "end": 16.955
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "함께 조사한 잡지의 경우 열독률은 2.4퍼센트였고 신문과 달리 여성이 남성보다 이용률이 높았습",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.965,
+                "end": 25.125
+            }
+        ]
+    },
+    "summary": "열독률 순위에 따라 정부 광고 단가가 반영되며 잡지의 경우 남성보다 여성의 이용률이 높았다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04866_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_00349",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.284,
+        "format": "MP4",
+        "date": "2022-02-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 양민철입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최고 연 10퍼센트대 금리 효과로 청년층의 가입신청이 급증한 청년희망적금에 대해서 정부가 지원 대상을 확대하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.670,
+                "end": 12.812
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부는 오늘 국무회의를 열어 청년희망적금 운용 방안을 심의 의결하고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.822,
+                "end": 18.284
+            }
+        ]
+    },
+    "summary": "최고 연 10퍼센트대 금리 효과로 청년층의 가입신청이 급증한 청년희망적금에 대해서 정부가 지원 대상을 확대하기로 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00349_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 147
+                }
+            ]
+        }
+    ]
+}

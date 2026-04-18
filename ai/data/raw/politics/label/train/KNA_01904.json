@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_01904",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2022-03-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 구체적 사건에 대한 에 수사 지휘는 여러분들도 많이 보셨겠지만 악용되는 수가 더 많습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.912
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반면 수사지휘권은 검찰 권력에 대한 최소한의 견제라는 반론도 상당합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.922,
+                "end": 13.774
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "박범계 법무부 장관이 나서 당선인 방향에 대한 명확한 반대 입장을 밝히기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.784,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "구체적 사건에 대한 수사 지휘는 악용되는 수가 더 많다고 윤 당선인은 발언하였고 이에 대해 수사지휘권은 검찰 권력에 대한 최소한의 견제라는 반론도 상당하다며 박범계 법무부 장관이 나서 명확한 반대 입장을 밝히기도 했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01904_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01904_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 32
+                }
+            ]
+        }
+    ]
+}

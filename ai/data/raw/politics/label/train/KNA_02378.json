@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_02378",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2022-05-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "힘써주셨으면 정말 좋겠 그게 바람입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.628
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "답답한 수사가 이어지던 시간 매일 기대와 실망이 반복됐다고 회고합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.638,
+                "end": 9.856
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "스스로 자책감에 빠질 것 같은 그런 느낌이 들고 또 정신 차려서 일어나야 되는 그런",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.866,
+                "end": 16.006
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지난 1년 동안 군내에도 변화가 없었던 건 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.016,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "답답한 수사가 이어지던 시간 매일 기대와 실망이 반복됐다고 회고했지만 지난 1년 동안 군내에 변화가 없었던 건 아니었다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02378_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02378_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 71,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

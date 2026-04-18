@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00342",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.593,
+        "format": "MP4",
+        "date": "2022-02-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "80 대 여성 A 씨에 대해 징역 6 개월에 벌금 400만 원을 최근 선고했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.804
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진돗개 등 반려견 여러 마리를 키우는 A 씨는 목줄 없이 자신의 반려견을 방치해 지난해 1월 목욕탕 주인 지난해 2월 집 앞을 지나던 행인 지난해 4월 집 밖의 행인이 A 씨의 반려견에 물렸습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.814,
+                "end": 19.690
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경북 대학교에 신임 교수 채용 심사 과정에서 공정성 논란이 일고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.800,
+                "end": 26.593
+            }
+        ]
+    },
+    "summary": "진돗개 등 반려견 여러 마리를 키우면서 목줄 없이 자신의 반려견을 방치하여 여러 차례 물림 사고를 낸 80 대 여성 A 씨에 대해 징역 6 개월에 벌금 400만 원을 선고했다고 여성 앵커는 보도하였고 남성 앵커는 경북 대학교에 신임 교수 채용 심사 과정에서 공정성 논란이 일고 있다고 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00342_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00342_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

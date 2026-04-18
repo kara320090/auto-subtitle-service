@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_06364",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2022-02-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거래가 없으니까",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.038
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS는 도이치 모터스 사건 수사 기록 내용을 확인해 봤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.048,
+                "end": 5.749
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "김 씨가 관계를 끊었다던 5월 이후에도 김 씨 명의 주식 계좌로 도이치 모터스 주식이 활발히 거래된 사실을 확인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.759,
+                "end": 14.053
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "거래는 윤 후보 측이 공개한 신한 증권 계좌가 아니라 DS 대신 미래에셋 등 다른 증권사 계좌로만 이뤄졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.063,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "김 씨가 관계를 끊었다던 5월 이후에도 김 씨 명의 주식 계좌로 도이치 모터스 주식이 활발히 거래된 사실을 확인했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06364_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": 67,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

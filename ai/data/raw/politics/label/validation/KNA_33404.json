@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_33404",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.62,
+        "format": "MP4",
+        "date": "2023-06-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 대통령실을 항의 방문한 민주당 의원들을 전희경 정무 1비서관이 만났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.136
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제안이 들어온 내용에 대해서 의견 청취를 한 것이고 그 내용을 토대로 권고한 것이기 때문에 그 후의 절차에 대해서는 좀 지켜보시죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.146,
+                "end": 16.450
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘은 수신료 분리 징수가 국민의 요구라는 입장입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.460,
+                "end": 20.620
+            }
+        ]
+    },
+    "summary": "민주당 의원들은 오늘 대통령실을 항의 방문했고 전희경 정무 1비서관이 제안 의견을 토대로 권고했다며 그 후 절차는 지켜보라고 했고 국민의힘은 수신료 분리 징수가 국민의 요구라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33404_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 70,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

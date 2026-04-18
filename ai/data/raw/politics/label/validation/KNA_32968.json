@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32968",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.966,
+        "format": "MP4",
+        "date": "2014-03-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지방선거를 80여일 앞둔 요즘 이 같은 크고 작은 현수막이 경쟁적으로 설치되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.957
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현역 단체장의 선거용 치적 홍보라는 비판도 나오지만 현행 법으로는 단속할 길이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.967,
+                "end": 12.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지방자치단체의 사업계획추진실적과 그 밖의 활동 사항은",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.924,
+                "end": 16.966
+            }
+        ]
+    },
+    "summary": "현수막 설치가 잦아지지만 현행 법으로는 단속할 길이 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32968_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

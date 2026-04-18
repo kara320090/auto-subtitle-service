@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_32490",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.524,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "반면 민주당은 이 후보자 지명 철회를 주장하며 청문회에서 실체를 낱낱이 밝히겠다는 입장입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회 인사청문회를 요식 행위로 전락시키고 그저 하루만 때우고 말겠다는 심산으로 일관한다면 더 큰 국민적 저항에 부딪히게 될 것이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.695,
+                "end": 16.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 후보자 인사 청문회는 증인 채택 불발로 증인 없이 진행되며 내일 자정까지 이어질 가능성이 높습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.715,
+                "end": 24.524
+            }
+        ]
+    },
+    "summary": "민주당은 지명 철회를 주장하며 청문회에서 밝힌다는 입장이고 이 후보자의 인사 청문회는 증인 없이 진행된다고 기자는 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32490_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

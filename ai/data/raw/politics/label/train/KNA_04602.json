@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_04602",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.221,
+        "format": "MP4",
+        "date": "2021-11-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 오늘 거시 경제 금융 회의를 열고 차량용 요소수 매점 매석 행위에 대한 긴급 차단 조치를 결정했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.352
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다음 주쯤으로 차량용 요소수 매점 매석을 금지하는 고시를 제정해 시행합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.362,
+                "end": 12.903
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "요소수 수급 상황을 이용하여 폭리를 취할 목적으로 요소수를 매점하거나 판매를 기피하는 행위를 차단하기 위해",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.913,
+                "end": 21.221
+            }
+        ]
+    },
+    "summary": "요소수 매점 매석 행위에 대한 긴급 차단 조치를 결정했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04602_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

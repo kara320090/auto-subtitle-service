@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_01554",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.415,
+        "format": "MP4",
+        "date": "2022-06-28",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "앤서니 알바니지 호주 총리와 정상회담을 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.977
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실은 아태 역에서 중국과의 관계 설정 북한 도발에 대한 공동 대응이 주요 의제라고 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.987,
+                "end": 10.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2030 부산 엑스포 유치 지지 요청도 할 예정입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.113,
+                "end": 13.901
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이후 솔텐베르그 남",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.911,
+                "end": 15.415
+            }
+        ]
+    },
+    "summary": "윤 대통령은 호주 총리와의 정상회담에서 중국과의 관계 설정 북한 도발에 대한 공동 대응 및 2030 부산 엑스포 유치 지지 요청이 주요 의제라고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01554_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 11,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01554_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 4,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

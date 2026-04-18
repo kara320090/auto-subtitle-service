@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_00665",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.289,
+        "format": "MP4",
+        "date": "2022-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청와대 내에선 불쾌하단 분위기를 감추지 않고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청와대 고위 관계자는 이미 김 여사 의상 비용은 특활비와 관계가 없고 모두 사비라는 입장을 밝혔다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.715,
+                "end": 11.083
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현금으로 지출하든 카드로 결제하든 모두 사비의 영역으로 왜 문제가 되는지 이해할 수 없다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.093,
+                "end": 18.167
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "청와대는 최근 법원에 특활비 공개 판결에 굴복해 항소한 것에 대해선",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.177,
+                "end": 23.289
+            }
+        ]
+    },
+    "summary": "청와대 측은 김 여사 의상 비용은 특활비와 관계없이 사비라고 밝혔고 현금이든 카드든 사비의 영역으로 왜 문제가 되는지 이해할 수 없다며 불쾌한 분위기를 감추지 않고 있다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00665_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00665_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

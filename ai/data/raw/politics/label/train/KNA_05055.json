@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_05055",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.956,
+        "format": "MP4",
+        "date": "2022-07-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전날 언론에 포착된 메신저 대화에서 윤 대통령은 이준석 대표를 내부 총질이나 하던 당 대표라 언급해 파문이 일었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.834
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이준석 대표는 침묵을 깨고 메시지를 냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.844,
+                "end": 11.571
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "앞에서는 양의 머리를 걸어 놓고 뒤에서는 정상배들에게서 개고기 받아와서 판다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.581,
+                "end": 17.538
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "겉과 속이 다르다는 의미의 양두구육에 빗대 불편한 속내를 내비쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.548,
+                "end": 22.956
+            }
+        ]
+    },
+    "summary": "메신저 대화에서 윤 대통령이 이준석 대표를 내부 총질이나 하던 당 대표라 언급해 파문이 일었고 이에 대해 이준석 대표는 겉과 속이 다르다는 의미의 양두구육에 빗대 불편한 속내를 내비쳤다고 기자는 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05055_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 49,
+                    "act": 57
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05055_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

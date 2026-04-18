@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_12212",
+        "category": "정치뉴스",
+        "sub_category": 9,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.395,
+        "format": "MP4",
+        "date": "2020-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "선관위는 모레 오전 8시쯤 개표가 끝날 것으로 예상하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.620
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이후 정당별 의석 산정과 배분 작업을 거친 뒤 오후 5시쯤 전체 회의에서 비례대표 당선인을 확정할 계획입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.630,
+                "end": 13.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선관위는 국회의원 선거를 하루 앞둔 오늘 국민들의 투표 참여와 마스크 착용 등을 요청했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.430,
+                "end": 20.230
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "마스크를 반드시 착용하고 1미터 이상 거리 두기와 대화 자제 등 행동 수칙을 지키며",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.240,
+                "end": 28.395
+            }
+        ]
+    },
+    "summary": "선관위는 모레 오전 8시쯤 개표가 끝날 것이라고 했으며 선거를 앞두고 국민들의 투표 참여와 마스크 착용을 요청했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12212_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

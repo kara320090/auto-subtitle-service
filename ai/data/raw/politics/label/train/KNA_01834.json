@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01834",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.15,
+        "format": "MP4",
+        "date": "2022-03-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국정 운영은 연습할 시간이 없습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 실전입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.461,
+                "end": 5.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "초보 아마추어가 아니라 검증된 프로의 실력이 있어야 한다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.655,
+                "end": 12.344
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이번 여름이 가기 전까지 민생과 경제 회복을 책임지겠다 했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.344,
+                "end": 17.150
+            }
+        ]
+    },
+    "summary": "이 후보는 국정 운영은 연습 할 시간이 없으며 바로 실전이라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01834_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

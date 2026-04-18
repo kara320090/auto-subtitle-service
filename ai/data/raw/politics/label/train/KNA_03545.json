@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_03545",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.789,
+        "format": "MP4",
+        "date": "2021-03-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 국가 수사 본부장은 인력에 한계가 있는 특검보다는 경찰 수사가 적합하다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.839
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국가 수사 본부는 전국에 3만 명이 넘는 그 국내 최대의 수사 기관입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.849,
+                "end": 13.388
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 이번 LH 사건 같은 경우는 전국적인 조직 체제를 갖춘 에 국가 수사 본부가 더 효율적이고 적합한 수사 기관이라 생각을 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.398,
+                "end": 22.789
+            }
+        ]
+    },
+    "summary": "LH 사건의 경우 전국적인 조직 체제를 갖춘 국가 수사 본부가 특검보다 적합할 것이라는 @이름1 국가 수사 본부장의 입장을 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03545_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

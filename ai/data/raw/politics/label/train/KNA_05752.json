@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_05752",
+        "category": "정치뉴스",
+        "sub_category": 19,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 24.791,
+        "format": "MP4",
+        "date": "2122-11-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아직도 여전히 현장 대원들을 탈탈 털듯이",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.432
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특수본 관계자는 행안부와 서울시에서 가져온 압수물만 수천 점이어서 분석에 시간이 더 걸린다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.442,
+                "end": 12.897
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 이태원 참사 당일 밤 11시까지 45분 정도가 인명 피해를 줄일 수 있었던 골든 타임이었다고 오늘 잠정적으로 밝혔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.907,
+                "end": 22.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.980,
+                "end": 24.791
+            }
+        ]
+    },
+    "summary": "특수본 관계자는 압수물이 많아 시간이 걸린다고 했고 골든 타임 시간을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05752_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_00789",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.616,
+        "format": "MP4",
+        "date": "2022-04-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "건물 안쪽 복도에도 가득한 포장 상자.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.323
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사무실 안에서는 직원들이 업무 용품을 차곡차곡 정리하고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.333,
+                "end": 8.389
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경기도청 신청사 이전 작업이 본격적으로 시작됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.399,
+                "end": 12.921
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "새로운 곳에서 깨끗한 공간에서 일하는 만큼 열심히 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.931,
+                "end": 16.616
+            }
+        ]
+    },
+    "summary": "경기도청 신청사 이전 작업이 본격적으로 시작됐다고 전하며 직원이 밝은 표정으로 새로운 업무 공간에서 일하게 되는 기대감을 표하는 인터뷰가 나온다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00789_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 35
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00789_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

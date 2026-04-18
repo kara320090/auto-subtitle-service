@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_05262",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.402,
+        "format": "MP4",
+        "date": "2022-08-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아파트 등 공동 주택의 층간 소음을 판단하는 기준이 강화됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.439
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "환경부는 오늘 뛰거나 걷는 동작 등으로 발생하는 층간 소음 기준을 낮에는 39 데시벨, 밤에는 34 데시벨로 각각 4 데시벨씩 낮춘다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.449,
+                "end": 16.203
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현행 기준이 생활 불편을 충분히 반영하지 못한다는 지적에 따라 연구 용역 등을 거쳐 마련한 기준입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.213,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "현행 기준이 생활 불편을 충분히 반영하지 못한다는 지적에 따라 환경부가 층간 소음 기준을 낮에는 39 데시벨, 밤에는 34 데시벨로 각각 4 데시벨씩 낮추는 등 공동 주택의 층간 소음을 판단하는 기준을 강화합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05262_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_05262_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "KNA_12128",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.322,
+        "format": "MP4",
+        "date": "2020-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 여야 합의가 잘될지는 여전히 미지수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.327
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "세부 내용의 차이가 크기 때문입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.337,
+                "end": 5.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 4인 가구 기준 100만 원 지급을 주장하는데 이를 위해 국채를 발행해 예산을 3 4조가량 늘리겠다는 계획입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.891,
+                "end": 14.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 통합당은 1인당 50만 원씩을 주고 필요 예산은 이미 확보된 예산 구조 조정으로 마련해야 한다고 주장하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.277,
+                "end": 22.322
+            }
+        ]
+    },
+    "summary": "하지만 여야 간의 의견 차가 있어 합의가 잘될지는 여전히 미지수이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12128_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12128_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

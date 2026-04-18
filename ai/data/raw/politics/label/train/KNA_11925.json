@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "filename": "KNA_11925",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.752,
+        "format": "MP4",
+        "date": "2020-02-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "검찰권 남용이라는 비판도 제기됐는데 법무부가 그 대안으로 수사하는 검사와 기소하는 검사를 나눠 사건을 다루는 안을 들고 나왔습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.025
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "직접 수사해서 기소하는 경우에도 중립성과 객관성을 잃을 우려가 있기 때문에 내부적 통제장치가 필요하다고 생각이 됩니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.035,
+                "end": 18.752
+            }
+        ]
+    },
+    "summary": "법무부는 검찰권 남용이라는 비판에 대해 수사검사와 기소검사를 나눠 사건을 다루는 안을 제시했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11925_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

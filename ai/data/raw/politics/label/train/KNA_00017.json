@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_00017",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그 가운데 오늘 경기 용인시가 처음으로 출범식을 열었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특례시가 되면서 달라지는 점과 또 풀어야 할 과제 등을 최창봉 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.097,
+                "end": 10.112
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용인 특례시라고 적힌 상자를 열자 홀로그램 나비가 날아오르고 VR 기계로 그리는 화려한 그림이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.122,
+                "end": 19.319
+            }
+        ]
+    },
+    "summary": "용인시가 특례시가 되어 처음으로 출범식을 열었다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00017_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00017_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 14,
+                    "object": null,
+                    "act": 10
+                }
+            ]
+        }
+    ]
+}

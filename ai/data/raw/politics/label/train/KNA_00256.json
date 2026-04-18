@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_00256",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.548,
+        "format": "MP4",
+        "date": "2022-02-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어제 공개된 윤석열 국민의힘 대선 후보 발언에 문재인 대통령은 오늘 강력한 분노를 표한다며 공개 사과를 요구했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현 정부를 근거 없이 적폐 수사의 대상 불법으로 몬 것에 대해",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.573,
+                "end": 15.548
+            }
+        ]
+    },
+    "summary": "어제 공개된 윤석열 국민의힘 대선 후보 발언에 문재인 대통령은 오늘 강력한 분노를 표한다며 공개 사과를 요구했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00256_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00256_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_02272",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 15.915,
+        "format": "MP4",
+        "date": "2022-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "승리하고 전국 과반 승리를 반드시 이끌겠습니다 여러분.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 8.658
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안철수 인수위원장은 경기지사와 성남시장을 지냈던 이재명 고문을 향한 비판으로 출마 선언을 시작했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.668,
+                "end": 15.915
+            }
+        ]
+    },
+    "summary": "이재명 고문이 연설에 나섰고, 안철수 인수위원장은 이재명 고문을 비판하며 출마 선언을 시작했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02272_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02272_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

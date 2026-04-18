@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_11131",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.391,
+        "format": "MP4",
+        "date": "2023-05-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여론이 악화되는 가운데 이번 방문에서는 일본의 사과를 기대하는 목소리가 높습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.004
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제대로 사과를 하지 않는 것은 하지 않은 채로 한일 친선을 이야기하면서 한국 방문하는 것은 환영받지 못할 일이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.014,
+                "end": 15.355
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 이번 한일 정상 회담 논의가 시작된 것은 불과 2주 전쯤으로 짧은 준비 기간과 일본 내 여론 등은 걸림돌입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.365,
+                "end": 24.391
+            }
+        ]
+    },
+    "summary": "여론이 악화되며 일본의 사과를 기대하는 목소리가 높지만 이번 한일 정상 회담 논의가 시작된 것은 불과 2주 전으로 짧은 준비 기간과 일본 내 여론 등이 걸림돌이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11131_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

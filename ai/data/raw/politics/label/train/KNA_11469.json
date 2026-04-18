@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_11469",
+        "category": "정치뉴스",
+        "sub_category": 32,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.834,
+        "format": "MP4",
+        "date": "2023-05-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부가 호우와 태풍 폭염 등에 대비한 여름철 자연재난 종합대책을 발표했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먼저 풍수해 대책으로 지난해 포항과 서울 신림 등에서 인명피해가 발생했던 지하공간에 대한 관리를 강화합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.538,
+                "end": 13.721
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "기존에는 하천변과 지하차도 위주인 인명피해 우려지역에 반지하 주택가 260여 곳과 경사지 태양광 90여 곳을 새로 발굴해 추가했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.731,
+                "end": 23.834
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하천 수위보다 낮은 그런 주택가에 위치한 반지하라든지 그리고 또 아 그동안 침수 피해가 있었던 지역을 중심으로 해서",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.844,
+                "end": 34.834
+            }
+        ]
+    },
+    "summary": "정부가 호우와 태풍 폭염 등에 대비한 여름철 자연재난 종합대책을 발표했는데 풍수해 대책으로 반지하 주택 등에 대한 내용이 담겼다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11469_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_03181",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.724,
+        "format": "MP4",
+        "date": "2021-01-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "학계나 조사업체 등에서 역선택이 실제로 확인된 경우는 어 확인하지 못했고 100프로 시민 경선의 취지가 우선돼야 된다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.336
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "보수 야권 후보들이 박영선 전 장관에게 박원순 시장 사건에 대한 사과를 요구하며 견제에 나선 가운데 안철수 국민의당 대표는 기호 4번으로 예비 후보 등록을 마쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.346,
+                "end": 22.515
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 손서영입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.525,
+                "end": 24.724
+            }
+        ]
+    },
+    "summary": "보수 야권 후보들이 박영선 전 장관에게 박원순 시장 사건에 대한 사과를 요구하며 견제에 나선 가운데 안철수 국민의당 대표는 기호 4번으로 예비 후보 등록을 마쳤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03181_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 54
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03181_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

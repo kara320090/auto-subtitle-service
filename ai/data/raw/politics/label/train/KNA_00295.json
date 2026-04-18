@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00295",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.283,
+        "format": "MP4",
+        "date": "2022-02-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비상 대피 계획을 재점검하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.393
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만약의 경우 우리 국민들의 안전한 대피와 철수에 만전을 기하고 우리 기업들의 피해를 최소화하는 방안을 미리 강구해야 할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.403,
+                "end": 13.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 최악의 상황 땐 국민 철수를 위해",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.741,
+                "end": 17.283
+            }
+        ]
+    },
+    "summary": "정부는 만약의 경우를 위해 국민의 안전에 만전을 기해야 한다고 강조하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00295_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

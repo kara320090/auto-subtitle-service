@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "KNA_10129",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2022-05-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "각당은 사전 투표 독려에 총력을 기울였습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지방 선거는 총선이나 대선보단 투표율이 낮은 만큼 지지층 결집이 승패를 가를 거란 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.735,
+                "end": 10.329
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "적극적으로 어 투표에 나와 주시길 당부드립니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.339,
+                "end": 15.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여러분이 투표해 주시면 더불어민주당은 반드시 이깁니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 15.632,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "지방 선거는 총선이나 대선보다 투표율이 낮은 만큼 지지층 결집이 승패를 가를 것으로 보고 각당은 사전 투표 독려에 총괄을 기울이는 모습이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10129_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 150
+                }
+            ]
+        }
+    ]
+}

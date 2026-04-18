@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_08915",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.666,
+        "format": "MP4",
+        "date": "2022-10-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "북한의 7차 핵실험 준비가 이미 마무리됐다면서 국방력 강화에 힘쓰겠다고 했고 공급망 강화 등도 주요 항목으로 소개했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.420
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예산안은 국회와 함께 머리를 맞댈 때 완성될 수 있다며 여야 협조도 거듭 당부했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.430,
+                "end": 14.754
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회에서 법정기한 내 예산안을 확정해서 어려운 민생에 숨통을 틔워주시고 미래 성장을 뒷받침해 주시기를 기대합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.764,
+                "end": 26.659
+            }
+        ]
+    },
+    "summary": "북한의 7차 핵실험 준비가 이미 마무리됐다면서 국방력 강화에 힘쓰겠다고 했고 공급망 강화 등도 주요 항목으로 소개했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08915_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_09901",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.492,
+        "format": "MP4",
+        "date": "2023-04-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령은 사일구 혁명이 지켜낸 자유 민주주의가 위기와 도전을 받고 있다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.864
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "돈에 의한 매수로 도전을 받을 수도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.874,
+                "end": 10.707
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러나 지금 세계는 허위 선동 가짜 뉴스 협박 폭력 선동 이런 것들이",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.717,
+                "end": 21.412
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돈에 의한 매수란 말은 현장에서 추가한 표현입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.422,
+                "end": 25.492
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 사일구 혁명이 지켜낸 자유 민주주의가 위기와 도전을 받고 있다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09901_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

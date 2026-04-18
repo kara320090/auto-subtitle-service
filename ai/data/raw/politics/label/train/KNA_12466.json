@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_12466",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.493,
+        "format": "MP4",
+        "date": "2020-07-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문재인 대통령과 화상 회담에서 EU 정상들은 한국 정부에 한반도 평화 노력을 거듭 지지했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.119
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리 정부의 한반도 평화 프로세스에 변함없는 지지와 성원을 보내주신 것에 대해서도 항상 든든하게 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.129,
+                "end": 17.981
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 자리에서 문 대통령은 미국 대선 이전에 북미가 다시 마주앉아 대화를 나눌 수 있도록 전력을 다할 계획이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.991,
+                "end": 26.493
+            }
+        ]
+    },
+    "summary": "문재인 대통령과 화상 회담에서 EU 정상들은 한국 정부에 한반도 평화 노력을 거듭 지지했고 문 대통령은 북미가 다시 마주앉아 대화를 나눌 수 있도록 전력을 다하겠다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12466_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

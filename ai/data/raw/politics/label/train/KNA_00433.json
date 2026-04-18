@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_00433",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.401,
+        "format": "MP4",
+        "date": "2022-03-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 정치적 입장이 달라도 정부는 연속되는 부분이 많고 인수할 사항도 있으니 조만간 직접 만나자며 국정 운영에 공백이 없도록 지원하겠다고 했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 11.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 오늘 오후엔 유영민 비서실장과 이철희 정무수석을 여의도 국민의힘 당사로 보내 축하 난을 전달했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.291,
+                "end": 19.568
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아침에 전화를 주셨거든요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.578,
+                "end": 22.128
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부 인수 문제도 잘 지원하시겠다고 서로 가까운 시일에 저 대통령님도 좀 찾아봬야 될 거 같고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.138,
+                "end": 34.401
+            }
+        ]
+    },
+    "summary": "문 대통령은 국정 운영에 차질이 없도록 지원하겠다고 밝히며 국민의힘 당사로 축하 난을 전달했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00433_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

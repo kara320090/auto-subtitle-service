@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01777",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.786,
+        "format": "MP4",
+        "date": "2022-03-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가분개로 하느냐 이 무단 민주당 정권을 교체하는 것이 바로 정치 결합입니다 여러분",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.512
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "북한의 미사일 시험 발사를 거론하며 민주당과 현 정부의 안보관을 집중 비판하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.522,
+                "end": 15.900
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "도발을 도발이란 말을 못합니다 이 민주당 정권은",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.910,
+                "end": 19.786
+            }
+        ]
+    },
+    "summary": "윤석열 후보는 민주당과 현 정부의 북한 미사일 발사에 대하여 안보관을 비판했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01777_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

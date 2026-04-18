@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "filename": "KNA_01822",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 16.554,
+        "format": "MP4",
+        "date": "2022-03-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잘못한 게 맞다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.568
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.578,
+                "end": 2.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잘못한 거 인정하는 사람은 앞으로 잘할 가능성이 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.624,
+                "end": 5.410
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.410,
+                "end": 6.047
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 후보는 오늘 자신의 정치적 고향 성남을 비롯해 경기도 집중 유세에 나섭니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.050,
+                "end": 11.840
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘 윤석열 후보는 민주당과 이재명 후보를 강도 높게 비판했습니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 11.850,
+                "end": 16.549
+            }
+        ]
+    },
+    "summary": "이재명 후보는 정치적 고향 성남과 경기도 집중 유세에 나섰고 윤석열 후보는 민주당과 이재명 후보를 강도 높게 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01822_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

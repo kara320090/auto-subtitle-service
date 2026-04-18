@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01269",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.384,
+        "format": "MP4",
+        "date": "2022-06-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 시장이 강조해 온 TBS 개편과 서울시 브랜드 변경 등도 구체화할 것으로 예상됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 서울시를 견제하고 감시해야 할 서울시 의회가 국민의 힘 독주로 거수기로 전락할 수 있단 우려도 나오고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.374,
+                "end": 15.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.047,
+                "end": 16.383
+            }
+        ]
+    },
+    "summary": "서울시를 견제하고 감시해야 할 서울시 의회가 국민의 힘 독주로 거수기로 전락할 수 있단 우려도 나오고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01269_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01269_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

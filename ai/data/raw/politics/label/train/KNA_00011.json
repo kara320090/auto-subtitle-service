@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00011",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.853,
+        "format": "MP4",
+        "date": "2022-01-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "임기 마지막 신년사 발표에 나선 문재인 대통령 두 달여 앞으로 다가온 대통령 선거에 대한 메시지를 내놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.096
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "올해 대선은 국민 삶과 국가 미래를 놓고 치열하게 경쟁하는 민주주의 축제 장이 되기를 바란다며 국민들의 선거 참여를 독려했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.106,
+                "end": 18.518
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "접대와",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.528,
+                "end": 19.853
+            }
+        ]
+    },
+    "summary": "임기 마지막 신년사 발표에 나선 문재인 대통령이 두 달 여 앞으로 다가온 대통령 선거의 국민 참여를 독려했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00011_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00011_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

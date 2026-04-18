@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01950",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2022-03-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령 집무실 이전으로 국방부는 현재 합동 참모 본부가 쓰는 옆 건물로 합참은 이후 남태령으로 이동하게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.201
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 김성수입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.211,
+                "end": 10.577
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 윤석열 당선인은 참모진과 취재진까지 한 건물 안에 있도록 해서 대통령과의 소통을 강화하려는 취지라고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.587,
+                "end": 19.088
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "용산 시대의 구체적인 로드맵 계속해서 방준원 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.098,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "대통령 집무실 이전으로 국방부는 합동 참모 본부가 쓰는 옆 건물로 이동하고 합참은 남태령으로 이동하게 된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01950_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "filename": "KNA_00307",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 34.834,
+        "format": "MP4",
+        "date": "2022-02-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이제는 우리가 미래를 위해서 깨야 될 때가 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.685
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당을 향해선 선거 때 국민 속이는 것 금메달감이라며 선거철만 되면 화려한 약속을 내놓지만 지켜지는 걸 못 봤다고 비판했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.695,
+                "end": 14.881
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 자신이 부정부패를 엄단하고 법치를 세운다고 했더니 민주당이 정치보복 프레임으로 만들어 국민을 기만하고 있다고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.891,
+                "end": 24.166
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 후보는 전주와 청주를 거쳐 원주에서 유세를 마무리했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 24.176,
+                "end": 29.009
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당 심상정 후보는 이틀째 민주당 지지세가 강한 호남에서 유세를 이어갔습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.019,
+                "end": 34.834
+            }
+        ]
+    },
+    "summary": "윤 후보는 민주당을 향해 선거철에 내놓은 약속을 지키지 않으며 자신에게 정치 보복 프레임을 씌우며 국민들을 기만하고 있다고 비판했으며 원주에서 유세를 마무리했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00307_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00307_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 25
+                }
+            ]
+        }
+    ]
+}

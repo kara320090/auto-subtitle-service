@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_10891",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.096,
+        "format": "MP4",
+        "date": "2023-03-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국회 문은 열었지만 본회의는 물론 상임위 관련 의사 일정도 잡지 못한 여야.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.103
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "책임을 두고 내 탓 공방을 벌였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.113,
+                "end": 9.420
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국회법엔은 1일이 공휴일인 경우에는 다음날부터 하게 돼 있습니다마는 소집을 해놓고 자신들도 헛되게 보냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.430,
+                "end": 19.474
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "임시회의 의사 일정은 아직 정해지지 않아서 공백 상태입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.484,
+                "end": 25.529
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "국민의힘이 여러 가지 이유로 소극적이었기 때문에.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.539,
+                "end": 30.096
+            }
+        ]
+    },
+    "summary": "여야는 본회의와 상임위 관련 의사 일정도 잡지 못한 책임을 서로에게 돌렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10891_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

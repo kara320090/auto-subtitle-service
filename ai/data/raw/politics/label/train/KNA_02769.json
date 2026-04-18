@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_02769",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.159,
+        "format": "MP4",
+        "date": "2022-11-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 취임 70여 일 만에 최측근인 김용 부원장이 구속 기소되고 정진상 정무조정실장도 강제 수사 선상에 올랐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 대표한 조작 수사 정치 탄압이라는 입장입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.922,
+                "end": 12.770
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰에 창작 완성도가 매우 낮은 것 같습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.780,
+                "end": 20.666
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰이 훌륭한 소설가가 되기는 쉽지 않겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.676,
+                "end": 26.159
+            }
+        ]
+    },
+    "summary": "이재명 대표 취임 70여 일 만에 최측근인 김용 부원장이 구속 기소되고 정진상 정무조정실장도 강제 수사 선상에 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02769_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 67,
+                    "act": 32
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02769_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

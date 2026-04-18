@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_11771",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-06-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "혼자 있을 때 안전도 보호가 되고 그렇습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.005
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누군가가 뒤따라와 위협할 경우에는 호신용 스프레이가 도움이 될 수도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.015,
+                "end": 9.043
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "이건 안전 호루라기인데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.053,
+                "end": 11.515
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "입으로 부는 게 아니라 버튼을 누르면 70데시벨 크기의 경보음이 발생합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.525,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "여성의 안전에 도움이 되는 호신 용품에 대해 설명하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_11771_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

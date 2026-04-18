@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_03625",
+        "category": "정치뉴스",
+        "sub_category": 15,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.651,
+        "format": "MP4",
+        "date": "2021-03-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 @이름1 후보는 어제 토론회에서 우리나라 백신 확보가 늦다는 지적에 이렇게 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이스라엘이 이 가장 먼저 백신 면역을 어 이렇게 그 집단 면역을 할 수 있는 비결이 뭐냐 라고 질문했더니 이스라엘 총리가 한국에서 배웠다 이렇게 답변했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.164,
+                "end": 18.651
+            }
+        ]
+    },
+    "summary": "민주당 박 후보는 어제 토론회에서 우리나라 백신 확보가 늦다는 지적에 대해 답했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03625_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

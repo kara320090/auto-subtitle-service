@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_10597",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.461,
+        "format": "MP4",
+        "date": "2023-02-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "토건 사업에 권력자가 개입해서 왜곡하고 또 큰 이익을 얻게 되었다는 것이 문제인",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.031
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "논란이 이어지자 김 후보는 회견을 자청해 의혹을 부인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.041,
+                "end": 13.422
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "25년 전 2억 원 좀 넘게 주고 샀다면서 현 시세는 잘해야 3.3제곱미터당 10만 원 이하일 것이라고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.432,
+                "end": 22.066
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "영향력 행사 의혹에 대해서도 민주당 시장 시절이어서 아무런 근거가 없다고 반박했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.076,
+                "end": 28.461
+            }
+        ]
+    },
+    "summary": "김 후보는 회견을 자청해 의혹을 하나씩 부인했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10597_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

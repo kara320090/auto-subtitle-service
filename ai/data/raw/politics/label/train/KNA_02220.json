@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_02220",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.315,
+        "format": "MP4",
+        "date": "2022-04-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인공지능과 바이오 등 신기술 협력도 핵심 의제로 꼽힙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.660
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한미 첨단기술 동맹을 구축해 나가겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.670,
+                "end": 9.743
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "글로벌 혁신을 이끄는 동맹으로 한미동맹을 업그레이드 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.753,
+                "end": 15.315
+            }
+        ]
+    },
+    "summary": "이번 한미 정상회담에서 인공지능과 바이오 등 신기술 협력도 핵심 의제로 꼽히고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02220_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02220_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

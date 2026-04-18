@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_09434",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.32,
+        "format": "MP4",
+        "date": "2023-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새해 일정으로 부산 경남을 찾은 민주당 윤석열 정부를 강도 높게 비판했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.494
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민생과 경제의 위기 민주주의와 한반도 평화의 위기가 참으로 심각합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.504,
+                "end": 12.768
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국정 책임의 실정 정치의 부재 폭력적 지배가 활개를 치는 난세가 됐습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.778,
+                "end": 20.320
+            }
+        ]
+    },
+    "summary": "새해 일정으로 부산 경남을 찾은 민주당은 윤석열 정부를 강도 높게 비판했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09434_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

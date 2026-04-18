@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "filename": "KNA_08624",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.106,
+        "format": "MP4",
+        "date": "2022-09-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그러니까 이제 누군가가 아프면 내가 이걸 어디서 어떻게 지원을 받아야 되는지를 알 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.316
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금도 뭐 가족 돌봄 청년을 위한 사이트가 존재하는 게 아니잖아요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.326,
+                "end": 11.374
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "본인이 일하러 나갔을 때 누군가가 내 부모님을 돌봐줄 수 있는 그래서 그러한 그 사회적으로 그러한 시스템이 좀 잘 작동할 수 있었으면 좋겠다 사회에 건강한 한 구성이 될 수 있는 그런 것들을 우리 같이 좀",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.384,
+                "end": 30.210
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "국회 입법 조사처가 추정한 우리나라 가족 돌봄 청년의 수는 30만 명에 이릅니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.220,
+                "end": 35.751
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "그들의 문제는 더 이상 개인 사정이 아닌 우리 사회의 문제입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.761,
+                "end": 40.106
+            }
+        ]
+    },
+    "summary": "국회 입법 조사처가 추정한 우리나라 가족 돌봄 청년의 수는 30만 명에 이르며 그들의 문제는 더 이상 개인 사정이 아닌 우리 사회의 문제입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08624_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08624_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

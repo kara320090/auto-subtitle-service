@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "filename": "KNA_33922",
+        "category": "정치뉴스",
+        "sub_category": 33,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 17.066,
+        "format": "MP4",
+        "date": "2018-06-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정부는 오는 이낙연 국무총리 주재로 회의를 열어 탈 원전 정책으로 피해가 예상되는 지역과 산업인력에 대한 지원 대책을 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.711
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "우리가 옳은 방향으로 가더라도 그 과정에서 생기는 걱정은 다른 방법으로라도 완화 또는 치유돼야 한다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.721,
+                "end": 17.066
+            }
+        ]
+    },
+    "summary": "정부는 이낙연 국무총리 주재로 회의를 열어 탈 원전 정책으로 피해가 예상되는 지역과 산업 인력에 대한 지원 대책을 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33922_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

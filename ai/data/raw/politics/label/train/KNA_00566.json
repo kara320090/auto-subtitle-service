@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "KNA_00566",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.084,
+        "format": "MP4",
+        "date": "2022-03-23",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤 당선인은 오전 11시쯤 기자들과 만난 자리에서 문 대통령과의 회동 시기를 묻는 질문에 아직 잘 모르겠다 이렇게 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자 그리고 윤석열 당선인 오후에는 외교 횡보에 나선 걸로 아는데 오늘 당선인과 인수위가 소화한 일정도 좀 정리해 주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.738,
+                "end": 18.084
+            }
+        ]
+    },
+    "summary": "윤 당선인은 문 대통령과의 회동 시기는 아직 모르겠다고 기자들에게 답하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00566_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00566_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

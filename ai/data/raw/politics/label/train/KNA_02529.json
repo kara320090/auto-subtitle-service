@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_02529",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.453,
+        "format": "MP4",
+        "date": "2022-06-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "욕설 시위가 이어지면서 주민들도 고통을 호소합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.459
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사람 사는 게 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.469,
+                "end": 5.306
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "병원에 다니면서도 그걸 감내하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.316,
+                "end": 8.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 전 대통령이 이들 집회를 반지성이라고 비판했고 민주당 의원들은 집시법 개정안을 한 달 새 4 건 발의했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.336,
+                "end": 17.046
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "모욕적이고 악의적인 표현으로 사생활을 해치는 행위",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.056,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "욕설 시위에 주민들이 사람 사는 게 아니라며 고통을 호소했고 이들 집회를 문 전 대통령은 반지성이라고 비판했으며 민주당 의원들은 집시법 개정안을 4 건 발의했다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02529_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02529_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

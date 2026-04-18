@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_03214",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.053,
+        "format": "MP4",
+        "date": "2021-01-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비대위를 하면서 앞으로 부산 경제 활성화를 위한 여러 가지 방안을 갖다가 제시를 할겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.536
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 가운데 국민의힘은 서울시장 예비 경선 심사를 위한 프레젠테이션을 진행했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.546,
+                "end": 13.513
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여론 조사를 거쳐 다음 달 5일 8명의 예비 후보 가운데 본경선에 진출할 4명을 결정합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.523,
+                "end": 20.053
+            }
+        ]
+    },
+    "summary": "위원장은 부산 경제 활성화를 위해 여러 가지 방안을 갖다가 제시할 것이라고 하며 한편 국민의힘은 서울시장 예비 경선 심사를 위한 프레젠테이션을 진행했는데 여론 조사를 거쳐 다음 달 본경선에 진출할 4명을 결정한다고 전한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03214_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03214_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

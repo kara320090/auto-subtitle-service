@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00500",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 16.32,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시정 명령과 함께 총 1758억 원의 과징금을 부과하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "또 가담 정도 등을 고려해 올품 등 5개 사는 검찰에 고발하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.427,
+                "end": 11.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "광범위한 수단을 동원한 담합을 적발 제재한 것으로서",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.200,
+                "end": 16.316
+            }
+        ]
+    },
+    "summary": "시정 명령과 함께 총 1,758억 원의 과징금을 부과하기로 하였고 또 가담 정도 등을 고려해 올품 등 5개 사는 검찰에 고발하기로 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00500_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

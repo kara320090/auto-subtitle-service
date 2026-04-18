@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_32922",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.884,
+        "format": "MP4",
+        "date": "2023-10-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제대로 된 성공이 이루어지지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.633
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정부는 연금 수령 시작 나이를 늦추는 것도 정년 연장과 함께 논의돼야 한다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.643,
+                "end": 10.866
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다만 일하는 노인이 증가하는 현실에 맞춰 노령 연금 감액 제도는 폐지하기로 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.876,
+                "end": 17.884
+            }
+        ]
+    },
+    "summary": "정부는 연금 수령 시작 나이를 늦추는 방안을 정년 연장과 함께 논의해야 한다 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32922_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

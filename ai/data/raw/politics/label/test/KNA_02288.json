@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_02288",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인사말에 검수완박이라는 용어를 굳이 쓰신 거는 이 싸우겠다는 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.377
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "후보자는 수사권 축소의 부작용을 우려하는 말로 맞섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.387,
+                "end": 13.556
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "부패한 정치인이나 부패한 정치 그러니까 공직자가 처벌을 면하기 위해 만든 법이라고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.566,
+                "end": 19.550
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "딸의 스펙 쌓기 의혹에 대해서도 공방이 이어졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.560,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "김종민 민주당 의원이 한동훈 법무부 장관 후보자의 인사 청문회 검수완박 언급에 대한 불편한 심기를 드러냈으며 딸 스펙 쌓기 의혹과 관련해서도 공방이 이어졌다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02288_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02288_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": null,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

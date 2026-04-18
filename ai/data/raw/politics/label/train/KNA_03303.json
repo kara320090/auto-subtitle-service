@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_03303",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.687,
+        "format": "MP4",
+        "date": "2021-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "새로운 방역으로의 전환은 경제 회복 특히 고용 위기에 대한 정부의 고민과도 맞닿아 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.538
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 외환위기 이후 가장 심각한 고용 위기 상황이며 총력 대응을 시사했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.548,
+                "end": 13.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당초 고용 대책을 넘어서는 추가 대책도 주문했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.058,
+                "end": 17.530
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "고용 양극화가 더욱 심화되었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.540,
+                "end": 20.687
+            }
+        ]
+    },
+    "summary": "문 대통령은 외환위기 이후 가장 심각한 고용 위기 상황이며 총력 대응을 시사했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03303_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

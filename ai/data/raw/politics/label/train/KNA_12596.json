@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "filename": "KNA_12596",
+        "category": "정치뉴스",
+        "sub_category": 16,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.765,
+        "format": "MP4",
+        "date": "2022-09-22",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국회의원을 모욕하시는 겁니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.084
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 아니요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.094,
+                "end": 3.162
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제 말과 겹쳐하지 마시고 별도로 말씀하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.172,
+                "end": 7.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "기초적인 사실 관계조차 틀린 질문도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.067,
+                "end": 10.632
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "우리 아이들이 한겨울에 내의 좀 입겠다는데 이 예산을 깎았어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.642,
+                "end": 15.429
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "좀 더 나은 이런 구매 방법을 통해서 가격이 인하됐기 때문에 그런 숫자들이 나왔다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.439,
+                "end": 23.544
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한덕수 총리는 언론 보도가 안 된 사안을 신문에서 봤다고 답하거나 직접 보고를 받았다는 내용은 틀리게 답변해 질타를 받았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.554,
+                "end": 31.765
+            }
+        ]
+    },
+    "summary": "기초적인 사실 관계조차 틀린 질문도 있고 한덕수 총리는 언론 보도가 안 된 사안을 신문에서 봤다고 답하거나 틀리게 답변해 질타를 받았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12596_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_12596_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

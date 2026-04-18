@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_02435",
+        "category": "정치뉴스",
+        "sub_category": 11,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.39,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안정론을 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.824
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원희룡 장관에게 이런 문제를 허심탄회하게 이야기하고 협조를 구할 수 있는 당 논리적으로 설득할 수 있는 당은 바로 우리 힘 있는 여당 국민의 힘입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.834,
+                "end": 15.691
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김은혜 경기 지사 후보는 선거 전날까지 닷새간 무박 5일 유세를 이어가면서 부동산 공약을 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.701,
+                "end": 23.390
+            }
+        ]
+    },
+    "summary": "안정론을 강조하며 협조를 구하고 논리적으로 설득할 수 있는 당은 여당이라고 강조했고 김은혜 후보는 부동산 공약을 강조했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02435_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02435_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

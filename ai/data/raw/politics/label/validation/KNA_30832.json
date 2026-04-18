@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_30832",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.4,
+        "format": "MP4",
+        "date": "2016-11-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "6년 전 어려운 여건에도 당당히 맞서 싸운 해병대원들은 전의를 불태웠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.148
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "만약 적이 도발한다면 도발은 곧 자멸이며 도발 장소가 무덤이 되도록 모든 것을 쏟아부어 강력하게 응징할 것입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.158,
+                "end": 15.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군 당국은 북한이 이번 훈련을 트집 잡지 못하도록 군사 정전 위원회 입회 하에 훈련을 실시했고 사전에 항행 경보도 발령했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.126,
+                "end": 24.576
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.586,
+                "end": 27.400
+            }
+        ]
+    },
+    "summary": "해병대원들은 전의를 불태웠으며 군 당국은 북한이 이번 훈련을 트집 잡지 못하도록 군사 정전 위원회 입회 하에 훈련을 실시했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30832_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30832_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

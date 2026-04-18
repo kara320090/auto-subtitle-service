@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_02251",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.12,
+        "format": "MP4",
+        "date": "2022-05-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "압수수색하고 수사에 착수했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.038
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당연히 이렇게 후보자도 해야 된다고 생각하나요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.048,
+                "end": 6.970
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가 그 다른 분하고 뭐 왜 비교가 돼야 되는지 그걸 모르겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.980,
+                "end": 13.522
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "인수위와 발달 장애인 부모들의 집회 요구 사항을 아는지 묻자 이렇게 답했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.532,
+                "end": 20.120
+            }
+        ]
+    },
+    "summary": "후보자는 자신이 왜 다른 사람과 비교가 돼야 하는지 모르겠다고 답하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02251_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

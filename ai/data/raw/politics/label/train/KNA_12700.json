@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_12700",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.591,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "태영호 죽이기 집단을 각 방면으로 펼쳐지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.965
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 공천 얘기가 없었다는 해명대로라면 결국 과장했거나 거짓말을 했다는 건데 이에 대한 사과나 책임을 지겠다는 말은 없었습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.965,
+                "end": 15.744
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또한 기자 회견 뒤 자진 사퇴 의사 등 거취 관련 질문에도 아무런 답을 하지 않았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.754,
+                "end": 22.412
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.422,
+                "end": 24.591
+            }
+        ]
+    },
+    "summary": "태영호 의원은 과장이나 거짓말을 했다는 것에 대한 사과나 책임을 지겠다는 말이 없었고 기자 회견 뒤 자진 사퇴 의사 등 거취 관련 질문에도 아무런 답을 하지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12700_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 34
+                }
+            ]
+        }
+    ]
+}

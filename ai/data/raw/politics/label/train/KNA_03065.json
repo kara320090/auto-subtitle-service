@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_03065",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.466,
+        "format": "MP4",
+        "date": "2021-01-11",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "또 다른 공급 방법은 여러 채를 가진 사람들이 집을 팔도록 유도하는 겁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.437
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다주택자가 좀 매물로 나올 수 있도록 그렇게 유도하는 정책이 저는 다주택 공급 대책으로써 정부가 강구할 수 있는 대책이 아닌가 싶고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.447,
+                "end": 14.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자연스럽게 양도세 완화가 거론됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.478,
+                "end": 18.260
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당장 올해 6월부터 다주택자 양도세가 더 무거워지기 때문입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.260,
+                "end": 23.456
+            }
+        ]
+    },
+    "summary": "다주택자가 매물로 나올 수 있게 유도하는 정책과 양도세 완화가 거론됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03065_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03065_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

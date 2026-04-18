@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_31231",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.766,
+        "format": "MP4",
+        "date": "2015-08-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "박근혜 대통령은 오늘 대국민 담화에서 노동 개혁은 곧 일자리라고 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노동 개혁 없이는 청년들의 절망도 비정규직의 고통도 해결할 수 없다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.848,
+                "end": 12.284
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "특히 내년부터 정년이 연장되면 청년 고용 절벽이 더욱 심각해진다면 공공 기관의 임금 피크제 도입을 올해 안에 완료하고 공무원 임금 체계도 능력과 성과 위주로 개편하겠다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.294,
+                "end": 26.687
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "공공 기관에 임금 피크제가 도입되면 국민들의 추가 부담 없이 절감된 재원으로 앞으로 2년간 약 8000여 개의 청년 일자리가 만들어질 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.697,
+                "end": 40.766
+            }
+        ]
+    },
+    "summary": "박근혜 대통령은 노동 개혁을 강조하며 공공 기관의 임금 피크제 도입과 공무원 임금 체계 개편을 올해 안에 완료하겠다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_31231_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

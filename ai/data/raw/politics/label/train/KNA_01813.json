@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01813",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.987,
+        "format": "MP4",
+        "date": "2022-03-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사전 투표소 앞에 줄이 길게 늘어섰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.074
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 중엔 올해 처음 선거에 참여한 20살 김서연 씨도 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.084,
+                "end": 7.724
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "서연 씨가 1표를 행사하기 전 눈여겨본 건 후보들의 기후 위기와 동물권 공약입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.734,
+                "end": 13.595
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현재 기후 위기가 심각하니까 기후 위기 이슈라든가 또 떠오르는 동물권 이슈에도 많이 관심을 가지고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.605,
+                "end": 20.987
+            }
+        ]
+    },
+    "summary": "투표소 앞에는 줄이 길게 늘어섰고 투표 전 서연 씨가 눈여겨본 건 후보들의 기후 위기와 동물권 공약이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01813_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 91
+                }
+            ]
+        }
+    ]
+}

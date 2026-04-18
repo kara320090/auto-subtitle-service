@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_33608",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.619,
+        "format": "MP4",
+        "date": "2023-09-19",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 전 대통령이 9.19 평양 공동 선언 5주년 기념 행사를 앞두고 이재명 대표가 입원 중인 병원을 찾았습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 7.563
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "병실로 이동한 문 전 대통령은 이 대표의 손을 잡고 단식 중단을 권유했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.573,
+                "end": 13.269
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "단식의 진정성이나 결기는",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.279,
+                "end": 19.619
+            }
+        ]
+    },
+    "summary": "문재인 전 대통령은 이재명 대표가 입원 중인 병원을 찾아가 이 대표의 손을 잡고 단식 중단을 권유했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33608_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 7,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

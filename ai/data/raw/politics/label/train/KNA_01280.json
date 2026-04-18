@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "KNA_01280",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.654,
+        "format": "MP4",
+        "date": "2022-06-03",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "향후 평가 과정에서 책임론은 자연스럽게 나오게 될 것이라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.765
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이재명계 의원들은 못마땅한 반응을 보였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.779,
+                "end": 8.575
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "토론할 분위기가 토론을 하신 게 뭐 한 사람들 누구나 하니까 같은 입장의 얘기만 하니까 싸울 일이 없지.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 8.575,
+                "end": 15.472
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "논쟁 끝에 새 비대위는 관리형보다는 혁신형으로 구성하는 것으로 방향을 잡았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.482,
+                "end": 21.654
+            }
+        ]
+    },
+    "summary": "논쟁 끝에 새 비대위는 관리형보다는 혁신형으로 구성하는 것으로 방향을 잡았습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01280_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01280_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

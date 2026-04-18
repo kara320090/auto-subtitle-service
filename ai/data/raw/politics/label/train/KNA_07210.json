@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_07210",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 27.494,
+        "format": "MP4",
+        "date": "2022-05-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 @이름1 후보자의 모두 발언부터 문제 삼았습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.552
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰 수사권 완전 박탈이라는 표현은 잘못됐다는 것.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.562,
+                "end": 7.868
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인사말에 검수완박이라는 용어를 굳이 쓰신 거는 이 싸우겠다는 거죠?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.878,
+                "end": 17.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "후보자는 수사권 축소의 부작용을 우려하는 말로 맞섰습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.432,
+                "end": 21.609
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "부패한 정치인이나 부패한 정치 그 공직자가 처벌을 면하기 위해 만든 법이라고 생각합니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.619,
+                "end": 27.494
+            }
+        ]
+    },
+    "summary": "민주당이 @이름1 후보자의 모두 발언에 대해 비판하고, 후보자는 이에 대해 맞서고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07210_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

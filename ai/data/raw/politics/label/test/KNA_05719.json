@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_05719",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.531,
+        "format": "MP4",
+        "date": "2122-11-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "부당하게 전용기 탑승을 배제하고 탄압용 세무 조사로 520억 원의 추징금을 부과한 것도 부족해서 아예 문이라도 닫게 하겠다는 것입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.972
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "한편 대통령실이 동남아 순방 전용기에 MBC 기자 탑승을 배제한 것과 관련해 지난 14일부터 어제까지 진행된 여론 조사에서 3명 중 2명은 취재 기회를 박탈하는 부적절한 조치라고 응답했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.982,
+                "end": 25.766
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "외국 편파 보도 방지를 위한 불가피한 조치였다는 응답은 28퍼센트에 불과했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.776,
+                "end": 31.531
+            }
+        ]
+    },
+    "summary": "대통령 전용기에 MBC 기자 탑승을 배제한 것은 부적절한 조치라고 응답했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05719_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_05400",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 21.755,
+        "format": "MP4",
+        "date": "2022-09-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령실 관계자는 해소 방안 마련을 언급한 데 대해 미국이 한국 측 우려를 잘 알고 있다는 데서 한 걸음 더 나아간 것이라고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해리스 부대통령은 윤 대통령의 해외 순방 당시 이른바 비속어 논란에 대해서도 전혀 개의치 않는다고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.100,
+                "end": 17.047
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바이든 대통령은 윤 대통령에 대해 깊은 신뢰를 가지고 있으며",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.057,
+                "end": 21.755
+            }
+        ]
+    },
+    "summary": "해리스 부대통령은 윤 대통령의 해외 순방 당시 비속어 논란에 대해서 전혀 개의치 않는다고 말했고 바이든 대통령은 윤 대통령에 대해 깊은 신뢰를 가지고 있는 것으로 보인다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_05400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

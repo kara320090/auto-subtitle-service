@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_02448",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.351,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한 일꾼에게 여러분의 살림을 맡겨야 여러분의 살림이 피는 것입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.675
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최대 승부처 경기 지사 선거에 나선 김동현 후보는 사흘간 경기도 내 31개 시군을 모두 훑는 유세를 이어갔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.685,
+                "end": 14.051
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "초박빙 승부수 상대 후보에 대한 비판 수위도 높였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.061,
+                "end": 18.351
+            }
+        ]
+    },
+    "summary": "경기 지사 선거에 후보들이 유세를 이어가고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02448_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

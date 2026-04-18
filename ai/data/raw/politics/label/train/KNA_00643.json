@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_00643",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 40.173,
+        "format": "MP4",
+        "date": "2022-03-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당선인 측은 4월 초 총리 후보자 발표를 공헌해 왔는데 그래서 이번 일요일 정도에 발표가 나올 거라는 관측이 많습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.407
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당선인 측 김은혜 대변인도 안철수 위원장의 뜻이 전해졌으니 인선에 속도를 낼 거라고 설명하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.417,
+                "end": 15.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당선인 측은 총리 적임자로 추천을 받은 인사들에 대한 기본적인 검증 작업을 벌이고 있는 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.681,
+                "end": 22.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국민 통합 또 경제를 기본 키워드로 하고 민주당이 국회에서 다수석을 차지하는 만큼 국회 인명동의를 무리 없이 넘을 수 있을 지도 점검하는 것으로 알려졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.565,
+                "end": 34.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤석열 당선인은 오늘 어떤 일정을 보내는 지도 좀 전해주시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.951,
+                "end": 40.173
+            }
+        ]
+    },
+    "summary": "이번 일요일 정도에 후보자 발표가 나올 거라는 관측이 많다고 전했고 추천을 받은 인사들에 대한 검증작업을 벌이고 있다고 설명했다. 또 민주당이 다수석을 차지하는 만큼 인명동의를 무리 없이 넘길 수 있을지도 점검하는 것으로 전해졌다고 보도했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00643_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00643_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 41,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

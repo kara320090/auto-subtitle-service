@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_08675",
+        "category": "정치뉴스",
+        "sub_category": 28,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.159,
+        "format": "MP4",
+        "date": "2022-10-04",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "코로나19 확산 이후 전국 법인 택시 기사 세 명 중 한 명은 운전대를 놨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.247
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "떠난 기사들을 불러오기 위해 정부가 요금 인상안을 꺼냈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.257,
+                "end": 9.958
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우선 심야 호출료가 최대 5000원으로 오릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.968,
+                "end": 14.050
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현재는 호출료를 플랫폼 업체가 절반을 갖고 나머지를 택시 법인이나 기사가 나눠 갖는 구조인데 인상분에 대해선 90퍼센트 가까이를 기사에게 배분하도록 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.060,
+                "end": 26.159
+            }
+        ]
+    },
+    "summary": "정부가 코로나19로 떠나간 기사들을 다시 불러오기 위해 요금 인상안을 꺼냈고 이전에는 플랫폼 업체가 절반을 가졌다면 이제는 90퍼센트 가까이를 기사에게 배분하도록 했다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08675_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08675_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 45,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

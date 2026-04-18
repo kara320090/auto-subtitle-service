@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_08337",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.061,
+        "format": "MP4",
+        "date": "2022-09-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이해 충돌 논란 이후 바이오 분야 주식을 모두 처분한 백경란 질병관리청장 코스닥 상장사인 신테카바이오 3300여 주를 팔아 2300만 원의 차익을 남겼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.566
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "청장이 보유했던 바이오 관련 주식이 어제 5퍼센트가 올랐는데 오늘 아침에는 17퍼센트가 올랐더라고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.576,
+                "end": 19.876
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "매도하는 것을 권고하셔서 제가 그렇게 하겠다고 했고 약속을 지켰습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.886,
+                "end": 28.061
+            }
+        ]
+    },
+    "summary": "백경란 청장이 가지고 있는 주식이 17퍼센트가 올랐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08337_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

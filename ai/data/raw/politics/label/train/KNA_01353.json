@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_01353",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.915,
+        "format": "MP4",
+        "date": "2022-06-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "필요하면 또 인사를 하겠다고 말한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.676
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰을 떠난 지 오래된 인사들에 대해 편중 논란이 제기된 데 대해서 어폐가 있다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.686,
+                "end": 8.670
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "권영세, 원희룡, 박민식 같이 벌써 검사 그만둔 지 20년이 다 되고",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.680,
+                "end": 15.915
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 검찰 편중 논란에 대해 입장을 밝히고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01353_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

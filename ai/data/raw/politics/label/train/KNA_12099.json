@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "KNA_12099",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.358,
+        "format": "MP4",
+        "date": "2020-04-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "거대 양당의 싸움 정치를 끝내고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.452
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정의당은 야근 근무 중인 철도 노동자들을 만나 노동자와 서민을 대변하겠다고 강조했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.462,
+                "end": 10.233
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "13일간의 대장정 드디어 그 막이 올랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.243,
+                "end": 13.914
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당과 더불어시민당은 제주 사삼 사건 추념식이 열리는 내일 제주에서 합동 연석 회의를 하고 이어 전국을 돌며 표심 잡기에 나섭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.924,
+                "end": 23.209
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.219,
+                "end": 25.358
+            }
+        ]
+    },
+    "summary": "정의당은 철도 노동자들을 만나 노동자와 서민을 대변하겠다고 했고 민주당과 더불어시민당은 표심잡기에 나선다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12099_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 21,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

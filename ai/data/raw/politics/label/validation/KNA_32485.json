@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_32485",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 58.558,
+        "format": "MP4",
+        "date": "2023-08-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경제 상황과 관련해선 올해 7월까지 아사가 240여 건으로 최근 5년 평균치보다 2배 이상 늘어나는 등 식량 사정이 악화됐다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 10.083
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "장마당 세대를 중심으로 김정은 일가와 당 정책에 대해 거침없는 불평과 집단 항의가 있음에 따라 불평분자 색출을 전담하는 비상설 TF를 신설했다는",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.093,
+                "end": 26.380
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국정원은 올해 지금까지 99명이 탈북했고 국경이 개방되면 더 늘어나겠지만 탈북 브로커 비용이 급증해 큰 폭의 탈북 증가는 기대하기 어렵다고 전망했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.390,
+                "end": 37.729
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "최근 쇼이구 러시아 국방장관이 북한을 방문했을 때 북한과 러시아는 큰 틀의 군사 협력에 합의한 것으로 보이며 러시아의 핵미사일 핵심 기술이 북한에 이전 될 가능성도 염두에 두고 있다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.739,
+                "end": 50.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "북중 국경 개방은 점진적으로 추진 중이라고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.925,
+                "end": 55.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 55.444,
+                "end": 58.558
+            }
+        ]
+    },
+    "summary": "북한의 경제 상황은 아사가 2배 이상 늘 정도로 식량 사정이 악화되면서 불평과 항의가 늘어 불평분자 색출하는 비상설 TF을 신설하고 있지만 탈북 브로커 비용이 급증해 탈북 증가는 어렵다고 전망했고 러시아와 큰 틀의 군사 협력에 합의하며 북중 국경 개방이 추진 중이라고 국정원은 설명했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_32485_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

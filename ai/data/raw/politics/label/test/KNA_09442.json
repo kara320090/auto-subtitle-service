@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "KNA_09442",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 22.322,
+        "format": "MP4",
+        "date": "2023-01-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "중 대선거구 문제에 대해서는 여러 가지 이제 논란들이 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "충분히 고려해서 또 우리 당내 의견을 지금 모아가는 중이다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.342,
+                "end": 10.210
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같은 당 내부에서도 수도권과 영호남 등 지역에 따라 이해가 엇갈리는 만큼 합의안이 도출되겠냐는 회의적 시각도 많습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.220,
+                "end": 18.605
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 18.615,
+                "end": 22.322
+            }
+        ]
+    },
+    "summary": "같은 당 내부에서도 수도권과 영 호남 등 지역에 따라 이해가 엇갈리는 만큼 합의안이 도출되겠냐는 회의적 시각도 많다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_09442_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 4,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

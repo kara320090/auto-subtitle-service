@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_32946",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 17.751,
+        "format": "MP4",
+        "date": "2023-10-31",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당면한 복합 위기를 극복하기 위해 힘을 모아 주시길 부탁드립니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.662
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "연설 도중 여당에선 30여 차례 박수가 나왔지만 야당 의원들은 침묵했습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.672,
+                "end": 11.595
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의힘은 이번 연설이 친서민 건전 예산이라는 방향을 잘 설명했다고 평가했고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.605,
+                "end": 17.751
+            }
+        ]
+    },
+    "summary": "여당은 윤 대통령의 연설에 30여 차례 박수를 쳤고 야당은 침묵했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32946_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 21
+                }
+            ]
+        }
+    ]
+}

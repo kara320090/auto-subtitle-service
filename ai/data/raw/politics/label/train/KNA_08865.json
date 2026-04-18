@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_08865",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.168,
+        "format": "MP4",
+        "date": "2022-10-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "진술을 바꾼 이유가 무엇이냐는 취재진 질문엔 진술을 바꾼 적이 없다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 @이름1 부원장 측은 유 전 본부장이 석방을 대가로 거짓 진술을 했다는 의혹을 제기했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.501,
+                "end": 12.910
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유 전 본부장에게 금품을 요구한 적도 받은 적도 돌려준 적도 없다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.910,
+                "end": 18.435
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 부원장의 영장 심사를 마치고 나온 변호인들은 검찰이 유 전 본부장의 진술에 놀아났다는 표현까지 썼습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.445,
+                "end": 26.191
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰의 범죄 사실은 사실이 아니니까 억울한 점에 대해서 충분히",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.201,
+                "end": 31.164
+            }
+        ]
+    },
+    "summary": "김 부원장 측은 유 전 본부장이 거짓 진술을 했다고 의혹을 제기했다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08865_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08865_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

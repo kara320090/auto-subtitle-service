@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "KNA_32239",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.833,
+        "format": "MP4",
+        "date": "2015-11-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 총선거에서 제1야당이 된",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.833
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "총선에선 김대중의 평화 민주당이 제2당으로 약진합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.843,
+                "end": 6.833
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그러나 김영삼은 3당 합당으로 반전을 시도하며 먼저 대통령에 오릅니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.843,
+                "end": 14.488
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "대통령으로서 직책을 성실히 수행할 것을 국민 앞에 엄숙히 선서합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.498,
+                "end": 29.833
+            }
+        ]
+    },
+    "summary": "총선에선 김대중의 평화 민주당이 약진했지만 3당 합당으로 반전을 시도한 김영삼이 먼저 대통령에 오릅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32239_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 17
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "filename": "KNA_08485",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 31.798,
+        "format": "MP4",
+        "date": "2022-09-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공정하지 못하다는 생각이 들기 때문에 한 거 아니겠습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.033
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "서울 남부지법에 다른 재판부도 있는데 한 재판부가 계속 맡는 것은 공정성에 의심을 받을 수 있다고 주장했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.043,
+                "end": 10.755
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "사건 당사자인 전주혜 비상 대책 위원이 해당 재판부 재판장과 서울대 법대 동기 동창이라는 점을 주된 이유로 꼽았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.765,
+                "end": 19.397
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이준석 전 대표는 지연 전술이라며 즉각 반발했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.407,
+                "end": 23.410
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "학연으로 본인들이 유리할까 봐 기피신청을 하는 게 말이 되느냐 바보가 아닌 사람들이 말이 안 되는 행동을 하고 있다고 비꼬았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.420,
+                "end": 31.798
+            }
+        ]
+    },
+    "summary": "한 재판부가 계속 맡는 것은 공정성에 의심을 받을 수 있으며 사건 당사자인 위원과 해당 재판장이 동기 동창이라는 점을 꼽았고 이준석 전 대표도 반발했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08485_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_08485_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

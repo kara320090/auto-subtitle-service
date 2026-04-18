@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "KNA_03601",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 37.237,
+        "format": "MP4",
+        "date": "2021-03-29",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "문 대통령은 오늘 아침 @이름1 정책 실장이 사의를 밝히자 즉각 수용했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김 실장은 지난해 7월 부부 공동 명의의 서울 강남 아파트 전세 보증금을 14퍼센트 올려 세입자와 계약을 갱신했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.336,
+                "end": 14.378
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "하지만 시점이 임대료 인상 폭을 5퍼센트로 제한한 임대차 3법 시행 이틀 전이어서 고위 공직자의 이중적 행태라는 비판이 잇따랐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.388,
+                "end": 25.022
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이사 대책 등 부동산 정책을 차질없이 추진할 수 있도록 빨리 자리를 물러나는 것이 대통령님을 모신 비서로서 해야 할 마지막 역할이라고 생각했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.032,
+                "end": 37.237
+            }
+        ]
+    },
+    "summary": "임대료 인상 폭을 5퍼센트로 제한한 임대차 3법 시행 이틀 전에 아파트 전제 보증금을 14퍼센트 올려 세입자와 계약한 @이름1 정책 실장이 사의를 표하자 문 대통령은 즉각 수용했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03601_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

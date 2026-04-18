@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "KNA_00872",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 44.077,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하십니까? 코로나19 통합 뉴스룸 KBS 7시 뉴스입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.482
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "검찰 수사권 폐지 법안 처리를 놓고 한치의 양보도 없이 대치하던 여야가 극적으로 합의를 이뤘습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.492,
+                "end": 10.500
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "박병석 국회 의장이 제시한 중재안 야당 측이 수용한 건데 합의된 법안은 다음 주 중 본 회의에서 처리될 전망입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.510,
+                "end": 18.511
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방준원 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.521,
+                "end": 20.952
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰 수사권 폐지를 두고 평행선을 달리던 민주당과 국민의힘 박병석 국회의장의 검찰 개혁 법안 중재안을 여야 모두가 수용하면서 극적으로 절충점을 찾았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.962,
+                "end": 34.294
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "극한 대립에서 극적 타협을 이뤘습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.304,
+                "end": 37.671
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "합의 정신에 따라서 충실하게 속도감 있게 처리해 주실 것으로 믿습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 37.681,
+                "end": 44.077
+            }
+        ]
+    },
+    "summary": "검찰 수사권 폐지를 놓고 대치하던 여야가 중재안을 수용하면서 극적으로 타협을 이뤘다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00872_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00872_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

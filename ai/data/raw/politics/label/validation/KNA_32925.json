@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_32925",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.951,
+        "format": "MP4",
+        "date": "2023-10-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "대통령 테마주다 윤석열 대통령 그러니까 같은 동문이라서 대통령 테마주입니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.231
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진실은 어디 가고 내용만 지금 거창하게 되어 가는 그런 상황이다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.241,
+                "end": 10.288
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "양평 고속도로 노선 변경을 두고도 설전은 계속됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.298,
+                "end": 14.618
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "정당한 의혹 제기를 날파리 선동으로 비하했고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.628,
+                "end": 17.951
+            }
+        ]
+    },
+    "summary": "대통령 테마주의 설전 후 양평 고속도로 노선 변경 설전이 계속됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32925_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

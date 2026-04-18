@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_33628",
+        "category": "정치뉴스",
+        "sub_category": 13,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.792,
+        "format": "MP4",
+        "date": "2023-09-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당은 정부, 여당의 실정을 덮기 위한 자화자찬 연설이었다고 지적했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.829
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여당이 진정한 통합과 정치 복원을 원한다면 국회를 조롱하는 윤석열 정부의 국무 총리 해임과 내각 총사퇴에 응답하십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.839,
+                "end": 16.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "정의당도 용산 대통령실의 통법부로 전락한 현실에 대한 사과가 우선이었다며 평가 절하했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.248,
+                "end": 23.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 뉴스 @이름1입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.592,
+                "end": 25.792
+            }
+        ]
+    },
+    "summary": "민주당과 정의당은 여당의 연설에 대해 비판하며 평가 절하하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33628_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

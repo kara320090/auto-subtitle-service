@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_00236",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.585,
+        "format": "MP4",
+        "date": "2022-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정치적 판단으로 졸속 추진한 탈원전 정책이 그 대표적인 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.298
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "윤 후보는 국민의 당 안철수 후보와의 단일화 문제에 대해선 공개적으로 언급할 사안이 아니라며 말을 아꼈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.308,
+                "end": 14.159
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안철수 후보는 단일화 제안을 받은 적도 없고 고민해 본 적도 없다며",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.169,
+                "end": 18.585
+            }
+        ]
+    },
+    "summary": "윤 후보는 안철수 후보와의 단일화 문제는 언급할 사안이 아니라고 했으며 안철수 후보는 제안을 받은 적도 고민해 본 적도 없다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00236_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 144
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00236_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

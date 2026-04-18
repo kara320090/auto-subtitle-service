@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_10551",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.19,
+        "format": "MP4",
+        "date": "2023-02-20",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "윤석열 대통령과 한덕수 국무총리의 주례회동 결과는 노조 문제였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.763
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 노조 개혁의 출발점은 회계의 투명성이라며 단호한 조치를 언급했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.773,
+                "end": 11.154
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 혈세인 수천억 원의 정부 지원금을 사용하면서 법치를 부정하고 사용 내역 공개를 거부하는 행위에 대해서는 단호한 조치를 취할 수밖에 없다 이렇게 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.164,
+                "end": 24.190
+            }
+        ]
+    },
+    "summary": "윤석열 대통령과 한덕수 국무총리의 주례회동에서 윤 대통령은 노조가 법치를 부정하고 사용 내역 공개를 거부하는 행위에 대해서 단호한 조치를 언급했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_10551_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

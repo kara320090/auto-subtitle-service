@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "KNA_01196",
+        "category": "정치뉴스",
+        "sub_category": 6,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 18.885,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "국민의힘 박형준 52.3으로 박 후보 우세였고 울산은 민주당 송철호 27.1 국민의힘 김두겸 43.4로 나타났습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.405
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경남은 민주당 양문석 21.3 국민의힘 박완수 53.4였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.415,
+                "end": 15.775
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "광주는 민주당 강기정 56.1",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.785,
+                "end": 18.885
+            }
+        ]
+    },
+    "summary": "울산은 민주당 송철호 27.1 국민의 힘 김두겸 43.4로 나타났고 경남은 민주당 양문석 21.3 국민의 힘 박완수 53.4였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01196_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01196_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

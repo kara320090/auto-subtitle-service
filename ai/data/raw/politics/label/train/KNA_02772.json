@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "KNA_02772",
+        "category": "정치뉴스",
+        "sub_category": 40,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.327,
+        "format": "MP4",
+        "date": "2022-11-12",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "책임을 지지 않을 거면 왜 정권을 잡았고 의무를 다하지 않을 거면 왜 공직에 있습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 6.787
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "당장 그만두고 물러나야 하는 것 아닙니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.797,
+                "end": 10.173
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이재명 대표는 취임 뒤 윤 대통령에게 수차례 만남을 요청했지만 성사되지 못했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.183,
+                "end": 16.314
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소통은 꽉 막히고 서로에 대한 적대감만 커지는 상황 새해 예산안과 민생법안이 제때 처리될 수 있을지 국회의 기본적 역할에 대한 우려까지 나오고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.324,
+                "end": 27.327
+            }
+        ]
+    },
+    "summary": "여야의 소통은 꽉 막히고 서로에 대한 적대감만 커지는 상황에서 새해 예산안과 민생법안이 제때 처리될 수 있을지 국회의 기본적 역할에 대한 우려까지 나오고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02772_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_02772_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 15,
+                    "object": 41,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

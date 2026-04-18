@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_08300",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.957,
+        "format": "MP4",
+        "date": "2022-09-02",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "죄 없는 김대중을 잡아갔던 어 전두환이나 어 죄 없는 이재명을 잡아가겠다는 윤석열이나 뭐가 다르겠습니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.371
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "@이름1 여사가 여러 의혹 사건에서 잇달아 무혐의 처분을 받았다며 맹폭했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.381,
+                "end": 19.536
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "바로 @이름1의 시간을 이재명의 시간으로 바꿔치기한 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.546,
+                "end": 23.957
+            }
+        ]
+    },
+    "summary": "@이름 1 여사가 여러 의혹 사건에서 잇달아 무혐의 처분을 받았다며 맹폭했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08300_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

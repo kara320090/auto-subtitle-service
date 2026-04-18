@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "KNA_33463",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.622,
+        "format": "MP4",
+        "date": "2023-06-13",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한동훈 법무부 장관이 체포 동의 요청 이유를 설명하며 정치적 도발을 했다는 민주당 주장은 그럴 이유가 없다며 선을 그었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.968
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "표결의 공정성에 문제가 있다는 그런 얘기를 법무부 장관으로서 뭐 하셨던 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.968,
+                "end": 15.728
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "의도된 도발을 할 이유도 없고 그러 그런 의도가 있었다고 보 보지는 않습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.728,
+                "end": 22.622
+            }
+        ]
+    },
+    "summary": "한동훈 법무부 장관이 표결 공정성에 문제가 있다며 체포 동의 요청 이유를 설명했고 정치적 도발을 했다는 민주당 주장은 이유도 의도도 없다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33463_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

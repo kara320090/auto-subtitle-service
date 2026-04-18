@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "KNA_33862",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.666,
+        "format": "MP4",
+        "date": "2018-06-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 한반도 비롯한 세계가 어 전쟁과 적대의 시대에서 벗어나서 평화와 공존 번영의 시대로 나아가는 아주 역사적인 위업이었다고 생각합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.815
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령은 폼페이오 장관과 완전한 비핵화를 이행하기 위한 협상 전략, 종전 선언, 평화 협정 등 이후 일정에 대해서도 의견을 교환한 것으로 알려졌습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 13.825,
+                "end": 24.413
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령은 오늘 오후엔 고노 다로 일본 외무상과도 만나 북미 회담 이후 다양한 채널로 진행될 대북 협상 과정에서 한일 양국이 긴밀하게 공조할 방안도 논의합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.423,
+                "end": 35.879
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문 대통령은 이어 올해 처음으로 국가 안전 보장 회의 NSC 전체 회의를 주재합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.889,
+                "end": 41.666
+            }
+        ]
+    },
+    "summary": "문 대통령은 폼페이오 장관과 완전한 비핵화를 이행하기 위한 일정에 대해서 의견을 교환한 것으로 알려졌으며 오늘 오후엔 일본 외무상과도 만나 한일 양국이 긴밀하게 공조할 방안도 논의한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33862_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33862_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

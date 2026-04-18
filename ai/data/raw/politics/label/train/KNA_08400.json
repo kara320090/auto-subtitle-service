@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_08400",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 33.6,
+        "format": "MP4",
+        "date": "2022-09-14",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어제 이 포스터 10장이 용산 대통령 집무실 인근 거리에 부착됐고 경찰이 당일 바로 수거했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.291
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옥외 광고물 관리법 위반 소지가 있다며 수사도 검토 중이라는데 그림을 게재한 작가는 이게 경찰까지 나설 일이냐고 반발하고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.301,
+                "end": 17.008
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "누군가의 작품이 권력자를 풍자를 하고 거기에 휴머니즘적인 메시지가 있다면 그 작품은 존중받아야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.018,
+                "end": 26.567
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "반면 그림을 접한 윤 대통령 지지자들은 불쾌감을 표시하며 작가에게 항의 전화를 했던 것으로 알려졌습",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.577,
+                "end": 33.600
+            }
+        ]
+    },
+    "summary": "옥외 광고물 관리법 위반 소지가 있다며 수사도 검토 중이라는데 그림을 게재한 작가는 이게 경찰까지 나설 일이냐고 반발하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

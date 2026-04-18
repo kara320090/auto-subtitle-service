@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_30823",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.666,
+        "format": "MP4",
+        "date": "2016-11-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "2013년 4월부터 2년 가까이 청와대 의무실에 근무했던 전직 간호 장교 신 모 씨 기자 회견을 자청한 신 씨는 먼저 세월호 참사 당일 대통령에 대해 의료 행위를 하지 않았다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 13.141
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그런 의료 행위는 전혀 없었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.151,
+                "end": 15.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그때 어떤 의무적인 이벤트도 없었고 네 제가 아는 바로는 없었고",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.414,
+                "end": 21.914
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오전에 의무실장 지시로 가글액을 부속실에 전달했을 뿐 대통령을 본 적도 없다는 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.924,
+                "end": 28.666
+            }
+        ]
+    },
+    "summary": "청와대 의무실에 근무했던 전직 간호 장교 신 모 씨가 기자 회견을 자청해 세월호 참사 당일 가글액을 부속실에 전달했을 뿐 대통령을 본 적도 없다며 대통령에 대해 의료 행위를 하지 않았다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_30823_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_30823_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 17,
+                    "object": null,
+                    "act": 100
+                }
+            ]
+        }
+    ]
+}

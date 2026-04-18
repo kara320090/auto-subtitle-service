@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "KNA_33541",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.592,
+        "format": "MP4",
+        "date": "2023-06-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전자파 등에 환경영향을 검토하는 등 절차에 따라 검토하고 협의 내용을 통과했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.750
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "성주 사드 기지에 대한 환경영향평가 절차가 완료되었다고 볼 수 있겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.760,
+                "end": 10.833
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "특히 레이더 전자파가 인체에 미치는 영향은 미미한 것으로 판단됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.843,
+                "end": 15.546
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "환경부가 국방부와 한국전파지능협회가 실측한 자료를 검토한 결과 측정 최대값이 인체 보호 기준의 0.2퍼센트보다 낮았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.556,
+                "end": 25.592
+            }
+        ]
+    },
+    "summary": "환경부가 국방부와 한국전파지능협회가 레이더 전자파가 인체에 미치는 영향을 실측했고 그 결과 측정 최대값이 인체 보호 기준의 0.2퍼센트보다 낮게 나와 인체에 미치는 영향이 미미한 것으로 판단됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_33541_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_33541_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

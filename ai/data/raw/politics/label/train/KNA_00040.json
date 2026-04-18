@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "KNA_00040",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 18.451,
+        "format": "MP4",
+        "date": "2022-01-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "할 수 있는 최대치의 역할을 해주고 계십니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.832
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국가 재정 역량에 한계가 있다는 것을 잘 안다면서도 코로나 위기 극복을 위한 추경 필요성을 거듭 강조했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.842,
+                "end": 11.133
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소상공인들에 대한 지원이 지금 매우 시급하다 긴박하다 그리고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.143,
+                "end": 18.451
+            }
+        ]
+    },
+    "summary": "이재명 후보가 국가 재정 역량의 한계와 추경의 필요성에 대해 발언하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00040_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

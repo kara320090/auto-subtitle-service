@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_08000",
+        "category": "정치뉴스",
+        "sub_category": 12,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.953,
+        "format": "MP4",
+        "date": "2022-07-08",
+        "license": "KBS",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저는 어느 누구에게도 축하를 받지 못했으며 어느 누구에게도 대접받지 못했으며",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.034
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "11년 전 비대 위원으로 함께 활동했고 지난해 직접 임명한 @이름1 윤리 위원장에게 징계를 받으며 정치 인생의 최대 위기를 맞게 됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.044,
+                "end": 18.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 @이름2입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.320,
+                "end": 19.953
+            }
+        ]
+    },
+    "summary": "11년 전 비대 위원으로 함께 활동했고 @이름1 윤리 위원장에게 징계를 받으며 정치 인생의 최대 위기를 맞게 됐습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08000_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

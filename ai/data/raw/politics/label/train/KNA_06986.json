@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "filename": "KNA_06986",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 21.802,
+        "format": "MP4",
+        "date": "2022-04-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경기도 내 모든 역세권을 집중적으로 개발해서 교통이 편리한 직주근접형 주택 공급을 확대하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.636
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "인천은 박남춘 시장과 유정복 전 시장의 재대결이 이뤄집니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.646,
+                "end": 13.514
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "저는 지난 4년 동안 인천의 자존심을 살리고 인천 시민의 자존심을 세우는 데 제 모든 것을 쏟아부었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.524,
+                "end": 21.788
+            }
+        ]
+    },
+    "summary": "인천은 박남춘 시장과 유정복 전 시장의 재대결이 이루어진다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06986_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_06986_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

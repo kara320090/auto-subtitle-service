@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "filename": "KNA_04904",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 37.404,
+        "format": "MP4",
+        "date": "2022-07-05",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고위 공직자로서의 품위 유지 위반 여부 말다툼의 원인으로 알려진 택시 안에서의 마스크 착용 여부를 집중적으로 따질 것으로 보입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이를 확인하기 위해 시민 제보 영상에 등장하는 택시 기사 지구대 경찰 등에 대한 대면 조사도 진행될 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.652,
+                "end": 16.451
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "KBS 보도가 나간 뒤 하루 만에 해당 부시장은 공개 사과했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.461,
+                "end": 21.426
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 행동이 그 다시 재발되지 않도록 어 부단한 성찰 어떤 근신 반성해 나가겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.436,
+                "end": 29.928
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "다시 한번 어 저의 부적절한 행동으로 마음의 상처와 불편을 입으신 분들께 죄송하다는 말씀을 전합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.938,
+                "end": 37.404
+            }
+        ]
+    },
+    "summary": "고위 공직자 품위 유지 위반 여부와 택시 안에서의 마스크 착용 여부를 집중적으로 따질 것으로 보이고 택시 기사 등에 대한 대면 조사도 진행될 예정이며 언론에 보도된 후 해당 부시장은 공개 사과했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04904_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04904_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

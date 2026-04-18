@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "KNA_03524",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 27.46,
+        "format": "MP4",
+        "date": "2021-03-17",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 오전 10 시부터 6 시간 넘게 이어진 압수수색을 통해 신도시 지정 과정에 대한 자료를 확보한 것으로 전해졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.149
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "투기가 의심되는 시흥 지역 토지 거래를 한 LH 직원들에게 집중적으로 대출을 해준 북시흥농협 본점과 지점 2 곳에 대해서도 압수수색이 진행됐습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.159,
+                "end": 16.807
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "있는 자료 확보했나요?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.817,
+                "end": 18.558
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "네 혹시 압수수색 어떤 자료 확보했는지 좀 말씀해주세요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.568,
+                "end": 22.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "경찰은 또 경남 진주 LH 본사도 압수수색했는데 지난 9 일에 이어 두 번째입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.126,
+                "end": 27.460
+            }
+        ]
+    },
+    "summary": "경찰은 압수수색을 통해 신도시 지정 과정에 대한 자료를 확보했고 LH 직원들에게 집중적으로 대출을 해준 북시흥농에도 압수수색을 진행하였고 경남 진주 LH 본사도 두 번째 압수수색을 진행하였다고 기자는 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03524_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03524_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": null,
+                    "act": 51
+                }
+            ]
+        }
+    ]
+}

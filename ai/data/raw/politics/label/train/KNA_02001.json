@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "KNA_02001",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.988,
+        "format": "MP4",
+        "date": "2022-03-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "당장 북한의 ICMB 발사 같은 도발 때 어디서 대처하느냐가 관건입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.385
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "통이동에서 차량으로 이삼 분 거리에 청와대 벙커 위기관리센터가 있지만 청와대를 전면 개방하려면 사용 못할 가능성이 크다는 게 당선인 측 얘깁니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.395,
+                "end": 16.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대신 작은 버스 크기의 국가지도통신차량을 이용하는 방안이 유력하게 검토됩니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.127,
+                "end": 21.988
+            }
+        ]
+    },
+    "summary": "청와대 벙커 위기관리센터가 있지만 청와대를 전면 개방하려면 사용할 수 없어 국가지도통신차량을 이용하는 방안이 유력하다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": 2,
+                    "act": 97
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "filename": "KNA_32521",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.625,
+        "format": "MP4",
+        "date": "2023-08-21",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "경북경찰청에 사건을 이첩하고 사건 기록을 송부할 예정이며 이때 재검토 결과와 해대 수사단의 조사 기록을 원안 그대로 전달할 것입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.380
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조사본부는 이번사고가 작전 지역에 대한 위험성 평가가 이뤄지지 않은 상태에서 지휘개선상의 잘못된 지시로 인해 안전 장구도 착용하지 않은 채 발생한 안전 사고로 판단했다고 밝혔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.390,
+                "end": 25.625
+            }
+        ]
+    },
+    "summary": "조사본부는 경북경찰청에 사건을 이첩하고 작전 지역에 대한 위험성 평가가 이뤄지지 않았고 잘못된 지시로 인해 발생한 안전 사고로 판단했다고 밝혔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_32521_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

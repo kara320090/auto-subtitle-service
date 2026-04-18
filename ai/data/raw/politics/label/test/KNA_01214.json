@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_01214",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.926,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "신분증만 있으면 전국 투표소 어디서나 투표할 수 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.094
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "다만 모바일 신분증의 경우 화면 캡쳐 등 저장된 이미지는 인정되지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.104,
+                "end": 10.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "유권자는 투표용지 7장을 한꺼번에 받게 되는데 세종특별자치시와 제주특별자치도에서는 각각 4장과 5장을 받습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.020,
+                "end": 20.100
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "국회 의원 보궐 선거가 치뤄지는 7곳에서는 유권자가 8장의 투표용지에 기표해야 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.110,
+                "end": 26.926
+            }
+        ]
+    },
+    "summary": "신분증만 있으면 전국 투표소 어디서나 투표할 수 있고 유권자는 투표용지 7장을 한꺼번에 받게 되는데 국회 의원 보궐 선거가 치뤄지는 7곳에서는 유권자가 8장이며 세종과 제주는 4장과 5장입니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01214_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01214_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        }
+    ]
+}

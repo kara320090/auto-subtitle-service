@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "KNA_01345",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 17.217,
+        "format": "MP4",
+        "date": "2022-06-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 일단 신중한 자세를 취했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.506
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 전 대통령 특별사면 가능성 궁금합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.516,
+                "end": 7.351
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "글쎄 뭐 거기에 대해서는 지금 언급할 문제는 아니라고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.361,
+                "end": 12.688
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여당에서는 중심으로 여론 조성에 나서는 분위기입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.698,
+                "end": 17.217
+            }
+        ]
+    },
+    "summary": "윤석열 대통령은 어 전 대통령 사면과 관련해 지금 언급할 문제는 아니라고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01345_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 144
+                }
+            ]
+        }
+    ]
+}

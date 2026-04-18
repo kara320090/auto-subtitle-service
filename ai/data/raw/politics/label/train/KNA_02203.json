@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_02203",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.989,
+        "format": "MP4",
+        "date": "2022-04-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "시민이 행복한 인천을 새롭게 만들어야 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.925
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 하기 위해서는 능력 있고 깨끗하고 미래의 비전을 실현할",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.935,
+                "end": 9.075
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘 오세훈 시장에 맞설 더불어 민주당 서울시장 후보 경선은 박주민 의원이 경선 도전을 포기하면서 송영길 전 대표와 김진혜 전 의원의 2파전으로 좁혀졌습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.085,
+                "end": 21.367
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "KBS 뉴스 임명규입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.377,
+                "end": 22.989
+            }
+        ]
+    },
+    "summary": "후보들의 공약을 전하고 서울시장 후보 경선에 대하여 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_02203_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

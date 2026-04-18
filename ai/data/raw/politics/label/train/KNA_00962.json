@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00962",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.882,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비핵화를 유도하는 것이 가장 좋은 방법이라고 말했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.811
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 의원들은 박 후보자 아들이 재직했던 회사가 도박사이트 운영업체라며 공세를 펼쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.821,
+                "end": 10.597
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국내에서는 불법입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.607,
+                "end": 12.027
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 캐나다 본사에다 본사를 캐나다에다 서버를 구축한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.037,
+                "end": 15.882
+            }
+        ]
+    },
+    "summary": "박 후보자의 아들의 회사가 불법 도박사이트 회사라며 공세를 펼치고 있다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00962_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

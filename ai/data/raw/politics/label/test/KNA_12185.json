@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "filename": "KNA_12185",
+        "category": "정치뉴스",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 29.229,
+        "format": "MP4",
+        "date": "2020-04-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저에게 힘을 주셔서 정말 벼랑 끝에 있는 저를 살려주십시오.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.640
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "통합당 윤리위는 차 후보가 부적절 발언을 했지만 상대 후보에 대한 방어와 해명 차원의 기사 인용이었다고 설명했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.650,
+                "end": 13.203
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "차 후보 발언에 고개 숙여 사과했던 @이름1 선대위원장은 한심하다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.213,
+                "end": 19.343
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "윤리위원들의 판단 능력이 굉장히 한심하다고 생각해요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.353,
+                "end": 23.876
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "나는 @이름2 후보를 통합당의 후보로 인정하지 않습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.886,
+                "end": 29.229
+            }
+        ]
+    },
+    "summary": "선대 위원장은 차 후보를 통합당의 후보로 인정하지 않는다고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12185_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

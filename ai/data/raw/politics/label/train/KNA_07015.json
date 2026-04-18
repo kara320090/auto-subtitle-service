@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "KNA_07015",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.327,
+        "format": "MP4",
+        "date": "2022-04-27",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이런 식의 일 추진이 저는 정말 위험하다고 생각합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.185
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하지만 신구 권력 사이 큰 갈등을 빚을 수는 없어 협력했다고 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.195,
+                "end": 11.804
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이에 대해 윤 당선인 측은 대통령 임기가 보름이 채 남지 않았다며 불편함을 감추지 않았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.814,
+                "end": 19.127
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "헌법 가치를 수호하는 여러 가지 모든 일에 더 관심을 가지고 그 책무에 집중해 주실 거라고 믿고 또 부탁을 드리고 싶습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.137,
+                "end": 27.327
+            }
+        ]
+    },
+    "summary": "문재인 대통령은 신구 권력 사이 갈등을 빚을 수 없어 협력했고 윤 당선인 측은 불편함을 감추지 않았다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07015_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_07015_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

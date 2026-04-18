@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01645",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.362,
+        "format": "MP4",
+        "date": "2022-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "사실상 안 후보의 양보를 요구한 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.106
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "상황이 많이 다르다는 말로 두 후보의 지지율 격차가 상당하다는 점도 짚었습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.116,
+                "end": 9.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "정권 교체를 위한 그 야권 그 통합 문제에 대해서는 제가 어제 다 말씀을 드렸고",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.193,
+                "end": 16.349
+            }
+        ]
+    },
+    "summary": "상황이 많이 다르다는 말로 두 후보의 지지율 격차가 상당하다는 점도 짚었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01645_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

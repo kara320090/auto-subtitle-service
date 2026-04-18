@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "KNA_01236",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.218,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예산 폭탄을 확실하게 투여하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.901
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 윤석열 대통령과 머리를 맞대고 지역 현안을 확실하게 챙기겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.911,
+                "end": 11.446
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이런 가운데 민주당 이재명 송영길 후보에 김포 공항 이전 공약이 선거 막판 쟁점으로 부상하고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 11.456,
+                "end": 18.218
+            }
+        ]
+    },
+    "summary": "민주당 이재명 송영길 후보는 김포 공항 이전 공약이 선거 막판 쟁점으로 부상하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01236_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

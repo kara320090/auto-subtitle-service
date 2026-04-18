@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01843",
+        "category": "정치뉴스",
+        "sub_category": 5,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.723,
+        "format": "MP4",
+        "date": "2022-03-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 신선민 기자 이번 선거 사전 투표율이 워낙 높았기 때문에 최종 투표율에 더 관심이 쏠리는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 투표는 별다른 문제 없이 진행되고 있죠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.132,
+                "end": 8.146
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예 새벽 6시부터 전국의 1만 4400여 개의 투표소에서 일제히 투표가 시작이 됐고 순조롭게 진행되고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.156,
+                "end": 17.686
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "전국적인 투표율 집계는 잠시 뒤 오전 7시부터 1시간마다 나올 예정입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.696,
+                "end": 23.723
+            }
+        ]
+    },
+    "summary": "새벽 6시부터 투표가 시작됐고 전국적인 투표율 집계는 7시부터 1시간마다 나올 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01843_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 8,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

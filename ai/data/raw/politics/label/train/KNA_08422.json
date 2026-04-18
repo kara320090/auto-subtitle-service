@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_08422",
+        "category": "정치뉴스",
+        "sub_category": 27,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.288,
+        "format": "MP4",
+        "date": "2022-09-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "서울 교통 공사 정도를 들어가려면 나름대로 열심히 아마 사회생활과 취업 준비를 했었을 우리 서울 시민의 청년일 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.943
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 피해자도 마찬가지겠죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.953,
+                "end": 10.328
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무나도 안타깝습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.338,
+                "end": 12.188
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 발언은 청년들과 서울시 직원들의 마음 건강에 대해 서울시가 적극 대응해야 한다는 취지로 얘기하던 중 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.198,
+                "end": 20.286
+            }
+        ]
+    },
+    "summary": "의원은 청년들과 서울시 직원들의 마음 건강에 대해 서울시가 적극 대응해야 한다는 취지로 얘기했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08422_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_01643",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.457,
+        "format": "MP4",
+        "date": "2022-02-15",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지역적 연고를 강조하는 행보를 이어갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안 후보는 어제 포항 제철소와 성주의 사드 기지를 찾으며 경제와 군사 안보 같은 보수 이슈를 강조하기도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.082,
+                "end": 11.519
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "1월 달에 7발을 쏜 걸로 봐서는 아마 북경 올림픽이 끝난 직후에 또 도발이 시작되지 않을까 그런 염려가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.529,
+                "end": 20.289
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 그래서 그럴 때일수록 이런 포대 역할이 굉장히 중요한 거죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.299,
+                "end": 24.457
+            }
+        ]
+    },
+    "summary": "안 후보는 지역적 연고를 강조하고 경제와 군사 안보 같은 보수 이슈를 강조하기도 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01643_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

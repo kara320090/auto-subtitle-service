@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "KNA_01913",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.792,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "정가에서는 김경수 전 경남 지사의 동시 사면 가능성도 언급되고 있는데요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.434
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안다영 기자가 보도합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.444,
+                "end": 7.844
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이명박 전 대통령에 대한 특별 사면이 이루어진다면 5월 8일 부처님 오신 날이 될 거란 관측이 상당합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.854,
+                "end": 15.155
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "문재인 대통령 퇴임 하루 전이자 새 대통령 취임 직전이라 국민 통합 명분이 되지 않겠냐는 관측입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 15.165,
+                "end": 22.334
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "관건은 사면권을 가진 문 대통령의 의중입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 22.344,
+                "end": 25.792
+            }
+        ]
+    },
+    "summary": "이명박 전 대통령에 대한 특별 사면이 문재인 대통령의 취임 하루 전이자 새 대통령 취임 직전인5월 8일이 될 거라는 관측이 상당하다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01913_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01913_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

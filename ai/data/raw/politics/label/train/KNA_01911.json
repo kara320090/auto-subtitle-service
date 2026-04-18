@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "filename": "KNA_01911",
+        "category": "정치뉴스",
+        "sub_category": 30,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.485,
+        "format": "MP4",
+        "date": "2022-03-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이번 시위는 지역 동맹에 대한 결의와 의지를 보여주기 위해 황해 국제 공역에서 실시했다면서 북한의 ICBM 발사는 유엔 안전보장 이사회 결의를 뻔뻔하게 위반한 것이라고도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "미 항공모함이 직접 들어온 건 아니지만 전투기들은 서해 상공에 진입한 것으로 전해졌습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.566,
+                "end": 18.485
+            }
+        ]
+    },
+    "summary": "북한의 ICBM 발사는 유엔 안전보장 이사회 결의를 위반한 거라며 이번 시위가 지역 동맹에 대한 결의와 의지를 보여주기 위해 황해 국제 공역에서 실시했다고 전했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01911_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 4,
+                    "act": 159
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01911_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

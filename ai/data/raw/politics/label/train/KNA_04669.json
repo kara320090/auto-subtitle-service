@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "KNA_04669",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.307,
+        "format": "MP4",
+        "date": "2021-11-19",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "매주 타는 민생 버스에 올라탄 민주당 이재명 후보.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.677
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "중원 민심을 잡기 위해 충청으로 가는 길에 유튜브 방송을 하며 당 쇄신 얘기를 꺼냈습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.687,
+                "end": 9.622
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "너무 느리다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.632,
+                "end": 11.039
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "현장에서의 삶은 정말로 어려운데 그냥 탁상공론하면서 시간 보내기에는 너무 엄혹하지 않습",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.049,
+                "end": 17.496
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대통령이 되면 수도권에 남은 공공기관 200여 곳을 모두 지방에 이전하겠다며 균형 발전을 강조했고 대전 전자 통신 연구원에선 첨단 과학 기술에 대대적인 투자를 해야 한다고 말했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.506,
+                "end": 30.610
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "싱하이밍 주한 중국 대사를 만나 외교 행보를 이어간 국민의힘 윤석열 후보.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.620,
+                "end": 35.972
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요소수 문제를 점검하고 한국과 중국의 전략적 동반자 관계를 강조했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.982,
+                "end": 41.307
+            }
+        ]
+    },
+    "summary": "이재명 후보는 중원 민심을 공략했고 윤석열 후보는 외교 행보를 이어갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_04669_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 9,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_04669_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

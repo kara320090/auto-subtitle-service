@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_06001",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 24.426,
+        "format": "MP4",
+        "date": "2022-01-09",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "청년들을 통해서 분출하고 있다고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.350
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 사회 문제 해결은 청년 문제 해결일 수도 있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.360,
+                "end": 6.647
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "SNS를 통해서는 비정규직은 고용이 불안정한 만큼 정규직보다 수당을 더 주는 게 공정하다며 이를 공약으로 제시했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.657,
+                "end": 16.194
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경기도에서는 비정규직 공정 수당이라는 이름으로 이미 하고 있다면서 인센티브 등을 통한 민간 확대를 시사했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.204,
+                "end": 24.424
+            }
+        ]
+    },
+    "summary": "SNS를 통해서는 비정규직은 고용이 불안정한 만큼 정규직보다 수당을 더 주는 게 공정하다며 이를 공약으로 제시했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_06001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

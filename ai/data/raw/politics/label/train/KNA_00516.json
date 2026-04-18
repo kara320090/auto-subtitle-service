@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_00516",
+        "category": "정치뉴스",
+        "sub_category": 10,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 15.415,
+        "format": "MP4",
+        "date": "2022-03-18",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리에게 남은 시간이 53일밖에는 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.427
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 어 토요일 일요일 포함한 휴일 없이 일해야만 될 것 같습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.437,
+                "end": 10.811
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "또 인수 위원들이 특정 정책에 대해 검토한다고 말만 해도",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.821,
+                "end": 15.415
+            }
+        ]
+    },
+    "summary": "우리에게 남은 시간이 53일밖에는 없고 토요일 일요일 포함한 휴일 없이 일해야만 될 것 같다고 안철수 위원장이 말했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00516_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

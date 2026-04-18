@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_01584",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.386,
+        "format": "MP4",
+        "date": "2022-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "캠프는 중도층으로의 외연 확장 노력으로 설명했습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.150
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "위기를 돌파하기 위해서 정치 교체 경제 교체가 필요하고 국민 내각 통합 정부 구상에 대해서 말씀하셨습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.150,
+                "end": 13.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "김대중 노무현 문재인 정부 출신 장차관급 104 명의 지지 선언도 끌어냈습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.255,
+                "end": 19.386
+            }
+        ]
+    },
+    "summary": "캠프는 중도층으로의 외연 확장 노력으로 설명했고 김대중 노무현 문재인 정부 출신 장차관급 104 명의 지지 선언도 끌어냈다고 기자는 보도하였고 위기를 돌파하기 위해서 정치와 경제 교체가 필요하고 국민 내각 통합 정부 구상에 대해서 말씀했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01584_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 38,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01584_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

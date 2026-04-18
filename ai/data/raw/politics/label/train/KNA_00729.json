@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "KNA_00729",
+        "category": "정치뉴스",
+        "sub_category": 3,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.538,
+        "format": "MP4",
+        "date": "2022-04-07",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당의 내홍은 격화되는 분위기입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.404
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "손서영 기자의 보도입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.414,
+                "end": 3.946
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘에 이어 민주당도 오늘 광역 단체장 후보 공모를 마쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.956,
+                "end": 10.635
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "국민의 힘은 내일부터 민주당은 다음주 면접을 시작합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.645,
+                "end": 15.171
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "최대 격전지는 경기돕니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.181,
+                "end": 17.168
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당에선 안민석 조성식 의원 염태영 전 시장이 후보 등록을 마쳤고 합당이 완료되는 대로 새로운 물결 김동연 대표도 뛰어듭니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.178,
+                "end": 26.526
+            }
+        ]
+    },
+    "summary": "국민의 힘에 이어 민주당도 오늘 광역 단체장 후보 공모를 마쳤고 최대 격전지는 경기도로 국민의 힘은 내일부터 민주당은 다음주 면접을 시작합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00729_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_00729_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

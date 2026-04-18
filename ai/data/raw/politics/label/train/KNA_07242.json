@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_07242",
+        "category": "정치뉴스",
+        "sub_category": 25,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.787,
+        "format": "MP4",
+        "date": "2022-05-10",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잠시 휴식을 취한 윤 대통령의 자택 앞엔 오전부터 주민과 지지자들이 모였습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 5.664
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "윤 대통령은 주민들과 주먹 인사를 나눈 뒤 국립현충원 참배로 첫 공개 일정을 시작했습니다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 5.674,
+                "end": 12.340
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일동 묵념.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.350,
+                "end": 14.748
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "현충탑 참배에 부인 @이름1 여사가 함께했는데 공개 석상 첫 동행이었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.758,
+                "end": 20.787
+            }
+        ]
+    },
+    "summary": "취임식날 윤 대통령은 국립현충원 참배로 첫 공개 일정을 시작했고, 이는 @이름1 여사의 공개 석상 첫 동행이었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_07242_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

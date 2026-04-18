@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "KNA_03672",
+        "category": "정치뉴스",
+        "sub_category": 4,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 27.027,
+        "format": "MP4",
+        "date": "2021-04-06",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "민주당 박영선 후보는 첫 일정으로 이른바 노회찬 버스로 알려진 6411번 버스를 타고 새벽 노량진 수산 시장을 찾았습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.373
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "선거 기간 민생 시장을 주장했던 만큼 마지막 유세를 현장 일정으로 시작했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.383,
+                "end": 14.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "점심 무렵엔 서울 광화문 일대에서 이어 서대문구 등 서울 서북권을 중심으로 집중 유세를 벌였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.805,
+                "end": 21.579
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그동안 민주당이 부족했다면서 새롭게 태어나겠다고 가는 곳마다 외쳤습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.589,
+                "end": 27.027
+            }
+        ]
+    },
+    "summary": "민주당 박영선 후보는 민생 시장을 주장했던 만큼 첫 일정으로는 노회찬 버스로 알려진 6411번 버스를 타고 새벽 노량진 수산 시장을 찾았고 점심 무렵엔 서울 광화문 일대에 이어 서대문구 등 서울 서북권을 중심으로 집중 유세를 벌였습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_03672_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 10,
+                    "object": 49,
+                    "act": 155
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_03672_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "여성",
+                    "place": 10,
+                    "object": null,
+                    "act": 155
+                }
+            ]
+        }
+    ]
+}

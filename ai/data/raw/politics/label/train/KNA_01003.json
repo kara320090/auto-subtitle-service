@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "KNA_01003",
+        "category": "정치뉴스",
+        "sub_category": 31,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.052,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한반도 정세에 새로운 변화가 있다고 판단한다면 북핵 문제에 평화적 해결 입장을 재확인했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.750
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.760,
+                "end": 15.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "류 대표의 방한은 지난해 4월 취임 이후 처음으로",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.379,
+                "end": 19.052
+            }
+        ]
+    },
+    "summary": "중국과의 협의를 통해 한반도 정세에 새로운 변화와 북핵 문제의 평화적 해결 입장을 재확인했다고 하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 32
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01003_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

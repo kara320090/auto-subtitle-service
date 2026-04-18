@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "KNA_08054",
+        "category": "정치뉴스",
+        "sub_category": 26,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 28.595,
+        "format": "MP4",
+        "date": "2022-07-25",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1 행안부 장관이 초유의 경찰서장 회의 이틀 만에 긴급 브리핑을 자청했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.528
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "행안부에 신설될 경찰국은 치안 업무를 하지 않는다고 거듭 강조하고 치안 현장을 책임진 경찰서장들의 집단행동은 부적절하다고 비판했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.538,
+                "end": 17.049
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "오해와 왜곡이 계속 누적되어 총경 회의라는 초유의 사태에까지 이르게 된 것에 대해서 깊은 유감을 표합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.059,
+                "end": 28.595
+            }
+        ]
+    },
+    "summary": "행안부 장관이 긴급 브리핑에서 행안부에 신설될 경찰국은 치안 업무를 하지 않는다고 강조하고 치안 현장을 책임진 경찰서장들의 집단행동은 부적절하다고 비판하고 유감을 표했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_08054_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

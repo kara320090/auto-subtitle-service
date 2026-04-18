@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_00840",
+        "category": "정치뉴스",
+        "sub_category": 36,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.453,
+        "format": "MP4",
+        "date": "2022-05-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아무런 수사도 할 수 없게 하는 것은 그 오랜 기간 축적된 국가 수사력을 그대로 사장시키는 것에 다름 아닙니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.567
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "검찰 수사권 폐지 법안은 어젯밤 법사위 소위에 상정됐습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 7.577,
+                "end": 12.202
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "소위 위원 8명 가운데 민주당이 5명이라 법안 처리가 언제든 가능한 상황.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.212,
+                "end": 17.979
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "민주당은 오는 28일 본회의 통과",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.989,
+                "end": 20.453
+            }
+        ]
+    },
+    "summary": "검찰 수사권 폐지 법안은 어젯밤 법사위 소위에 상정됐다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_00840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": 38,
+                    "act": 148
+                }
+            ]
+        }
+    ]
+}

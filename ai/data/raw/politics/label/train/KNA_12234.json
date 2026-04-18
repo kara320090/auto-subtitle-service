@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "KNA_12234",
+        "category": "정치뉴스",
+        "sub_category": 37,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 25.358,
+        "format": "MP4",
+        "date": "2020-04-16",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "두 기준을 합치면 12만 5000 가구가 지원금을 못 받을 거라는 게 정부 추산입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.180
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "상가 등 상업용 부동산을 과세 대상에서 제외함으로써 일부 한계가 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.190,
+                "end": 12.213
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "가구원 간 부동산을 분산해서 소유할 경우 종합 부동산세 대상에서 제외되는 경우가",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.223,
+                "end": 19.789
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이런 지급 기준에 따라 정부가 편성한 2차 추경안은 7조 6000억 원 규모입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.799,
+                "end": 25.358
+            }
+        ]
+    },
+    "summary": "기준에 부합하는 가구는 12만 5000 가구 정도가 되며 정부가 편성한 2차 추경안은 7조 6000억 원 규모라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_12234_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 15,
+                    "object": 50,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

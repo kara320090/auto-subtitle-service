@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "KNA_01586",
+        "category": "정치뉴스",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 15.382,
+        "format": "MP4",
+        "date": "2022-02-08",
+        "license": "KBS",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 배제하지 않는다고 한 것이지 그 이외에는 더 드릴 말씀이 없습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.206
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 언급하지 않겠다고 하셨잖습 마 말씀을 드렸잖습니까?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.216,
+                "end": 9.057
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "더 나아가 구체적 방법론을 두고는 후보 둘이 전격 결정할 일이라는 언급도 했습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.067,
+                "end": 15.382
+            }
+        ]
+    },
+    "summary": "윤 후보는 배제하지 않는다고 한 것이고 그 이외에는 드릴 말씀이 없다고 발언하였고 기자는 구체적 방법론을 두고는 후보 둘이 전격 결정할 일이라는 언급도 했다고 보도하였다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "KNA_01586_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 67,
+                    "act": 146
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "KNA_01586_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}
