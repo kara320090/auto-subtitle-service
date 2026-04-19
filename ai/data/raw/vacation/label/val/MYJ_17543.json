@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYJ_17543",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.355,
+        "format": "MP4",
+        "date": "2022-06-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "빵 한 네 개정도 이게 테이블마다 이렇게 오는데 이제 요걸 먹으면서 제가 주문한 요리를 음 기다리면 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 어니언슾이 나왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.080,
+                "end": 10.494
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어니언슾을 시킨 이유는 얘가 좀 이 얼큰 아 얼큰한 게 아니라 좀 따땃하잖아요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 10.504,
+                "end": 17.037
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 제가 한국에서 맛 본 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.047,
+                "end": 22.355
+            }
+        ]
+    },
+    "summary": "빵을 먹으며 주문한 음식을 기다리니 어니언슾이 먼저 나왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17543_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 27,
+                    "act": 112
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYJ_18319",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.64,
+        "format": "MP4",
+        "date": "2022-03-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "너무 맛있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.758
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "너무 귀여워.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.768,
+                "end": 9.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "회 대박이다 너무 맛있다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.681,
+                "end": 14.949
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 20분 기다릴만 하다 너무 싱싱해 미쳤어 지금 맛이 입안을 헤엄쳐 다녀 얘네가 미첬어.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.959,
+                "end": 23.640
+            }
+        ]
+    },
+    "summary": "20분 기다려 받은 회의 맛은 너무 맛있다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18319_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

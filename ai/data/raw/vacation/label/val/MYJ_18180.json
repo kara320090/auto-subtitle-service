@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYJ_18180",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.636,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얼른 가서 밥 먹자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "라면 끓여줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.160,
+                "end": 4.467
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 라면 또 기가 막히게 끓이지. 라면은 무조건 짜게 먹어야 돼.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.477,
+                "end": 11.296
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "루프탑도 있대.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 11.306,
+                "end": 22.386
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방 좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.396,
+                "end": 24.624
+            }
+        ]
+    },
+    "summary": "남성은 라면은 무조건 짜게 먹어야 된다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18180_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": 40,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

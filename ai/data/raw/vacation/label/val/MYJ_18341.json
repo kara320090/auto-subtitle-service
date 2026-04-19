@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYJ_18341",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.28,
+        "format": "MP4",
+        "date": "2020-01-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 생각보다 쉽다?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.300
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 이렇게 문지르면 되는 건가? 재밌다 이거.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 1.310,
+                "end": 7.067
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 마지막. 어? 뭐야. 내가 고른거 이거 아닌데? 이것도 제가 잘못 골랐나봐요. 저는 올라프 모양대로 생긴애를 시킬려고 한건데 얘가 왔네?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 7.077,
+                "end": 22.280
+            }
+        ]
+    },
+    "summary": "올라프 모양대로 생긴 풍선을 골랐는데 잘못 선택해서 다른 게 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18341_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

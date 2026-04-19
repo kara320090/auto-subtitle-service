@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "filename": "MYJ_18391",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.24,
+        "format": "MP4",
+        "date": "2018-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 인천공항이에요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.421
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "배가 고파서 밥을 먼저 먹으러 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.431,
+                "end": 5.288
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 들어가기 전에 위로 올라와가지고 여기 약간 푸드코트 같은데 왔는데 되게 좋아요 깔끔하고.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.298,
+                "end": 13.070
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 이거 김밥하고 떡볶이 세트를 시켰는데 양이 너무 적은 거 같애요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.080,
+                "end": 18.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 이거는 돈까스",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.999,
+                "end": 23.240
+            }
+        ]
+    },
+    "summary": "인천공항에 도착했는데 배가 고파서 푸드코트에 와서 김밥과 떡볶이 세트를 시켰다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18391_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 16,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

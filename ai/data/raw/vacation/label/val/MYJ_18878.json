@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "filename": "MYJ_18878",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.25,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요래 간장 국수 해줄까 스파게티 해줄까?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.537
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 우리 @이름1는 스파게티를 더 좋아해",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 10.547,
+                "end": 27.591
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 드시면 안 됩니다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.601,
+                "end": 30.469
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이건 뭐야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 30.479,
+                "end": 32.294
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치즈입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.304,
+                "end": 35.582
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "치즈 스파게티에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.592,
+                "end": 37.866
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 @이름1한테 제대로 된 거 해주려면은 버너가 두 개는 있어야 되겠다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 37.876,
+                "end": 45.250
+            }
+        ]
+    },
+    "summary": "우리 @이름1는 스파게티를 좋아해서 치즈 스파게티로 하고 제대로 된 거 해주려면은 버너가 두 개는 있어야 되겠다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18878_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

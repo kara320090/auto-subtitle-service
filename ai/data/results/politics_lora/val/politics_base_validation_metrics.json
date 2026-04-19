@@ -1,0 +1,16 @@
+{
+  "domain": "politics",
+  "split": "validation",
+  "num_samples": 14287,
+  "avg_val_loss": 2.6655022922936937,
+  "wer": 0.19673570811981378,
+  "cer": 0.0587641264673418,
+  "loss_evaluated_count": 14287,
+  "loss_skipped_count": 0,
+  "audio_missing_count": 0,
+  "invalid_range_count": 0,
+  "empty_segment_count": 0,
+  "max_label_length": 448,
+  "model_id": "openai/whisper-large-v3",
+  "model_type": "base_only"
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_18612",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.753,
+        "format": "MP4",
+        "date": "2023-06-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 네 요거는 뭐 그 숙소에 가면은 그냥 카운터 같은 데 보관을 해주시는 건가요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.518
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그렇죠 저희가 짐 보관 장소가 있고 이제 또 숙소에서 어디에 보관해 달라고 하는 데도 있고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.528,
+                "end": 12.532
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그러면 이제 고걸 따로 연락을 주시는 겁니까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.542,
+                "end": 16.645
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어 아니요 이제 숙소에 가서 이제",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.655,
+                "end": 19.753
+            }
+        ]
+    },
+    "summary": "남성이 나중에 숙소에서 어떻게 찾아야 되는지 직원에게 물어봅니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18612_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 68,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

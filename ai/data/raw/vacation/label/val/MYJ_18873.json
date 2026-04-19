@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "filename": "MYJ_18873",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 45.208,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 이제 진짜 하다 하다가 씽씽카부터 꺼내게 생겼어요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 29.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 저번에도 제가 애랑 둘이서 캠핑을 오니까 막 설치할 때는 이제 아이를 못 보잖아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.574,
+                "end": 35.936
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 캠핑장에 오니까 옆집에서 같이 놀아주시더라고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.946,
+                "end": 40.508
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그게 저 너무 고맙더라고요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 40.518,
+                "end": 45.208
+            }
+        ]
+    },
+    "summary": "저번에도 제가 애랑 둘이서 캠핑을 오니까 설치할 때는 아이를 못 보는데 옆집에서 같이 놀아주셔서 너무 고마웠어요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18873_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

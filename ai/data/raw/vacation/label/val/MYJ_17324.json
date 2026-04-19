@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYJ_17324",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 23.523,
+        "format": "MP4",
+        "date": "2022-06-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "한스럽네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.261
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기서 보니까 뷰가 좋아요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.271,
+                "end": 8.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "대성당 주변에 이렇게 좋은 뷰 포인트가 있었네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 8.038,
+                "end": 14.554
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기서 성당을 바라보는 뷰가 진짜 좋을 것 같은데 저 성벽 벽 보이시죠?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.564,
+                "end": 20.564
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저쪽에도 하나",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 20.574,
+                "end": 23.523
+            }
+        ]
+    },
+    "summary": "남성이 대성당이 보이는 뷰를 보면서 감탄한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17324_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

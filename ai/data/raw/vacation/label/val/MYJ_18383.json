@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYJ_18383",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.64,
+        "format": "MP4",
+        "date": "2020-01-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘이 28일입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.686
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 저녁인데 지금 나갈려고 해요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 1.696,
+                "end": 4.566
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디 가냐면 연말인데 제가 아빠한테 맛있는 것 좀 사주고 싶어 가지고 제가 요즘 제일 좋아하는 음식이 있거든요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.576,
+                "end": 13.394
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그거를 아빠 좀 사 드리고 싶어 가지고 다른 가족들은 시간이 안 돼서 둘이 만나려고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.404,
+                "end": 21.281
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 아빠를 만나러 나가는 중입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.291,
+                "end": 25.276
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "옷이 다 검정색이에요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.286,
+                "end": 30.640
+            }
+        ]
+    },
+    "summary": "연말이라 아빠에게 맛있는 것을 사 주려고 제일 좋아하는 음식을 사서 아빠를 만나러 간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18383_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

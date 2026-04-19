@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "filename": "MYJ_18965",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.916,
+        "format": "MP4",
+        "date": "2022-12-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와 진짜 완벽해.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.116
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 이 의자 너무 지금 너무 환상적이어가지고 하나 사 가고 싶은데 이거는 지금 일본에서도 완전히 품귀 현상이고 그리고 온라인 샵에서만 팔고 배송도 안 해주고 한국으론 진짜 너무 완벽하다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.126,
+                "end": 16.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 본 의자 중에 진짜 최강 제가 의자 진짜 많이 썼잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.609,
+                "end": 20.023
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 헬리 녹스부터 로버 체어 뭐 집디 체어 별의별 거 다 썼는데 이 정도 완벽한 의자 제가 본 적이 없어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 20.033,
+                "end": 27.731
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.741,
+                "end": 30.916
+            }
+        ]
+    },
+    "summary": "환상적인 의자는 일본에서도 품귀 현상이고 온라인 샵에서만 판매되는데 한국으로 배송 자체도 불가하다며 그럼에도 불구하고 이 의자는 정말 완벽하다고 소개하면서 다양한 종류의 의자를 사용해봤지만 이 정도로 완벽한 의자는 본 적이 없다고 강조한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18965_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": null,
+                    "act": 23
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYJ_18965_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

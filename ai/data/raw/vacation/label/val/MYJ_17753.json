@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYJ_17753",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.936,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "옆에는 뭔가 계속 현란한 소리가 들리죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.245
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바로 카지노가 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.255,
+                "end": 5.349
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 주문한 메뉴에서 하나 바꼈어요 네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.359,
+                "end": 9.526
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 그냥 쉬림프 덤플링입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.536,
+                "end": 13.198
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 만두죠, 새우만두 먹어보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.208,
+                "end": 19.936
+            }
+        ]
+    },
+    "summary": "옆에는 현란한 소리가 나는 카지노가 있고, 메뉴가 하나 바뀌어 새우만두가 나와 먹어보려 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17753_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 27,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

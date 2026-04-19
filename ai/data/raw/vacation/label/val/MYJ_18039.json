@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYJ_18039",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.1,
+        "format": "MP4",
+        "date": "2022-11-08",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그런 것들이 참 정말 문제가 많은 것 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 4.705
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 아름다운 이 바다 전경과는 별개로 음 겉에서 보면 되게 아름다워 보이지만 실제로 가까이 와 보면 아 쓰레기들이 정말 장난 아닙니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 4.715,
+                "end": 19.584
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "참 이런 여행을 다니면서 그런 것들이 너무 안타깝더라구요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.594,
+                "end": 25.100
+            }
+        ]
+    },
+    "summary": "아름다운 바다 전경과는 어울리지 않게 실제로 가까이서 보면 쓰레기가 너무 많은 것이 안타깝다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18039_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

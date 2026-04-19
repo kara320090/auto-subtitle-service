@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYJ_18107",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 39.533,
+        "format": "MP4",
+        "date": "2022-08-02",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "잡히긴 잡히네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 15.132
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 뭔지는 나 모르겠는데 피래미인가?",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.142,
+                "end": 17.662
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피래미는 아닌 것 같은데 뭔 고기지 이거는?",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.672,
+                "end": 26.006
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 천연 저기 수도가 이렇게 나오고 있네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 26.016,
+                "end": 31.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딱 좋은데 야 여기 천연 천연 수도네.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 31.535,
+                "end": 39.533
+            }
+        ]
+    },
+    "summary": "고기를 낚았는데 피라미인지 뭔지 알 수 없는 고기가 잡혔고 천연 수도가 나오고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18107_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

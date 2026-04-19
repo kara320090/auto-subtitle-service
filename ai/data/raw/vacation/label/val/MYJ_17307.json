@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYJ_17307",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 27.11,
+        "format": "MP4",
+        "date": "2022-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 제일 먼저 생각나는 게 네 수영장이었어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.815
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 수영장 가서 수영 살짝 하고 이제 자쿠지에서 몸을 좀 녹이고 그랬습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 3.825,
+                "end": 12.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.951,
+                "end": 20.680
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "봤는데 와 반응이 좋죠?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.690,
+                "end": 27.110
+            }
+        ]
+    },
+    "summary": "남성이 수영을 하고 공연을 봤다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17307_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

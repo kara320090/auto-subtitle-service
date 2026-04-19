@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYJ_17748",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.061,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 날씨가 매우 춥습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.570
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 여기에 와서 계속 더웠는데 뭐 아주 덥진 않았는데 한 높으면 한 22도 여기서는 드디어 패딩을 꺼냈습니다 경량 패딩을.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 2.580,
+                "end": 15.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 경량 패딩 안에 이제 반팔을 입었는데도 좀 추워요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 15.336,
+                "end": 20.061
+            }
+        ]
+    },
+    "summary": "여기 와서 높으면 22도까지 올라가 계속 더웠는데 추워서 경량 패딩을 꺼내게 되었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17748_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYJ_18499",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.04,
+        "format": "MP4",
+        "date": "2017-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배를 탔습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.333
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우리 미니언즈 보고갈까?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.343,
+                "end": 14.672
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나 이거 집에 있어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.682,
+                "end": 16.671
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우오 컵 우와 조만한 물통.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.681,
+                "end": 29.040
+            }
+        ]
+    },
+    "summary": "놀이기구 배를 타고 난 뒤 미니언즈 샵에서 구경한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18499_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

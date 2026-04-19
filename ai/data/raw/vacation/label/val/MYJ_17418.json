@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_17418",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.353,
+        "format": "MP4",
+        "date": "2022-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 음료 커피부터 해서 이렇게 이런 것들이 제공이 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그니까 위에랑 메뉴는 거의 똑같다고 보시면 돼요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.652,
+                "end": 7.022
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "위에 뷔페 식당하고 근데 여기는 서빙을 받으면서 좀 여유 있게 아침 식사를 하는 거고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.032,
+                "end": 15.786
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "에 위에는 네 저희가 알아서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.796,
+                "end": 20.353
+            }
+        ]
+    },
+    "summary": "아래층 식당은 식사 서빙을 받고 위층 식당은 직접 식사를 가져다 먹으며 위, 아래층 식당 모두 메뉴가 거의 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17418_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

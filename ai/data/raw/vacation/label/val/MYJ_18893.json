@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYJ_18893",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 40.041,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가만있어 봐.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.597
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1가 덮어 줘.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.597,
+                "end": 6.155
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아빠는 아빠가 덮을 게 이렇게 옳지 옳지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.155,
+                "end": 13.225
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "딱 이렇게 하고 자 눌러 옳지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.225,
+                "end": 18.465
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 엄청 맛있겠다 그렇지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.465,
+                "end": 20.765
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "반짝 반짝 작은 별 아름답게 빛치네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.765,
+                "end": 35.030
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 우와 맛있게 됐다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 35.030,
+                "end": 38.290
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "2개네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 38.290,
+                "end": 40.041
+            }
+        ]
+    },
+    "summary": "아빠와 함께 토스트를 만들며 딸이 노래를 부르고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18893_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 38,
+                    "act": 102
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYJ_18551",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 53.019,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "4만 얼마던데",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 12.035
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "꿀도 넣어줘?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.045,
+                "end": 20.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "꿀 추가 돼요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.566,
+                "end": 53.019
+            }
+        ]
+    },
+    "summary": "한 여성이 여행하는 영상을 찍고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18551_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

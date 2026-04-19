@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "filename": "MYJ_18894",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.75,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 @이름1 이거 2개 중에 어떤거 먹을래? 자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어떤 거?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.192,
+                "end": 7.732
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이거 안 먹을거야?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.735,
+                "end": 9.312
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "응.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.312,
+                "end": 9.987
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "둘 다 먹어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.990,
+                "end": 12.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 @이름1야 근데 나쁜 고양이는 어떻게 울어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.492,
+                "end": 15.572
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야옹",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.572,
+                "end": 16.642
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "착한 고양이는?",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.642,
+                "end": 18.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야옹.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.040,
+                "end": 18.857
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 @이름1는 밖에서 노니까 이제 슬슬 치워야지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.857,
+                "end": 25.750
+            }
+        ]
+    },
+    "summary": "딸에게 나쁜 고양이와 착한 고양이가 어떻게 우는지 물어보고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18894_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "10대 미만",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": 31,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

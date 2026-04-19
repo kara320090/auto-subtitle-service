@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "filename": "MYJ_18175",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.697,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "나버리는 굉장히 안타깝네요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.976
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "호두잣 같은",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.986,
+                "end": 15.100
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "지금은 기계 작업이 끝나서 약간 식었어요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.090,
+                "end": 22.525
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맛있어? 맛있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.530,
+                "end": 23.984
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "개 맛있다 근데 식어서 좀 아쉬운데 개 맛있다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.994,
+                "end": 28.379
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "식어서 좀 아쉽지만 개 맛있어?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 28.389,
+                "end": 30.697
+            }
+        ]
+    },
+    "summary": "여성은 식어서 좀 아쉬운데 개 맛있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18175_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

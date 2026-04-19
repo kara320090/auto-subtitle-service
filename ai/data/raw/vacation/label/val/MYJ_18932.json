@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "MYJ_18932",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 34.125,
+        "format": "MP4",
+        "date": "2022-12-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 도착해가지고 차량으로 이동해서 또 약속된 장소에 계획된 장소로 이동을 해보도록 할게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 20.881
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 힘들어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.891,
+                "end": 22.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "공항에서 내려가지고 막 이것저것 좀 예쁘게 좀 찍고 싶었는데 하 도저히 삼각대를 꺼낼 수가 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.432,
+                "end": 29.519
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가보도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.529,
+                "end": 34.125
+            }
+        ]
+    },
+    "summary": "공항에 내려서 이것저것 사진을 예쁘게 찍고 싶었는데 삼각대를 꺼낼 수가 없었다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18932_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 8,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

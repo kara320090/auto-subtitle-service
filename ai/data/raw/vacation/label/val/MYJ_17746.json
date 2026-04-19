@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYJ_17746",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.227,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 알기로 저 배가 출항이 9시 반으로 알고 있어요 밤.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.055
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거는 아마도 바르셀로나에서 들어오는 거겠죠?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 3.065,
+                "end": 7.514
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아마 어젯밤에 출발했을 거예요 어제저녁에.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 7.524,
+                "end": 11.299
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "제가 제일 좋아하는 이렇게 배의 흔적을 볼 수 있는 스크루 흔적들이죠.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 11.309,
+                "end": 19.227
+            }
+        ]
+    },
+    "summary": "밤 9시 반 출항으로 알기 때문에 지금 보고 있는 배는 바르셀로나에서 어젯밤에 출발한 배일 거 같다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17746_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYJ_17747",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.023,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "배가 이렇게 예, 딱 물길이 보이죠 배가 어떻게 왔는지.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.220
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거 보면서 멍때리는 거 너무 좋아합니다 제가.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 6.230,
+                "end": 11.066
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 저 멀리 치비타베키아 항구 네, 점점점 멀어지고 있죠?",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 11.076,
+                "end": 23.023
+            }
+        ]
+    },
+    "summary": "배가 어떻게 왔는지 물길을 보면서 멍때리는 걸 좋아한다고 이야기하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17747_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

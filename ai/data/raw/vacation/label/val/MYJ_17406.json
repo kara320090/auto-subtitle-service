@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_17406",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 18.268,
+        "format": "MP4",
+        "date": "2022-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지장이 없습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.087
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 @이름1은 장갑을 안 꼈습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.097,
+                "end": 4.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 점점 바다와 하늘의 경계가 보이기 시작하죠?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.877,
+                "end": 13.176
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 오늘",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 13.186,
+                "end": 18.268
+            }
+        ]
+    },
+    "summary": "@이름1은 장갑을 안 꼈고 바다와 하늘을 바라본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17406_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

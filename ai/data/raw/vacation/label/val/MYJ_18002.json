@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYJ_18002",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.466,
+        "format": "MP4",
+        "date": "2022-12-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 목적지에 도착했네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 거북선을 저렇게 꽃으로 포장해 가지고 또 국화 축제를 하나 봐요 여기는.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.523,
+                "end": 9.010
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어우 국화들이 그냥 엄청 이쁘네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.020,
+                "end": 11.795
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근데 원래 그 피칭할려고 했던 그 장소는 지금 여기에 축제가 하고 있어 가지고 축제를 하고 있어 갖고 못 들어가고 일단 주차장에 주차를 했습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.805,
+                "end": 33.466
+            }
+        ]
+    },
+    "summary": "한 남성이 국화 축제를 하고 있는 목적지에서 원래 들어가려고 했던 곳을 들어가지 못하고 일단 주차장에 차를 주차했다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18002_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

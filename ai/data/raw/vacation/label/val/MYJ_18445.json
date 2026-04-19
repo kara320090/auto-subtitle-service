@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYJ_18445",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 29.76,
+        "format": "MP4",
+        "date": "2017-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "건 줄 알고 샀는데 맛이 없어요 달아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.805
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "락사라는 걸 먹어 보러 가려고 하는데 버스를 알아봐야지 엄청 더워요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.815,
+                "end": 9.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "건너편에서 타야 되나?",
+                "sound_type": [
+                    2
+                ],
+                "start": 9.265,
+                "end": 12.953
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기가 어디지 아 저쪽으로 가야 되네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.963,
+                "end": 17.011
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "더워 더워.",
+                "sound_type": [
+                    2
+                ],
+                "start": 17.021,
+                "end": 22.004
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "구글 맵이 위치를 인식을 잘 못하네.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 22.014,
+                "end": 29.760
+            }
+        ]
+    },
+    "summary": "여성이 싱가포르에 락사를 먹으러 가려고 구글맵을 켜서 위치를 확인하며 버스 타는 곳을 찾고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18445_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": 49,
+                    "act": 20
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYJ_18445_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

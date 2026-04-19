@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYJ_18083",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 25.533,
+        "format": "MP4",
+        "date": "2022-09-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 예전에도 한 번 여기에 오긴 왔었는데 그때는 이렇게 많이 사람들이 그래도 많이 오는 편이에요 지금은.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.912
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그때 당시는 사람들이 별로 안 왔었는데 지금은 그래도 사람들이 꽤 오는 편이네요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 7.922,
+                "end": 21.712
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.722,
+                "end": 25.533
+            }
+        ]
+    },
+    "summary": "예전에 이곳에 왔을 때는 사람들이 많지 않았었는데 지금은 사람들이 그때에 비해서는 꽤 많이 오는 편인 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18083_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 7,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

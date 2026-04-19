@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "filename": "MYJ_19101",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 116.266,
+        "format": "MP4",
+        "date": "2022-04-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "PT 7번이었나 8번이었냐?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.929
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "왜 하는지 몰라.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.939,
+                "end": 2.485
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "누워서 이거 하는 거 있잖아 다리",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 2.495,
+                "end": 6.446
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "아직까지 지금 기온은 따뜻한데 수온이 엄청 차거든요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 6.456,
+                "end": 13.534
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "5월달까지는 수온이 계속 차니까 슈트를 입어 줘야 돼.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 13.544,
+                "end": 116.266
+            }
+        ]
+    },
+    "summary": "5월달까지는 수온이 차서 슈트를 입어야 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_19101_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

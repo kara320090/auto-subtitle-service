@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYJ_18864",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 44.708,
+        "format": "MP4",
+        "date": "2023-04-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 하는데 스트릿샷이야?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 17.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 이걸 어떻게 닦을 거야 내가 어저께 형님 밀키트 하자고 했잖아",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.325,
+                "end": 24.040
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 어제 맛있게 먹었잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.050,
+                "end": 27.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금도 너가 이긴 것 같은데?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.937,
+                "end": 35.406
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 이게 어제부터 찍은 게 사실 요리 비하 이런 걸로 비춰질 수 있을 것 같아서 그런 게 아니고 재미로 해봤는데",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 35.416,
+                "end": 44.708
+            }
+        ]
+    },
+    "summary": "어제부터 찍은 게 사실 요리 비하 이런 걸로 비칠 수 있을 것 같아서 재미로 해봤어요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18864_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": 38,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

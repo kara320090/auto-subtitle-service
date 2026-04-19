@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "filename": "MYJ_17419",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.603,
+        "format": "MP4",
+        "date": "2022-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "떠 먹고 치우는 건 직원들이 치워주지만 아무튼 이렇게 되어있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 5.760
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 배고픔을 참지 못하고 멘하탄을 저기는 7시 반쯤 여는 거 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.770,
+                "end": 11.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "7신가 7시 반 아무튼 배고픔을 참지 못하고 오시언으로 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 11.350,
+                "end": 15.441
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 오시언에 아침 메뉴들입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 15.451,
+                "end": 20.603
+            }
+        ]
+    },
+    "summary": "배고파서 7시 반쯤에 여는 식당 대신 오시언 식당으로 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17419_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

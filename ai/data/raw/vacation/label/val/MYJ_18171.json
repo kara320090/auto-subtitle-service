@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYJ_18171",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 30.23,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맛있어 너무 맛있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.376
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어때 맛 맛있지 않아?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.386,
+                "end": 5.710
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야 개 맛있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.710,
+                "end": 7.170
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너무 맛있어 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.180,
+                "end": 9.610
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "이거 말이 안 됩니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.610,
+                "end": 17.156
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "@이름1아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.160,
+                "end": 23.324
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "하이 저희 오늘 점심 먹고 바로 집에 갈 건데 점심 애슐리 먹으러 가고 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.334,
+                "end": 30.230
+            }
+        ]
+    },
+    "summary": "남성은 점심 먹고 바로 집에 갈 건데 점심은 애슐리 먹으러 가고 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18171_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": 28,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

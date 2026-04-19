@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYJ_18329",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 26.68,
+        "format": "MP4",
+        "date": "2022-03-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "먹고 맛있어서 또 사먹기.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.319
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보트를 타야 된다고 왔는데 마감 하나봐.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 2.329,
+                "end": 13.092
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 잊어버린 거 없어?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 13.102,
+                "end": 17.080
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 17.090,
+                "end": 17.940
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "잃어버린 걸 모르겠어요 있어도 몰라요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 17.950,
+                "end": 21.118
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "배 내렸는데 이게 있어 가지고 과자랑 초콜렛을 샀어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.128,
+                "end": 26.680
+            }
+        ]
+    },
+    "summary": "발화자가 배를 타고 내렸는데 과자와 초콜렛이 있어서 구매를 하였다고 말하는 엉상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18329_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

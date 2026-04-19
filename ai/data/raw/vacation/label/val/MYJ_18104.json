@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_18104",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 28.2,
+        "format": "MP4",
+        "date": "2022-08-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아 시원합니다 정말.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "물이 너무 깨끗해서 정말 좋네요 여기는.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.648,
+                "end": 8.493
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 아이들 어 놀기 좋게 이게 자갈이 뭐 뾰족하거나 뭐 그런 게 없어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 8.503,
+                "end": 16.683
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그냥 둥글둥글하니 몽돌이니까 그 막 물에 앉아서 어 저렇게 아저씨나 아주머니들은 어",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.693,
+                "end": 28.200
+            }
+        ]
+    },
+    "summary": "이곳은 물이 너무 시원하고 깨끗하며 자갈이 몽돌이라 뾰족하지 않고 둥글둥글해서 아이들이 놀기에도 좋을 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18104_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

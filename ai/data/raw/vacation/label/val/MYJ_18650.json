@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "filename": "MYJ_18650",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 78.778,
+        "format": "MP4",
+        "date": "2019-02-27",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우와 이게 국밥이지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 11.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아예 밥을 넣자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.424,
+                "end": 20.787
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 이건 차 대 놓고 와 가지고 소주 깠어야 되는 맛인데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 20.797,
+                "end": 44.905
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아아, 잘 먹었습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 44.915,
+                "end": 57.871
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "원래도 껍질이 얇았나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 57.881,
+                "end": 64.222
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "나도 한번 삐 안 먹어봐 가지고 기억이 잘 안 난다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 64.232,
+                "end": 67.029
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람이 죽지",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 67.039,
+                "end": 70.287
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 많이 먼데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 70.297,
+                "end": 71.817
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "멀다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 71.827,
+                "end": 73.063
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "근처 난리나 서 갔다가 여기서 놀고 와야지 서귀포와서 아무것도 안 보고 가는데 .",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 73.073,
+                "end": 78.778
+            }
+        ]
+    },
+    "summary": "두 남자가 제주도 놀러와서 국밥을 먹는다. 국밥 맛을 보고 차 놓고 소주를 마셔야 하는 맛이라고 한다. 그만큼 맛있는 거 같다. 남자 한명이 귤을 먹다가 껍질이 얇다고 하면서 서귀포와서 아무것도 안보는 것보다 역시 놀다가 가야지",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18650_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": 31,
+                    "act": 1
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYJ_18650_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

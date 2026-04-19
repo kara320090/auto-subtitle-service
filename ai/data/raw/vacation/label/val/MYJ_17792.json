@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYJ_17792",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 30.405,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "검사한 거 확인을 받고서 네, 바로 여기였습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 백신하고 코로나 검사를 받았고요 아, 코로나 검사한 것을 체크를 했고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.660,
+                "end": 8.471
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 인제 네, 수화물을 부치러 이곳에 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.481,
+                "end": 23.128
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 요거는 제가 프린트해 온 거예요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.138,
+                "end": 26.521
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이거를 가방에다 붙일 겁니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.531,
+                "end": 30.405
+            }
+        ]
+    },
+    "summary": "코로나 검사한 것을 체크한 후 프린트해 온 종이를 가방에 붙인 후 수화물로 보낼 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17792_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 16,
+                    "object": null,
+                    "act": 72
+                }
+            ]
+        }
+    ]
+}

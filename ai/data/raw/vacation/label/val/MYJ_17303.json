@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYJ_17303",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 34.451,
+        "format": "MP4",
+        "date": "2022-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이건 뭐지?",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.513
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 그라탕하고 뭐 이런 것들이 있고 여기까지가 이제 매일 바뀌는 메뉴죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.523,
+                "end": 12.887
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 이제 거의 매일 똑같은 네 샐러드류 어 살라미하고 발사믹 드레싱 같이 있네요 살라미.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.897,
+                "end": 25.449
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "햄 카피 콜라 모차렐라 치즈 모차렐라 치즈가 오늘 이렇게 나왔군요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 25.459,
+                "end": 34.451
+            }
+        ]
+    },
+    "summary": "남성이 저녁 식사 메뉴를 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17303_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

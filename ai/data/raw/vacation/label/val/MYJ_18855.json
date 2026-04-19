@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYJ_18855",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 34.875,
+        "format": "MP4",
+        "date": "2023-04-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "형 다 했어요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 20.998
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 @이름1가 이제 다 했다니까 저는 슬슬 준비해 가야죠 빅맥입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.008,
+                "end": 30.072
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "드릴게요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 30.082,
+                "end": 34.428
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "자",
+                "sound_type": [
+                    2
+                ],
+                "start": 34.438,
+                "end": 34.875
+            }
+        ]
+    },
+    "summary": "@이름1가 이제 다 했다니까 저도 슬슬 준비해 가야 되는데 빅맥이고 드리겠습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18855_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

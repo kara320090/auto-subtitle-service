@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYJ_17783",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 48.298,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지금 치비타베키아에 도착을 했는데 아 여기 직원이 예, 여기 버스 직원인데 3유로에 네, 갈 수 있다는 정보를 줘서 네, 걷는 대신 이거를 이용해 볼까합니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 34.946
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네, 또 새로운 정보를 제가 제공해야 될 의무도 있기 때문에 3유로에 저 뒤에 있는 버스있죠 저거를 타고 네, 치비타베키아까지 갈 계획입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 34.956,
+                "end": 46.035
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네, 버스를",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 46.045,
+                "end": 48.298
+            }
+        ]
+    },
+    "summary": "치비타베키아를 도착 후 3유로에 버스를 이용할 수 있다는 정보를 얻어 걸어가는 대신 버스를 타고 이동할 계획이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17783_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": 5,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

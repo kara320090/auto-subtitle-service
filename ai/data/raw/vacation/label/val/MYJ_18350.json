@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "filename": "MYJ_18350",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.0,
+        "format": "MP4",
+        "date": "2020-01-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "날씨가 완전 좋아요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.417
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "돌이 아주 멋있어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.427,
+                "end": 3.565
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "건어물을 샀습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.575,
+                "end": 9.174
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요거 말린 조개?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.184,
+                "end": 10.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요런 거 처음 봤는데 라면 같은 데에 넣으면은 맛있을 것 같애서 그리고 쥐포 그리고 문어 맛있겠다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 10.533,
+                "end": 18.321
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "경로를 재탐색합니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 18.331,
+                "end": 23.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "빠이빠이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 23.558,
+                "end": 26.000
+            }
+        ]
+    },
+    "summary": "날씨가 좋고 라면에 넣으면 맛있을 것 같은 말린 조개와 쥐포, 문어를 구매했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18350_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

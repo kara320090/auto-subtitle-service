@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "filename": "MYJ_17999",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 53.733,
+        "format": "MP4",
+        "date": "2022-12-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 물이 생각보다 엄청 깨끗하네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.042
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 연못이 연 연못 안에 고기도 많이 살고 있는 것 같더라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 2.052,
+                "end": 9.399
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 막 고기가 막 뛰놀더라고요.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 9.409,
+                "end": 12.842
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기도 연못이고 좌측에도 연못이고 우측에도 연못이고 연못이 꽤 많습니다 생각보다.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 12.852,
+                "end": 21.512
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 닭 키우나 여기는 뭐지?",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.522,
+                "end": 24.834
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 놔 진짜 커피를",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 24.844,
+                "end": 53.733
+            }
+        ]
+    },
+    "summary": "한 남성이 연못이 생각보다 꽤 많고 엄청 깨끗해 고기도 많이 살고 있고 뛰놀고 있다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17999_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 26,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

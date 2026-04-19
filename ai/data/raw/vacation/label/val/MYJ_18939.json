@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "MYJ_18939",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.75,
+        "format": "MP4",
+        "date": "2022-12-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "밥 먹으러 왔습니다 어.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.358
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오. 오 면이 약간 수제비 같은데.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 4.368,
+                "end": 20.750
+            }
+        ]
+    },
+    "summary": "밥을 먹으러 갔는데 면이 수제비 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18939_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

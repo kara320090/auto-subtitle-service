@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYJ_17220",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 22.772,
+        "format": "MP4",
+        "date": "2022-07-10",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 제가 다이빙 할 곳은 저 섬 뒤쪽 포추올리라는 곳이에요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.587
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기서 오늘 다이빙을 할 거고.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.597,
+                "end": 22.772
+            }
+        ]
+    },
+    "summary": "발화자는 오늘 포추올리라는 곳에서 다이빙을 할 것이라고 말하는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17220_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

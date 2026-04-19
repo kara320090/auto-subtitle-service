@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYJ_17110",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 23.148,
+        "format": "MP4",
+        "date": "2022-07-16",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "카프리가 보이고 있습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.304
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그리고 저쪽이 뿅 네 소렌토 있는 쪽 저 뒤로 넘어가야 인제 포지타노하고 아말피하고 나와요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.314,
+                "end": 14.543
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "거리는 멀지 않은데 아 저기를 돌아가야 되기 때문에 어 아말피하고 포지타노는 음",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.553,
+                "end": 23.148
+            }
+        ]
+    },
+    "summary": "카프리가 보이고 파지타노와 아말피는 거리는 멀지 않지만 돌아가야 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17110_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 11,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

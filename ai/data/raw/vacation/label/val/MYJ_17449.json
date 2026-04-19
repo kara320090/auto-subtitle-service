@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_17449",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 20.895,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "고운 모래가 깔려 있어서 되게 좋다고 하네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 여기가 니스 옆에 있는 깐느의 해변의 모습입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 3.453,
+                "end": 10.290
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "조금 확대해 볼까요?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.300,
+                "end": 13.117
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 이렇게",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 13.127,
+                "end": 20.895
+            }
+        ]
+    },
+    "summary": "화자가 깐느의 해변의 모습을 촬영하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17449_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

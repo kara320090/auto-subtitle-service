@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYJ_18801",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.0,
+        "format": "MP4",
+        "date": "2023-10-14",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물 끓이고 나서 딱 차 우리면서 오늘 하루 마감하면서 내일 어떻게 하면 아침에 물고기를 잡을 수 있을까 그런 것들 진중하게 고민하는 시간을 좀 갖는 거죠",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 12.872
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 이거 은근히 매력적이네 이런 거 되게 취미에 어떤 한 장르로 진지하게 있지 않나요?",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 12.882,
+                "end": 18.771
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 좀 취미 장르로 좀 딱 이렇게 잡혀 있다는 거는 또 재밌다는 거거든요 좋고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 18.781,
+                "end": 24.000
+            }
+        ]
+    },
+    "summary": "차 우리면서 내일 어떻게 하면 아침에 물고기를 잡을 수 있을까 고민하는 시간도 갖고 은근히 매력적이네요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": 26,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

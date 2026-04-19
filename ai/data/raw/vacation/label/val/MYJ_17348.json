@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "filename": "MYJ_17348",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 25.9,
+        "format": "MP4",
+        "date": "2022-06-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 대부분의 사람들이 내일 하선을 하게 됩니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.772
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 오늘도 저는 식사를 저기 레스토랑에서 할 건데 그냥 무슨 메뉴가 있는지 네 보러 왔습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.782,
+                "end": 16.381
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "시금치스프 이건 뭔지 모르겠네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.391,
+                "end": 22.017
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오일와인소스 네",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.027,
+                "end": 25.900
+            }
+        ]
+    },
+    "summary": "남성이 뷔페에 있는 메뉴에 대해서 소개한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17348_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

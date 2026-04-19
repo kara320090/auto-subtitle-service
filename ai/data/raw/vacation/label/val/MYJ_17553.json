@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYJ_17553",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 26.865,
+        "format": "MP4",
+        "date": "2022-06-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 이제 쇼핑구역입니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 6.715
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아까 한번 슉 돌아 봤는데 좀 시그니처 노르웨이전 크루즈의 시그니처 상품들을 좀 눈여겨 볼까 했는데 솔직히 마음에 드는 게 없었어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 6.725,
+                "end": 20.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "배 모양 이제 배 미니어처도 좀 봤는데",
+                "sound_type": [
+                    2
+                ],
+                "start": 20.745,
+                "end": 26.860
+            }
+        ]
+    },
+    "summary": "크루즈 내의 쇼핑구역을 둘러보고 상품이 마음에 들지 않는다는 평을 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17553_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

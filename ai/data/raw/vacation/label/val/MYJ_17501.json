@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYJ_17501",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 19.319,
+        "format": "MP4",
+        "date": "2022-06-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기 좀만 더 가면 몬테카를로 카지노가 있는 곳인데 여기 너무 좋아 보여서 내렸어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.397
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원래는 카지노까지 가려고 했는데 그래서 아까 제가 쭉 걸어서 다녔던 모습들을 이렇게 보여드리기가 좋아서 여기 잠깐 들러봤습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 5.407,
+                "end": 19.310
+            }
+        ]
+    },
+    "summary": "화자가 카지노까지 가려다가 경치가 좋아 보여서 내렸다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17501_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYJ_18652",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 22.989,
+        "format": "MP4",
+        "date": "2019-02-25",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "이 근처 없나",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.298
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "렌터카 가자 저쪽 아니 근데 지금 어차피 돈 없어서 못타잖아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.308,
+                "end": 8.591
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그건 그렇지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.601,
+                "end": 9.980
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어디카페 가 가지고 삐대자",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.990,
+                "end": 13.900
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안녕 어 어유 미안 자자 잘못했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.910,
+                "end": 22.989
+            }
+        ]
+    },
+    "summary": "렌터카를 빌릴 모양인데 어차피 돈이 없어서 못 타니 일단 카페로 가서 시간을 보내자고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18652_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 5,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

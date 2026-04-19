@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYJ_17763",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 19.394,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가든 카페 아 두 시 반까지였구나.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.270
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러면 저는 음식을 여기서 떠서 안에 혹시 자리가 있을까요 저 지금 반팔입고 있어서.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 2.280,
+                "end": 12.813
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 안에서 먹으면 되겠습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 12.823,
+                "end": 16.267
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오케이.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 16.277,
+                "end": 19.394
+            }
+        ]
+    },
+    "summary": "가든 카페는 2시 반까지라 밖에서 음식을 먹어야 하는데 반팔을 입고 있어 안에서 먹으려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17763_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 28,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

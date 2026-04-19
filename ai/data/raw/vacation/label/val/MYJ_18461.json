@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYJ_18461",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 28.16,
+        "format": "MP4",
+        "date": "2017-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오 여기 갈까?",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 1.710
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오 좋아.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 1.720,
+                "end": 23.119
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 이렇게 입고 나가볼려고요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 23.129,
+                "end": 28.160
+            }
+        ]
+    },
+    "summary": "여성이 입은 옷을 보여주며 오늘 이렇게 입고 나간다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18461_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": null,
+                    "act": 142
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYJ_19043",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 78.2,
+        "format": "MP4",
+        "date": "2023-09-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐하나?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 56.488
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "내가 봤을 때 요런 해변에는 재밌는 게 없을 것 같고 저쪽 갯바위를 한번 구경해 보고 싶은데 파도가 좀 세.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 56.498,
+                "end": 67.077
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저쪽에도 파도가 좀 세고",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 67.087,
+                "end": 78.200
+            }
+        ]
+    },
+    "summary": "내가 봤을 때 요런 해변에는 재밌는 게 없을 것 같고 저쪽 갯바위를 한번 구경해 보고 싶은데 파도가 좀 세다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_19043_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

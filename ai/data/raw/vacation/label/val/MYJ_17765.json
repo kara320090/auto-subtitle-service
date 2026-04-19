@@ -1,0 +1,108 @@
+{
+    "metadata": {
+        "filename": "MYJ_17765",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 35.952,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예, 아이스크림이 있었네요.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 2.115
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 저는 이제 음식을 떠보도록 하겠습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 2.125,
+                "end": 7.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 그리고 나머지들은 간단하게 일단 먹고요 저녁도 먹어야 되니까.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 7.440,
+                "end": 14.599
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "나머지는 아이고 다른 식당가서 한번 먹어보겠습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 14.609,
+                "end": 25.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 25.593,
+                "end": 35.952
+            }
+        ]
+    },
+    "summary": "아이스크림도 있고 저녁을 먹어야 하니 간단하게 먹으려고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17765_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 31,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

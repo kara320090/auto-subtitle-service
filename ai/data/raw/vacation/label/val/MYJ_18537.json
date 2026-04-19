@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYJ_18537",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.101,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "축하해.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 21.271
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 귀엽다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.281,
+                "end": 22.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 근데 @이름1이가 모자를 선물을 했어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.512,
+                "end": 24.581
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 너무 예쁘다 이거는.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.591,
+                "end": 25.574
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거랑 비슷하게 생긴 거 있잖아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 25.584,
+                "end": 27.234
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이게 너 거야.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.244,
+                "end": 29.730
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 @이름2 거고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 29.730,
+                "end": 35.101
+            }
+        ]
+    },
+    "summary": "한 여성이 여행하는 영상을 찍고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18537_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 6,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYJ_18184",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 38.204,
+        "format": "MP4",
+        "date": "2023-07-09",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "군인?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.048
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "군인은 뭐 그냥.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.058,
+                "end": 4.151
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우와 여기가 카 좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.161,
+                "end": 13.192
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "커피 마시면 잠 못 자는데 그럼 난 아이스티.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 13.202,
+                "end": 26.170
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭔가 벌크업 한 사람 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.160,
+                "end": 30.271
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 코스를 간략하게 얘기해 보자면 설악산 가서 땀 좀 질질 빼주고 점심 먹고 집.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 30.280,
+                "end": 38.204
+            }
+        ]
+    },
+    "summary": "남성은 오늘 코스를 간략하게 얘기해 보자면 설악산 가서 땀 빼주고 점심 먹고 집이라고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18184_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

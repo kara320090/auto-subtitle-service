@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYJ_17086",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.062,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 지하철역을 나왔고 아이 지하철역 기차역을 나왔고 아 여기 강이 흐르죠.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.555
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "강인지 뭔지 모르겠지만 아무튼 물이 있다는 거는 분위기가 좋다는 얘깁니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 5.565,
+                "end": 10.837
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "크루즈처럼요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 10.847,
+                "end": 13.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 천천히 여기서 네 다섯 시간 이렇게 걸어다니면서 티볼리 구경을 하고",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 13.352,
+                "end": 20.061
+            }
+        ]
+    },
+    "summary": "남성은 기차역을 나왔고 강이 흐르고 있고 천천히 티볼리 구경을 한다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17086_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 11,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

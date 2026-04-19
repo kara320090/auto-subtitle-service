@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_17778",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 33.533,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "준비를 하고 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.016
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "원래 출항 시간이 7시인데 지금 7시를 훌쩍 넘긴 시간인데 어, 이제서야 네, 걸려져 있던 밧줄들을 풀고 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 2.026,
+                "end": 16.502
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "노르웨이지안 스타호 저렇게 밧줄을 풀으면 쭉 올리죠 배에서?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.512,
+                "end": 29.605
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "쑝 들어갑니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 29.615,
+                "end": 33.533
+            }
+        ]
+    },
+    "summary": "출항 시간이 7시였지만 7시를 훌쩍 넘긴 시간에 밧줄을 풀고 출항 준비를 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17778_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

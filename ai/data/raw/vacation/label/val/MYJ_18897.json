@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYJ_18897",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 18.416,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "얘가 진짜 보기에는 좀 복잡 많고 그래보일지 몰라도 진짜 단순하거든요 간단하고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 6.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보세요 그냥 막 하나씩 뽑아 가지고 이렇게 다리도 하나씩 그냥 빼고 나사가 좀 많이 기네?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.152,
+                "end": 16.172
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갈때 쏙 그냥 여기다가",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.172,
+                "end": 18.416
+            }
+        ]
+    },
+    "summary": "복잡해 보일지 몰라도 단순하다고 얘기하며 나사 빼고 하는 모습을 보여주고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18897_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": 41,
+                    "act": 57
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYJ_18269",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 21.28,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 여러분.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 0.968
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 이제 사촌당 사촌 오늘 오늘은 사촌 동생 만나는 날입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.978,
+                "end": 5.638
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 지금부터 택배 개봉기 찍었고 그사이 지금 에너지를 다 썼는데 이제 서울을 가려고 하거든요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.648,
+                "end": 12.219
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 가볼게요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 12.229,
+                "end": 14.650
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 오늘 날씨가 너무 좋아.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.660,
+                "end": 21.280
+            }
+        ]
+    },
+    "summary": "여성이 집에서 사촌 동생을 만나야 한다며 주간 길거리를 꽃을 들고 걷고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18269_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 64,
+                    "act": 65
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "filename": "MYJ_17400",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 52.719,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "밑에는 이렇게 저 집도 멋있네.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 11.098
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저건 아까 제가 갔던 성당이고 네 그리고 발데모사의 모습이죠?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 11.108,
+                "end": 27.681
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아름답네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 27.691,
+                "end": 31.105
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 여기는 한 시간 자유 시간을 얻고서 어 미팅하는 장소인데 여기서 이제 콜라나 커피나 뭐 이런 것들을 예 제공하고 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 31.115,
+                "end": 42.527
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 저는 카푸치노를 주문을 해서 이걸 한잔 먹으려고 합니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 42.537,
+                "end": 52.719
+            }
+        ]
+    },
+    "summary": "남성이 미팅 장소로 와서 커피를 한잔 마신다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17400_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "filename": "MYJ_18425",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 30.92,
+        "format": "MP4",
+        "date": "2018-08-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "식당을 가고 있습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 5.573
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "멋있어 보이는 대로",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 5.583,
+                "end": 8.813
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "스파클링 워터 이렇게 나옵니다 꽤 크다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 8.823,
+                "end": 11.601
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 이 컵에다가 얼음에다가 라임까지 오",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 11.611,
+                "end": 16.800
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "베트남 와서 처음 시킨 쌀국수 어제 먹고 너무 맛있어서 또 시킴 화이트 로지",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 16.810,
+                "end": 21.973
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "새우튀김 마끼 인거 같아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 21.983,
+                "end": 24.927
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토마토소스 고등어 같은 거라고 해요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 24.937,
+                "end": 30.920
+            }
+        ]
+    },
+    "summary": "여성이 베트남 여행을 가서 멋있어 보이는 음식점에 들어가 음료와 여러 종류의 음식을 주문해서 먹으려고 하고 있습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18425_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": null,
+                    "act": 33
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYJ_18425_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 25,
+                    "act": 74
+                }
+            ]
+        }
+    ]
+}

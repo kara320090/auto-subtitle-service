@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "filename": "MYJ_18875",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 43.25,
+        "format": "MP4",
+        "date": "2023-04-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아빠 얼른 갖다 줘 집에 들어와 보자 옳지 여기가 우리 집이네 됐다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 0.000,
+                "end": 16.154
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 너무 감사하다.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.164,
+                "end": 19.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1야 우리 이제 미끄럼틀 타러 가자 @이름1야 미끄럼틀 타러 가자 미끄럼틀 미끄럼틀 가자 가보자",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 19.424,
+                "end": 35.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "무슨색 튜브할까?",
+                "sound_type": [
+                    2
+                ],
+                "start": 35.022,
+                "end": 36.234
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.244,
+                "end": 36.929
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 핑크색?",
+                "sound_type": [
+                    2
+                ],
+                "start": 36.939,
+                "end": 38.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래 가자",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 38.212,
+                "end": 43.250
+            }
+        ]
+    },
+    "summary": "@이름1가 아빠한테 얼른 갖다주고 우리 집에 들어가 보기도 하고 미끄럼틀 타러 갑니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18875_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "filename": "MYJ_18268",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.202,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우와 달이 떴다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.989
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기 와서 달 처음 보는 것 같아.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.999,
+                "end": 4.332
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 살 뺄려고 했는데 뭔가 저녁을 안 먹어가지고 아 근데 나 얼마 안 남았다고 하니까 왜이렇게 아쉽지?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.342,
+                "end": 11.507
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갑자기 엄청 뭔가 기분이 몽글몽글 해지는데요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.517,
+                "end": 15.285
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아쉬워.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.295,
+                "end": 19.200
+            }
+        ]
+    },
+    "summary": "여성이 야간에 집에서 달을 보며 치킨을 먹고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18268_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 5,
+                    "object": 27,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

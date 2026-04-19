@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYJ_17769",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.985,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 9.392
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예, 저는 지금 여기 음 크루즈 넥스트 데스크에 방문을 했고 아까 방에 와있던 편지중에 여기 오면은 저한테 선물을 준다는 뭐 그런 글이 있었어요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.402,
+                "end": 21.447
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "그래서 여기 왔는데 오니까 이걸 선물을 줍니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.457,
+                "end": 26.985
+            }
+        ]
+    },
+    "summary": "방에 온 편지 중에 크루즈 넥스트 데스크로 오면 선물을 준다는 글을 보고 선물을 받으러 왔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17769_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": 39,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

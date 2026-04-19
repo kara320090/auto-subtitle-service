@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYJ_18863",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.583,
+        "format": "MP4",
+        "date": "2023-04-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 뭐 어 @이름1도 그렇고 @이름2도 그렇고 요때가 진짜 좋다고 다들 다들 막 그랬다니까요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.359
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 야침 옮기기도 귀찮은데 딱 요렇게 해 놓고 자야 될 것 같아요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.369,
+                "end": 15.354
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요때 요럴 때 밖에 할 수 없는 거니까 요런 또 특수는 잘 누려야지요",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.364,
+                "end": 23.583
+            }
+        ]
+    },
+    "summary": "오늘 @이름1도 그렇고 @이름2도 그렇고 이때가 진짜 좋다고 다들 그랬고 이때 밖에 할 수 없으니까 잘 누려야지요.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18863_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": 49,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

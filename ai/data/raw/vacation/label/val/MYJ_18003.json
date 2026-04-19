@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "filename": "MYJ_18003",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 47.033,
+        "format": "MP4",
+        "date": "2022-12-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "해 갖고 배가 고파서 밥 먹으러 가고 있는데요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.369
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전라도 또 음식을 한번 먹어 봐야죠?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.379,
+                "end": 5.844
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "냉면이나 하나 먹고 가야 되겠네.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.854,
+                "end": 13.221
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "영업 마감?",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.231,
+                "end": 14.122
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "2시 이후 식사 원하시면 미리 전화 주세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.132,
+                "end": 18.736
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "준비해 드려요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.746,
+                "end": 19.735
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어이씨 여기는 이상하네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.745,
+                "end": 23.351
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전부 다 영업을 안 한다네 이 밝은 대낮에",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 23.361,
+                "end": 26.983
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "마을 주민이 주신 어 요 배추 요 배추로 응 오늘",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 26.993,
+                "end": 47.033
+            }
+        ]
+    },
+    "summary": "한 남성이 배가 고파 밥을 먹으러 가는데 밝은 대낮에도 전부 영업을 안 하는 게 이상하다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18003_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

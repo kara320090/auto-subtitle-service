@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYJ_18507",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 31.2,
+        "format": "MP4",
+        "date": "2017-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 락사 면은 제가 먹은 거 보다 더 통통해요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.101
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "신기해.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.111,
+                "end": 5.941
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.951,
+                "end": 26.262
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기는 비보시티라는 곳인데 되게 쇼핑할 곳",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 26.272,
+                "end": 31.200
+            }
+        ]
+    },
+    "summary": "여성은 락사를 먹고 비보시티에 갔다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18507_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

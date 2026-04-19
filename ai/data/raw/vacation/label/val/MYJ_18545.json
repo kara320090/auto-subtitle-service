@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYJ_18545",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.891,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "갔다 와.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.121
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "같이 가자.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.131,
+                "end": 2.123
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "야 너 근데 시 시 시작 결혼 축하 합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.133,
+                "end": 24.891
+            }
+        ]
+    },
+    "summary": "한 여성이 여행하는 영상을 찍고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18545_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

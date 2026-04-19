@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_18008",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 22.966,
+        "format": "MP4",
+        "date": "2022-11-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "비도 오고 그러니까 이렇게 배추전 맛있는 배추전을 해서 유자 막걸리하고 완도의 유자 막걸리하고 같이 먹겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 9.506
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 완도의 유자 막걸리 처음 들어 본 막걸리입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.516,
+                "end": 14.388
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 요렇게 배추전 해 가지고 한번 먹어 보도록 하겠습니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.398,
+                "end": 19.432
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "얼마 맛있는지 당연히 맛있어요 배추전은.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 19.442,
+                "end": 22.966
+            }
+        ]
+    },
+    "summary": "한 남성이 배추전과 처음 들어 본 완도 유자 막걸리를 얼마나 맛있는지 한번 먹어 보겠다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18008_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 21,
+                    "object": 29,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

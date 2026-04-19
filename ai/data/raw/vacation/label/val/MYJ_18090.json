@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "filename": "MYJ_18090",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 22.3,
+        "format": "MP4",
+        "date": "2022-08-13",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아니 무슨 해안 도로 해 가지고 써 놨는데 입구를 다 막아 놨더라구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 이쪽으로 마리나 리조트 쪽으로 해서 들어갈라 그래도 못 들어가게끔 해 놨고 또 저쪽에서도 음 못 들어가게 해 놨더라구요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.918,
+                "end": 15.991
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "낚시 테마 공원이라고 돼 있는데 낚시 테마 공원도 아닌 것 같고 해수욕장이",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.001,
+                "end": 22.300
+            }
+        ]
+    },
+    "summary": "해안 도로라고 표시를 해 놓았지만 입구가 모두 막혀 있었고 마리나 리조트 쪽으로 가려고 해도 길이 모두 막혀 있어서 가지 못했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18090_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

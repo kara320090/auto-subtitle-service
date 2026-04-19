@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "filename": "MYJ_17749",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 40.54,
+        "format": "MP4",
+        "date": "2022-06-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "물놀이하기는 많이 추울 거 같아요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.504
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자, 저는 이제 저녁 식사를 하러 내려가겠습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 2.514,
+                "end": 9.242
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 어디로 갈까요 뿅.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 9.252,
+                "end": 14.548
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.558,
+                "end": 34.423
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "오늘 점심, 아 저녁을 먹으러 온 곳은 여기 차이니즈 누들 바예요.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 34.433,
+                "end": 40.540
+            }
+        ]
+    },
+    "summary": "바다 구경을 마친 후 밥을 내려가는 데 식사 전 마술공연을 하고 있어 구경 후 차이니즈 누들 바에서 저녁을 먹을 예정이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17749_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 28,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

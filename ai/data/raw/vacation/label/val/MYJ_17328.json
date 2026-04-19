@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYJ_17328",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 24.941,
+        "format": "MP4",
+        "date": "2022-06-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "제가 처음에 봤던 성당 지로나 전체의 모습 지로나 대성당 아 여기는 꼭 추천드립니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 16.625
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금 저기 앞에 보이는 게 저게 어 카스텔로로마니 로마 시대의 성인 것 같아요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.635,
+                "end": 24.941
+            }
+        ]
+    },
+    "summary": "남성이 해당 장소를 추천하면서 로마의 성을 보여준다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17328_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

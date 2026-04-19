@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_18613",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 31.498,
+        "format": "MP4",
+        "date": "2023-06-04",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "말하면서 짐 도착했을 건데 어딨나요 하면 고객님 여깄다고",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.189
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네 알겠습니다 그럼 가서 한번 확인해보겠습니다 감사합니다 수고하세요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.199,
+                "end": 12.614
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "일단 캐리어를 해결했습니다 몸이 훨씬 더 가벼워졌어요 그러면 여행은 오늘은 힘들고 일단 일을 하러 떠나보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.624,
+                "end": 23.225
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 이런 식으로 픽업이 됐다 뭐 어디서 픽었했고 어디까지 간다 요렇게 카톡이 다 와요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 23.235,
+                "end": 31.498
+            }
+        ]
+    },
+    "summary": "남성이 캐리어 픽업 서비스 안내 문자를 보여주며 설명합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18613_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 49,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

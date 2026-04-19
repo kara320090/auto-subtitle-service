@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYJ_17223",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 28.278,
+        "format": "MP4",
+        "date": "2022-07-10",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "네 저는 좀 더 좋은 뷰를 보기 위해 18층 덱으로 왔습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.833
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자 이렇게 돌다 보면 저 끝에 쏘렌토가 보이고 이렇게 네 베수비오 화산입니다",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 5.843,
+                "end": 16.429
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 앞으로 더 이동해서 나폴리를 선수 부분에서 나폴리를 보도록 하겠습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.439,
+                "end": 28.278
+            }
+        ]
+    },
+    "summary": "발화자가 크루즈에서 여러 곳을 보여주며 설명해주는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17223_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

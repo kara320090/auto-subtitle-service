@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "filename": "MYJ_17474",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 62.729,
+        "format": "MP4",
+        "date": "2022-06-15",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 이제 궁전으로 왔습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 29.915
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 어제 루카에서 성당 위에 종탑 올라가는 것보다 쉬웠습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 29.925,
+                "end": 41.838
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왕궁 모습이고요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 41.848,
+                "end": 55.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저는 먼저 저쪽으로 가보겠습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 55.038,
+                "end": 58.012
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기가 진짜 뷰 포인트거든요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 58.022,
+                "end": 62.729
+            }
+        ]
+    },
+    "summary": "화자가 왕궁의 뷰 포인트로 가겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17474_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

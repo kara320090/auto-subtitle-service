@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYJ_17072",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.153,
+        "format": "MP4",
+        "date": "2022-07-18",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "공연장들 막 이런 거 다 많았는데 다 이용 못 했어요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 4.259
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 여유가 없어서 기항지 내려서 관광객도 해야 되고 막 그러니까 뭐 안 나가도 되긴 하지만 또 새로운 곳을 다니는 그 재미가 있기 때문에 안 나갈 순 없죠.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 4.269,
+                "end": 19.342
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 19.352,
+                "end": 21.146
+            }
+        ]
+    },
+    "summary": "남성은 기항지에 내려서 관광도 해야 해서 공연장들이나 시설을 이용하지 못 했습니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17072_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

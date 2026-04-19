@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYJ_18638",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 23.423,
+        "format": "MP4",
+        "date": "2020-09-01",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바람 좋습니다. 지금",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.002
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "예.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.012,
+                "end": 1.607
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바람 좋고 천천히 걸어가세요 걸어가 기다리고 기다리고 그래서 무조건 앞에서 깔면 안돼요 자 뜨 자 좋아요 오케이 기다리고 기다리고 오케이 자 오케이 허리 괜찮아 달려 달려",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.617,
+                "end": 21.174
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아아아",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 21.184,
+                "end": 23.423
+            }
+        ]
+    },
+    "summary": "남성이 강사의 지도에 따라 패러글라이딩을 하기 위해 달립니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18638_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 1,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

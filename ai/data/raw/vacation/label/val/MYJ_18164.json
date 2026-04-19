@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "filename": "MYJ_18164",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 33.266,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "야 그래도 파라솔.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 10.689
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "같이 가.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.699,
+                "end": 15.430
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안녕하세요 그 야놀자로 예약했거든요. 감사합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.441,
+                "end": 27.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "짠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.130,
+                "end": 27.818
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어우 좋네 침대가 하나네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 27.828,
+                "end": 33.266
+            }
+        ]
+    },
+    "summary": "남성은 야놀자로 예약했다고 감사하다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18164_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "filename": "MYJ_18492",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 34.48,
+        "format": "MP4",
+        "date": "2017-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "와아",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 11.040
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "지금은 슈퍼트리쇼를 보고 마리나베이센즈로 이동하고 있습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 11.050,
+                "end": 23.588
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기에 뭐 올라가서 전망대 뭐 그런게 있대요.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 23.598,
+                "end": 26.617
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 지금 가보고 있습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 26.627,
+                "end": 29.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 시원하다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 29.603,
+                "end": 34.480
+            }
+        ]
+    },
+    "summary": "슈퍼트리쇼를 보고 마리아나베이센즈 전망대로 이동한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18492_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

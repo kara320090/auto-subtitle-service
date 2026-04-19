@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "filename": "MYJ_17996",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            4,
+            5
+        ],
+        "quality": "HD",
+        "length": 25.233,
+        "format": "MP4",
+        "date": "2022-12-07",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "인공 호수 조그만 그 인공 호수 있잖아요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 3.095
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그런 것들도 꽤 많이 있고 이쁩니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 3.105,
+                "end": 7.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "전체적으로 어 저 앞에 있는 저게 이제 영신재라고 그 한옥 호텔이죠.",
+                "sound_type": [
+                    2,
+                    4,
+                    5
+                ],
+                "start": 7.830,
+                "end": 17.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 호텔 바로 앞에 에 우측 그걸 지나서 가면 화장실 2개가 화장실이 나오고 화장실 바로 옆에",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 17.082,
+                "end": 25.233
+            }
+        ]
+    },
+    "summary": "한 남성이 인공 호수도 많이 있고 전체적으로 예쁘다고 말하며 한옥 호텔 영신재를 지나가면 화장실이 나온다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17996_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 4,
+                    "object": null,
+                    "act": 27
+                }
+            ]
+        }
+    ]
+}

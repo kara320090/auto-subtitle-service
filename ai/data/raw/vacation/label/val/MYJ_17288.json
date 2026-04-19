@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYJ_17288",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 19.519,
+        "format": "MP4",
+        "date": "2022-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "그렇게 여기까지는 에스컬레이터가 돼 있는데 과연 저기까지는 돼 있을까요?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.538
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 반가운 에스컬레이터 그리고 반대쪽에서 바라보는 예 베네치아 타워와 아레나",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 7.548,
+                "end": 19.519
+            }
+        ]
+    },
+    "summary": "남성이 에스컬레이터를 타고 가면서 주변 경치를 본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17288_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": null,
+                    "act": 30
+                }
+            ]
+        }
+    ]
+}

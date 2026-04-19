@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYJ_17801",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 26.359,
+        "format": "MP4",
+        "date": "2022-05-26",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "유럽은 뭐 접근성이 좋으니까 도시들 하고 몇 군데를 제외하고는 네, 크루즈 포트에서 관광지까지 거리가 멀지 않기 때문에 나쁘지 않습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 13.179
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야 한참을 가고 있습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 13.189,
+                "end": 17.692
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이렇게 가야 이제 거의 중간쯤 온 거예요.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 17.702,
+                "end": 26.359
+            }
+        ]
+    },
+    "summary": "크루즈 포트하고 유럽 관광지까지의 거리가 멀지 않고 접근성이 좋아 나쁘지는 않다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17801_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

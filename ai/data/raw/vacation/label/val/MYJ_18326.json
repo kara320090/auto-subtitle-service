@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "filename": "MYJ_18326",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 66.08,
+        "format": "MP4",
+        "date": "2022-03-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우리 차 너무 귀여워",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 7.090
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "바닷가 바로 앞에 자리가 있어서 앉으려고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 7.100,
+                "end": 14.548
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "우동면 같아.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 14.558,
+                "end": 48.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "보말이 뭐야 아빠?",
+                "sound_type": [
+                    2
+                ],
+                "start": 48.212,
+                "end": 50.431
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐 소라 새끼 같은 거 아냐?",
+                "sound_type": [
+                    2
+                ],
+                "start": 50.441,
+                "end": 52.523
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "맛있다 그러던데.",
+                "sound_type": [
+                    2
+                ],
+                "start": 52.533,
+                "end": 58.908
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이것도 맛있다 아빠 이거 먹어봐.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 58.918,
+                "end": 62.368
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "소라 얇게 썰어 놔서 맛있네.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 62.378,
+                "end": 66.080
+            }
+        ]
+    },
+    "summary": "식사를 하는 발화자의 모습을 기록하여 시청자들과 소통하고 있는 영상이다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18326_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

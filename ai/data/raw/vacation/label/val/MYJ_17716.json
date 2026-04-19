@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "filename": "MYJ_17716",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 21.604,
+        "format": "MP4",
+        "date": "2022-06-03",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "일단은 저는 루카를 먼저 가야 되니까",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.260
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 2.270,
+                "end": 3.256
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네, 버스를 타러 가겠습니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 3.266,
+                "end": 5.816
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "저기서 뭐 블루 택시 블루 버스를 타면 된대요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 5.826,
+                "end": 10.326
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기가 버스정류장입니다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.336,
+                "end": 14.745
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 버스를 기다릴게요.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.755,
+                "end": 17.830
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네 저는 지금 위브루노",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 17.840,
+                "end": 21.604
+            }
+        ]
+    },
+    "summary": "루카에 가기 위해 버스정류장으로 가고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17716_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 9,
+                    "object": 6,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

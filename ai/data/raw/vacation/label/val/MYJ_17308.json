@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "filename": "MYJ_17308",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 19.436,
+        "format": "MP4",
+        "date": "2022-07-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "예 저는 지금 뷔페 레스토랑에 있는데 음 일단 해를 떨어지는 걸 기다리기 위해서 뷔페 레스토랑에서 밥을 먹고 있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 14.202
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이미 립하고 프라이 치킨하고",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.212,
+                "end": 19.436
+            }
+        ]
+    },
+    "summary": "남성이 해가 지는 걸 보면서 밥을 먹고 있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17308_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 16,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

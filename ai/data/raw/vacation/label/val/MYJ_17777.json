@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "filename": "MYJ_17777",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 24.357,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "아, 알리오 올리오 먹어야겠는데.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 1.722
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "네, 저렇게 라이브 음악도 연주하죠.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.732,
+                "end": 8.072
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "자, 저는 목적이 출항하는 모습을 담는 거기 때문에 올라갑니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.082,
+                "end": 24.357
+            }
+        ]
+    },
+    "summary": "알리오 올리로를 뒤로 하고 밖으로 나와 연주를 듣다 출항하는 모습을 찍기 위해 위로 올라간다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17777_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 14,
+                    "object": 50,
+                    "act": 11
+                }
+            ]
+        }
+    ]
+}

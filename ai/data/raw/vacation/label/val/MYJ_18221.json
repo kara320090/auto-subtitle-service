@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "filename": "MYJ_18221",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 41.331,
+        "format": "MP4",
+        "date": "2023-04-26",
+        "license": "개인 방송",
+        "agreement_score": 1
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "내가 봐도 됐다 저건",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.740
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "뭐야 이게 다 ?",
+                "sound_type": [
+                    2
+                ],
+                "start": 1.753,
+                "end": 4.680
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "와 와 때깔 봐",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.680,
+                "end": 9.027
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "장난 아니다",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 9.037,
+                "end": 12.960
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "너무 많아가지고 뭐부터 먹어야 될지 모르겠네.",
+                "sound_type": [
+                    2
+                ],
+                "start": 12.970,
+                "end": 15.066
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "전 좀 봐",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.076,
+                "end": 41.326
+            }
+        ]
+    },
+    "summary": "여자가 캠핑이 끝나고 밥을 먹으러 왔는데 반찬이 너무 많아서 뭐부터 먹어야 할지 모르겠다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18221_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

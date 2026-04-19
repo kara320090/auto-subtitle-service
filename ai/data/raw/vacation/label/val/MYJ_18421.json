@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "filename": "MYJ_18421",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 28.24,
+        "format": "MP4",
+        "date": "2018-08-31",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "가격은 정찰제예요. 정찰제",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 2.360
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "한 사람당 10만 동",
+                "sound_type": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "start": 2.370,
+                "end": 21.726
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "바바바바 아싸 잘한다.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 21.736,
+                "end": 28.240
+            }
+        ]
+    },
+    "summary": "코코넛 배는 정찰제로 한 사람당 10만 동이며 많은 분들이 배를 타고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18421_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 6
+                }
+            ]
+        }
+    ]
+}

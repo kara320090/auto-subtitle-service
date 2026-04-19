@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "filename": "MYJ_17380",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 42.5,
+        "format": "MP4",
+        "date": "2022-06-23",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 21.651
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "티켓을 갖고 네 오면은 투어를 떠나는 사람들이 여기에서 이제 번호를 부를 때까지 기다리고 있게 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 21.661,
+                "end": 33.954
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아직 저는 시간이 남았기 때문에 아직 부르진 않을 거고요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 33.964,
+                "end": 39.228
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "부르게 되면은 저 밑으로 내려가서",
+                "sound_type": [
+                    2
+                ],
+                "start": 39.238,
+                "end": 42.500
+            }
+        ]
+    },
+    "summary": "남성이 티켓을 가지고 자신의 번호를 부를 때까지 기다린다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17380_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

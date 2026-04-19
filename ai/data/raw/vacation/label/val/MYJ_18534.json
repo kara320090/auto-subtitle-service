@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "MYJ_18534",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.602,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "근데 이거 새로 나온 것 같은데 하나 사 이거 3개 사갈까 먹어야지.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.255
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "여기가 수유에서 사고",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.265,
+                "end": 31.598
+            }
+        ]
+    },
+    "summary": "한 여성이 부산 여행하는 영상을 찍고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18534_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 10,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

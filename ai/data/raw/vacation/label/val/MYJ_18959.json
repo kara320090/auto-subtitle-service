@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "filename": "MYJ_18959",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 32.416,
+        "format": "MP4",
+        "date": "2022-12-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "50대 이상",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "4",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "5",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "6",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "우와",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 4.183
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.193,
+                "end": 8.260
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.260,
+                "end": 14.540
+            },
+            {
+                "speaker_id": "4",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.540,
+                "end": 17.902
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "어 이 트라이퍼드를 이용해서 고기를 먹으려고 합니다 이거 진짜 그냥 생으로 구나 봐요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.912,
+                "end": 24.170
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "근데 간 간은 안 한 것 같기는 한데 아 그런가요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 24.174,
+                "end": 27.960
+            },
+            {
+                "speaker_id": "6",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 27.970,
+                "end": 29.055
+            },
+            {
+                "speaker_id": "5",
+                "transcription": "아 이런 육식을 먹어 보다니",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 29.065,
+                "end": 32.416
+            }
+        ]
+    },
+    "summary": "영상에서는 트라이퍼드를 이용해서 고기를 구워 먹으려고 한다면서 근데 간을 안 하고 생으로 굽는 건지 의아해 하며 이런 육식을 먹어 본다고 언급한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18959_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 46
+                }
+            ]
+        },
+        {
+            "image_info": {
+                "image_id": "2",
+                "image_name": "MYJ_18959_02.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "2.1",
+                    "age": "50대 이상",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

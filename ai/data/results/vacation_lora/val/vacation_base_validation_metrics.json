@@ -1,0 +1,20 @@
+{
+  "domain": "vacation",
+  "split": "validation",
+  "num_samples": 177,
+  "matched_count": 177,
+  "avg_val_loss": 11.076977401129943,
+  "wer": 31.401129943502823,
+  "cer": 14.030759573132455,
+  "loss_evaluated_count": 177,
+  "loss_skipped_count": 0,
+  "label_missing_text_count": 0,
+  "audio_missing_count": 1803,
+  "decode_error_count": 0,
+  "duplicate_audio_key_count": 0,
+  "max_label_length": 448,
+  "model_type": "base_only",
+  "model_id": "openai/whisper-large-v3",
+  "label_dir": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/label/val",
+  "audio_dir": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation"
+}

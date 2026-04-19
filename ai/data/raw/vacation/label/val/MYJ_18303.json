@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYJ_18303",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 35.64,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "맛있어 보이는데?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 1.272
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "언니 먹고 싶은 거 먹어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.282,
+                "end": 2.778
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "맛있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 2.788,
+                "end": 16.836
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "완전 맛있어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 16.846,
+                "end": 17.859
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "빵 데워줬네 맛있다 엄청 맛있는데 이거?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 17.869,
+                "end": 22.457
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "사람 없어서 너무 좋다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 22.467,
+                "end": 24.433
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 이 사진 보면 볼수록 맘에 드네 너무 잘나왔어.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.443,
+                "end": 32.491
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "가방이 한 몫 했어 그치?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 32.501,
+                "end": 35.640
+            }
+        ]
+    },
+    "summary": "발화자는 언니와 빵을 먹으며 함께 찍은 사진을 보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18303_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "여성",
+                    "place": 2,
+                    "object": 36,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

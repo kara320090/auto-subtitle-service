@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "filename": "MYJ_18952",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 15.812,
+        "format": "MP4",
+        "date": "2022-12-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "체력 보충",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.160
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이게 지금 저희 4명 중에 같이 온 4명 중에 유튜브를 안 하시는 두 분만 지금 되게 마음 편히 주무시잖아요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 1.160,
+                "end": 9.310
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이 마음이 정말 편안하신지 아 근데 저 지금 약간 저는 근데 좀 약간 좋은 거는",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 9.310,
+                "end": 15.791
+            }
+        ]
+    },
+    "summary": "남성은 같이 온 4명 중에 유튜브를 하지 않은 두 사람만 편히 자고 있다고 말했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18952_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

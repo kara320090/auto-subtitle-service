@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "filename": "MYJ_18542",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 31.431,
+        "format": "MP4",
+        "date": "2023-05-04",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "조식은 5만 5000원으로 인당 내일 아침에 결제 해주시면 되시구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.698
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "피트니스랑",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.708,
+                "end": 31.431
+            }
+        ]
+    },
+    "summary": "한 여성이 여행하는 영상을 찍고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18542_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

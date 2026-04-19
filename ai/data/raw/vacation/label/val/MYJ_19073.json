@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "filename": "MYJ_19073",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 19.552,
+        "format": "MP4",
+        "date": "2022-06-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "바다를",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.610
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "깨끗이",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.620,
+                "end": 13.707
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "야구 선수",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.717,
+                "end": 14.716
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "야구 선수요?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 14.726,
+                "end": 16.152
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "금 누고?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.162,
+                "end": 16.931
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "롯뎁니까?",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 16.941,
+                "end": 17.862
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아니 아니",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 17.872,
+                "end": 19.552
+            }
+        ]
+    },
+    "summary": "바다를 깨끗이 구호를 외치고 야구 선수냐고 물어봤다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_19073_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

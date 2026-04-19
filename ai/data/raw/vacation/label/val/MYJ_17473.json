@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYJ_17473",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 39.456,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "저기 배우님들이 레드카펫을 밟고 가시는 저 곳 네 이렇게 진짜 마지막으로 담고 저는 크루즈로 복귀합니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 18.593
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "왜 복귀하는 데는 이렇게 삥 돌게 만들었을까요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 18.603,
+                "end": 23.725
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이고 응 삥 도니까 등대도 볼 수 있어서 좋았네요 원래 볼 생각이 없었는데",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 23.735,
+                "end": 39.456
+            }
+        ]
+    },
+    "summary": "화자가 등대까지 보고 크루즈로 복귀한다고 한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17473_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 17,
+                    "object": 8,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

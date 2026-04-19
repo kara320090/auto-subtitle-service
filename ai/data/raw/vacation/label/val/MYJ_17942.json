@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYJ_17942",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 33.642,
+        "format": "MP4",
+        "date": "2023-03-12",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "50대 이상",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기서 보면 저기 영목항 전망대가 보이고 원산도로 가는 원상 대교가 저렇게 보이네요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 12.891
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "진짜 엄청나게 넓네요. 여기는 막 푹푹 빠지네",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 12.901,
+                "end": 33.633
+            }
+        ]
+    },
+    "summary": "남성은 영목항 전망대와 원상 대교가 보이고 엄청나게 넓다고 합니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17942_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

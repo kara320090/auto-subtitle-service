@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_19092",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 30.0,
+        "format": "MP4",
+        "date": "2022-05-05",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "파도 함 심하게 치 놓으니까 인제 이게 다 떠내려 온 거라.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.655
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이래 또 쓰레기 함 줍고 나면 뭐 준비 운동 따로 할 필요가 없거든 그러니까 마 쓰레기 1봉다리 줍고 물에 딱 들어가고 이라믄 딱 맞는 기라 심장에 무리도 안 가고",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 2.665,
+                "end": 13.364
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아따 오늘 물 깨끗하다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 13.374,
+                "end": 22.561
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "갑니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 22.571,
+                "end": 30.000
+            }
+        ]
+    },
+    "summary": "파도가 심하게 쳐서 쓰레기가 다 떠 내려 왔고 쓰레기를 줍고 나면 준비 운동할 필요가 없다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_19092_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": null,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

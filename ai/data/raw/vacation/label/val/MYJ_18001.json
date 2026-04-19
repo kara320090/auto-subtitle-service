@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYJ_18001",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 78.9,
+        "format": "MP4",
+        "date": "2022-12-01",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오소재 고개네요 오소재 고개.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 52.624
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 등산로 입구가 있는데 어우 잘 해놨네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 52.634,
+                "end": 56.305
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이쁘장하게 여기 있는 산들은 다 이쁘더라고요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 56.315,
+                "end": 60.687
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이어서 목적지 부근입니다.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 60.697,
+                "end": 78.900
+            }
+        ]
+    },
+    "summary": "한 남성이 오소재 고개에 등산로 입구가 있는데 잘 해놨다며 여기에 있는 산들도 예쁘다고 말하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18001_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 2,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

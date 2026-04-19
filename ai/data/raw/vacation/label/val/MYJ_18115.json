@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "filename": "MYJ_18115",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 16.8,
+        "format": "MP4",
+        "date": "2022-08-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "어 캠핑이나 아 차박을 오셔도 참 좋은 것 같아요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 5.443
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 아까 그 보면 물도 산에서 그렇게 내려오고 어차피 산 위에는 사람이 살지 않기 때문에 어 물은 굉장히 깨끗한 편입니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 5.453,
+                "end": 16.800
+            }
+        ]
+    },
+    "summary": "산에서 물이 내려오기 때문에 물이 굉장히 깨끗한 편이어서 캠핑이나 차박을 와도 좋을 것 같다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18115_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

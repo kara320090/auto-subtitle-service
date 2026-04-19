@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "filename": "MYJ_18150",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 20.233,
+        "format": "MP4",
+        "date": "2021-03-24",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "카페 유마구요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 1.357
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아예 그냥 2층 통째로 카페 통으로 쓰고 있는 건물입니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 1.367,
+                "end": 6.236
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "요렇게 앞에 주차장이 있어 가지고 상당히 편리합니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.246,
+                "end": 9.418
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "주차는 걱정 안하셔도 되구요. `",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.428,
+                "end": 11.413
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "해운대에서도 뭐 30분 40분 밖에 안 걸리더라구요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.423,
+                "end": 15.135
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "방금 저기가 벚꽃이 이렇게 펴 있는 데 사진 찍기도 좋을 것 같아요 저도 한 컷 남겨 봤습니다 그래서",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 15.145,
+                "end": 20.233
+            }
+        ]
+    },
+    "summary": "유마라는 카페이고 2층 건물 통으로 쓰고 있고 주차장이 넓고 벚꽃들이 펴 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18150_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": "남성",
+                    "place": 18,
+                    "object": 2,
+                    "act": 45
+                }
+            ]
+        }
+    ]
+}

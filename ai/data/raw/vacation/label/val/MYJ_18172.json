@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "filename": "MYJ_18172",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.266,
+        "format": "MP4",
+        "date": "2023-08-22",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "여기 이 못생긴 애가 먹으러 가자 그래가지고.",
+                "sound_type": [
+                    1,
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 13.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이거 가위바위보 해서 진 사람이 입에다 한번 하기.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 13.038,
+                "end": 16.414
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "안내면 진 거 가위바위보.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 16.424,
+                "end": 22.028
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아이 나 궁금해 나 해볼래.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 22.038,
+                "end": 26.490
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 여행은 여기까지 인걸로 이 못생긴 애가 알바 가야 돼가지고.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 26.498,
+                "end": 31.140
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이번 여행 어떠셨나요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 31.140,
+                "end": 33.266
+            }
+        ]
+    },
+    "summary": "남성은 이번 여행 어땠냐고 물어보고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18172_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "20대",
+                    "gender": "남성",
+                    "place": 21,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

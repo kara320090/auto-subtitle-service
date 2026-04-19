@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "filename": "MYJ_18014",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 33.133,
+        "format": "MP4",
+        "date": "2022-11-20",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 저는 한번 어 목욕탕으로 한번 가 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.238
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "목욕탕 성인이 3000원 경로가 2000원, 2500원 장흥군 관외 사람은 5000원 이렇게 돼 있네요.",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 3.248,
+                "end": 22.505
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "들어가 보겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 22.515,
+                "end": 26.820
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "목욕탕은 한 3000원 하네요 3000원.",
+                "sound_type": [
+                    2
+                ],
+                "start": 26.830,
+                "end": 29.865
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 남탕으로 들어갑니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 29.875,
+                "end": 33.133
+            }
+        ]
+    },
+    "summary": "한 남성이 목욕탕에 들어가 보겠다며 성인이 3000원, 경로가 2000원, 장흥군 관외 사람은 5000원을 받고 있다고 하고 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18014_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 8,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

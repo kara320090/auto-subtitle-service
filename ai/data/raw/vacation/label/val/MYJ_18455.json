@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "filename": "MYJ_18455",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 29.8,
+        "format": "MP4",
+        "date": "2017-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "20대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "20대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "뭐 많이 넣나?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 6.396
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "음 맛있네.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 6.406,
+                "end": 10.745
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "어떻게 먹으라는 거지?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 10.755,
+                "end": 12.218
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이건 무슨 알이야?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 12.228,
+                "end": 14.404
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "이거 먹어봐 맛있다 알?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 14.414,
+                "end": 16.291
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "되게 술 안주로 좋다.",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 16.301,
+                "end": 18.389
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 원래 이렇게 이렇게 놔야지 먹 먹는 거 아닌가?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 18.399,
+                "end": 21.422
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그 그냥 그렇게 먹는 거 아냐?",
+                "sound_type": [
+                    2,
+                    4
+                ],
+                "start": 21.432,
+                "end": 29.800
+            }
+        ]
+    },
+    "summary": "식사를 하면서 음식에 들어간 알이 무엇인지 물어보고 맛있다고 말한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18455_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 35,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

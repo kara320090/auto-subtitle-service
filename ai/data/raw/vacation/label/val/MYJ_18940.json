@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "filename": "MYJ_18940",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            5
+        ],
+        "quality": "HD",
+        "length": 20.75,
+        "format": "MP4",
+        "date": "2022-12-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "3",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "@이름1님 한번",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 3.223
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 3.233,
+                "end": 3.975
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먹방 한 번 보여줘요.",
+                "sound_type": [
+                    2,
+                    3,
+                    5
+                ],
+                "start": 3.985,
+                "end": 5.386
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "제가요?",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 5.396,
+                "end": 6.318
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "먹음직스럽게.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 6.328,
+                "end": 7.290
+            },
+            {
+                "speaker_id": "3",
+                "transcription": "면치기 한번 가야지.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 7.300,
+                "end": 8.274
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "아 면치기.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.284,
+                "end": 8.425
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "면치기가 좀 안될 것 같긴 한데.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.435,
+                "end": 10.799
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네. 자 이 면이 좀 두꺼워 가지고 삼겹살을 둘둘 말아서.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 10.809,
+                "end": 20.750
+            }
+        ]
+    },
+    "summary": "먹음직스럽게 면치기 먹방을 보여달라고 했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18940_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 1
+                }
+            ]
+        }
+    ]
+}

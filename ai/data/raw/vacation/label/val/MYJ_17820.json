@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "filename": "MYJ_17820",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            4
+        ],
+        "quality": "HD",
+        "length": 20.812,
+        "format": "MP4",
+        "date": "2022-05-24",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "겨우겨우 축구를 볼 수 있을 것 같습니다.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 0.000,
+                "end": 2.157
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어쨌건 네, 코로나 테스트도 잘 받았고 일단 목적은 가장 큰 목적은 어, 크루즈에 어, 안전하게 승선하는 거니까 네, 그다음은 축구 경기 뭐 조금 늦어도 가서 볼 수는 있으니까요.",
+                "sound_type": [
+                    1,
+                    2,
+                    4
+                ],
+                "start": 2.167,
+                "end": 20.812
+            }
+        ]
+    },
+    "summary": "코로나 테스트도 잘 받았고 가장 큰 목적은 크루즈에 안전하게 타는 고 축구 경기는 조금 늦어도 볼 수 있기 때문에 괜찮다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17820_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 18,
+                    "object": 5,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

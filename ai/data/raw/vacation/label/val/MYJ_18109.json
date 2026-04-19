@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "filename": "MYJ_18109",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            1,
+            2
+        ],
+        "quality": "HD",
+        "length": 16.933,
+        "format": "MP4",
+        "date": "2022-08-02",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "자 저기 건너편에 보시면 저렇게 에 낚시를 하고 있습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 4.533
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "낚시를 하고 있고 이 이쪽에 보면 쭉 오시다 보면은 그 내려갈 수 있도록 계단을 쪼그맣게 이렇게 만들어 놨어요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 4.543,
+                "end": 12.781
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "괜히 또 저기 그",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 12.791,
+                "end": 16.933
+            }
+        ]
+    },
+    "summary": "건너편에서 사람들이 낚시를 하는 것이 보이고 그쪽으로 내려갈 수 있도록 계단이 만들어져 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18109_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 3,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

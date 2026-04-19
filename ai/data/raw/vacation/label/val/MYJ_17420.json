@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "filename": "MYJ_17420",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 23.189,
+        "format": "MP4",
+        "date": "2022-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "요거는 사진으로 별도.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.084
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "&외국어 발화&",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.094,
+                "end": 4.428
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예압.",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.438,
+                "end": 4.867
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "음 이렇게 좀 서빙이 제공되는 대로 오면은 요 인제 토마토 주스거든요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 4.877,
+                "end": 13.878
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "위에는 없어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 13.888,
+                "end": 14.863
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "토마토 주스를 근데 인제 여기도 그렇고 멘하탄도 그렇고 어 토마토 주스 좀 저는 토마토 주스 되게 좋아하거든요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 14.873,
+                "end": 23.189
+            }
+        ]
+    },
+    "summary": "식사 주문 후 토마토 주스가 서빙된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17420_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 26,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

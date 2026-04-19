@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "filename": "MYJ_17411",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 24.232,
+        "format": "MP4",
+        "date": "2022-06-21",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "점심도 쓸고 닦고 항상 그렇습니다.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.468
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "예 물기가 있으면 안 되기 때문에 안전이 제일 중요하니까요.",
+                "sound_type": [
+                    1,
+                    2
+                ],
+                "start": 2.478,
+                "end": 8.690
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 저는 멘하탄 레스토랑에 왔고요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 8.700,
+                "end": 11.895
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아직 오픈 전이에요.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 11.905,
+                "end": 14.315
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그래서 여유 있게 이렇게 레스토랑 전체의 모습을 화면에 담을 수가 있습니다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.325,
+                "end": 24.232
+            }
+        ]
+    },
+    "summary": "안전을 위해 물기를 항상 닦는 직원에 대해 말한 후 오픈 전인 레스토랑에 가서 레스토랑의 모습을 살펴본다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17411_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 38,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

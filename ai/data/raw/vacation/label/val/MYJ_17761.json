@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "filename": "MYJ_17761",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            1,
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 16.891,
+        "format": "MP4",
+        "date": "2022-05-30",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "단지 사람들이 야외에서는 마스크는 필수 아니고 이 직원들은 다 마스크 착용하고 있고 모두 백신을 완료했고요.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 0.000,
+                "end": 8.153
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 여기는 메뉴가 아까랑 똑같네요.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 8.163,
+                "end": 11.726
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "와 로스트비프 샌드위치도 엄청 맛있게 생겼네요 우와.",
+                "sound_type": [
+                    1,
+                    2,
+                    5
+                ],
+                "start": 11.736,
+                "end": 16.891
+            }
+        ]
+    },
+    "summary": "야외에서는 마스크가 필수인 건 아니지만 직원들은 모두 마스크를 끼고 백신접종을 완료했다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17761_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 31,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

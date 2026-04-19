@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "filename": "MYJ_18443",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            5
+        ],
+        "quality": "HD",
+        "length": 23.16,
+        "format": "MP4",
+        "date": "2017-09-13",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "30대",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "오늘은 그냥 이렇게 시원하게 간단하게 입어 봤어요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 3.932
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그럼 이제 슬슬 나가 볼까요?",
+                "sound_type": [
+                    2
+                ],
+                "start": 3.942,
+                "end": 6.158
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "아 물 물 아 물 가지고 가야겠다 물",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 6.168,
+                "end": 12.645
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "어 아 방이 이게 엄청 파랗게 나와요 이상하게",
+                "sound_type": [
+                    2,
+                    5
+                ],
+                "start": 12.655,
+                "end": 18.459
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "&외국어 발화",
+                "sound_type": [
+                    2
+                ],
+                "start": 18.469,
+                "end": 23.160
+            }
+        ]
+    },
+    "summary": "여성이 싱가포르 관광을 하러 시원하게 옷을 입고 물을 챙겨서 호텔 밖으로 나갑니다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18443_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "30대",
+                    "gender": "여성",
+                    "place": 6,
+                    "object": null,
+                    "act": 35
+                }
+            ]
+        }
+    ]
+}

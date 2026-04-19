@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "filename": "MYJ_18840",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 25.75,
+        "format": "MP4",
+        "date": "2023-04-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "10대 미만",
+                "gender": "여성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "지난 한 달간 텐트 왕 선발 대원은 딸과 함께 캠핑을 다니며 매운맛을 경험했다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 0.000,
+                "end": 9.623
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "힘 내라 힘 내라 힘 내라",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 9.633,
+                "end": 14.578
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "평소 좋아하던 캠핑의 감성은 한 달 만에 모두 네 살 딸에 눈높이에 맞춰져 버렸다.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 14.588,
+                "end": 24.556
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "그러다 보니",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 24.566,
+                "end": 25.750
+            }
+        ]
+    },
+    "summary": "한 달간 텐트 왕 선발 대원은 딸과 함께 캠핑을 다니며 모두 네 살 딸에 눈높이에 맞춰져 버렸다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18840_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 6,
+                    "object": 2,
+                    "act": 146
+                }
+            ]
+        }
+    ]
+}

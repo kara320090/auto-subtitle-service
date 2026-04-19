@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "filename": "MYJ_17542",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 20.228,
+        "format": "MP4",
+        "date": "2022-06-11",
+        "license": "개인 방송",
+        "agreement_score": 2
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "음식들이 있는데 그냥 순차별로 하나씩만 먹고 저는 네 위로 올라가서 먹도록 하겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 8.906
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이제 저녁에 정찬 식당에 오게 되면 요렇게 항상 빵이 이제 제공이 됩니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 8.916,
+                "end": 16.699
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "이 버터와 함께",
+                "sound_type": [
+                    2
+                ],
+                "start": 16.709,
+                "end": 20.228
+            }
+        ]
+    },
+    "summary": "레스토랑에서 식사를 하면 빵과 버터가 기본으로 제공된다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17542_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 2,
+                    "object": 27,
+                    "act": 20
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "filename": "MYJ_17445",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2
+        ],
+        "quality": "HD",
+        "length": 22.313,
+        "format": "MP4",
+        "date": "2022-06-17",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "여성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "30대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "따란.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 2.712
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "줄 서서 이렇게 사이에 찍고 있네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 2.722,
+                "end": 5.788
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "저야 뭐 배우처럼 찍을 일이 없기 때문에 이렇게 많은 사람들이 저 레드카펫 있는 데서 사진 찍기 위해 줄을 서있습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 5.798,
+                "end": 19.583
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "안에는 들어갈 수가 없네요.",
+                "sound_type": [
+                    2
+                ],
+                "start": 19.593,
+                "end": 22.313
+            }
+        ]
+    },
+    "summary": "많은 사람들이 레드카펫 위에서 사진 찍기 위해 줄을 선다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_17445_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": null,
+                    "gender": null,
+                    "place": 19,
+                    "object": 49,
+                    "act": 12
+                }
+            ]
+        }
+    ]
+}

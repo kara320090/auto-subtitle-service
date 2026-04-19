@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "filename": "MYJ_18984",
+        "category": "여행",
+        "sub_category": 1,
+        "sound": [
+            2,
+            3
+        ],
+        "quality": "HD",
+        "length": 29.666,
+        "format": "MP4",
+        "date": "2022-10-29",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "알겠습니다.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.000,
+                "end": 0.646
+            },
+            {
+                "speaker_id": "1",
+                "transcription": "일단 뭐 저 여기 자리 좀 세팅 좀 하고 그 다음에 인제 얘기 또 나누시죠.",
+                "sound_type": [
+                    2
+                ],
+                "start": 0.656,
+                "end": 4.747
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "네.",
+                "sound_type": [
+                    2,
+                    3
+                ],
+                "start": 4.757,
+                "end": 29.666
+            }
+        ]
+    },
+    "summary": "화자1은 자리를 세팅한 후 이야기를 나누고자 하며 텐트를 설치한다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18984_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 3,
+                    "object": 38,
+                    "act": 46
+                }
+            ]
+        }
+    ]
+}

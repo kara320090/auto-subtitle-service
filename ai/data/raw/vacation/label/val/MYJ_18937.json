@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "filename": "MYJ_18937",
+        "category": "여행",
+        "sub_category": 2,
+        "sound": [
+            2,
+            3,
+            4
+        ],
+        "quality": "HD",
+        "length": 18.958,
+        "format": "MP4",
+        "date": "2022-12-31",
+        "license": "개인 방송",
+        "agreement_score": 3
+    },
+    "video": {
+        "speakers_info": [
+            {
+                "speaker_id": "1",
+                "age": "40대",
+                "gender": "남성"
+            },
+            {
+                "speaker_id": "2",
+                "age": "40대",
+                "gender": "남성"
+            }
+        ],
+        "term": [
+            {
+                "speaker_id": "1",
+                "transcription": "전현무가 보이고.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 0.000,
+                "end": 3.179
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "여기는 신기하게도 휴게소에 마트가 있어요 오.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 3.189,
+                "end": 8.136
+            },
+            {
+                "speaker_id": "2",
+                "transcription": "조그맣게 푸드코트도 있고.",
+                "sound_type": [
+                    2,
+                    3,
+                    4
+                ],
+                "start": 8.146,
+                "end": 18.958
+            }
+        ]
+    },
+    "summary": "휴게소에 마트가 있고 작게 푸드코트가 있다.",
+    "image": [
+        {
+            "image_info": {
+                "image_id": "1",
+                "image_name": "MYJ_18937_01.jpg",
+                "image_format": "JPG"
+            },
+            "image_labeling": [
+                {
+                    "labeling_id": "1.1",
+                    "age": "40대",
+                    "gender": "남성",
+                    "place": 2,
+                    "object": null,
+                    "act": 159
+                }
+            ]
+        }
+    ]
+}

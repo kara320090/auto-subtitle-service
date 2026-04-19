@@ -1,0 +1,16 @@
+{
+  "domain": "ent",
+  "split": "validation",
+  "num_samples": 7306,
+  "avg_val_loss": 4.5930335511908025,
+  "wer": 0.3657702600019822,
+  "cer": 0.24039271308895882,
+  "loss_evaluated_count": 7306,
+  "loss_skipped_count": 0,
+  "audio_missing_count": 0,
+  "invalid_range_count": 0,
+  "empty_segment_count": 0,
+  "max_label_length": 448,
+  "model_id": "openai/whisper-large-v3",
+  "model_type": "base_only"
+}
