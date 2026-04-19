@@ -1,10 +1,11 @@
 from pathlib import Path
 from time import perf_counter
 
-from fastapi import APIRouter, File, HTTPException, Request, UploadFile
+from fastapi import APIRouter, File, Form, HTTPException, Request, UploadFile
 
 from backend.app.services.audio_extractor import extract_audio_from_video
 from backend.app.services.metadata_service import save_pipeline_metadata
+from backend.app.services.opencv_render_service import render_video_with_subtitle_opencv
 from backend.app.services.render_service import render_video_with_subtitle
 from backend.app.services.srt_service import save_srt_file
 from backend.app.services.whisper_service import transcribe_audio
@@ -49,7 +50,11 @@ async def upload_video(file: UploadFile = File(...)):
 
 
 @router.post("/process")
-async def process_video(request: Request, file: UploadFile = File(...)):
+async def process_video(
+    request: Request,
+    file: UploadFile = File(...),
+    render_mode: str = Form("ffmpeg"),
+):
     total_start = perf_counter()
     logger.info("pipeline start | filename=%s", file.filename)
 
@@ -109,12 +114,22 @@ async def process_video(request: Request, file: UploadFile = File(...)):
             subtitle_elapsed,
         )
 
+        mode = render_mode.lower().strip()
+        if mode not in {"ffmpeg", "opencv"}:
+            raise ValueError("render_mode must be one of: ffmpeg, opencv")
+
         # 5. 자막 삽입 영상 생성
         step_start = perf_counter()
-        render_result = render_video_with_subtitle(
-            video_path=video_path,
-            subtitle_path=subtitle_path,
-        )
+        if mode == "opencv":
+            render_result = render_video_with_subtitle_opencv(
+                video_path=video_path,
+                subtitle_path=subtitle_path,
+            )
+        else:
+            render_result = render_video_with_subtitle(
+                video_path=video_path,
+                subtitle_path=subtitle_path,
+            )
         render_elapsed = round(perf_counter() - step_start, 3)
 
         logger.info(
@@ -152,6 +167,7 @@ async def process_video(request: Request, file: UploadFile = File(...)):
                 "subtitle_download_url": subtitle_download_url,
                 "video_download_url": video_download_url,
             },
+            "render_mode": mode,
             "timings": {
                 "upload_seconds": upload_elapsed,
                 "audio_extraction_seconds": audio_elapsed,

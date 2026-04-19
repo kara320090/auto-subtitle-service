@@ -1,4 +1,5 @@
 from pathlib import Path
+from typing import Any
 
 import whisper
 
@@ -23,7 +24,7 @@ def transcribe_audio(audio_path: str) -> dict:
 
     model = get_whisper_model()
 
-    result = model.transcribe(
+    result: dict[str, Any] = model.transcribe(
         str(input_path),
         language=WHISPER_LANGUAGE,
         task="transcribe",
@@ -31,7 +32,14 @@ def transcribe_audio(audio_path: str) -> dict:
     )
 
     segments = []
-    for seg in result.get("segments", []):
+    raw_segments = result.get("segments")
+    if not isinstance(raw_segments, list):
+        raw_segments = []
+
+    for seg in raw_segments:
+        if not isinstance(seg, dict):
+            continue
+
         text = str(seg.get("text", "")).strip()
         if not text:
             continue
@@ -45,10 +53,12 @@ def transcribe_audio(audio_path: str) -> dict:
             }
         )
 
+    full_text = str(result.get("text", "")).strip()
+
     return {
         "audio_path": str(input_path.resolve()),
         "language": result.get("language", WHISPER_LANGUAGE),
-        "full_text": result.get("text", "").strip(),
+        "full_text": full_text,
         "segments": segments,
         "segment_count": len(segments),
         "model_name": WHISPER_MODEL_NAME,

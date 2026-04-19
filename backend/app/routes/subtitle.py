@@ -6,6 +6,7 @@ from backend.app.schemas.response import (
     RenderVideoRequest,
     TranscribeRequest,
 )
+from backend.app.services.opencv_render_service import render_video_with_subtitle_opencv
 from backend.app.services.audio_extractor import extract_audio_from_video
 from backend.app.services.render_service import render_video_with_subtitle
 from backend.app.services.srt_service import save_srt_file
@@ -78,14 +79,25 @@ def generate_srt(request: GenerateSRTRequest):
 @router.post("/render-video")
 def render_video(request: RenderVideoRequest):
     try:
-        result = render_video_with_subtitle(
-            video_path=request.video_path,
-            subtitle_path=request.subtitle_path,
-        )
+        mode = request.render_mode.lower().strip()
+        if mode == "opencv":
+            result = render_video_with_subtitle_opencv(
+                video_path=request.video_path,
+                subtitle_path=request.subtitle_path,
+            )
+        elif mode == "ffmpeg":
+            result = render_video_with_subtitle(
+                video_path=request.video_path,
+                subtitle_path=request.subtitle_path,
+            )
+        else:
+            raise HTTPException(status_code=400, detail="render_mode must be one of: ffmpeg, opencv")
+
         return {
             "status": "success",
             "message": "자막 삽입 영상 생성이 완료되었습니다.",
             "render_info": result,
+            "render_mode": mode,
         }
     except FileNotFoundError as e:
         raise HTTPException(status_code=404, detail=str(e))

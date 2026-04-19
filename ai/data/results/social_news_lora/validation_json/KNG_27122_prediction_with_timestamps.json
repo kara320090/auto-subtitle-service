@@ -1,0 +1,19 @@
+{
+  "audio": "D:\\data\\social_general_news_data\\validation\\wav\\KNG_27122.wav",
+  "prediction": "85살 원금순 할머니 이불 2장으로 바닥에 냉기를 견딥니다 전기장판도 아침 저녁으로만 조금씩 틀고 있습니다. 배고픈 거 보면 불을 떼요. 날아보면 또 바닥을 떼야 돼.",
+  "active_adapters": [
+    "news_adapter"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.78,
+      "text": "85살 원금순 할머니 이불 2장으로 바닥에 냉기를 견딥니다 전기장판도 아침 저녁으로만 조금씩 틀고 있습니다."
+    },
+    {
+      "start": 10.78,
+      "end": 18.1,
+      "text": "배고픈 거 보면 불을 떼요. 날아보면 또 바닥을 떼야 돼."
+    }
+  ]
+}

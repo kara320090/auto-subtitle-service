@@ -1,0 +1,19 @@
+{
+  "audio": "D:\\data\\social_general_news_data\\validation\\wav\\KNG_25602.wav",
+  "prediction": "일반적인 폐암 환자 중 직간접 흡연자가 80퍼센트 정도를 차지한 것과는 큰 차이가 납니다. 남성과 여성 폐암 피해자 비율도 일반적인 폐암 환자 그룹과는 다릅니다.",
+  "active_adapters": [
+    "news_adapter"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.56,
+      "text": "일반적인 폐암 환자 중 직간접 흡연자가 80퍼센트 정도를 차지한 것과는 큰 차이가 납니다."
+    },
+    {
+      "start": 16.56,
+      "end": 22.34,
+      "text": "남성과 여성 폐암 피해자 비율도 일반적인 폐암 환자 그룹과는 다릅니다."
+    }
+  ]
+}

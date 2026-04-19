@@ -35,6 +35,7 @@ class GenerateSRTResponse(BaseModel):
 class RenderVideoRequest(BaseModel):
     video_path: str
     subtitle_path: str
+    render_mode: str = "ffmpeg"
 
 
 class RenderVideoResponse(BaseModel):
