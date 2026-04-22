@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_12148.wav",
+  "prediction": "쉽지 않은 가든인 것 같아요. 그리고 어우 여기서 보는 저 산의 공습이 참 아름답습니다. 어우 멋있네요. 자 내려가겠습니다. 어우 여기는 바람이 불지 않아서",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "쉽지 않은 가든인 것 같아요. 그리고 어우 여기서 보는 저 산의 공습이 참 아름답습니다. 어우 멋있네요."
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "자 내려가겠습니다."
+    },
+    {
+      "start": 20.0,
+      "end": 22.68,
+      "text": "어우 여기는 바람이 불지 않아서"
+    }
+  ]
+}

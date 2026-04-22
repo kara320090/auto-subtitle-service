@@ -1,12 +1,15 @@
 from __future__ import annotations
 
 import json
+import os
+import shutil
+import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 from typing import List, Tuple
 from uuid import uuid4
 
-import cv2
+import cv2  # pyright: ignore[reportMissingImports]
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
@@ -32,6 +35,56 @@ class DisplaySubtitleItem:
 
 def ensure_directory(path: Path) -> None:
     path.mkdir(parents=True, exist_ok=True)
+
+
+def resolve_font_path(preferred_font_path: str | None = None) -> str:
+    candidates = []
+
+    if preferred_font_path:
+        candidates.append(preferred_font_path)
+
+    candidates.extend(
+        [
+            os.getenv("OPENCV_FONT_PATH", ""),
+            r"C:\Windows\Fonts\malgun.ttf",
+            r"C:\Windows\Fonts\gulim.ttc",
+            r"C:\Windows\Fonts\arialuni.ttf",
+            "/usr/share/fonts/truetype/nanum/NanumGothic.ttf",
+            "/usr/share/fonts/truetype/noto/NotoSansCJK-Regular.ttc",
+            "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+            "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+            "/usr/share/fonts/truetype/freefont/FreeSans.ttf",
+        ]
+    )
+
+    if shutil.which("fc-match"):
+        for family_name in (
+            "Noto Sans CJK KR",
+            "Noto Sans KR",
+            "NanumGothic",
+            "Malgun Gothic",
+            "Apple SD Gothic Neo",
+        ):
+            try:
+                result = subprocess.run(
+                    ["fc-match", "-f", "%{file}\n", family_name],
+                    capture_output=True,
+                    text=True,
+                    check=True,
+                )
+                resolved = result.stdout.strip().splitlines()[0].strip() if result.stdout.strip() else ""
+                if resolved and Path(resolved).exists():
+                    return resolved
+            except Exception:
+                continue
+
+    for candidate in candidates:
+        if candidate and Path(candidate).exists():
+            return candidate
+
+    raise FileNotFoundError(
+        "사용 가능한 폰트를 찾지 못했습니다. OPENCV_FONT_PATH를 실제 존재하는 폰트 파일로 설정하세요."
+    )
 
 
 def format_srt_time(seconds: float) -> str:
@@ -136,14 +189,21 @@ def build_readable_timeline(
     result: List[DisplaySubtitleItem] = []
 
     for index, subtitle in enumerate(subtitles):
+        item_min_duration = min_duration
+        item_extra_hold = extra_hold
+
+        if index == 0:
+            item_min_duration = min(min_duration, 0.9)
+            item_extra_hold = min(extra_hold, 0.1)
+
         readable_duration = estimate_reading_duration(
             subtitle.text,
-            min_duration=min_duration,
+            min_duration=item_min_duration,
             chars_per_sec=chars_per_sec,
             max_duration=max_duration,
         )
         original_duration = max(0.0, subtitle.end_sec - subtitle.start_sec)
-        final_duration = max(original_duration, readable_duration) + extra_hold
+        final_duration = max(original_duration, readable_duration) + item_extra_hold
         desired_end = subtitle.start_sec + final_duration
 
         if index + 1 < len(subtitles):
@@ -197,10 +257,12 @@ def draw_korean_subtitle_stack(
 
     items = items[-max_visible_items:]
 
+    resolved_font_path = resolve_font_path(font_path)
+
     rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
     pil_img = Image.fromarray(rgb).convert("RGBA")
     draw = ImageDraw.Draw(pil_img)
-    font = ImageFont.truetype(font_path, font_size)
+    font = ImageFont.truetype(resolved_font_path, font_size)
 
     img_w, img_h = pil_img.size
 

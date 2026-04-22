@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_13670.wav",
+  "prediction": "다음 도전은 팀에서 멤버들 중 3명만 선택할 거예요. 팀에서 멤버들 중 3명만 선택할 거예요. 팀에서 가장 좋은 멤버들을 선택하세요. 3명만 선택할 거예요.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "다음 도전은 팀에서 멤버들 중 3명만 선택할 거예요."
+    },
+    {
+      "start": 7.68,
+      "end": 11.84,
+      "text": "팀에서 멤버들 중 3명만 선택할 거예요."
+    },
+    {
+      "start": 11.84,
+      "end": 16.16,
+      "text": "팀에서 가장 좋은 멤버들을 선택하세요."
+    },
+    {
+      "start": 16.16,
+      "end": 18.46,
+      "text": "3명만 선택할 거예요."
+    }
+  ]
+}

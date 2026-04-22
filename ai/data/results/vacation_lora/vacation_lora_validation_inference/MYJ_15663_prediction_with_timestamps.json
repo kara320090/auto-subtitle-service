@@ -1,0 +1,39 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_15663.wav",
+  "prediction": "저기서부터 양식장입니다. 다 양식 뭘 양식하는지 모르겠어요. 약 한 시간 뒤면은 비고에 도착할 겁니다. 여기서는 댄스 클래스를 하죠. 댄스 클래스는 그래도 참여율이 높아요. 야외에서",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "저기서부터 양식장입니다."
+    },
+    {
+      "start": 3.9,
+      "end": 18.5,
+      "text": "다 양식 뭘 양식하는지 모르겠어요."
+    },
+    {
+      "start": 18.5,
+      "end": 22.26,
+      "text": "약 한 시간 뒤면은 비고에 도착할 겁니다."
+    },
+    {
+      "start": 22.26,
+      "end": 25.56,
+      "text": "여기서는 댄스 클래스를 하죠."
+    },
+    {
+      "start": 25.56,
+      "end": 28.46,
+      "text": "댄스 클래스는 그래도 참여율이 높아요."
+    },
+    {
+      "start": 28.46,
+      "end": 29.98,
+      "text": "야외에서"
+    }
+  ]
+}

@@ -11,11 +11,7 @@ from backend.app.config import LLM_SERVICE_TIMEOUT_SECONDS, LLM_SERVICE_URL
 
 
 _CANDIDATE_PATHS = (
-    "/v1/chat/completions",
-    "/v1/responses",
-    "/chat/completions",
-    "/generate",
-    "/",
+    "/api/subtitle/refine",
 )
 
 
@@ -65,6 +61,11 @@ def _normalize_segment(segment: dict[str, Any], fallback_segment: dict[str, Any]
 
 def _extract_json_payload(data: Any) -> dict[str, Any]:
     if isinstance(data, dict):
+        # /api/subtitle/refine 응답 형식: { status, message, refinement: {...} }
+        refinement = data.get("refinement")
+        if isinstance(refinement, dict):
+            return refinement
+
         if "choices" in data and isinstance(data["choices"], list) and data["choices"]:
             first_choice = data["choices"][0] or {}
             message = first_choice.get("message", {}) if isinstance(first_choice, dict) else {}
@@ -106,43 +107,89 @@ def _request_json(url: str, payload: dict[str, Any]) -> Any:
         method="POST",
     )
 
-    with urlopen(request, timeout=LLM_SERVICE_TIMEOUT_SECONDS) as response:
-        body = response.read().decode("utf-8")
+    try:
+        with urlopen(request, timeout=LLM_SERVICE_TIMEOUT_SECONDS) as response:
+            body = response.read().decode("utf-8")
+            try:
+                return json.loads(body)
+            except Exception:
+                return body
+    except HTTPError as exc:
+        error_body = ""
         try:
-            return json.loads(body)
+            raw = exc.read()
+            if raw:
+                error_body = raw.decode("utf-8", errors="replace").strip()
         except Exception:
-            return body
+            error_body = ""
+
+        message = f"HTTP {exc.code} calling {url}"
+        if error_body:
+            message = f"{message} | body={error_body[:500]}"
+        raise RuntimeError(message) from exc
 
 
 def _build_request_payload(transcription_result: dict, domain: str | None) -> dict[str, Any]:
-    segments = transcription_result.get("segments", []) or []
-    prompt = _build_prompt(domain)
-    return {
-        "domain": domain or transcription_result.get("applied_domain") or "general",
-        "language": transcription_result.get("language", "ko"),
-        "model_name": transcription_result.get("model_name"),
-        "full_text": transcription_result.get("full_text", ""),
-        "segments": segments,
-        "prompt": prompt,
-        "messages": [
-            {"role": "system", "content": prompt},
+    raw_segments = transcription_result.get("segments", []) or []
+
+    segments = []
+    for index, segment in enumerate(raw_segments):
+        if not isinstance(segment, dict):
+            continue
+        segments.append(
             {
-                "role": "user",
-                "content": json.dumps(
-                    {
-                        "full_text": transcription_result.get("full_text", ""),
-                        "segments": segments,
-                    },
-                    ensure_ascii=False,
-                ),
-            },
-        ],
+                "id": segment.get("id", index),
+                "start": float(segment.get("start", 0.0)),
+                "end": float(segment.get("end", segment.get("start", 0.0))),
+                "text": str(segment.get("text", "")).strip(),
+                "token_confidence": segment.get("token_confidence", []) or [],
+            }
+        )
+
+    # 현재 연동되는 LLM 서버는 /api/subtitle/refine 스키마를 사용합니다.
+    return {
+        "segments": segments,
+        "top_k": 5,
+        "max_masks_per_segment": 1,
+        "use_llm_postprocess": True,
+        "llm_context_window": 8,
+        "llm_model": None,
+        "llm_temperature": 0.2,
+        "llm_max_tokens": 256,
     }
 
 
 def _candidate_urls() -> list[str]:
-    base_url = LLM_SERVICE_URL.rstrip("/")
-    return [f"{base_url}{path}" if path != "/" else base_url for path in _CANDIDATE_PATHS]
+    raw_base_url = (LLM_SERVICE_URL or "").strip()
+    if not raw_base_url:
+        return []
+
+    if not raw_base_url.startswith(("http://", "https://")):
+        raw_base_url = f"https://{raw_base_url}"
+
+    base_url = raw_base_url.rstrip("/")
+
+    candidates: list[str] = []
+
+    # base가 이미 /api로 끝나면 /subtitle/refine, 아니면 /api/subtitle/refine를 우선 사용
+    if base_url.endswith("/api"):
+        candidates.append(f"{base_url}/subtitle/refine")
+    else:
+        candidates.append(f"{base_url}/api/subtitle/refine")
+
+    # 혹시 모를 배포 경로 차이를 위해 기존 경로도 보조로 시도
+    for path in _CANDIDATE_PATHS:
+        if path == "/":
+            candidates.append(base_url)
+        else:
+            candidates.append(f"{base_url}{path}")
+
+    unique: list[str] = []
+    for url in candidates:
+        if url not in unique:
+            unique.append(url)
+
+    return unique
 
 
 def _merge_refined_segments(original_segments: list[dict], refined_segments: list[dict]) -> list[dict]:
@@ -165,18 +212,44 @@ def _merge_refined_segments(original_segments: list[dict], refined_segments: lis
 
 
 def _pick_refined_segments(parsed: dict[str, Any]) -> list[dict]:
-    for key in ("segments", "refined_segments", "corrected_segments", "items", "chunks"):
+    for key in ("refined_segments", "segments", "corrected_segments", "items", "chunks"):
         value = parsed.get(key)
         if isinstance(value, list) and value:
             return [segment for segment in value if isinstance(segment, dict)]
+
+    # before_after_pairs만 온 경우를 대비해 최소 segments로 변환합니다.
+    before_after_pairs = parsed.get("before_after_pairs")
+    if isinstance(before_after_pairs, list) and before_after_pairs:
+        converted: list[dict] = []
+        for index, pair in enumerate(before_after_pairs):
+            if not isinstance(pair, dict):
+                continue
+            converted.append(
+                {
+                    "id": pair.get("segment_id", index),
+                    "start": pair.get("start", 0.0),
+                    "end": pair.get("end", 0.0),
+                    "text": pair.get("after_text", ""),
+                }
+            )
+        if converted:
+            return converted
+
     return []
 
 
 def _pick_refined_text(parsed: dict[str, Any], fallback_text: str) -> str:
-    for key in ("full_text", "corrected_text", "text", "content", "result"):
+    for key in ("full_text", "corrected_text", "text", "content", "result", "output"):
         value = parsed.get(key)
         if isinstance(value, str) and value.strip():
             return value.strip()
+
+    refined_segments = _pick_refined_segments(parsed)
+    if refined_segments:
+        joined = " ".join(str(segment.get("text", "")).strip() for segment in refined_segments).strip()
+        if joined:
+            return joined
+
     return fallback_text
 
 

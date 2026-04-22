@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_00312.wav",
+  "prediction": "어제 그 고양이들 여기 다 보여 있네요. 편의시설도 잘 되어 있고 오수 처리 시설이 있어서 캠핑카 카라반 쓰시는 분들은 편할 것 같아요.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.86,
+      "text": "어제 그 고양이들 여기 다 보여 있네요."
+    },
+    {
+      "start": 4.86,
+      "end": 7.32,
+      "text": "편의시설도 잘 되어 있고"
+    },
+    {
+      "start": 7.32,
+      "end": 12.62,
+      "text": "오수 처리 시설이 있어서 캠핑카 카라반 쓰시는 분들은 편할 것 같아요."
+    }
+  ]
+}

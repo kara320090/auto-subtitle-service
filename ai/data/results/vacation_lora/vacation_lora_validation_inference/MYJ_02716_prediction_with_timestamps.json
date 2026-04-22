@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_02716.wav",
+  "prediction": "이렇게 수대는 물이 안 나왔지만 옆에 물이 나오는 음수대가 있습니다. 위쪽에 화장실도 있어요. 기득권",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.52,
+      "text": "이렇게 수대는 물이 안 나왔지만 옆에 물이 나오는 음수대가 있습니다."
+    },
+    {
+      "start": 17.52,
+      "end": 27.24,
+      "text": "위쪽에 화장실도 있어요."
+    },
+    {
+      "start": 27.24,
+      "end": 30.0,
+      "text": "기득권"
+    }
+  ]
+}

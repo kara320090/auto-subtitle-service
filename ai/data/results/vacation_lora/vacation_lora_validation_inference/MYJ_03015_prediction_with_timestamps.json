@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_03015.wav",
+  "prediction": "해변을 따라 이어진 송림에서 캠핑이 가능한데요. 예약은 따로 없고 자리가 많으니까 그냥 오시면 돼요. 당일은 만원, 1박 2만원, 샤워 3000원. 중간중간 해수욕장으로 나가는 길이 있어요.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.66,
+      "text": "해변을 따라 이어진 송림에서 캠핑이 가능한데요."
+    },
+    {
+      "start": 4.66,
+      "end": 8.9,
+      "text": "예약은 따로 없고 자리가 많으니까 그냥 오시면 돼요."
+    },
+    {
+      "start": 8.9,
+      "end": 13.0,
+      "text": "당일은 만원, 1박 2만원, 샤워 3000원."
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "중간중간 해수욕장으로 나가는 길이 있어요."
+    }
+  ]
+}

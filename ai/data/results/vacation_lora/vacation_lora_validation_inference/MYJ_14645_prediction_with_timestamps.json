@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_14645.wav",
+  "prediction": "여기가 온천인가봐요. 네. 온 것 같습니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": "여기가 온천인가봐요."
+    },
+    {
+      "start": 10.0,
+      "end": 20.0,
+      "text": "네."
+    },
+    {
+      "start": 20.0,
+      "end": 28.66,
+      "text": "온 것 같습니다."
+    }
+  ]
+}

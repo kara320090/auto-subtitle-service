@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_13646.wav",
+  "prediction": "다음 질문은 아람부스는 몇 사이의 사이즈가 있는지 알아요? 4개입니다. 4개입니다. 4개의 사이즈가 있습니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "다음 질문은 아람부스는 몇 사이의 사이즈가 있는지 알아요?"
+    },
+    {
+      "start": 5.6,
+      "end": 6.7,
+      "text": "4개입니다."
+    },
+    {
+      "start": 6.7,
+      "end": 9.9,
+      "text": "4개입니다."
+    },
+    {
+      "start": 9.9,
+      "end": 21.72,
+      "text": "4개의 사이즈가 있습니다."
+    }
+  ]
+}

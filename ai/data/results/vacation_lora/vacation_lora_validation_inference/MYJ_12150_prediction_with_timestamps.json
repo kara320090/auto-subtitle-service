@@ -1,0 +1,44 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_12150.wav",
+  "prediction": "쭉 내려가서 한 바퀴 돌겠습니다. 우와 저거 뭐야. 그리고 새들도 많습니다. 자 쭉 한 바퀴 돌면 끝날 것 같아요. 닭도 있고 우와 이건 잎이 엄청 크네요. 이게 뭐야? 와",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.56,
+      "text": "쭉 내려가서 한 바퀴 돌겠습니다."
+    },
+    {
+      "start": 3.56,
+      "end": 7.76,
+      "text": "우와 저거 뭐야."
+    },
+    {
+      "start": 7.76,
+      "end": 13.88,
+      "text": "그리고 새들도 많습니다."
+    },
+    {
+      "start": 13.88,
+      "end": 19.88,
+      "text": "자 쭉 한 바퀴 돌면 끝날 것 같아요."
+    },
+    {
+      "start": 19.88,
+      "end": 23.44,
+      "text": "닭도 있고"
+    },
+    {
+      "start": 23.44,
+      "end": 26.44,
+      "text": "우와 이건 잎이 엄청 크네요."
+    },
+    {
+      "start": 26.44,
+      "end": 28.78,
+      "text": "이게 뭐야? 와"
+    }
+  ]
+}

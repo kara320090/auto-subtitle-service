@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_12425.wav",
+  "prediction": "왜요? 바구니에다가 줄리가 제 이름을 적었는데 제가 걸렸어요. 근데 예 제가 안 나온다 그래서 줄리가 대신 나갔습니다. 예 저기 회밀이가 다 나오네요.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "왜요?"
+    },
+    {
+      "start": 8.54,
+      "end": 18.0,
+      "text": "바구니에다가 줄리가 제 이름을 적었는데 제가 걸렸어요. 근데 예 제가 안 나온다 그래서 줄리가 대신 나갔습니다."
+    },
+    {
+      "start": 18.0,
+      "end": 21.54,
+      "text": "예 저기 회밀이가 다 나오네요."
+    }
+  ]
+}

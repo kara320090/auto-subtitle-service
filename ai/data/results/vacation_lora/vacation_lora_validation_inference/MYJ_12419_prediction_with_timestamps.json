@@ -1,0 +1,39 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_12419.wav",
+  "prediction": "메인 요리까지 이렇게 쫙 돼 있습니다. 그리고 이스터햄 디저트까지 네 일단 좀 보고서 결정해야 될 것 같습니다. 저희 친구들은 뭘 먹을까요? 뭘 먹을까요 이 친구들은?",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.04,
+      "text": "메인 요리까지 이렇게 쫙 돼 있습니다."
+    },
+    {
+      "start": 5.04,
+      "end": 7.24,
+      "text": "그리고 이스터햄"
+    },
+    {
+      "start": 7.24,
+      "end": 12.04,
+      "text": "디저트까지"
+    },
+    {
+      "start": 12.04,
+      "end": 15.84,
+      "text": "네 일단 좀 보고서 결정해야 될 것 같습니다."
+    },
+    {
+      "start": 15.84,
+      "end": 18.76,
+      "text": "저희 친구들은 뭘 먹을까요?"
+    },
+    {
+      "start": 18.76,
+      "end": 20.6,
+      "text": "뭘 먹을까요 이 친구들은?"
+    }
+  ]
+}

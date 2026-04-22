@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_15540.wav",
+  "prediction": "야 여기 트럭이 지나가네. 이 조그만 길로. 아 운전 잘하네요. 운전 잘해요. 여기서 보면 아까 봤던 시계탑 골목 이런 거 볼 수 있고요. 네 그리고 저는 반대편으로 넘어갈 겁니다. 야 비겨라.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.44,
+      "text": "야 여기 트럭이 지나가네. 이 조그만 길로. 아 운전 잘하네요. 운전 잘해요."
+    },
+    {
+      "start": 10.44,
+      "end": 15.84,
+      "text": "여기서 보면 아까 봤던 시계탑 골목 이런 거 볼 수 있고요."
+    },
+    {
+      "start": 20.74,
+      "end": 27.26,
+      "text": "네 그리고 저는 반대편으로 넘어갈 겁니다. 야 비겨라."
+    }
+  ]
+}

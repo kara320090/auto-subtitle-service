@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_11191.wav",
+  "prediction": "노란 커피를 한 잔 시켰습니다. 기차가 오나 봐요. 야 포인트까지 잡아주시는구나. 오 뭐 소리가 들려. 아니구나. 이분 약간 뭔가 반장님 같은 느낌이네요 동네 통장님 이런 분인가? 근데 주체들",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": "노란 커피를 한 잔 시켰습니다. 기차가 오나 봐요. 야 포인트까지 잡아주시는구나."
+    },
+    {
+      "start": 12.0,
+      "end": 29.0,
+      "text": "오 뭐 소리가 들려. 아니구나. 이분 약간 뭔가 반장님 같은 느낌이네요 동네 통장님 이런 분인가?"
+    },
+    {
+      "start": 29.0,
+      "end": 29.98,
+      "text": "근데 주체들"
+    }
+  ]
+}

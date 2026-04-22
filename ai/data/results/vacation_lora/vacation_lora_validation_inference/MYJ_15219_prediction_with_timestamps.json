@@ -1,0 +1,34 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_15219.wav",
+  "prediction": "토트넘 경기장에서 버스를 기다렸는데 하도 안 와갖고 그냥 킹스크로스로 오는 버스를 타고 왔습니다 그냥. 그래서 비가 오고 있지만 아 그냥 걸으려고요. 예 킹스크로스에서 쭉 걸어서",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "토트넘 경기장에서 버스를 기다렸는데 하도 안 와갖고"
+    },
+    {
+      "start": 3.9,
+      "end": 7.5,
+      "text": "그냥 킹스크로스로 오는 버스를 타고 왔습니다 그냥."
+    },
+    {
+      "start": 7.5,
+      "end": 11.28,
+      "text": "그래서 비가 오고 있지만"
+    },
+    {
+      "start": 11.28,
+      "end": 14.42,
+      "text": "아 그냥 걸으려고요."
+    },
+    {
+      "start": 14.42,
+      "end": 20.44,
+      "text": "예 킹스크로스에서 쭉 걸어서"
+    }
+  ]
+}

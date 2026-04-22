@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_15163.wav",
+  "prediction": "밑에 문주희 분수도 작품을 멈췄습니다. 아 그래서 같이 온 삐 군한테 이거를 보여주고 싶어서 보세요 다 말랐어. 와 이 멋있는 분수가 하나도 지금 한번 볼 수가 없습니다.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": "밑에 문주희 분수도 작품을 멈췄습니다."
+    },
+    {
+      "start": 5.5,
+      "end": 12.38,
+      "text": "아 그래서 같이 온 삐 군한테 이거를 보여주고 싶어서 보세요 다 말랐어."
+    },
+    {
+      "start": 12.38,
+      "end": 18.42,
+      "text": "와 이 멋있는 분수가 하나도 지금 한번 볼 수가 없습니다."
+    }
+  ]
+}

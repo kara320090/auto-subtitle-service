@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_15275.wav",
+  "prediction": "이제 웨스트윈스터 나오죠. 웨스트윈스터 고고",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "이제 웨스트윈스터 나오죠."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "웨스트윈스터"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "고고"
+    }
+  ]
+}

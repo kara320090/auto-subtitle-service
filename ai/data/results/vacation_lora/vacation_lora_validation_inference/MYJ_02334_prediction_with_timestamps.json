@@ -1,0 +1,29 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_02334.wav",
+  "prediction": "한번 먹어볼게요. 음. 와 이게 라면 국물하고 어울려 가지고 와 진짜 맛있네. 그리고 이게 싱싱하잖아요. 바로 그냥 잡자마자 급속 냉동을 시작했거든요. 음.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": "한번 먹어볼게요. 음."
+    },
+    {
+      "start": 12.24,
+      "end": 17.48,
+      "text": "와 이게 라면 국물하고 어울려 가지고 와 진짜 맛있네."
+    },
+    {
+      "start": 17.48,
+      "end": 23.36,
+      "text": "그리고 이게 싱싱하잖아요. 바로 그냥 잡자마자 급속 냉동을 시작했거든요."
+    },
+    {
+      "start": 27.84,
+      "end": 29.84,
+      "text": "음."
+    }
+  ]
+}

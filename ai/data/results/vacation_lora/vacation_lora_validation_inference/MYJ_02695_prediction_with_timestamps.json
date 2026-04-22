@@ -1,0 +1,44 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_02695.wav",
+  "prediction": "오 오늘 어떻게 알았어? 이게 아닌데? 다시 배워와. 짠. 짠. 아. 오인철",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.46,
+      "text": "오 오늘 어떻게 알았어?"
+    },
+    {
+      "start": 4.46,
+      "end": 17.16,
+      "text": "이게 아닌데?"
+    },
+    {
+      "start": 17.16,
+      "end": 20.08,
+      "text": "다시 배워와."
+    },
+    {
+      "start": 20.08,
+      "end": 20.92,
+      "text": "짠."
+    },
+    {
+      "start": 20.92,
+      "end": 26.48,
+      "text": "짠."
+    },
+    {
+      "start": 26.48,
+      "end": 29.32,
+      "text": "아."
+    },
+    {
+      "start": 29.32,
+      "end": 31.32,
+      "text": "오인철"
+    }
+  ]
+}

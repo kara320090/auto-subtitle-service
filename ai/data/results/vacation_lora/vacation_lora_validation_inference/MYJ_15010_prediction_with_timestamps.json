@@ -1,0 +1,19 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_15010.wav",
+  "prediction": "음 보이진 않지만 네 해군 기지입니다. 여기가 메인 크루즈 터미널이네요.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "음 보이진 않지만 네 해군 기지입니다."
+    },
+    {
+      "start": 6.4,
+      "end": 29.6,
+      "text": "여기가 메인 크루즈 터미널이네요."
+    }
+  ]
+}

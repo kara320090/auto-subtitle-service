@@ -1,0 +1,24 @@
+{
+  "audio": "/home/user/SWPJ3/auto-subtitle-service/ai/data/raw/vacation/validation/MYJ_14082.wav",
+  "prediction": "네 마치 더 사람들이 많아졌죠. 여기 또 춘다. 안녕하세요. 크루즈 여행가 로맥입니다. 오늘은 이제 8일차 아침이죠. 네 시데입니다. 이제 기항지는 하나, 하나밖에 안 남았어요.",
+  "active_adapters": [
+    "default"
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "네 마치 더 사람들이 많아졌죠. 여기 또 춘다."
+    },
+    {
+      "start": 14.0,
+      "end": 25.0,
+      "text": "안녕하세요. 크루즈 여행가 로맥입니다. 오늘은 이제 8일차 아침이죠. 네 시데입니다."
+    },
+    {
+      "start": 25.0,
+      "end": 30.0,
+      "text": "이제 기항지는 하나, 하나밖에 안 남았어요."
+    }
+  ]
+}

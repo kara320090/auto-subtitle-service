@@ -111,9 +111,10 @@ async def process_video(
         llm_elapsed = round(perf_counter() - step_start, 3)
 
         logger.info(
-            "pipeline step success | step=llm_refinement | used=%s | fallback=%s | elapsed=%.3fs",
+            "pipeline step success | step=llm_refinement | used=%s | fallback=%s | reason=%s | elapsed=%.3fs",
             transcription_result.get("llm_used"),
             transcription_result.get("llm_fallback_used"),
+            transcription_result.get("llm_fallback_reason"),
             llm_elapsed,
         )
 
