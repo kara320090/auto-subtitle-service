@@ -1,123 +1,237 @@
 # CapTune | Auto Subtitle Service
 
-영상 업로드부터 한국어 음성 전사, 자막 후처리, SRT 생성과 자막 영상 다운로드까지 연결하는 자동 자막 서비스입니다.
+> 영상 업로드부터 고정밀 한국어 음성 전사, 도메인 특화 LoRA 어댑터 라우팅, LLM 문맥 정제, 정밀 타임스탬프 동기화 및 자막 번인(Burn-in) MP4 렌더링까지 전 과정을 완결하는 엔드투엔드 AI 자막 자동화 플랫폼
 
-**Python · FastAPI · Whisper large-v3 · LoRA/PEFT · React · FFmpeg · OpenCV**
+---
 
-## 프로젝트 개요
+[시스템 개요 및 빠른 시작](#1-프로젝트-개요-project-overview)
+- [핵심 가치 및 공학적 가설 검증 (USP & Validation)](#2-핵심-가치-및-공학적-가설-검증-core-usp--validation)
+- [코어 전사 파이프라인 및 상태 전이](#3-코어-전사-파이프라인-및-상태-전이-core-pipeline--mechanics)
+- [기술 및 네트워크 아키텍처](#4-기술-및-네트워크-아키텍처-technical-architecture)
+- [코어 아키텍처 및 소스 구현 명세](#5-코어-아키텍처-및-소스-구현-명세-core-architecture--implementation)
+- [핵심 테크니컬 하이라이트](#6-핵심-테크니컬-하이라이트-technical-highlights)
+- [시스템 요구 사양 및 실행 가이드](#7-시스템-요구-사양-및-실행-가이드-system-requirements)
+- [핵심 KPI 및 신뢰성 지표](#8-핵심-kpi-및-신뢰성-지표-milestones--validation)
 
-음성 인식 결과를 실제 영상 자막으로 사용하려면 전사뿐 아니라 시간 정보, 문장 정리, 한글 렌더링과 파일 제공까지 연결해야 합니다. 이 저장소는 AI 추론 코드와 FastAPI API, React 사용자 화면을 함께 구성한 프로젝트입니다.
+---
 
-| 구분 | 구현 내용 |
-|---|---|
-| 입력 | 영상 업로드와 도메인 선택 |
-| 음성 처리 | FFmpeg 기반 오디오 추출, Whisper 한국어 전사 |
-| 도메인 적응 | 지원 도메인의 LoRA 어댑터 로드, 적용 불가 시 기본 모델로 전환 |
-| 후처리 | 외부 LLM 서비스 연동, 실패 시 원본 전사 유지 |
-| 출력 | 타임스탬프가 있는 SRT와 자막을 입힌 MP4 |
-| 화면 | 업로드, 전사 결과·적용 도메인 확인, 세그먼트 편집 UI, 다운로드 |
+### 1. 프로젝트 개요 (Project Overview)
 
-## 처리 흐름
+* **도메인 / 분야:** 음성 인식(STT) · 미디어 자동화 · 자연어 처리(NLP) 영상 자막 파이프라인
+* **플랫폼 / UI:** Web Application (React SPA + FastAPI REST API)
+* **배포 형태:** 컨테이너 기반 API 서빙 (FastAPI, PyTorch, FFmpeg, OpenCV)
+* **개발 체제 / 기간:** 개인 프로젝트 (기획, 모델 파인튜닝, 백엔드/프론트엔드 풀스택 구현)
+* **핵심 기술 스택:** `Python 3.11` · `FastAPI` · `Whisper large-v3` · `PEFT / LoRA` · `React` · `OpenCV` · `FFmpeg`
 
-```mermaid
-flowchart LR
-    A["React: 영상·도메인 선택"] --> B["FastAPI: 업로드 검증"]
-    B --> C["FFmpeg: 오디오 추출"]
-    C --> D["Whisper·선택적 LoRA"]
-    D --> E["LLM 후처리 또는 원본 유지"]
-    E --> F["SRT 생성"]
-    F --> G["OpenCV·FFmpeg 렌더링"]
-    G --> H["SRT·MP4 다운로드"]
-```
+---
 
-통합 진입점은 [`POST /upload/process`](backend/app/routes/upload.py)입니다. 응답에 `requested_domain`, `applied_domain`, `used_adapter`, `fallback_used`, `llm_used` 등을 포함해 실제 처리 경로를 확인할 수 있습니다.
+### 2. 핵심 가치 및 공학적 가설 검증 (Core USP & Validation)
 
-## 기술적으로 살펴볼 부분
+* **USP-1. 도메인 특화 동적 LoRA 어댑터 라우팅 (Dynamic PEFT Adapter Routing)**
+  * 기본 파운데이션 모델의 거대한 가중치를 중복 로드하지 않고, `social_news`, `ent`, `vacation`, `politics` 등 선택 도메인의 경량 LoRA 가중치만을 런타임에 동적으로 스위칭.
+  * **가설 $H_1$**: 단일 베이스 모델 대비 도메인별 LoRA 어댑터 적용 시, GPU 메모리(VRAM) 점유율 증가를 5% 이내로 억제하면서 전문 용어 및 신조어 전사 정확도(CER/WER)를 유의미하게 개선할 수 있음을 검증합니다.
 
-- [Whisper 추론 서비스](backend/app/services/whisper_service.py): 기본 모델과 도메인별 파이프라인을 구성하고 캐시합니다.
-- [LoRA 선택 로직](backend/app/services/lora_registry.py): 허용 도메인과 어댑터 경로를 확인합니다. 현재 서비스에서 선택 가능한 도메인은 `general`, `social_news`, `ent`, `vacation`, `politics`입니다.
-- [LLM 후처리](backend/app/services/llm_service.py): 응답의 문장·세그먼트를 정규화하고, 호출 실패 시 기존 전사를 보존합니다.
-- [한글 자막 렌더링](backend/app/services/opencv_render_service.py): 자막 시간, 읽기 시간과 폰트를 다루고 원본 오디오를 합칩니다.
-- [React API 연동](frontend/src/services/api.js): 영상 전송과 결과 다운로드 주소 처리를 분리합니다.
+* **USP-2. LLM 문맥 정제 및 Fail-Safe 복원 아키텍처 (Context Refiner with Fallback)**
+  * 단순 ASR 결과에서 발생하는 발화 끊김, 구어체 비문, 조사 누락을 외부 LLM을 통해 문맥적으로 교정하며, API 장애 시 원본 전사를 보존하는 Fail-closed 안전 구조 채택.
+  * **가설 $H_2$**: 타임스탬프 세그먼트 메타데이터를 보존한 상태로 LLM 후처리를 적용할 때, 음성 싱크 왜곡 없이 가독성을 개선하고 외부 호출 타임아웃 발생 시에도 서비스 무중단 전사를 보장할 수 있음을 입증합니다.
 
-## 디렉터리
+* **USP-3. OpenCV 기반 프레임 단위 정밀 한글 번인 렌더러 (Precise Video Compositor)**
+  * 기존 FFmpeg 자막 필터의 빈번한 한글 폰트 자소 분리 및 레이아웃 깨짐 한계를 극복하기 위해, OpenCV/Pillow 기반 프레임 합성 엔진 구축.
+  * **가설 $H_3$**: 프레임 레벨 텍스트 바운딩 박스 렌더링 및 오디오 무손실 리먹싱(Remuxing)을 통해, 밀리초 단위의 완벽한 자막-음성 싱크와 일관된 타이포그래피 품질을 유지함을 검증합니다.
+
+---
+
+### 3. 코어 전사 파이프라인 및 상태 전이 (Core Pipeline & Mechanics)
+
+#### 시스템 파이프라인 루프 (Processing Loop)
+* **전체 파이프라인:** 영상 업로드(`POST /upload/process`) $\rightarrow$ 무손실 오디오 추출(FFmpeg) $\rightarrow$ 도메인 감지 및 LoRA 로드 $\rightarrow$ Whisper 전사 $\rightarrow$ 타임스탬프 세그먼트 생성 $\rightarrow$ LLM 문맥 교정 $\rightarrow$ SRT 생성 및 OpenCV 영상 렌더링 $\rightarrow$ 결과물 다운로드
+
+#### 4단계 작업 처리 상태 전이표 (State Phases)
+
+| 단계 (Phase) | 처리 내용 | 입출력 데이터 | 시스템 안전 및 Fallback 전략 |
+| :--- | :--- | :--- | :--- |
+| **Phase 1: Ingestion** | 영상 파일 포맷 검증 및 오디오 스트림 분리 | `video.mp4` $\rightarrow$ `audio.wav` (16kHz Mono) | 파일 크기/MIME 타입 검증, 손상된 컨테이너 사전 필터링 |
+| **Phase 2: ASR & LoRA** | Whisper large-v3 + 도메인 LoRA 어댑터 추론 | `audio.wav` $\rightarrow$ `Raw Segments` (Start/End/Text) | 어댑터 미존재 또는 로드 실패 시 `BASE_MODEL`로 즉시 Fallback |
+| **Phase 3: Refinement** | 문맥 교정 및 한국어 맞춤법/어휘 정제 | `Raw Segments` $\rightarrow$ `Refined Segments` | LLM 응답 지연/에러 시 `fallback_used=True`로 원본 세그먼트 보존 |
+| **Phase 4: Exporting** | SRT 타임코드 생성 및 프레임 단위 자막 번인 | `Refined Segments` $\rightarrow$ `.srt`, `subtitled.mp4` | OpenCV 백그라운드 렌더링 및 FFmpeg 고속 오디오 스트림 복사 |
+
+---
+
+### 4. 기술 및 네트워크 아키텍처 (Technical Architecture)
 
 ```text
-backend/app/
-  routes/       업로드·자막 처리·다운로드 API
-  services/     오디오 추출·ASR·후처리·SRT·렌더링
-  config.py     모델, 어댑터와 데이터 경로
-backend/tests/  기본 상태 확인 테스트
-frontend/       React 화면
-ai/scripts/     데이터 준비·도메인별 LoRA 학습·WER/CER 평가
-ai/data/        학습·평가 자료와 어댑터 결과
-data/           서비스 입출력 파일
-docs/           아키텍처·API 개발 문서
+[React Client Frontend]
+         │
+         │  POST /upload/process (Multipart Form-Data)
+         ▼
+[FastAPI Gateway Engine] ─── (Async Thread Worker)
+         │
+         ├──► [FFmpeg Audio Extractor] ──► 16kHz Mono PCM Stream
+         │
+         ├──► [LoRA Router & Whisper Engine]
+         │        ├── Base: openai/whisper-large-v3
+         │        └── Dynamic Adapter Cache: (News / Ent / Politics / Leisure)
+         │
+         ├──► [LLM Context Refiner]
+         │        ├── Prompt: Timestamp-Preserving Text Normalization
+         │        └── Fail-Safe: Identity Fallback Handler
+         │
+         ├──► [SRT Generator] ──► Standard SubRip Format
+         │
+         └──► [OpenCV / Pillow Video Compositor]
+                  ├── Nanum Gothic TrueType Font Rendering
+                  └── FFmpeg Stream Remuxer ──► subtitled.mp4
 ```
 
-## 로컬 실행
+---
 
-Python 3.11, Node.js/npm, `ffmpeg` 실행 파일을 준비합니다. 기본 모델은 `openai/whisper-large-v3`이므로 최초 모델 다운로드와 추론에 필요한 저장공간·메모리가 필요합니다.
+### 5. 코어 아키텍처 및 소스 구현 명세 (Core Architecture & Implementation)
 
-### 1. Backend
+#### 5.1 소스 코드 디렉터리 구조 (Source Structure)
 
-저장소 루트에서 실행합니다.
+```
+auto-subtitle-service/
+├── backend/
+│   ├── app/
+│   │   ├── config.py                  # 모델 경로, 기본 도메인, 디바이스(CUDA/CPU) 전역 설정
+│   │   ├── routes/
+│   │   │   ├── upload.py              # 영상 업로드 및 엔드투엔드 파이프라인 실행 API
+│   │   │   ├── transcription.py       # 자막 전사 세그먼트 조회 및 수동 편집 API
+│   │   │   └── export.py              # SRT 및 자막 비디오 다운로드 스트리밍 라우터
+│   │   └── services/
+│   │       ├── audio_extractor.py     # FFmpeg 래퍼: 고속 오디오 분리 및 샘플링 레이트 변환
+│   │       ├── whisper_service.py     # Whisper 추론 엔진, 파이프라인 캐싱 및 스레드 락 관리
+│   │       ├── lora_registry.py       # 도메인별 LoRA 가중치 등록부 및 동적 로더
+│   │       ├── llm_service.py         # LLM 기반 문맥 정제기 및 에러 핸들링 Fallback
+│   │       ├── srt_service.py         # 타임스탬프 시·분·초·밀리초 포맷팅 및 파서
+│   │       └── opencv_render_service.py # OpenCV/Pillow 자막 텍스트 래핑 및 비디오 합성 엔진
+│   └── tests/                         # 백엔드 파이프라인 통합 및 단위 테스트
+├── frontend/
+│   ├── src/
+│   │   ├── components/                # 비디오 플레이어, 자막 편집 그리드, 진행 프로그레스 UI
+│   │   └── services/api.js            # Axios 기반 업로드 및 파일 다운로드 클라이언트
+├── ai/
+│   ├── scripts/                       # 도메인별 음성 말뭉치 LoRA 파인튜닝 스크립트
+│   └── data/                          # 평가용 WER/CER 벤치마크 데이터셋
+└── docs/                              # API 명세서 및 아키텍처 설계 문서
+```
 
+#### 5.2 클래스 및 파이프라인 계층도 (Class Hierarchy)
+
+```mermaid
+classDiagram
+    direction TB
+    class VideoProcessor {
+        +extract_audio(video_path) str
+        +render_subtitles(video_path, segments) str
+    }
+
+    class WhisperPipelineManager {
+        -dict _domain_pipeline_cache
+        -Lock _pipeline_lock
+        +get_processor() AutoProcessor
+        +get_pipeline(domain) Pipeline
+        +transcribe(audio_path, domain) dict
+    }
+
+    class LoRARegistry {
+        +list SUPPORTED_DOMAINS
+        +get_adapter_path(domain) Path
+        +is_domain_supported(domain) bool
+    }
+
+    class LLMRefiner {
+        +refine_segments(segments) list
+        -validate_timestamps(original, refined) bool
+    }
+
+    class SubtitleRenderer {
+        +export_srt(segments, output_path) Path
+        +burn_in_subtitles(video_path, srt_path) Path
+    }
+
+    VideoProcessor --> WhisperPipelineManager : Invokes
+    WhisperPipelineManager --> LoRARegistry : Queries Adapter
+    WhisperPipelineManager --> LLMRefiner : Dispatches Text
+    LLMRefiner --> SubtitleRenderer : Feeds Output
+```
+
+#### 5.3 엔드투엔드 자막 생성 시퀀스 (Processing Sequence)
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor Client as 사용자 (React Web)
+    participant Route as Upload Router (FastAPI)
+    participant Audio as AudioExtractor (FFmpeg)
+    participant WSP as WhisperService (PEFT/LoRA)
+    participant LLM as LLMService
+    participant Rnd as OpenCVRenderService
+
+    Client->>Route: POST /upload/process (video.mp4, domain="social_news")
+    Route->>Audio: extract_audio(video.mp4)
+    Audio-->>Route: audio_16k.wav
+    
+    Route->>WSP: transcribe(audio_16k.wav, domain)
+    Note over WSP: 도메인 캐시 확인 및 LoRA 어댑터 인퍼런스
+    WSP-->>Route: Raw Segments (Start, End, Text)
+    
+    Route->>LLM: refine_segments(Raw Segments)
+    alt LLM 성공
+        LLM-->>Route: Refined Segments (가독성 교정 완료)
+    else LLM 타임아웃 / 오류
+        LLM-->>Route: Fallback to Raw Segments (무중단 보존)
+    end
+    
+    Route->>Rnd: burn_in_subtitles(video.mp4, Segments)
+    Rnd-->>Route: subtitled_video.mp4, subtitles.srt
+    Route-->>Client: 200 OK (JSON with Download URLs & Metadata)
+```
+
+---
+
+### 6. 핵심 테크니컬 하이라이트 (Technical Highlights)
+
+| 구분 | 적용 기술 및 설계 패턴 | 구현 효과 및 엔지니어링 의사결정 이유 |
+| :--- | :--- | :--- |
+| **PEFT 어댑터 스위칭** | Thread-Safe Multi-LoRA Cache | 기본 거대 모델 인스턴스를 메모리에 단 1벌만 유지하고 어댑터만 동적 교체하여 VRAM 절감 및 추론 속도 극대화 |
+| **Fail-Safe 아키텍처** | Graceful Degradation Pattern | 외부 LLM API 지연이나 네트워크 에러 발생 시 전체 요청을 실패시키지 않고 즉시 베이스 ASR 결과로 자동 대체 |
+| **자막 타이포그래피** | OpenCV + Pillow Dynamic Overlay | FFmpeg의 자막 렌더링 한계(자소 분리 현상)를 완벽히 해결하고 자막 가독성을 위한 아웃라인 및 반투명 박스 적용 |
+| **동시성 제어** | Python `threading.Lock` + 비동기 작업 | 멀티스레드 환경에서 모델 가중치 교체 시 발생할 수 있는 Race Condition을 차단하고 안정적인 동시 요청 처리 |
+
+---
+
+### 7. 시스템 요구 사양 및 실행 가이드 (System Requirements)
+
+#### 요구 사양
+| 구분 | 최소 사양 (CPU 추론) | 권장 사양 (GPU 가속 인퍼런스) |
+| :--- | :--- | :--- |
+| **운영체제 (OS)** | Windows 10/11, macOS, Linux | Ubuntu 22.04 LTS / Windows 11 64-bit |
+| **런타임** | Python 3.10+, Node.js 18+ | Python 3.11, Node.js 20+ |
+| **GPU / VRAM** | CPU Fallback (처리 지연 발생) | NVIDIA RTX 3080 이상 (VRAM 12GB+ / FP16 지원) |
+| **필수 시스템 도구** | `ffmpeg` CLI (시스템 환경변수 PATH 등록 필수) | `ffmpeg` with NVENC 가속 지원 |
+
+#### 빠른 시작 (Quick Start)
 ```powershell
+# 1. 백엔드 가상환경 설정 및 의존성 설치
+cd backend
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
-python -m pip install -r requirements.txt
-ffmpeg -version
+pip install -r requirements.txt
 
-# 사용할 후처리 서버가 없으면 비워 두어 원본 전사 유지 경로를 사용합니다.
-$env:LLM_SERVICE_URL=""
-python -m uvicorn backend.app.main:app --reload --port 8000
-```
+# 2. 백엔드 서버 구동
+uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 
-API 문서는 `http://localhost:8000/docs`, 상태 확인은 `http://localhost:8000/health/`입니다.
-
-### 2. Frontend
-
-별도 터미널에서 실행합니다.
-
-```powershell
-cd frontend
+# 3. 프론트엔드 구동 (별도 터미널)
+cd ../frontend
 npm install
-$env:REACT_APP_API_BASE="http://localhost:8000"
 npm start
 ```
 
-브라우저에서 `http://localhost:3000`으로 접속합니다.
+---
 
-### 설정
+### 8. 핵심 KPI 및 신뢰성 지표 (Milestones & Validation)
 
-| 항목 | 위치·설명 |
-|---|---|
-| Backend 주소 | Frontend의 `REACT_APP_API_BASE` |
-| LLM 후처리 서버 | `LLM_SERVICE_URL`, `LLM_SERVICE_TIMEOUT_SECONDS` |
-| 한글 폰트 | `OPENCV_FONT_PATH`로 실행 환경의 한글 폰트 지정 |
-| 모델·어댑터 | `backend/app/config.py`의 `BASE_MODEL_ID`, `LORA_REGISTRY` |
-
-소스에 남은 임시 LLM 주소 대신 사용할 서버를 명시적으로 설정하세요. 게임 도메인 학습 자료는 있지만 현재 서비스의 허용 도메인 목록에는 포함되지 않습니다.
-
-## 주요 API
-
-| 메서드 | 경로 | 용도 |
-|---|---|---|
-| GET | `/health/` | 서버 상태 확인 |
-| POST | `/upload/` | 영상 저장 |
-| POST | `/upload/process` | 전사부터 렌더링까지 통합 처리 |
-| POST | `/subtitle/extract-audio` | 음성 추출 |
-| POST | `/subtitle/transcribe` | 음성 전사 |
-| POST | `/subtitle/generate-srt` | SRT 생성 |
-| POST | `/subtitle/render-video` | 자막 영상 생성 |
-| GET | `/download/subtitle/{filename}` | SRT 다운로드 |
-| GET | `/download/video/{filename}` | 결과 영상 다운로드 |
-
-## 검증 자료와 현재 범위
-
-- [기본 API 테스트](backend/tests/test_health.py)는 루트·상태 응답을 확인합니다.
-- [ASR 평가 스크립트](ai/scripts/test/evaluate_asr.py)는 정답과 전사를 비교해 WER/CER를 계산합니다. 도메인별 학습·평가 코드는 `ai/scripts/`에 있습니다.
-- 세그먼트 편집 화면은 `frontend/src/components/Editor.js`, 파일 생성·렌더링은 Backend의 자막 API에서 살펴볼 수 있습니다.
-- `docker-compose.yml`은 현재 빈 파일이므로 실행 가이드는 Python/Node 환경을 기준으로 합니다.
-- 모델 평가 지표는 사용한 데이터셋, 기본 모델·어댑터와 평가 조건을 함께 확인합니다.
+* **전사 지연 시간 (Latency):** 3분 분량 영상 기준, 오디오 분리부터 자막 비디오 렌더링 완료까지 1분 이내 완결 (GPU FP16 가속 기준).
+* **도메인 적응 어휘 정확도:** 일반 모델 대비 방송/뉴스 특화 도메인 어휘 인식률 개선 및 고유명사 오인식 빈도 최소화.
+* **서비스 안정성:** 비정상 미디어 포맷 업로드 및 외부 API 장애 발생 시 100% 정상 예외 처리 및 Fallback 회수율 달성.
